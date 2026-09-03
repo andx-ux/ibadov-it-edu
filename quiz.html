@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="az">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İnteraktiv Test | A.İbadov IT-Edu</title>
+    <!-- Подключаем наш общий дизайн -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="quiz-container">
+
+        <!-- Экран 1: Вопросы -->
+        <div id="quiz-screen">
+            <div class="header">
+                <h1>Biliklərinizi Yoxlayın</h1>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="progress-text" id="progress-text">Yüklənir...</div>
+            </div>
+
+            <div class="question-text" id="question-text">Sual yüklənir...</div>
+            <div id="options-container"></div>
+
+            <button class="btn" id="next-btn" disabled>Növbəti Sual</button>
+        </div>
+
+        <!-- Экран 2: Результаты (скрыт по умолчанию) -->
+        <div id="result-screen" class="result-screen">
+            <h2>Test Tamamlandı!</h2>
+            <div class="score-circle" id="score-display">0/0</div>
+            <p class="feedback" id="feedback-text"></p>
+            <button class="btn" onclick="location.reload()">Yenidən Sına</button>
+            <a href="index.html" class="btn"
+                style="background-color: #1F2937; margin-top: 10px; display: block; text-align: center; text-decoration: none;">Dərslərə
+                Qayıt</a>
+        </div>
+
+    </div>
+
+    <!-- В самом низу подключаем логику -->
+    <script src="js/quiz.js"></script>
+</body>
+
+</html>

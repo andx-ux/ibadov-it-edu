@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="az">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anar İbadov | İT və Dizayn Akademiyası</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Шапка (Header) -->
+    <header class="header">
+        <div class="container header-flex">
+            <div class="logo">A.İbadov IT-Edu</div>
+            <button class="mobile-menu-btn" id="menuBtn">☰</button>
+            <nav class="nav-links">
+                <a href="index.html" style="color: var(--primary); font-weight: bold;">Ana Səhifə</a>
+                <a href="helpdesk.html">IT Help Desk</a>
+                <a href="operator.html">Kompüter Operatoru</a>
+                <a href="design.html">Qrafik Dizayn</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Главный экран (Hero Section) -->
+    <section class="hero container">
+        <h1>Tələb olunan İT peşələrini öyrənin</h1>
+        <p>Texniki dəstək mütəxəssisləri, kompüter operatorları və qrafik dizaynerlər üçün praktiki təlimatlar, testlər
+            və məlumat bazası.</p>
+        <div class="hero-buttons">
+            <a href="#courses" class="btn btn-primary">İstiqamət seç</a>
+            <a href="#about" class="btn btn-outline">Müəllif haqqında</a>
+        </div>
+    </section>
+
+    <!-- Разделы (Categories) -->
+    <section id="courses" class="categories container">
+        <h2>Tədris Proqramları və Məlumat Bazası</h2>
+        <div class="grid">
+
+            <div class="card">
+                <h3>🛠️ IKT Help Desk</h3>
+                <p>Nasazlıqların aradan qaldırılması, aparat diaqnostikası, şəbəkə və əməliyyat sistemlərinin idarə
+                    edilməsi.</p>
+                <a href="helpdesk.html" class="card-link">Təlimatlara bax →</a>
+            </div>
+
+            <div class="card">
+                <h3>⌨️ Kompüter Operatoru</h3>
+                <p>MS Office (Word, Excel) proqramları ilə peşəkar iş, sənəd dövriyyəsi və sürətli yazma.</p>
+                <a href="operator.html" class="card-link">Dərslərə başla →</a>
+            </div>
+
+            <div class="card">
+                <h3>🎨 Qrafik Dizayn</h3>
+                <p>Kompozisiyanın əsasları, Adobe (Photoshop, Illustrator) və Canva-da biznes dizaynının yaradılması.
+                </p>
+                <a href="design.html" class="card-link">Dizayn materialları →</a>
+            </div>
+
+        </div>
+    </section>
+    <!-- Блок сбора контактов (Lead Generation) -->
+    <section class="lead-gen-section">
+        <div class="lead-gen-container">
+            <div class="lead-gen-text">
+                <h2>İT biliklərinizi artırın!</h2>
+                <p>Hər həftə yeni təlimatlar, testlər və praktiki məsləhətlər almaq üçün xəbər bülletenimizə abunə olun.
+                </p>
+            </div>
+            <form class="lead-gen-form" id="subscribe-form"
+                onsubmit="event.preventDefault(); alert('Təşəkkürlər! E-poçt ünvanınız uğurla qeydə alındı.');">
+                <input type="email" placeholder="E-poçt ünvanınız..." required>
+                <button type="submit" class="btn btn-primary">Abunə Ol</button>
+            </form>
+        </div>
+    </section>
+    <!-- Подвал (Footer) -->
+    <footer class="footer container">
+        <p>© 2026 Anar İbadov. Azərbaycanda praktiki İT təhsili.</p>
+    </footer>
+
+    <script src="js/nav.js"></script>
+</body>
+
+</html>

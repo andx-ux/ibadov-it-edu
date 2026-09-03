@@ -1,0 +1,509 @@
+/* =========================================
+   1. БАЗОВЫЕ СТИЛИ И ГЛАВНАЯ СТРАНИЦА
+   ========================================= */
+:root {
+    --primary: #4F46E5;
+    --primary-hover: #4338CA;
+    --text-dark: #1F2937;
+    --text-light: #6B7280;
+    --bg-color: #F9FAFB;
+    --white: #FFFFFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-dark);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Шапка */
+.header {
+    background-color: var(--white);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+}
+.header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--primary);
+}
+.nav-links a {
+    text-decoration: none;
+    color: var(--text-dark);
+    margin-left: 20px;
+    font-weight: 500;
+}
+.nav-links a:hover {
+    color: var(--primary);
+}
+
+.mobile-menu-btn {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 26px;
+    color: var(--primary);
+    cursor: pointer;
+    z-index: 1001;
+}
+
+/* Главный экран (Hero) */
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+}
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #111827;
+}
+.hero p {
+    font-size: 20px;
+    color: var(--text-light);
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.btn-primary {
+    background-color: var(--primary);
+    color: var(--white);
+}
+.btn-primary:hover {
+    background-color: var(--primary-hover);
+}
+.btn-outline {
+    background-color: transparent;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    margin-left: 15px;
+}
+.btn-outline:hover {
+    background-color: var(--primary);
+    color: var(--white);
+}
+.hero-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.hero-buttons .btn-outline {
+    margin-left: 0;
+}
+
+/* Карточки разделов */
+.categories {
+    padding: 60px 20px;
+}
+.categories h2 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+.card {
+    background-color: var(--white);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card h3 {
+    margin-bottom: 15px;
+    color: var(--primary);
+}
+.card p {
+    color: var(--text-light);
+    margin-bottom: 20px;
+}
+.card-link {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Подвал */
+.footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-light);
+    border-top: 1px solid #E5E7EB;
+    margin-top: 40px;
+}
+
+/* =========================================
+   2. СТИЛИ ДЛЯ СТРАНИЦЫ СТАТЬИ (ARTICLE)
+   ========================================= */
+.article-container {
+    max-width: 800px; 
+    margin: 40px auto;
+    background-color: var(--white);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.breadcrumbs {
+    font-size: 14px;
+    color: var(--text-light);
+    margin-bottom: 30px;
+}
+.breadcrumbs a {
+    color: var(--primary);
+    text-decoration: none;
+}
+.breadcrumbs a:hover {
+    text-decoration: underline;
+}
+
+.content h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.article-meta {
+    font-size: 14px;
+    color: var(--text-light);
+    margin-bottom: 30px;
+    border-bottom: 1px solid #E5E7EB;
+    padding-bottom: 15px;
+}
+
+.content h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: var(--text-dark);
+}
+
+.content p, .content li {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+kbd {
+    background-color: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+    color: #374151;
+    font-family: monospace;
+    font-size: 14px;
+    padding: 2px 6px;
+}
+
+.alert {
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+.alert-info {
+    background-color: #EFF6FF;
+    border-left: 4px solid #3B82F6;
+    color: #1E3A8A;
+}
+
+.article-image img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.caption {
+    font-size: 14px;
+    color: var(--text-light);
+    text-align: center;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+/* =========================================
+   3. СТИЛИ ДЛЯ СТРАНИЦЫ ТЕСТОВ (QUIZ)
+   ========================================= */
+.quiz-container {
+    background-color: var(--white);
+    width: 100%;
+    max-width: 600px;
+    margin: 60px auto; 
+    border-radius: 12px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+}
+
+.quiz-container .header { 
+    text-align: center; 
+    margin-bottom: 30px; 
+}
+.progress-bar {
+    width: 100%;
+    height: 8px;
+    background-color: #E5E7EB;
+    border-radius: 4px;
+    margin-top: 15px;
+    overflow: hidden;
+}
+.progress-fill {
+    height: 100%;
+    background-color: var(--primary);
+    width: 0%;
+    transition: width 0.3s ease;
+}
+.progress-text { 
+    color: var(--text-light); 
+    font-size: 14px; 
+    margin-top: 10px; 
+}
+
+.question-text { 
+    font-size: 20px; 
+    margin-bottom: 20px; 
+    font-weight: 600; 
+    line-height: 1.4; 
+}
+
+.option {
+    background-color: #F3F4F6;
+    border: 2px solid transparent;
+    padding: 15px 20px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.2s;
+}
+
+.option:hover { background-color: #E5E7EB; }
+.option.selected { border-color: var(--primary); background-color: #EEF2FF; }
+.option.correct { border-color: #10B981; background-color: #D1FAE5; color: #065F46; }
+.option.wrong { border-color: #EF4444; background-color: #FEE2E2; color: #991B1B; }
+
+.result-screen { 
+    text-align: center; 
+    display: none; 
+}
+.score-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #EEF2FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--primary);
+    margin: 0 auto 20px auto;
+    border: 4px solid var(--primary);
+}
+.feedback { 
+    font-size: 18px; 
+    margin-bottom: 25px; 
+    color: var(--text-light); 
+}
+/* =========================================
+   4. БЛОК СБОРА КОНТАКТОВ (LEAD GEN)
+   ========================================= */
+.lead-gen-section {
+    background-color: var(--white);
+    padding: 60px 20px;
+    margin-top: 40px;
+    border-top: 1px solid #E5E7EB;
+}
+
+.lead-gen-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #EEF2FF; /* Нежно-синий фон, чтобы выделить блок */
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.lead-gen-text h2 {
+    font-size: 28px;
+    color: var(--primary);
+    margin-bottom: 10px;
+}
+
+.lead-gen-text p {
+    font-size: 16px;
+    color: var(--text-dark);
+    margin-bottom: 30px;
+}
+
+.lead-gen-form {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Расстояние между полем ввода и кнопкой */
+}
+
+.lead-gen-form input[type="email"] {
+    width: 60%;
+    padding: 12px 20px;
+    border: 2px solid #D1D5DB;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+.lead-gen-form input[type="email"]:focus {
+    border-color: var(--primary); /* Синяя рамка при вводе текста */
+}
+
+/* Адаптивность для телефонов: делаем элементы друг под другом */
+@media (max-width: 600px) {
+    .lead-gen-form {
+        flex-direction: column;
+    }
+    .lead-gen-form input[type="email"] {
+        width: 100%;
+    }
+}
+/* =========================================
+   5. AKKORDEON DİZAYNI (KURS MODULLARI ÜÇÜN)
+   ========================================= */
+.course-module {
+    background-color: var(--white);
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.course-module summary {
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--primary);
+    cursor: pointer;
+    background-color: #F9FAFB;
+    list-style: none; /* Standart oxu gizlədirik */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Xüsusi ox işarəsi əlavə edirik */
+.course-module summary::after {
+    content: '+';
+    font-size: 24px;
+    color: var(--text-light);
+    transition: 0.3s;
+}
+
+.course-module[open] summary::after {
+    content: '-';
+    color: var(--primary);
+}
+
+.course-module summary:hover {
+    background-color: #EEF2FF;
+}
+
+.module-content {
+    padding: 10px 20px 20px 20px;
+    border-top: 1px solid #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.lesson-link {
+    text-decoration: none;
+    color: var(--text-dark);
+    padding: 12px 15px;
+    border-radius: 6px;
+    background-color: #F3F4F6;
+    transition: 0.2s;
+    font-size: 16px;
+}
+
+.lesson-link:hover {
+    background-color: var(--primary);
+    color: var(--white);
+    transform: translateX(5px);
+}
+
+/* =========================================
+   6. MOBİL NAVİQASİYA (BURGER MENYU)
+   ========================================= */
+@media (max-width: 640px) {
+    .mobile-menu-btn {
+        display: block;
+    }
+
+    .nav-links {
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 240px;
+        height: 100vh;
+        background-color: var(--white);
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 90px;
+        transition: right 0.3s ease;
+        z-index: 1000;
+    }
+
+    .nav-links.open {
+        right: 0;
+    }
+
+    .nav-links a {
+        margin-left: 0;
+        padding: 14px 25px;
+        width: 100%;
+        border-bottom: 1px solid #F3F4F6;
+    }
+
+    .hero h1 {
+        font-size: 32px;
+    }
+    .hero p {
+        font-size: 16px;
+    }
+    .hero {
+        padding: 50px 20px;
+    }
+}

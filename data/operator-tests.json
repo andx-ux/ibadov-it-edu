@@ -1,0 +1,17 @@
+[
+  {
+    "question": "MS Word proqramında seçilmiş mətni kopyalamaq üçün hansı qısayol istifadə olunur?",
+    "options": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + Z"],
+    "correct": 2
+  },
+  {
+    "question": "Excel-də xananı redaktə etmək üçün hansı düymə basılır?",
+    "options": ["F1", "F2", "F3", "F4"],
+    "correct": 1
+  },
+  {
+    "question": "Kompüter işə düşmür və qısa səs siqnalları (beeps) gəlir. Bu nəyi göstərir?",
+    "options": ["Monitor xarab olub", "Operativ yaddaş (RAM) problemi", "Klaviatura qoşulmayıb", "Windows düzgün yüklənməyib"],
+    "correct": 1
+  }
+]
