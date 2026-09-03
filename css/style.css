@@ -517,6 +517,7 @@ kbd {
     }
 
     .nav-links a {
+        display: block;
         margin-left: 0;
         padding: 14px 25px;
         width: 100%;
