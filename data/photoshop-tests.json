@@ -1,0 +1,5002 @@
+[
+ {
+  "question": "\"Hand Tool (Pan)\" nədir?",
+  "options": [
+   "Peşəkar fotokameraların sensorundan heç bir sıxılma və korreksiya olmadan birbaşa çıxan təmiz rəqəmsal neqativdir. Camera Raw modulunda işlənmək üçün…",
+   "Space (basılı saxlamaq)",
+   "Peşəkar fotoretuş və HDR kompozitlər üçün minlərlə çalar təqdim edir, qradiyent keçidlərində xətlənmənin (Color Banding) qarşısını alır.",
+   "Ctrl + Alt + Shift + S"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Darken Qrupu (Multiply, Darken)",
+   "Magnetic Lasso Tool",
+   "Ağ rəng",
+   "8-bit kanal"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Content-Aware Move Tool (J)\" nədir?",
+  "options": [
+   "Obyekti seçib başqa yerə sürüşdürdükdə onu yeni yerə otuzdurur, əvvəlki yerini isə arxa fonla doldurur.",
+   "Rəng nümunəsi götürərək yalnız arxa fonu silir, obyektin konturunu qoruyur.",
+   "Qatdakı pikselləri fiziki olaraq silir.",
+   "Mürəkkəb obyektlərin (məsələn, saç və ya maşın kənarları) ən kəskin və hamar kəsim xətlərini qurur; sonradan Ctrl+Enter ilə seçilmiş zonaya çevrilir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Magic Wand Tool\" nədir?",
+  "options": [
+   "Dairəvi və oval formaları seçir (Alt+Shift mərkəzdən bərabər dairə açır).",
+   "Pikselləri fəzada hərəkət etdirmək, həndəsi və ya sərbəst sərhədlərlə ayırmaq üçün tətbiq edilir.",
+   "Seçimin kənarlarına piksellə yumşaq keçid verir (məsələn, 5 px).",
+   "Tək kliklə eyni rəng çalarını seçir (Tolerance dəyəri nə qədər yüksək olarsa, bir o qədər geniş rəng spektrini əhatə edir)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İş mühitini tələbata uyğun olaraq Graphic and Web, Photography və ya Painting rejimlərinə keçirir.\"",
+  "options": [
+   "Workspace",
+   "Export > Save for Web (Legacy)",
+   "Subject / Sky",
+   "Rulers (Ctrl+R)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Layer Mask (Qat Maskası)\" nədir?",
+  "options": [
+   "Curves, Levels, Hue/Saturation, Color Balance kimi güclü rəng və kontrast alətlərini birbaşa piksellərə tətbiq edir.",
+   "Yüzlərlə fotoşəkilə eyni anda avtomatlaşdırılmış əməliyyatları (Actions) tətbiq edir.",
+   "Qatın müəyyən sahələrini qara/ağ fırça ilə gizlətmək və ya göstərmək üçün maska qatır.",
+   "Yaxınlaşdırmanın axıcı olmasını təmin edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qılınc parıltısı, sehirli şüalar, göz parıltısı və neon işıqları yaratmaq üçün istifadə olunur. Tünd fonda parlaq işıq partlayışı effekti verir.\"",
+  "options": [
+   "Zoom In / Zoom Out",
+   "Bədii və Stilistik Manipulyasiya",
+   "Color Dodge və Linear Dodge (Add)",
+   "Interface"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənəd qısaltmaları (davamı), şəkil növləri və Photoshop proqramını quraşdırmaq üçün lazımi sistem parametrləri\" mövzusuna aiddir?",
+  "options": [
+   "History States (Geri Qaytarma Addımları)",
+   "Smart Objects > Convert to Smart Object",
+   "Wind",
+   "Spherize"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Curves (Ctrl+M)",
+   "Delete Cropped Pixels",
+   "Color Balance (Ctrl+B)",
+   "Ripple və Wave"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəsm üzərində rəngləmə və düzəltmə əməliyyatlarının istifadəsi, rəsm dizaynı\" mövzusuna aiddir?",
+  "options": [
+   "Seçim və Naviqasiya Zonası",
+   "Aşağı Tezlik Qatı (Low Frequency)",
+   "Units & Rulers",
+   "Overlay və Soft Light"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Automate > Photomerge\" nədir?",
+  "options": [
+   "Layihə PNG/JPEG formatında şəbəkə üçün optimallaşdırılaraq ixrac olunur.",
+   "Piksel və ya millimetr xətkeşlərini açır.",
+   "Piksellərin işıq, kölgə və rəng doymasını birbaşa tənzimləyir.",
+   "Bir neçə fərqli kadrı avtomatik birləşdirərək vahid geniş panoramik foto yaradır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"8-bit, 16-bit və 32-bit kanallarda işləyərək rəngləri, ekspozisiyanı və kontrastı peşəkar səviyyədə nizamlamaq imkanı.\"",
+  "options": [
+   "Qat Əsaslı (Layer-Based) İş Strukturu",
+   "Quick Selection Tool",
+   "Mürəkkəb Rəng və Ton Korreksiyası",
+   "Mürəkkəb Fon Dəyişdirilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Curves (Ctrl+M)\" nədir?",
+  "options": [
+   "Kəskinliyi artıraraq göz bəbəkləri və ya zinət əşyalarını önə çıxarır.",
+   "Şəklin ilkin orijinal piksel datasını konteyner içində qoruyan və ölçü dəyişərkən keyfiyyət itkisini sıfıra endirən qat formasıdır.",
+   "Seçilmiş zonanı arxa fonun pikselləri ilə avtomatik tamamlayaraq obyekti yox edir.",
+   "İşıq-kölgə əyrisi vasitəsilə ən dəqiq kontrast və rəng kanalları korreksiyasını təmin edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "16-bit / 32-bit kanal",
+   "Export for Web",
+   "Qara maska üzərində ağ fırça ilə (Flow",
+   "Layer > New Adjustment Layer > Color Lookup"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Show Transform Controls",
+   "Ripple və Wave",
+   "Lens Flare",
+   "Liquify (Shift+Ctrl+X)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Healing Brush Tool (J)\" nədir?",
+  "options": [
+   "Alt düyməsi ilə təmiz dəri sahəsindən nümunə götürür və hədəf zonaya həmin teksturanı köçürərək işıq tonunu avtomatik uyğunlaşdırır.",
+   "Fırçalar, degradelər və rəng doldurma mexanizmləri vasitəsilə yeni piksellər yaratmaq və ya mövcud rəngləri qarışdırmaq üçündür.",
+   "Şəkildəki əsas fiqurun (insan, avtomobil, fincan) üzərinə çərçivə çəkildikdə süni intellekt obyekti fondan ayırır.",
+   "Obyekti seçib başqa yerə sürüşdürdükdə onu yeni yerə otuzdurur, əvvəlki yerini isə arxa fonla doldurur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rulers (Ctrl+R)\" nədir?",
+  "options": [
+   "Piksel və ya millimetr xətkeşlərini açır.",
+   "Modelin dəri rəngi və kontrastı canlandırılır.",
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır.",
+   "Layihə PNG/JPEG formatında şəbəkə üçün optimallaşdırılaraq ixrac olunur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İşıqlı və kölgəli sərhədlərdə dəqiq dəri bərpası.\"",
+  "options": [
+   "Təyinatı",
+   "Sponge Tool",
+   "Qruplar (Ctrl+G)",
+   "Curves (Ctrl+M)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Painting (Rəqəmsal Rəssamlıq)",
+   "Adjustments (Ton və Rəng Korreksiyası)",
+   "Ripple və Wave",
+   "Motion Blur"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin enini və ya hündürlüyünü böyüdüb-kiçildərkən mərkəzdəki insan və ya əsas obyektləri deformasiyaya uğratmadan yalnız arxa fondakı boşluqları dartır və ya sıxır.\"",
+  "options": [
+   "Gradient Map (Qradiyent Xəritəsi)",
+   "Perspective",
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)",
+   "Warp"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Contrast Qrupu (Overlay, Soft Light)\" nədir?",
+  "options": [
+   "Maye səthində yaranan su dalğalarını və titrəmələri simulyasiya edir.",
+   "50% boz rəngi şəffaflaşdırır, işıqları daha parlaq, kölgələri isə daha tünd edərək kontrastı kəskin artırır.",
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir.",
+   "Təsvirin künclərini fəza oxları üzrə dartaraq divar, bilbord və ya döşəmə kimi müstəvilərə tam otuzdurur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Kəskinləşdirmə və Detallaşdırma",
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Brush Size / Hardness",
+   "PSD (Photoshop Document)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Essentials (Standart)",
+   "Cache Levels",
+   "Surface Blur",
+   "Color Range"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Open, Save As, Place Embedded, Export As\"",
+  "options": [
+   "Subtract from Selection (Alt)",
+   "Mode (Qarışdırma Rejimləri)",
+   "Essentials (Standart)",
+   "File (Fayl)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Brush Size / Hardness",
+   "Color Halftone",
+   "Baza vahidi",
+   "New Layer"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Uzaq məsafədən baxıldığı üçün.\"",
+  "options": [
+   "16-bit / 32-bit kanal",
+   "Böyük Formatlı Küçə Bannerləri",
+   "PSD (Photoshop Document)",
+   "PNG (Portable Network Graphics - PNG-8 / PNG-24)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Select and Mask (Alt+Ctrl+R)\" nədir?",
+  "options": [
+   "Saç, tül və xəz kimi mürəkkəb və şəffaf kənarları təmizləyir.",
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır.",
+   "Fiqurları və siluetləri maye kimi elastik korreksiya edir.",
+   "Peşəkar işıq, temperatur və rəng dərəcələndirmə mərkəzidir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mode\" nədir?",
+  "options": [
+   "Sənəddə avtomatlaşdırılmış modul torları, sütunlar və kənar sahələr (marjinlər) qurur.",
+   "Sənədin rəng məkanını dəyişir (məsələn, ekrandan çapa keçərkən RGB-dən CMYK-ya).",
+   "İş mühitini tələbata uyğun olaraq Graphic and Web, Photography və ya Painting rejimlərinə keçirir.",
+   "Layihə PNG/JPEG formatında şəbəkə üçün optimallaşdırılaraq ixrac olunur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Blur Gallery (Tilt-Shift, Iris Blur)\" nədir?",
+  "options": [
+   "Təbii günəş şüasının və ya projektor işığının linzada yaratdığı optik parıltını kətana yerləşdirir.",
+   "Real kamera obyektivinin sahə dərinliyini (Depth of Field) imitasiya edir; şəhər mənzərəsini kiçik oyuncaq maket kimi göstərən Tilt-Shift effekti…",
+   "Qaranlıq mühitdə çəkilmiş fotoşəkillərdəki rəngli rəqəmsal parazitləri təmizləyir.",
+   "Təsvirə müəyyən bucaq və məsafə üzrə sürətli hərəkət dinamikası (məsələn, şütüyən avtomobil çarxı) verir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Blur Tool",
+   "Gaussian Blur",
+   "Spherize",
+   "Face-Aware Liquify"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Arxa fonu dumanlandıraraq əsas obyekti qabartmaq (Bokeh effekti).\"",
+  "options": [
+   "Bədii və Stilistik Manipulyasiya",
+   "Fokus və Dərinlik İllüziyası",
+   "Ağ rəng",
+   "Add Noise"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Təyinat sahəsi\" nədir?",
+  "options": [
+   "Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir.",
+   "Pen Tool ilə çəkilmiş kəskin vektor konturlar əsasında maskalama yaradır.",
+   "Mürəkkəb fotolar, dəri teksturası, rəqəmsal rəsm",
+   "Qatı xüsusi qoruyucu zərf içinə alır. Bu obyekt dəfələrlə kiçildilib yenidən böyüdülsə belə, orijinal piksellər bərpa olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəkildəki küyü (Noise) artırmadan xırda konturları və detalları önə çıxarır.\"",
+  "options": [
+   "Neural Filters > Colorize",
+   "Manual Rəngləmə",
+   "Smart Sharpen",
+   "Aşağı Tezlik Qatı (Low Frequency)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Clouds / Difference Clouds\" nədir?",
+  "options": [
+   "Təsvirin künclərini fəza oxları üzrə dartaraq divar, bilbord və ya döşəmə kimi müstəvilərə tam otuzdurur.",
+   "Şəklin kölgələrinə, orta tonlarına və işıqlarına fərqli rəng keçidi bağlayaraq xüsusi bədii və kinematoqrafik afişa effektləri yaradır.",
+   "Təsviri sferik qabarıq və ya çökük linza formasına salır.",
+   "Ön və arxa plan rəngləri əsasında təbii duman, tüstü və bulud toxuması generasiya edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"TIFF (Tagged Image File Format)\" nədir?",
+  "options": [
+   "Poliqrafiya və nəşriyyatda ən yüksək keyfiyyətli sənəd formatıdır. İtkisiz sıxılmanı (LZW / ZIP) dəstəkləyir, qatları və CMYK profillərini qüsursuz…",
+   "Space (basılı saxlamaq)",
+   "Peşəkar fotoretuş və HDR kompozitlər üçün minlərlə çalar təqdim edir, qradiyent keçidlərində xətlənmənin (Color Banding) qarşısını alır.",
+   "Veb və interfeys dizaynı üçün əvəzsizdir. İtkisiz sıxılma təqdim edir və ən əsası."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Pixel Layer\" nədir?",
+  "options": [
+   "Standart foto və rəsm qatıdır.",
+   "Şəklin müəyyən hissələrinin rəng doymasını artırır (Saturate) və ya azaldaraq ağ-qaraya doğru aparır (Desaturate).",
+   "Alt düyməsi ilə təmiz bir dəri və ya toxuma sahəsindən nümunə götürülür, sonra qüsurlu yerin üzərinə çəkilir. Proqram nümunənin teksturasını…",
+   "Şəkli müstəvi üzrə əyir və ya fəzada perspektiv bucağına otuzdurur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Space (basılı saxlamaq)\"",
+  "options": [
+   "Export for Web",
+   "Zoom In / Zoom Out",
+   "JPEG / JPG (Joint Photographic Experts Group)",
+   "Hand Tool (Pan)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Lighten Qrupu (Screen, Lighten)\" nədir?",
+  "options": [
+   "Qara pikselləri tam şəffaf edir, yalnız işıqlı hissələri saxlayır (alov, işıq şüası və qığılcım effektləri üçün idealdır).",
+   "Parlaq günəş altında qaranlıq düşmüş kölgələri açır və ya həddindən artıq ağarmış işıqlı səthlərin detalını bərpa edir.",
+   "Ön və arxa plan rəngləri əsasında təbii duman, tüstü və bulud toxuması generasiya edir.",
+   "50% boz rəngi şəffaflaşdırır, işıqları daha parlaq, kölgələri isə daha tünd edərək kontrastı kəskin artırır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçilmiş sahəni göstərilən piksel qədər böyüdür və ya daxilə doğru sıxır.\"",
+  "options": [
+   "Vector Mask",
+   "Border",
+   "Baza vahidi",
+   "Expand & Contract"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"WebP\" nədir?",
+  "options": [
+   "Ctrl + Alt + Shift + S",
+   "Hər rəng kanalı üçün 256 ton (standart qrafika üçün kifayətdir).",
+   "Veb və interfeys dizaynı üçün əvəzsizdir. İtkisiz sıxılma təqdim edir və ən əsası.",
+   "Müasir internet üçün Google tərəfindən yaradılmış, həm şəffaflığı, həm də JPEG-dən daha kiçik fayl həcmində yüksək keyfiyyəti təmin edən formatdır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənəd qısaltmaları (davamı), şəkil növləri və Photoshop proqramını quraşdırmaq üçün lazımi sistem parametrləri\" mövzusuna aiddir?",
+  "options": [
+   "Opacity (Qeyri-şəffaflıq) və Fill",
+   "Prosessor (CPU)",
+   "Təmas Kölgəsi (Contact Shadow)",
+   "Generative Expand (Generativ Genişləndirmə)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"şəkli böyütdükdə keyfiyyət itir, kənarlarda kələ-kötür piksel toru görünür.\"",
+  "options": [
+   "Cache Levels",
+   "Ən böyük məhdudiyyəti isə miqyasa bağlı olmasıdır",
+   "Stamp Visible (Merge All to New)",
+   "History States (Geri Qaytarma Addımları)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Qat Kilidi (Lock)\" nədir?",
+  "options": [
+   "Şəklin müəyyən hissələrinin rəng doymasını artırır (Saturate) və ya azaldaraq ağ-qaraya doğru aparır (Desaturate).",
+   "Təsadüfi tərpənmələrin qarşısını almaq üçün qatın mövqeyi və ya pikselləri kilidlənir.",
+   "Onlarla qat \"Fon\", \"Retuş\", \"Mətnlər\", \"İşıq Effektləri\" kimi səliqəli qovluqlara yığılır.",
+   "Qüsurlu sahə sərbəst çərçivəyə alınır və siçanla təmiz teksturaya malik sahənin üzərinə sürüklənir (Source rejimi)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Workspace",
+   "Wind",
+   "Perspective",
+   "Puppet Warp (Qurğu Deformasiyası)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırça vuruşunun kətandakı piksellərlə necə qarışacağını (Normal, Multiply, Screen, Overlay) seçir.\"",
+  "options": [
+   "Intersect with Selection (Alt+Shift)",
+   "Mode (Qarışdırma Rejimləri)",
+   "Essentials (Standart)",
+   "Painting (Rəqəmsal Rəssamlıq)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Path Rejimi\" nədir?",
+  "options": [
+   "Fırça kimi sürtərək bənzər tonları cəld toplayır.",
+   "Mürəkkəb obyektlərin (məsələn, saç və ya maşın kənarları) ən kəskin və hamar kəsim xətlərini qurur; sonradan Ctrl+Enter ilə seçilmiş zonaya çevrilir.",
+   "Riyazi kəsim xətləri (Paths), həndəsi fiqurlar və mətn bloklarını idarə edir.",
+   "Kursoru obyektin üzərinə gətirib kliklədikdə həmin qatı avtomatik tapır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Magic Eraser\" nədir?",
+  "options": [
+   "Şəklin sərhədlərini ölçüləndirmək, ləkələri təmizləmək və pikselləri klonlaşdırmaq üçün istifadə olunur.",
+   "Ətrafdakı pikselləri analiz edərək sızanaq, xal və ya toz izlərini tək kliklə silir.",
+   "Eyni rəngdə olan bütöv fonu tək kliklə şəffaf edir.",
+   "Kursoru obyektin üzərinə gətirib kliklədikdə həmin qatı avtomatik tapır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Window (Pəncərə)\" nədir?",
+  "options": [
+   "New Layer, Mask, Smart Objects, Group",
+   "Seçim kənarlarına piksellə ölçülən yumşaq keçid verir.",
+   "Workspace, Layers, History, Properties",
+   "Əl titrəməsini kompensasiya edərək qüsursuz, hamar xətlər çəkməyə imkan verir (0% - 100%)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "PSD (Photoshop Document)",
+   "Path Rejimi",
+   "Qat Kilidi (Lock)",
+   "Polygonal Lasso Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Quick Selection Tool",
+   "Vector Mask",
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Flame & Tree"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Smart Filters",
+   "Quick Selection Tool",
+   "New Selection",
+   "Təyinatı"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Snap (Snap to Guides/Layers)",
+   "Lens Flare",
+   "Smart Objects",
+   "Animated Zoom"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Painting (Rəqəmsal Rəssamlıq)",
+   "New Layer",
+   "Surface Blur",
+   "Lens Flare"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirin künclərini fəza oxları üzrə dartaraq divar, bilbord və ya döşəmə kimi müstəvilərə tam otuzdurur.\"",
+  "options": [
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)",
+   "Perspective",
+   "Polar Coordinates",
+   "Clouds / Difference Clouds"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qatları və ya bütöv sənədi rəqəmsal şəbəkə üçün optimallaşdırılmış şəkildə sürətlə yaddaşa yazır.\"",
+  "options": [
+   "Free Transform (Ctrl+T)",
+   "Mode (Rəng Rejimləri)",
+   "Export > Export As / Quick Export as PNG",
+   "Layer Mask (Qat Maskası)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Camera Raw Filter (Ctrl+Shift+A)",
+   "New Layer",
+   "Save / Save As",
+   "Content-Aware Move Tool (J)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Peşəkar işıq, temperatur və rəng dərəcələndirmə mərkəzidir.\"",
+  "options": [
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "View > Guides > New Guide Layout",
+   "Rulers (Ctrl+R)",
+   "Select > Subject"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kursoru obyektin üzərinə gətirib kliklədikdə həmin qatı avtomatik tapır.\"",
+  "options": [
+   "Curvature Pen Tool",
+   "Seçim və Naviqasiya Zonası",
+   "Magic Eraser",
+   "Auto-Select (Layer / Group)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Stamp Visible (Merge All to New)",
+   "Lens Flare",
+   "Perspective Warp (Edit > Perspective Warp)",
+   "PPI (Pixels Per Inch)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Təyinatı",
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Vektor çərçivənin künc nöqtələrinin fərdiləşdirilməsi",
+   "Smart Objects > Convert to Smart Object"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Guides > New Guide Layout\" nədir?",
+  "options": [
+   "Orijinal piksellərə zərər vurmadan rəng və kontrast verən tənzimləmə qatları açır.",
+   "Piksel və ya millimetr xətkeşlərini açır.",
+   "Sənəddə avtomatlaşdırılmış modul torları, sütunlar və kənar sahələr (marjinlər) qurur.",
+   "Piksellərin işıq, kölgə və rəng doymasını birbaşa tənzimləyir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Ağ rəng\" nədir?",
+  "options": [
+   "Obyektiv təhriflərini (distorsiyanı), xromatik aberrasiyaları və kənar qaralmalarını (vinetkanı) aradan qaldırmaq.",
+   "Qatdakı pikselləri tam göstərir.",
+   "Təbii günəş şüasının və ya projektor işığının linzada yaratdığı optik parıltını kətana yerləşdirir.",
+   "Təsvirə yağlı boya, qravüra, neon parıltısı və ya hərəkət dinamikası qatmaq."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Motion Blur\" nədir?",
+  "options": [
+   "Təsvirə müəyyən bucaq və məsafə üzrə istiqamətlənmiş hərəkət sürəti verir.",
+   "Şəklin yalnız xırda kənarlarını boz rəngdə çıxarır; qatın rejimi Overlay edildikdə fotoya təbii mikro-kəskinlik qazandırır.",
+   "Üz və bədən quruluşunu elastik korreksiya edir.",
+   "Yalnız rəng və işıq ləkələrini saxlayır (Gaussian Blur ilə yumşaldılır)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Smart Filters\" nədir?",
+  "options": [
+   "Seçim kənarlarındakı iti küncləri yumşaldır.",
+   "Tətbiq edilən filtrləri dinamik saxlayır və istənilən vaxt parametrlərini dəyişməyə imkan verir.",
+   "Piksellər (rəng nöqtələri)",
+   "Pen Tool ilə çəkilmiş kəskin vektor konturlar əsasında maskalama yaradır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Intersect with Selection (Alt+Shift)",
+   "Kəskinləşdirmə və Detallaşdırma",
+   "Zoom In / Zoom Out",
+   "Export > Save for Web (Legacy)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Ətraf Mühit Kölgəsi (Ambient Occlusion)",
+   "Shape Layer",
+   "Match Color",
+   "Select and Mask (Alt+Ctrl+R)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müasir internet üçün Google tərəfindən yaradılmış, həm şəffaflığı, həm də JPEG-dən daha kiçik fayl həcmində yüksək keyfiyyəti təmin edən formatdır.\"",
+  "options": [
+   "WebP",
+   "PSD (Photoshop Document)",
+   "Böyük Formatlı Küçə Bannerləri",
+   "Save / Save As"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Peşəkar fotokameraların sensorundan heç bir sıxılma və korreksiya olmadan birbaşa çıxan təmiz rəqəmsal neqativdir. Camera Raw modulunda işlənmək üçün ən zəngin dinamik diapazonu…\"",
+  "options": [
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn",
+   "Save / Save As",
+   "RAW (DNG, CR2, NEF, ARW)",
+   "WebP"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelinin komponentlərinin izahı (davamı) və qabaqcıl tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "Manual Rəngləmə",
+   "Straighten Layer",
+   "GIF (Graphics Interchange Format)",
+   "Smart Object (Ağıllı Obyekt)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Cache Levels\" nədir?",
+  "options": [
+   "20 GB boş yer olan standart HDD",
+   "Böyük piksel ölçülü şəkillər üçün keş səviyyəsini artırmaq kətanın daha axıcı hərəkət etməsini təmin edir.",
+   "[ və ] / Shift + [ və ]",
+   "şəkli böyütdükdə keyfiyyət itir, kənarlarda kələ-kötür piksel toru görünür."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Spherize\" nədir?",
+  "options": [
+   "Çoxmüstəvili memarlıq binalarının və ya interyerlərin perspektiv bucağını foto çəkildikdən sonra belə sərbəst dəyişməyə imkan verir.",
+   "Təsviri sferik qabarıq və ya çökük linza formasına salır.",
+   "Ön və arxa plan rəngləri əsasında təbii duman, tüstü və bulud toxuması generasiya edir.",
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Adjustment Layer (Tənzimləmə Qatı)\" nədir?",
+  "options": [
+   "Qüsurlu sahə sərbəst çərçivəyə alınır və siçanla təmiz teksturaya malik sahənin üzərinə sürüklənir (Source rejimi).",
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.",
+   "Altındakı bütün qatların rəngini və kontrastını idarə edən, orijinal fotoya toxunmayan dinamik qatdır.",
+   "Alt düyməsi ilə təmiz bir dəri və ya toxuma sahəsindən nümunə götürülür, sonra qüsurlu yerin üzərinə çəkilir. Proqram nümunənin teksturasını…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Rim Light (Kənar Kontur İşığ)",
+   "Burn Tool",
+   "WebP",
+   "Opacity (Qeyri-şəffaflıq) və Fill"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mode, Adjustments, Canvas Size, Image Size\"",
+  "options": [
+   "Image (Görüntü)",
+   "File (Fayl)",
+   "Ratio / Dimensions",
+   "View (Görünüş)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Lens Flare\" nədir?",
+  "options": [
+   "Təbii günəş şüasının və ya projektor işığının linzada yaratdığı optik parıltını kətana yerləşdirir.",
+   "Obyektiv təhriflərini (distorsiyanı), xromatik aberrasiyaları və kənar qaralmalarını (vinetkanı) aradan qaldırmaq.",
+   "Çapda və ya ekranda dumanlı çıxmış xırda xətləri və teksturaları canlandırmaq.",
+   "Təsvirə yağlı boya, qravüra, neon parıltısı və ya hərəkət dinamikası qatmaq."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Add Noise\" nədir?",
+  "options": [
+   "Həddindən artıq süni və hamar görünən rəqəmsal səthlərə təbii foto plyonka dənəvərliyi qatır.",
+   "Bütün şəkli bərabər riyazi radius üzrə yumşaldır və dumanlandırır. Təbii kölgələrin qurulmasında ən çox tətbiq edilən filtrdir.",
+   "Təsvirin kontur kontrastını artıraraq dumanlılığı aradan qaldırır (Amount, Radius, Threshold parametrləri ilə).",
+   "Təsvirə külək əsməsi və parçalanma xətləri əlavə edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Straighten Layer",
+   "Sharpen Tool",
+   "Süni İntellekt və Generativ Alətlər (Generative Fill / Expand)",
+   "Shape Rejimi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Delete Cropped Pixels",
+   "Nəticə",
+   "View > Guides > New Guide Layout",
+   "Perspective"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Surface Blur\" nədir?",
+  "options": [
+   "Üz və bədən quruluşunu elastik korreksiya edir.",
+   "Hazır 3D LUT profilləri vasitəsilə film və afişa rəng stilini tək kliklə tətbiq edir.",
+   "Kənar kəskinlikləri qoruyaraq yalnız daxili hamar səthləri dumanlandırır (dəri təmizlənməsində istifadə edilir).",
+   "Bütün pikselləri vahid radius üzrə bərabər dumanlandırır; kölgə və maska keçidlərini yumşaltmaq üçün ən əsas filtrdir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektiv təhriflərini (distorsiyanı), xromatik aberrasiyaları və kənar qaralmalarını (vinetkanı) aradan qaldırmaq.\"",
+  "options": [
+   "Boz çalarlar",
+   "Radial Blur",
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Motion Blur"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Sharpen Tool\" nədir?",
+  "options": [
+   "Əlavə nümunə sahəsi tələb etmir. Tək bir kliklə seçilmiş ləkənin daxili piksellərini ətrafdakı qonşu piksellərin teksturası, parlaqlığı və rəngi ilə…",
+   "Seçilmiş zonanı arxa fonun pikselləri ilə avtomatik tamamlayaraq obyekti yox edir.",
+   "Onlarla qat \"Fon\", \"Retuş\", \"Mətnlər\", \"İşıq Effektləri\" kimi səliqəli qovluqlara yığılır.",
+   "Kəskinliyi artıraraq göz bəbəkləri və ya zinət əşyalarını önə çıxarır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"New Adjustment Layer\" nədir?",
+  "options": [
+   "Bütün layihəyə vahid kinematoqrafik rəng profili verilir.",
+   "Orijinal piksellərə zərər vurmadan rəng və kontrast verən tənzimləmə qatları açır.",
+   "Modelin fotosu kətana yerləşdirilir.",
+   "Sənəddə avtomatlaşdırılmış modul torları, sütunlar və kənar sahələr (marjinlər) qurur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əllə sərbəst seçim aparır.\"",
+  "options": [
+   "Qat Əsaslı (Layer-Based) İş Strukturu",
+   "Lasso Tool",
+   "Mürəkkəb Rəng və Ton Korreksiyası",
+   "Object Selection Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Manual Rəngləmə",
+   "Spherize",
+   "File (Fayl)",
+   "Spot Healing Brush Tool (J)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mosaic\" nədir?",
+  "options": [
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir.",
+   "Təsvirin künclərini fəza oxları üzrə dartaraq divar, bilbord və ya döşəmə kimi müstəvilərə tam otuzdurur.",
+   "Şəkli fərqli ölçülü kvadrat piksel bloklarına bölür (anonimlik təmin etmək və ya retro oyun qrafikası yaratmaq üçün).",
+   "Qara pikselləri tam şəffaf edir, yalnız işıqlı hissələri saxlayır (alov, işıq şüası və qığılcım effektləri üçün idealdır)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "High Pass Filter (Other > High Pass)",
+   "Color Range",
+   "GIF (Graphics Interchange Format)",
+   "Color Halftone"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Wind",
+   "Prosessor (CPU)",
+   "Liquify (Shift+Ctrl+X)",
+   "Flame & Tree"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Gaussian Blur\" nədir?",
+  "options": [
+   "Hazır 3D LUT profilləri vasitəsilə film və afişa rəng stilini tək kliklə tətbiq edir.",
+   "1-3%) modelin yanaq sümükləri, burun xətti və gözləri işıqlandırılır, konturlar tündləşdirilərək dərin 3D həcm yaradılır.",
+   "Bütün pikselləri vahid radius üzrə bərabər dumanlandırır; kölgə və maska keçidlərini yumşaltmaq üçün ən əsas filtrdir.",
+   "Şəklin yalnız xırda kənarlarını boz rəngdə çıxarır; qatın rejimi Overlay edildikdə fotoya təbii mikro-kəskinlik qazandırır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Təyinatı\" nədir?",
+  "options": [
+   "Pikselləri barmaqla sürtülmüş yaş boya kimi bir-birinə qatır.",
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.",
+   "Obyektlərin çoxaldılması, naxışların bərpası və kəskin kənarların kopyalanması.",
+   "Qüsurlu sahə sərbəst çərçivəyə alınır və siçanla təmiz teksturaya malik sahənin üzərinə sürüklənir (Source rejimi)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mövcud seçimdən müəyyən sahəni kəsib çıxarır.\"",
+  "options": [
+   "Layout / Layer",
+   "Mode (Qarışdırma Rejimləri)",
+   "Delete Cropped Pixels",
+   "Subtract from Selection (Alt)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ctrl + Shift + N\"",
+  "options": [
+   "Ən böyük məhdudiyyəti isə miqyasa bağlı olmasıdır",
+   "New Layer",
+   "Daimi Yaddaş (Disk)",
+   "Brush Size / Hardness"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənəd qısaltmaları (davamı), şəkil növləri və Photoshop proqramını quraşdırmaq üçün lazımi sistem parametrləri\" mövzusuna aiddir?",
+  "options": [
+   "16-bit / 32-bit kanal",
+   "Layer > New Adjustment Layer > Color Lookup",
+   "Radial Blur",
+   "Fill Selection"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Layer Mask",
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Adjustments (Ton və Rəng Korreksiyası)",
+   "Rectangular Marquee Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "File (Fayl)",
+   "Magic Eraser",
+   "Smoothing (Hamarlama)",
+   "Opacity (Qeyri-şəffaflıq) və Fill"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirdəki müəyyən bir rəng çalarını damlalığın köməyi ilə bütün kətan boyu avtomatik seçir.\"",
+  "options": [
+   "Color Range",
+   "Create Clipping Mask (Alt+Ctrl+G)",
+   "Guides > New Guide Layout",
+   "Layer > New Adjustment Layer > Color Lookup"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qatın ümumi görünmə dərəcəsini 0%-dən 100%-ə qədər tənzimləyir.\"",
+  "options": [
+   "Adjustment Layer (Tənzimləmə Qatı)",
+   "Blur Tool",
+   "Opacity (Qeyri-şəffaflıq) və Fill",
+   "Qruplar (Ctrl+G)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Fayl formatları",
+   "PPI (Pixels Per Inch)",
+   "İş prinsipi",
+   "Automatically Save Recovery Information Every 5 Minutes"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Məhsul Təqdimatı\" nədir?",
+  "options": [
+   "Kontrast kənarları maqnit kimi izləyərək konturu avtomatik tutur.",
+   "Süni intellektlə obyektin üzərinə çərçivə çəkdikdə həmin fiquru dərhal fondan ayırır.",
+   "Reklam edilən əşyanın arxasına Gradient Tool (G) ilə tünddən açığa doğru radial degrade çəkilir, altına Brush Tool (B) ilə yumşaq kölgə qoyularaq…",
+   "Tək kliklə eyni rəng çalarına malik pikselləri aktivləşdirir (Tolerance parametri ilə həssaslığı idarə olunur)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin altındakı ümumi yarıqaranlıq zona.\"",
+  "options": [
+   "Ətraf Mühit Kölgəsi (Ambient Occlusion)",
+   "İşıq Sirayəti (Light Wrap)",
+   "Fokus və Sahə Dərinliyi (Depth of Field)",
+   "Layihə qat-qat zonalara bölünür"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Border\" nədir?",
+  "options": [
+   "Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir.",
+   "Seçimin kənarına müəyyən piksel qalınlığında haşiyə verir.",
+   "Mürəkkəb fotolar, dəri teksturası, rəqəmsal rəsm",
+   "Qatı xüsusi qoruyucu zərf içinə alır. Bu obyekt dəfələrlə kiçildilib yenidən böyüdülsə belə, orijinal piksellər bərpa olunur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Smart Objects\" nədir?",
+  "options": [
+   "Sənədin rəng məkanını dəyişir (məsələn, ekrandan çapa keçərkən RGB-dən CMYK-ya).",
+   "Süni intellekt vasitəsilə insanı, əsas obyekti və ya səmanı tək kliklə fondan ayırır.",
+   "Piksellərin işıq, kölgə və rəng doymasını birbaşa tənzimləyir.",
+   "Qatın keyfiyyətini deformasiyadan və piksel itkisindən qoruyan konteyner yaradır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Maye səthində yaranan su dalğalarını və titrəmələri simulyasiya edir.\"",
+  "options": [
+   "Warp",
+   "Generative Expand (Generativ Genişləndirmə)",
+   "Gradient Map (Qradiyent Xəritəsi)",
+   "Ripple və Wave"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Dodge Tool\" nədir?",
+  "options": [
+   "Pikselləri yerli olaraq dumanlandırır və kənarları yumşaldır.",
+   "Rəng tonunu (Hue), doymasını (Saturation) və parlaqlığını (Lightness) dəyişir.",
+   "Pikselləri barmaqla sürtülmüş yaş boya kimi bir-birinə qatır.",
+   "Təsvirin yalnız seçilmiş tonlarını (Shadows, Midtones, Highlights) yerli olaraq işıqlandırır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çapda və ya ekranda dumanlı çıxmış xırda xətləri və teksturaları canlandırmaq.\"",
+  "options": [
+   "Blur Gallery (Tilt-Shift, Iris Blur)",
+   "Kəskinləşdirmə və Detallaşdırma",
+   "Face-Aware Liquify",
+   "Radial Blur"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Əyilmiş bina və ya dəniz üfüqünün düzəldilməsi",
+   "Opacity (Qeyri-şəffaflıq) və Fill",
+   "Convert to Smart Object",
+   "Burn Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelinin komponentlərinin izahı (davamı) və qabaqcıl tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "Polar Coordinates",
+   "Əyilmiş bina və ya dəniz üfüqünün düzəldilməsi",
+   "Zoom In / Zoom Out",
+   "Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Fokus və Sahə Dərinliyi (Depth of Field)\" nədir?",
+  "options": [
+   "[01_FON] → [02_OBYEKTLƏR] → [03_EFEKTLƏR] → [04_MƏTNLƏR] → [05_RƏNG_KORREKSİYASI].",
+   "Obyektin zəminə toxunduğu yerdəki ən tünd, kəskin xətt.",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma.",
+   "Kamera obyektivinə çox yaxın olan ön detallar və ən arxadakı mənzərə dumanlandırılır (Lens Blur), diqqət yalnız əsas kompozisiya mərkəzində…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"File > Place Embedded\" nədir?",
+  "options": [
+   "Peşəkar işıq, temperatur və rəng dərəcələndirmə mərkəzidir.",
+   "Veb-saytlar üçün qrafikləri sıxaraq minimum fayl həcmində və yüksək sürətlə yüklənən keyfiyyətdə saxlayır.",
+   "Modelin fotosu kətana yerləşdirilir.",
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Baza vahidi\" nədir?",
+  "options": [
+   "Seçimin kənarına müəyyən piksel qalınlığında haşiyə verir.",
+   "Seçilmiş sahəni göstərilən piksel qədər böyüdür və ya daxilə doğru sıxır.",
+   "Piksellər (rəng nöqtələri)",
+   "Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Polygonal Lasso Tool",
+   "Free Transform (Ctrl+T)",
+   "New Selection"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Subject / Sky\" nədir?",
+  "options": [
+   "Obyektləri hərəkət etdirərkən bələdçi xətlərə və qat kənarlarına maqnit kimi yapışdırır.",
+   "Modelin fotosu kətana yerləşdirilir.",
+   "Təsvirin piksellərini yenidən hesablayır (Resample) və ya iş sahəsinin fiziki sərhədlərini genişləndirir.",
+   "Süni intellekt vasitəsilə insanı, əsas obyekti və ya səmanı tək kliklə fondan ayırır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Curves, Levels, Hue/Saturation, Color Balance kimi güclü rəng və kontrast alətlərini birbaşa piksellərə tətbiq edir.\"",
+  "options": [
+   "New Adjustment Layer",
+   "Automatically Save Recovery Information Every 5 Minutes",
+   "Adjustments (Ton və Rəng Korreksiyası)",
+   "Smart Objects > Convert to Smart Object"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Ağ rəng",
+   "Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)",
+   "Delete Cropped Pixels",
+   "Patch Tool (J)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Unsharp Mask\" nədir?",
+  "options": [
+   "Mərkəzdən fırlanma və ya partlayışvari yaxınlaşma təsiri yaradır.",
+   "Təsvirin kontur kontrastını artıraraq dumanlılığı aradan qaldırır (Amount, Radius, Threshold parametrləri ilə).",
+   "Təsvirə müəyyən bucaq və məsafə üzrə sürətli hərəkət dinamikası (məsələn, şütüyən avtomobil çarxı) verir.",
+   "Bütün şəkli bərabər riyazi radius üzrə yumşaldır və dumanlandırır. Təbii kölgələrin qurulmasında ən çox tətbiq edilən filtrdir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kamera obyektivinə çox yaxın olan ön detallar və ən arxadakı mənzərə dumanlandırılır (Lens Blur), diqqət yalnız əsas kompozisiya mərkəzində saxlanılır.\"",
+  "options": [
+   "İşıq Sirayəti (Light Wrap)",
+   "Düşən Kölgə (Cast Shadow)",
+   "Fokus və Sahə Dərinliyi (Depth of Field)",
+   "Hava Perspektivi (Atmospheric Perspective)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qatdakı pikselləri tam göstərir.\"",
+  "options": [
+   "Ağ rəng",
+   "Gaussian Blur",
+   "Radial Blur",
+   "Kəskinləşdirmə və Detallaşdırma"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"PSD (Photoshop Document)\" nədir?",
+  "options": [
+   "Poliqrafiya və nəşriyyatda ən yüksək keyfiyyətli sənəd formatıdır. İtkisiz sıxılmanı (LZW / ZIP) dəstəkləyir, qatları və CMYK profillərini qüsursuz…",
+   "Bir düym (2.54 sm) sahəyə düşən piksellərin sıxlığıdır.",
+   "Uzaq məsafədən baxıldığı üçün.",
+   "Proqramın doğma (native) işçi formatıdır. Bütün qatları (Layers), maskaları, mətn bloklarını, kanalları və tənzimləmə qatlarını (Adjustment Layers)…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Feather (Yumşaltma)\" nədir?",
+  "options": [
+   "Seçimin kənarlarına piksellə yumşaq keçid verir (məsələn, 5 px).",
+   "Nöqtələri qoyduqca qövsləri avtomatik formalaşdıran intuitiv vektor alətidir.",
+   "Şəkildəki əsas fiqurun (insan, avtomobil, fincan) üzərinə çərçivə çəkildikdə süni intellekt obyekti fondan ayırır.",
+   "Dairəvi və oval formaları seçir (Alt+Shift mərkəzdən bərabər dairə açır)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Painting (Rəqəmsal Rəssamlıq)",
+   "Add Noise",
+   "Content-Aware Move Tool (J)",
+   "Gradient Map"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çoxmüstəvili memarlıq binalarının və ya interyerlərin perspektiv bucağını foto çəkildikdən sonra belə sərbəst dəyişməyə imkan verir.\"",
+  "options": [
+   "Color Halftone",
+   "Perspective Warp (Edit > Perspective Warp)",
+   "Gradient Map (Qradiyent Xəritəsi)",
+   "Warp"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"New Layer, Mask, Smart Objects, Group\"",
+  "options": [
+   "Image (Görüntü)",
+   "Add to Selection (Shift)",
+   "Layout / Layer",
+   "Smoothing (Hamarlama)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Polygonal Lasso Tool",
+   "Intersect with Selection (Alt+Shift)",
+   "Yuxarı Tezlik Qatı (High Frequency)",
+   "Surface Blur"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Ripple və Wave\" nədir?",
+  "options": [
+   "Şəklin üzərinə elastik modul toru (Grid) atır. Məsələn, bir etiketi silindrik butulkanın və ya parçanın dalğalı relyefinə uyğun bükmək üçün tətbiq…",
+   "Maye səthində yaranan su dalğalarını və titrəmələri simulyasiya edir.",
+   "Şəklin enini və ya hündürlüyünü böyüdüb-kiçildərkən mərkəzdəki insan və ya əsas obyektləri deformasiyaya uğratmadan yalnız arxa fondakı boşluqları…",
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "Lasso Tool",
+   "Vector Mask",
+   "Qat Kilidi (Lock)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Təyinatı\" nədir?",
+  "options": [
+   "Şəklin ilkin orijinal piksel datasını konteyner içində qoruyan və ölçü dəyişərkən keyfiyyət itkisini sıfıra endirən qat formasıdır.",
+   "Onlarla qat \"Fon\", \"Retuş\", \"Mətnlər\", \"İşıq Effektləri\" kimi səliqəli qovluqlara yığılır.",
+   "Şəklin müəyyən hissələrinin rəng doymasını artırır (Saturate) və ya azaldaraq ağ-qaraya doğru aparır (Desaturate).",
+   "Geniş ləkələrin, paltardakı qırışların və ya fondakı böyük zədələrin aradan qaldırılması."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Alt düyməsi ilə götürülən piksel sahəsini hədəf nöqtəyə 1:1 dəqiqliklə, heç bir süni rəng yumşaltması aparmadan birbaşa kopyalayır.\"",
+  "options": [
+   "Pixel Layer",
+   "Sharpen Tool",
+   "İş prinsipi",
+   "Liquify (Shift+Ctrl+X)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təbii günəş şüasının və ya projektor işığının linzada yaratdığı optik parıltını kətana yerləşdirir.\"",
+  "options": [
+   "Face-Aware Liquify",
+   "Lens Flare",
+   "Bədii və Stilistik Manipulyasiya",
+   "Fokus və Dərinlik İllüziyası"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Standard Eraser\" nədir?",
+  "options": [
+   "Qatdakı pikselləri fiziki olaraq silir.",
+   "Nöqtələri qoyduqca qövsləri avtomatik formalaşdıran intuitiv vektor alətidir.",
+   "Obyekti seçib başqa yerə sürüşdürdükdə onu yeni yerə otuzdurur, əvvəlki yerini isə arxa fonla doldurur.",
+   "Seçimin kənarlarına piksellə yumşaq keçid verir (məsələn, 5 px)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ağac və ya insan silueti Object Selection Tool (W) ilə seçilir, yuxarı paneldən.\"",
+  "options": [
+   "Mürəkkəb Fon Dəyişdirilməsi",
+   "Süni İntellekt və Generativ Alətlər (Generative Fill / Expand)",
+   "Magic Wand Tool",
+   "Məhsul Təqdimatı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçim kənarlarına piksellə ölçülən yumşaq keçid verir.\"",
+  "options": [
+   "Flow (Axın Sürəti)",
+   "Essentials (Standart)",
+   "Ratio / Dimensions",
+   "Feather"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Süni intellekt vasitəsilə insanı, əsas obyekti və ya səmanı tək kliklə fondan ayırır.\"",
+  "options": [
+   "View > Guides > New Guide Layout",
+   "Subject / Sky",
+   "Color Range",
+   "File > New"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Object Selection Tool",
+   "Smart Object (Ağıllı Obyekt)",
+   "Magnetic Lasso Tool",
+   "Window (Pəncərə)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Quick Selection Tool\" nədir?",
+  "options": [
+   "Ətrafdakı pikselləri analiz edərək sızanaq, xal və ya toz izlərini tək kliklə silir.",
+   "Seçimin kənarlarına piksellə yumşaq keçid verir (məsələn, 5 px).",
+   "Fırça kimi sürtərək bənzər tonları cəld toplayır.",
+   "Nöqtələri qoyduqca qövsləri avtomatik formalaşdıran intuitiv vektor alətidir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qara pikselləri tam şəffaf edir, yalnız işıqlı hissələri saxlayır (alov, işıq şüası və qığılcım effektləri üçün idealdır).\"",
+  "options": [
+   "Spherize",
+   "Darken Qrupu (Multiply, Darken)",
+   "Lighten Qrupu (Screen, Lighten)",
+   "Ripple və Wave"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Stamp Visible (Merge All to New)",
+   "Standard Eraser",
+   "Opacity (Şəffaflıq)",
+   "Brush Size / Hardness"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "Fill Selection",
+   "Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)",
+   "High Pass Filter (Other > High Pass)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Perspective Warp (Edit > Perspective Warp)\" nədir?",
+  "options": [
+   "Çoxmüstəvili memarlıq binalarının və ya interyerlərin perspektiv bucağını foto çəkildikdən sonra belə sərbəst dəyişməyə imkan verir.",
+   "Şəklin enini və ya hündürlüyünü böyüdüb-kiçildərkən mərkəzdəki insan və ya əsas obyektləri deformasiyaya uğratmadan yalnız arxa fondakı boşluqları…",
+   "Bir fotoşəklin rəng və işıq atmosferini başqa bir fotoşəkilin rəng tonlarına avtomatik uyğunlaşdırır. Kompozitinq üçün əvəzsiz əmrdir.",
+   "Təsvirin künclərini fəza oxları üzrə dartaraq divar, bilbord və ya döşəmə kimi müstəvilərə tam otuzdurur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Pikselləri yerli olaraq dumanlandırır və kənarları yumşaldır.\"",
+  "options": [
+   "İş prinsipi",
+   "Təyinatı",
+   "Type Layer (Mətn Qatı)",
+   "Blur Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Həcmi 2 GB-dan böyük olan, piksel ölçüsü 30 000 x 30 000 pikseli aşan (maksimum 300 000 pikselə qədər) nəhəng banner və bilbord layihələri üçün tətbiq olunur.\"",
+  "options": [
+   "JPEG / JPG (Joint Photographic Experts Group)",
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "Hand Tool (Pan)",
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Sponge Tool",
+   "Lighten Qrupu (Screen, Lighten)",
+   "Liquify (Shift+Ctrl+X)",
+   "Select Subject & Select and Mask"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Color Balance (Ctrl+B)\" nədir?",
+  "options": [
+   "Alt düyməsi ilə götürülən piksel sahəsini hədəf nöqtəyə 1:1 dəqiqliklə, heç bir süni rəng yumşaltması aparmadan birbaşa kopyalayır.",
+   "Obyektlərin çoxaldılması, naxışların bərpası və kəskin kənarların kopyalanması.",
+   "Kölgələrdə və işıqlarda soyuq (mavi/yaşıl) və ya isti (qırmızı/sarı) ton balansını nizamlayır.",
+   "Şəklin ilkin orijinal piksel datasını konteyner içində qoruyan və ölçü dəyişərkən keyfiyyət itkisini sıfıra endirən qat formasıdır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Gaussian Blur\" nədir?",
+  "options": [
+   "Həddindən artıq süni və hamar görünən rəqəmsal səthlərə təbii foto plyonka dənəvərliyi qatır.",
+   "Real kamera obyektivinin sahə dərinliyini (Depth of Field) imitasiya edir; şəhər mənzərəsini kiçik oyuncaq maket kimi göstərən Tilt-Shift effekti…",
+   "Bütün şəkli bərabər riyazi radius üzrə yumşaldır və dumanlandırır. Təbii kölgələrin qurulmasında ən çox tətbiq edilən filtrdir.",
+   "Obyektiv təhriflərini (distorsiyanı), xromatik aberrasiyaları və kənar qaralmalarını (vinetkanı) aradan qaldırmaq."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Mürəkkəb Fon Dəyişdirilməsi\" nədir?",
+  "options": [
+   "Ağac və ya insan silueti Object Selection Tool (W) ilə seçilir, yuxarı paneldən.",
+   "Düz xətlərdən ibarət künclü obyektləri seçir.",
+   "Əllə sərbəst seçim aparır.",
+   "Modelin üzündəki xırda qüsurları aradan qaldırmaq üçün Spot Healing Brush (J) seçilir, fırçanın sərtliyi 0%-ə qoyulur və ləkələrin üzərindən tək…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Piksellər (rəng nöqtələri)\"",
+  "options": [
+   "Layer Mask",
+   "Expand & Contract",
+   "Fayl formatları",
+   "Baza vahidi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fərdi qatlar açılır, hər detal üçün rəng seçilir və qatın qarışdırma rejimi.\"",
+  "options": [
+   "Liquify (Shift+Ctrl+X)",
+   "Aşağı Tezlik Qatı (Low Frequency)",
+   "Manual Rəngləmə",
+   "İki ayrı tənzimləmə qatı (Curves) açılır"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Brush Preset Picker\" nədir?",
+  "options": [
+   "Fotoretuşçular üçün Histogram, Navigator, Adjustments panellərini ön plana çıxarır.",
+   "Fırçanın ölçüsünü (Size), sərtliyini (Hardness) və uc formasını təyin edir.",
+   "Tipoqrafika və interfeys dizaynı üçün Character, Paragraph, Glyphs panellərini mərkəzə yığır.",
+   "Bir kliklə mürəkkəb saç və bədən kənarlarını ayırmaq üçün süni intellektli kənar emalı mühitinə keçir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "PNG (Portable Network Graphics - PNG-8 / PNG-24)",
+   "Preferences (Ctrl+K)",
+   "File > Place Embedded",
+   "Dağıdıcı Olmayan Redaktə (Non-Destructive Editing)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tipoqrafik vektor mətn blokları.\"",
+  "options": [
+   "Transform > Perspective / Warp",
+   "Sharpen Tool",
+   "Type Layer (Mətn Qatı)",
+   "Smudge Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Auto-Select (Layer / Group)\" nədir?",
+  "options": [
+   "Rəng və kontrast kənarlarını avtomatik hiss edərək obyektin kənarına yapışır.",
+   "Ətrafdakı pikselləri analiz edərək sızanaq, xal və ya toz izlərini tək kliklə silir.",
+   "Rəng nümunəsi götürərək yalnız arxa fonu silir, obyektin konturunu qoruyur.",
+   "Kursoru obyektin üzərinə gətirib kliklədikdə həmin qatı avtomatik tapır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün pikselləri vahid radius üzrə bərabər dumanlandırır; kölgə və maska keçidlərini yumşaltmaq üçün ən əsas filtrdir.\"",
+  "options": [
+   "High Pass Filter (Other > High Pass)",
+   "Aşağı Tezlik Qatı (Low Frequency)",
+   "Smart Sharpen",
+   "Gaussian Blur"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir düym (2.54 sm) sahəyə düşən piksellərin sıxlığıdır.\"",
+  "options": [
+   "Export for Web",
+   "JPEG / JPG (Joint Photographic Experts Group)",
+   "PPI (Pixels Per Inch)",
+   "GIF (Graphics Interchange Format)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Lighten Qrupu (Screen, Lighten)",
+   "Qat Kilidi (Lock)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "RAW (DNG, CR2, NEF, ARW)",
+   "Add to Selection (Shift)",
+   "Polygonal Lasso Tool",
+   "Curves (Ctrl+M)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelinin komponentlərinin izahı (davamı) və qabaqcıl tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "Seçim və Naviqasiya Zonası",
+   "16-bit / 32-bit kanal",
+   "Auto-Select (Layer / Group)",
+   "Hand Tool (H / Space)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin piksel ölçülərini, həllolma dəqiqliyini (PPI) və ya işçi kətanın fiziki sərhədlərini artırıb-azaldır.\"",
+  "options": [
+   "Automate > Batch",
+   "Units & Rulers",
+   "Layer Mask (Qat Maskası)",
+   "Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Export > Save for Web (Legacy)\" nədir?",
+  "options": [
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır.",
+   "Orijinal piksellərə zərər vurmadan rəng və kontrast verən tənzimləmə qatları açır.",
+   "Veb-saytlar üçün qrafikləri sıxaraq minimum fayl həcmində və yüksək sürətlə yüklənən keyfiyyətdə saxlayır.",
+   "4 sütunlu simmetrik şəbəkə toru qurulur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Smart Sharpen",
+   "File > Place Embedded",
+   "Content-Aware Crop",
+   "Smooth"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Gaussian Blur",
+   "Zoom In / Zoom Out",
+   "File (Fayl)",
+   "Perspective Warp (Edit > Perspective Warp)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Surface Blur",
+   "Layout / Layer",
+   "Shadows/Highlights (Image > Adjustments > Shadows/Highlights)",
+   "Content-Aware Fill"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Feather (Shift+F6)\" nədir?",
+  "options": [
+   "Qara və ağ fırçalarla piksel əsaslı yumşaq gizlətmə aparır.",
+   "Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir.",
+   "Seçimin kənarına müəyyən piksel qalınlığında haşiyə verir.",
+   "Tətbiq edilən filtrləri dinamik saxlayır və istənilən vaxt parametrlərini dəyişməyə imkan verir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Color Lookup\" nədir?",
+  "options": [
+   "Hazır 3D LUT profilləri vasitəsilə film və afişa rəng stilini tək kliklə tətbiq edir.",
+   "Dərinin teksturası və məsamələri qətiyyən pozulmadan altındakı ləkələr və ton uyğunsuzluqları hamarlanır.",
+   "Şəklin yalnız xırda kənarlarını boz rəngdə çıxarır; qatın rejimi Overlay edildikdə fotoya təbii mikro-kəskinlik qazandırır.",
+   "Qırmızı (R), Yaşıl (G) və Mavi (B) kanalları fərdi şəkildə qaldırıb-endirərək rəng tonlaması yaradır (məsələn, kölgələrə mavi, işıqlara qızılı ton)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Seçim və Naviqasiya Zonası\" nədir?",
+  "options": [
+   "Pikselləri fəzada hərəkət etdirmək, həndəsi və ya sərbəst sərhədlərlə ayırmaq üçün tətbiq edilir.",
+   "Şəklin sərhədlərini ölçüləndirmək, ləkələri təmizləmək və pikselləri klonlaşdırmaq üçün istifadə olunur.",
+   "Rəng nümunəsi götürərək yalnız arxa fonu silir, obyektin konturunu qoruyur.",
+   "Siçanın hərəkəti ilə sərbəst əl cizgisi seçimi aparır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Magic Wand Tool",
+   "Shape Rejimi",
+   "Hava Perspektivi (Atmospheric Perspective)",
+   "Qara maska üzərində ağ fırça ilə (Flow"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Fokus və Dərinlik İllüziyası\" nədir?",
+  "options": [
+   "Qatdakı pikselləri tam göstərir.",
+   "Pikselləri siçanın istiqamətində itələyir (paltar qırışlarını və ya silueti düzəltmək üçün).",
+   "Arxa fonu dumanlandıraraq əsas obyekti qabartmaq (Bokeh effekti).",
+   "Təbii günəş şüasının və ya projektor işığının linzada yaratdığı optik parıltını kətana yerləşdirir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir.\"",
+  "options": [
+   "Miqyaslanma",
+   "Təyinat sahəsi",
+   "Fayl formatları",
+   "Feather (Shift+F6)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Emboss\" nədir?",
+  "options": [
+   "Şəkli boz relyefli daş və ya metal basqısına çevirir.",
+   "Təsvirə külək əsməsi və parçalanma xətləri əlavə edir.",
+   "Təsvirin kontur kontrastını artıraraq dumanlılığı aradan qaldırır (Amount, Radius, Threshold parametrləri ilə).",
+   "Real kamera obyektivinin sahə dərinliyini (Depth of Field) imitasiya edir; şəhər mənzərəsini kiçik oyuncaq maket kimi göstərən Tilt-Shift effekti…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Standart foto və rəsm qatıdır.\"",
+  "options": [
+   "Dodge Tool",
+   "Blur Tool",
+   "Pixel Layer",
+   "Təyinatı"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "8-bit kanal",
+   "Clouds / Difference Clouds",
+   "Free Transform (Ctrl+T)",
+   "Intersect with Selection (Alt+Shift)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Peşəkar işıq, tekstura, aydınlıq (Clarity) və rəng dərəcələndirmə mərkəzidir.\"",
+  "options": [
+   "Təyinatı",
+   "Liquify (Shift+Ctrl+X)",
+   "Hue/Saturation (Ctrl+U)",
+   "Camera Raw Filter (Ctrl+Shift+A)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Vektor və Tipoqrafika Zonası\" nədir?",
+  "options": [
+   "Eyni rəngdə olan bütöv fonu tək kliklə şəffaf edir.",
+   "Fırçalar, degradelər və rəng doldurma mexanizmləri vasitəsilə yeni piksellər yaratmaq və ya mövcud rəngləri qarışdırmaq üçündür.",
+   "Riyazi kəsim xətləri (Paths), həndəsi fiqurlar və mətn bloklarını idarə edir.",
+   "Siçanın hərəkəti ilə sərbəst əl cizgisi seçimi aparır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Standard Eraser",
+   "Graphic and Web",
+   "Perspective",
+   "New Adjustment Layer"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Color Lookup",
+   "Select > Subject",
+   "Background Eraser",
+   "Graphic and Web"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Levels (Ctrl+L)",
+   "Darken Qrupu (Multiply, Darken)",
+   "Free Transform (Ctrl+T)",
+   "Hue/Saturation (Ctrl+U)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Blur Tool\" nədir?",
+  "options": [
+   "Pikselləri yerli olaraq dumanlandırır və kənarları yumşaldır.",
+   "Altındakı bütün qatların rəngini və kontrastını idarə edən, orijinal fotoya toxunmayan dinamik qatdır.",
+   "Geniş ləkələrin, paltardakı qırışların və ya fondakı böyük zədələrin aradan qaldırılması.",
+   "İşıqlı və kölgəli sərhədlərdə dəqiq dəri bərpası."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Ən böyük məhdudiyyəti isə miqyasa bağlı olmasıdır",
+   "Curves (Ctrl+M)",
+   "Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)",
+   "Lasso Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəkildəki küyü artırmadan kənarların kəskinliyini dəqiqliklə bərpa edir.\"",
+  "options": [
+   "Unsharp Mask",
+   "Smart Sharpen",
+   "Radial Blur",
+   "Qara rəng"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Kəsim və Bərpa Zonası\" nədir?",
+  "options": [
+   "Siçanın hərəkəti ilə sərbəst əl cizgisi seçimi aparır.",
+   "Fırçalar, degradelər və rəng doldurma mexanizmləri vasitəsilə yeni piksellər yaratmaq və ya mövcud rəngləri qarışdırmaq üçündür.",
+   "Ətrafdakı pikselləri analiz edərək sızanaq, xal və ya toz izlərini tək kliklə silir.",
+   "Şəklin sərhədlərini ölçüləndirmək, ləkələri təmizləmək və pikselləri klonlaşdırmaq üçün istifadə olunur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əyilmiş üfüq xəttini xətkeşlə çəkib tək kliklə sənədi tam üfüqi vəziyyətə gətirir.\"",
+  "options": [
+   "Path Selection Tool (Qara ox)",
+   "Vektor çərçivənin künc nöqtələrinin fərdiləşdirilməsi",
+   "Rotate View Tool (R)",
+   "Straighten Layer"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Shadows/Highlights (Image > Adjustments > Shadows/Highlights)\" nədir?",
+  "options": [
+   "Şəklin enini və ya hündürlüyünü böyüdüb-kiçildərkən mərkəzdəki insan və ya əsas obyektləri deformasiyaya uğratmadan yalnız arxa fondakı boşluqları…",
+   "Parlaq günəş altında qaranlıq düşmüş kölgələri açır və ya həddindən artıq ağarmış işıqlı səthlərin detalını bərpa edir.",
+   "Şəklin kölgələrinə, orta tonlarına və işıqlarına fərqli rəng keçidi bağlayaraq xüsusi bədii və kinematoqrafik afişa effektləri yaradır.",
+   "Qəzet və pop-art çapındakı kimi böyük nöqtəli CMYK raster toru effekti verir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Reduce Noise\" nədir?",
+  "options": [
+   "Təsvirə yağlı boya, qravüra, neon parıltısı və ya hərəkət dinamikası qatmaq.",
+   "Qatdakı pikselləri tamamilə gizlədir (şəffaf edir).",
+   "Həddindən artıq süni və hamar görünən rəqəmsal səthlərə təbii foto plyonka dənəvərliyi qatır.",
+   "Qaranlıq mühitdə çəkilmiş fotoşəkillərdəki rəngli rəqəmsal parazitləri təmizləyir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Transform > Perspective / Warp",
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Window (Pəncərə)",
+   "Hand Tool (Pan)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"File > New\" nədir?",
+  "options": [
+   "Piksel və ya millimetr xətkeşlərini açır.",
+   "1080×1080 px, 72 ppi ölçüsündə RGB sənəd açılır.",
+   "Sənədin rəng məkanını dəyişir (məsələn, ekrandan çapa keçərkən RGB-dən CMYK-ya).",
+   "Qatın keyfiyyətini deformasiyadan və piksel itkisindən qoruyan konteyner yaradır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Opacity (Şəffaflıq)",
+   "Boz çalarlar",
+   "Adjustment Layer (Tənzimləmə Qatı)",
+   "Graphic and Web"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dizayner ən çox işlətdiyi panelləri ekranda yerləşdirib ad qoyaraq yaddaşa verə bilər (Window > Workspace > New Workspace).\"",
+  "options": [
+   "Smoothing (Hamarlama)",
+   "Opacity (Şəffaflıq)",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "Ratio / Dimensions"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Vektor çərçivənin künc nöqtələrinin fərdiləşdirilməsi\" nədir?",
+  "options": [
+   "Bütöv vektor cığırını seçir və hərəkət etdirir.",
+   "Vektor xəttinin fərdi bağlantı nöqtələrini (Anchor Points) və qövs tutacaqlarını tənzimləyir.",
+   "Kətanı istənilən istiqamətdə sürüşdürür.",
+   "Direct Selection Tool (A)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Daimi Yaddaş (Disk)\" nədir?",
+  "options": [
+   "20 GB boş yer olan standart HDD",
+   "Böyük piksel ölçülü şəkillər üçün keş səviyyəsini artırmaq kətanın daha axıcı hərəkət etməsini təmin edir.",
+   "64-bit dəstəkli, 2 GHz və ya daha sürətli Intel / AMD prosessor",
+   "DirectX 12 dəstəkli, 1.5 GB VRAM"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Brush Size / Hardness\" nədir?",
+  "options": [
+   "20 GB boş yer olan standart HDD",
+   "Böyük piksel ölçülü şəkillər üçün keş səviyyəsini artırmaq kətanın daha axıcı hərəkət etməsini təmin edir.",
+   "şəkli böyütdükdə keyfiyyət itir, kənarlarda kələ-kötür piksel toru görünür.",
+   "[ və ] / Shift + [ və ]"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Lens Flare\" nədir?",
+  "options": [
+   "Üz və bədən quruluşunu elastik korreksiya edir.",
+   "Kənar kəskinlikləri qoruyaraq yalnız daxili hamar səthləri dumanlandırır (dəri təmizlənməsində istifadə edilir).",
+   "Təsvirə müəyyən bucaq və məsafə üzrə istiqamətlənmiş hərəkət sürəti verir.",
+   "Təsvirə günəş və ya projektor linza parıltısı əlavə edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qaranlıq mühitdə çəkilmiş fotoşəkillərdəki rəngli rəqəmsal parazitləri təmizləyir.\"",
+  "options": [
+   "Bədii və Stilistik Manipulyasiya",
+   "Reduce Noise",
+   "Forward Warp Tool (W)",
+   "Emboss"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Puppet Warp (Qurğu Deformasiyası)\" nədir?",
+  "options": [
+   "Pikselləri zədələmədən rəng və kontrast verən dağıdıcı olmayan tənzimləmə qatları açır.",
+   "Qəfil elektrik kəsilməsi və ya sistem qəzası zamanı işin itməməsi üçün avtomatik ehtiyat nüsxə çıxarır.",
+   "İnsan və ya obyekt siluetinə daxili oynaq nöqtələri (Pins) qoyaraq bədən üzvlərini və ya detalları sərbəst hərəkət etdirir.",
+   "Sənədi RGB, CMYK, Grayscale və ya Lab rəng modellərinə keçirir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənəd qısaltmaları (davamı), şəkil növləri və Photoshop proqramını quraşdırmaq üçün lazımi sistem parametrləri\" mövzusuna aiddir?",
+  "options": [
+   "Liquify (Shift+Ctrl+X)",
+   "Daimi Yaddaş (Disk)",
+   "Hava Perspektivi (Atmospheric Perspective)",
+   "File (Fayl)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qırmızı (R), Yaşıl (G) və Mavi (B) kanalları fərdi şəkildə qaldırıb-endirərək rəng tonlaması yaradır (məsələn, kölgələrə mavi, işıqlara qızılı ton).\"",
+  "options": [
+   "Surface Blur",
+   "Qara maska üzərində ağ fırça ilə (Flow",
+   "Curves (Ctrl+M)",
+   "Aşağı Tezlik Qatı (Low Frequency)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Motion Blur\" nədir?",
+  "options": [
+   "Təsvirə müəyyən bucaq və məsafə üzrə sürətli hərəkət dinamikası (məsələn, şütüyən avtomobil çarxı) verir.",
+   "Pikselləri siçanın istiqamətində itələyir (paltar qırışlarını və ya silueti düzəltmək üçün).",
+   "Çapda və ya ekranda dumanlı çıxmış xırda xətləri və teksturaları canlandırmaq.",
+   "Təsvirə külək əsməsi və parçalanma xətləri əlavə edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Parlaq fondan gələn işıq şüalarının ön plandakı obyektin kənarlarına hopmasıdır. Yumşaq fırça və Inner Glow effekti ilə obyektin kənarlarına fon rəngi çəkilir.\"",
+  "options": [
+   "Fokus və Sahə Dərinliyi (Depth of Field)",
+   "İşıq Sirayəti (Light Wrap)",
+   "Təmas Kölgəsi (Contact Shadow)",
+   "Düşən Kölgə (Cast Shadow)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirin kontur kontrastını artıraraq dumanlılığı aradan qaldırır (Amount, Radius, Threshold parametrləri ilə).\"",
+  "options": [
+   "Unsharp Mask",
+   "Boz çalarlar",
+   "Face-Aware Liquify",
+   "Emboss"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Qruplar (Ctrl+G)\" nədir?",
+  "options": [
+   "Qüsurlu sahə sərbəst çərçivəyə alınır və siçanla təmiz teksturaya malik sahənin üzərinə sürüklənir (Source rejimi).",
+   "Təsvirin yalnız seçilmiş tonlarını (Shadows, Midtones, Highlights) yerli olaraq işıqlandırır.",
+   "Onlarla qat \"Fon\", \"Retuş\", \"Mətnlər\", \"İşıq Effektləri\" kimi səliqəli qovluqlara yığılır.",
+   "Rəng tonunu (Hue), doymasını (Saturation) və parlaqlığını (Lightness) dəyişir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"1080×1080 px, 72 ppi ölçüsündə RGB sənəd açılır.\"",
+  "options": [
+   "File > Export > Export As",
+   "File > New",
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Smart Objects"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"3D Menyusu\" nədir?",
+  "options": [
+   "New 3D Extrusion, Render, Light Settings",
+   "Fotoretuşçular üçün Histogram, Navigator, Adjustments panellərini ön plana çıxarır.",
+   "Kətanda əyri üfüq xətti boyunca xətt çəkərək təsviri avtomatik düzəldir.",
+   "Kəsilən xarici piksellərin birdəfəlik silinməsini və ya qat xaricində gizli saxlanılmasını tənzimləyir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fotoretuşçular üçün Histogram, Navigator, Adjustments panellərini ön plana çıxarır.\"",
+  "options": [
+   "Smoothing (Hamarlama)",
+   "File (Fayl)",
+   "Brush Preset Picker",
+   "Photography (Fotoqrafiya)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanda əyri üfüq xətti boyunca xətt çəkərək təsviri avtomatik düzəldir.\"",
+  "options": [
+   "Photography (Fotoqrafiya)",
+   "Straighten",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "View (Görünüş)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Mode (Rəng Rejimləri)\" nədir?",
+  "options": [
+   "Xarici foto və ya vektor fayllarını cari sənədin içinə Smart Object kimi yerləşdirir.",
+   "Sənədi RGB, CMYK, Grayscale və ya Lab rəng modellərinə keçirir.",
+   "Xətkeşlərin ölçü vahidini poliqrafiya üçün.",
+   "Proqramın bütün daxili performans, interfeys və yaddaş nizamlamaları pəncərəsini açır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirin qara, orta və ağ işıq nöqtələrini histoqram üzərində tənzimləyir.\"",
+  "options": [
+   "Levels (Ctrl+L)",
+   "Burn Tool",
+   "İş prinsipi",
+   "Təyinatı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hər rəng kanalı üçün 256 ton (standart qrafika üçün kifayətdir).\"",
+  "options": [
+   "GIF (Graphics Interchange Format)",
+   "8-bit kanal",
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Proqramın vizual temasını (tünd boz, qara və ya açıq) və şrift ölçüsünü nizamlayır.\"",
+  "options": [
+   "Place Embedded / Place Linked",
+   "Export > Export As / Quick Export as PNG",
+   "Interface",
+   "Free Transform (Ctrl+T)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn\" nədir?",
+  "options": [
+   "Ctrl + S / Ctrl + Shift + S",
+   "1920×1080 px və ya 3840×2160 px).",
+   "Veb və interfeys dizaynı üçün əvəzsizdir. İtkisiz sıxılma təqdim edir və ən əsası.",
+   "Ctrl + + / Ctrl + -"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Healing Brush Tool (J)",
+   "View > Guides > New Guide Layout",
+   "Contrast Qrupu (Overlay, Soft Light)",
+   "Məhsul Təqdimatı"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Ripple və Wave",
+   "Auto-Select (Layer / Group)",
+   "Təyinatı",
+   "Fokus və Dərinlik İllüziyası"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qatın müəyyən sahələrini qara/ağ fırça ilə gizlətmək və ya göstərmək üçün maska qatır.\"",
+  "options": [
+   "Layer Mask (Qat Maskası)",
+   "Automate > Batch",
+   "Export > Export As / Quick Export as PNG",
+   "Content-Aware Fill (Məzmuna Uyğun Doldurma)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Neural Filters > Colorize",
+   "Smart Sharpen",
+   "3D Menyusu",
+   "Hava Perspektivi (Atmospheric Perspective)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir fotoşəklin rəng və işıq atmosferini başqa bir fotoşəkilin rəng tonlarına avtomatik uyğunlaşdırır. Kompozitinq üçün əvəzsiz əmrdir.\"",
+  "options": [
+   "Shadows/Highlights (Image > Adjustments > Shadows/Highlights)",
+   "Match Color",
+   "Lighten Qrupu (Screen, Lighten)",
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız iki seçimin kəsişdiyi ortaq zonanı saxlayır.\"",
+  "options": [
+   "Subtract from Selection (Alt)",
+   "Intersect with Selection (Alt+Shift)",
+   "Anti-alias",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Vector Mask",
+   "Select Subject & Select and Mask",
+   "Reduce Noise",
+   "Perspective Warp (Edit > Perspective Warp)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Miqyaslanma\" nədir?",
+  "options": [
+   "Böyüdüldükdə pikselləşir, keyfiyyət itir",
+   "Qara və ağ fırçalarla piksel əsaslı yumşaq gizlətmə aparır.",
+   "Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir.",
+   "Qatı xüsusi qoruyucu zərf içinə alır. Bu obyekt dəfələrlə kiçildilib yenidən böyüdülsə belə, orijinal piksellər bərpa olunur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir.\"",
+  "options": [
+   "Flame & Tree",
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)",
+   "Warp",
+   "Spherize"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Lasso Tool\" nədir?",
+  "options": [
+   "Alt düyməsi ilə təmiz dəri sahəsindən nümunə götürür və hədəf zonaya həmin teksturanı köçürərək işıq tonunu avtomatik uyğunlaşdırır.",
+   "Siçanın hərəkəti ilə sərbəst əl cizgisi seçimi aparır.",
+   "Fırça kimi sürtərək bənzər tonları cəld toplayır.",
+   "Obyekti seçib başqa yerə sürüşdürdükdə onu yeni yerə otuzdurur, əvvəlki yerini isə arxa fonla doldurur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Həddindən artıq süni və hamar görünən rəqəmsal səthlərə təbii foto plyonka dənəvərliyi qatır.\"",
+  "options": [
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Add Noise",
+   "Motion Blur",
+   "Reduce Noise"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İki ayrı tənzimləmə qatı (Curves) açılır\" nədir?",
+  "options": [
+   "Şəklin işıq-kölgə pillələrinə xüsusi rəng qradiyenti bağlayır.",
+   "Bütün pikselləri vahid radius üzrə bərabər dumanlandırır; kölgə və maska keçidlərini yumşaltmaq üçün ən əsas filtrdir.",
+   "Süni intellekt köhnə ağ-qara şəklin elementlərini (dəri, səma, geyim) tanıyaraq avtomatik rəngləndirir.",
+   "biri işıqlandırma, digəri tündləşdirmə üçün."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Border",
+   "Spot Healing Brush Tool (J)",
+   "Face-Aware Liquify",
+   "Mode (Rəng Rejimləri)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçimin kənarlarına piksellə yumşaq keçid verir (məsələn, 5 px).\"",
+  "options": [
+   "Background Eraser",
+   "Feather (Yumşaltma)",
+   "Shape Rejimi",
+   "Quick Selection Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Graphic and Web\" nədir?",
+  "options": [
+   "Bir kliklə mürəkkəb saç və bədən kənarlarını ayırmaq üçün süni intellektli kənar emalı mühitinə keçir.",
+   "Tipoqrafika və interfeys dizaynı üçün Character, Paragraph, Glyphs panellərini mərkəzə yığır.",
+   "Workspace, Layers, History, Properties",
+   "Qrafik dizayn üçün ən universal panellər toplusudur (Layers, Properties, Swatches)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Modelin bədən konturu süni intellektlə seçilir və Layer > Layer Mask ilə köhnə fon təmizlənir.\"",
+  "options": [
+   "Automate > Photomerge",
+   "Select > Subject",
+   "Filter > Camera Raw Filter",
+   "Snap (Snap to Guides/Layers)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Burn Tool",
+   "Smart Sharpen",
+   "Mode",
+   "Darken Qrupu (Multiply, Darken)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Elliptical Marquee Tool\" nədir?",
+  "options": [
+   "Düzbucaqlı və kvadrat piksel sahələrini seçir (Shift ilə bərabərtərəfli kvadrat).",
+   "Dairəvi və oval formaları seçir (Alt+Shift mərkəzdən bərabər dairə açır).",
+   "Alt ilə götürülən pikselləri heç bir süni rəng yumşaltması aparmadan 1:1 dəqiqliklə hədəfə köçürür.",
+   "Şəklin sərhədlərini ölçüləndirmək, ləkələri təmizləmək və pikselləri klonlaşdırmaq üçün istifadə olunur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən populyar foto formatıdır. Yüksək sıxılma dərəcəsinə malikdir, faylın çəkisini kəskin azaldır, lakin sıxılma zamanı piksellərdə müəyyən bərpaolunmaz itkilər yaranır. Şəffaflığı…\"",
+  "options": [
+   "JPEG / JPG (Joint Photographic Experts Group)",
+   "PPI (Pixels Per Inch)",
+   "RAW (DNG, CR2, NEF, ARW)",
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Overlay və Soft Light\" nədir?",
+  "options": [
+   "50% boz rəngi şəffaflaşdırır, işıqları daha parlaq, kölgələri isə daha tünd edərək kontrastı kəskin artırır.",
+   "Xətkeşlərin ölçü vahidini poliqrafiya üçün.",
+   "Şəklin yalnız xırda kənarlarını boz rəngdə çıxarır; qatın rejimi Overlay edildikdə fotoya təbii mikro-kəskinlik qazandırır.",
+   "İşıq mənbəyinin istiliyini (məsələn, gün batımının qızılı şüalarını) bütün personajın üzərinə hopdurmaq üçün tətbiq olunur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Qat Əsaslı (Layer-Based) İş Strukturu\" nədir?",
+  "options": [
+   "Neyron alqoritmləri vasitəsilə təsvirləri genişləndirmək, arzuolunmaz obyektləri silmək və ya mətn sorğusu ilə yeni vizual elementlər yaratmaq.",
+   "Əllə sərbəst seçim aparır.",
+   "Hər bir vizual detal, mətn, filtr və tənzimləmə bir-birindən asılı olmayan müstəqil laylarda idarə olunur.",
+   "Düz xətlərdən ibarət künclü obyektləri seçir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Contrast Qrupu (Overlay, Soft Light)",
+   "Automate > Photomerge",
+   "Ağ rəng",
+   "Smart Filters"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"View > Guides > New Guide Layout\" nədir?",
+  "options": [
+   "Piksel və ya millimetr xətkeşlərini açır.",
+   "Qatın keyfiyyətini deformasiyadan və piksel itkisindən qoruyan konteyner yaradır.",
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır.",
+   "4 sütunlu simmetrik şəbəkə toru qurulur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Qrafik Kart (GPU)",
+   "Boz çalarlar",
+   "Perspective",
+   "Flow (Axın Sürəti)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"16-bit / 32-bit kanal\" nədir?",
+  "options": [
+   "Proqramın doğma (native) işçi formatıdır. Bütün qatları (Layers), maskaları, mətn bloklarını, kanalları və tənzimləmə qatlarını (Adjustment Layers)…",
+   "Poliqrafiya və nəşriyyatda ən yüksək keyfiyyətli sənəd formatıdır. İtkisiz sıxılmanı (LZW / ZIP) dəstəkləyir, qatları və CMYK profillərini qüsursuz…",
+   "Maksimum 256 rəng çalarını dəstəkləyən, sadə veb animasiyaları üçün nəzərdə tutulan formatdır.",
+   "Peşəkar fotoretuş və HDR kompozitlər üçün minlərlə çalar təqdim edir, qradiyent keçidlərində xətlənmənin (Color Banding) qarşısını alır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Qat Kilidi (Lock)",
+   "Polygonal Lasso Tool",
+   "Dodge Tool",
+   "Magic Eraser"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"PNG (Portable Network Graphics - PNG-8 / PNG-24)\" nədir?",
+  "options": [
+   "Veb və interfeys dizaynı üçün əvəzsizdir. İtkisiz sıxılma təqdim edir və ən əsası.",
+   "Proqramın doğma (native) işçi formatıdır. Bütün qatları (Layers), maskaları, mətn bloklarını, kanalları və tənzimləmə qatlarını (Adjustment Layers)…",
+   "Space (basılı saxlamaq)",
+   "Hər rəng kanalı üçün 256 ton (standart qrafika üçün kifayətdir)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin miqyasını, fırlanmasını və əyilməsini təmin edir.\"",
+  "options": [
+   "Smart Objects > Convert to Smart Object",
+   "Enable Flick Panning",
+   "Free Transform (Ctrl+T)",
+   "Animated Zoom"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Kəskinləşdirmə və Detallaşdırma\" nədir?",
+  "options": [
+   "Təsvirə yağlı boya, qravüra, neon parıltısı və ya hərəkət dinamikası qatmaq.",
+   "Qaranlıq mühitdə çəkilmiş fotoşəkillərdəki rəngli rəqəmsal parazitləri təmizləyir.",
+   "Qatdakı pikselləri tam göstərir.",
+   "Çapda və ya ekranda dumanlı çıxmış xırda xətləri və teksturaları canlandırmaq."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Təyinat sahəsi",
+   "Qara maska üzərində ağ fırça ilə (Flow",
+   "Fokus və Dərinlik İllüziyası",
+   "Təyinatı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəng tonunu (Hue), doymasını (Saturation) və parlaqlığını (Lightness) dəyişir.\"",
+  "options": [
+   "Levels (Ctrl+L)",
+   "Hue/Saturation (Ctrl+U)",
+   "Color Balance (Ctrl+B)",
+   "Qat Kilidi (Lock)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Lasso Tool",
+   "File (Fayl)",
+   "Dağıdıcı Olmayan Redaktə (Non-Destructive Editing)",
+   "Liquify (Shift+Ctrl+X)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Geniş ləkələrin, paltardakı qırışların və ya fondakı böyük zədələrin aradan qaldırılması.\"",
+  "options": [
+   "Sponge Tool",
+   "Təyinatı",
+   "İş prinsipi",
+   "Opacity (Qeyri-şəffaflıq) və Fill"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Liquify (Shift+Ctrl+X)\" nədir?",
+  "options": [
+   "İşıq-kölgə əyrisi vasitəsilə ən dəqiq kontrast və rəng kanalları korreksiyasını təmin edir.",
+   "Kölgələrdə və işıqlarda soyuq (mavi/yaşıl) və ya isti (qırmızı/sarı) ton balansını nizamlayır.",
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.",
+   "Alt düyməsi ilə götürülən piksel sahəsini hədəf nöqtəyə 1:1 dəqiqliklə, heç bir süni rəng yumşaltması aparmadan birbaşa kopyalayır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qatı xüsusi qoruyucu zərf içinə alır. Bu obyekt dəfələrlə kiçildilib yenidən böyüdülsə belə, orijinal piksellər bərpa olunur.\"",
+  "options": [
+   "Fayl formatları",
+   "Convert to Smart Object",
+   "Təyinat sahəsi",
+   "Border"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yumşaq keçid və yarılaşəffaf ərimə yaradır.\"",
+  "options": [
+   "Boz çalarlar",
+   "Emboss",
+   "Blur Gallery (Tilt-Shift, Iris Blur)",
+   "Smart Sharpen"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Böyüdüldükdə pikselləşir, keyfiyyət itir\"",
+  "options": [
+   "Smart Filters",
+   "Miqyaslanma",
+   "Fayl formatları",
+   "Təyinat sahəsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Generative Expand (Generativ Genişləndirmə)\" nədir?",
+  "options": [
+   "Kətan sərhədlərini aşan sahələri süni intellekt alqoritmləri ilə şəklin təbii davamı kimi generasiya edir.",
+   "Qara pikselləri tam şəffaf edir, yalnız işıqlı hissələri saxlayır (alov, işıq şüası və qığılcım effektləri üçün idealdır).",
+   "Şəkli fərqli ölçülü kvadrat piksel bloklarına bölür (anonimlik təmin etmək və ya retro oyun qrafikası yaratmaq üçün).",
+   "Şəklin enini və ya hündürlüyünü böyüdüb-kiçildərkən mərkəzdəki insan və ya əsas obyektləri deformasiyaya uğratmadan yalnız arxa fondakı boşluqları…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Essentials (Standart)\" nədir?",
+  "options": [
+   "Boyanın kətanda görünmə intensivliyini təyin edir (0% - 100%).",
+   "Kəsilən xarici piksellərin birdəfəlik silinməsini və ya qat xaricində gizli saxlanılmasını tənzimləyir.",
+   "New Layer, Mask, Smart Objects, Group",
+   "Qrafik dizayn üçün ən universal panellər toplusudur (Layers, Properties, Swatches)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Save / Save As\" nədir?",
+  "options": [
+   "Proqramın doğma (native) işçi formatıdır. Bütün qatları (Layers), maskaları, mətn bloklarını, kanalları və tənzimləmə qatlarını (Adjustment Layers)…",
+   "Space (basılı saxlamaq)",
+   "Ctrl + S / Ctrl + Shift + S",
+   "Bir düym (2.54 sm) sahəyə düşən piksellərin sıxlığıdır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)\" nədir?",
+  "options": [
+   "Şəklin piksel ölçülərini, həllolma dəqiqliyini (PPI) və ya işçi kətanın fiziki sərhədlərini artırıb-azaldır.",
+   "Kətanı sürüşdürərkən ətalətli hərəkət hissi verir.",
+   "Xətkeşlərin ölçü vahidini poliqrafiya üçün.",
+   "Yüzlərlə fotoşəkilə eyni anda avtomatlaşdırılmış əməliyyatları (Actions) tətbiq edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "8-bit kanal",
+   "Polygonal Lasso Tool",
+   "3D Menyusu",
+   "Liquify (Shift+Ctrl+X)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Təyinatı",
+   "Healing Brush Tool (J)",
+   "Magic Wand Tool",
+   "Qrafik Kart (GPU)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Opacity (Qeyri-şəffaflıq) və Fill\" nədir?",
+  "options": [
+   "Qatın ümumi görünmə dərəcəsini 0%-dən 100%-ə qədər tənzimləyir.",
+   "Rəng tonunu (Hue), doymasını (Saturation) və parlaqlığını (Lightness) dəyişir.",
+   "İşıq-kölgə əyrisi vasitəsilə ən dəqiq kontrast və rəng kanalları korreksiyasını təmin edir.",
+   "Alt düyməsi ilə təmiz bir dəri və ya toxuma sahəsindən nümunə götürülür, sonra qüsurlu yerin üzərinə çəkilir. Proqram nümunənin teksturasını…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Süni intellektlə obyektin üzərinə çərçivə çəkdikdə həmin fiquru dərhal fondan ayırır.\"",
+  "options": [
+   "Portret Təmizlənməsi",
+   "Polygonal Lasso Tool",
+   "Lasso Tool",
+   "Object Selection Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsadüfi tərpənmələrin qarşısını almaq üçün qatın mövqeyi və ya pikselləri kilidlənir.\"",
+  "options": [
+   "Qat Kilidi (Lock)",
+   "Smudge Tool",
+   "Sharpen Tool",
+   "İş prinsipi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Pixel Layer",
+   "Contrast Qrupu (Overlay, Soft Light)",
+   "View > Guides > New Guide Layout",
+   "Units & Rulers"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Qruplar (Ctrl+G)",
+   "Lighten Qrupu (Screen, Lighten)",
+   "Object Selection Tool",
+   "Motion Blur"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Pikselləri barmaqla sürtülmüş yaş boya kimi bir-birinə qatır.\"",
+  "options": [
+   "Color Balance (Ctrl+B)",
+   "Smudge Tool",
+   "Qat Kilidi (Lock)",
+   "Smart Object (Ağıllı Obyekt)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"PSD, JPEG, PNG, TIFF, WebP\"",
+  "options": [
+   "Vector Mask",
+   "Smart Filters",
+   "Convert to Smart Object",
+   "Fayl formatları"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Border",
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "WebP",
+   "Qat Əsaslı (Layer-Based) İş Strukturu"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Camera Raw Filter (Ctrl+Shift+A)\" nədir?",
+  "options": [
+   "Qatın ümumi görünmə dərəcəsini 0%-dən 100%-ə qədər tənzimləyir.",
+   "Üzdəki xırda sızanaqlar, qırışlar, toz izləri və skan cızıqlarının sürətlə təmizlənməsi.",
+   "Peşəkar işıq, tekstura, aydınlıq (Clarity) və rəng dərəcələndirmə mərkəzidir.",
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütöv vektor cığırını seçir və hərəkət etdirir.\"",
+  "options": [
+   "Straighten Layer",
+   "Hand Tool (H / Space)",
+   "Path Selection Tool (Qara ox)",
+   "Vektor çərçivənin künc nöqtələrinin fərdiləşdirilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Select > Subject\" nədir?",
+  "options": [
+   "4 sütunlu simmetrik şəbəkə toru qurulur.",
+   "Modelin bədən konturu süni intellektlə seçilir və Layer > Layer Mask ilə köhnə fon təmizlənir.",
+   "Təsvirin piksellərini yenidən hesablayır (Resample) və ya iş sahəsinin fiziki sərhədlərini genişləndirir.",
+   "Süni intellekt vasitəsilə insanı, əsas obyekti və ya səmanı tək kliklə fondan ayırır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Opacity (Qeyri-şəffaflıq) və Fill",
+   "Warp",
+   "Object Selection Tool",
+   "Create Clipping Mask (Alt+Ctrl+G)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin işıq-kölgə pillələrinə xüsusi rəng qradiyenti bağlayır.\"",
+  "options": [
+   "Curves (Ctrl+M)",
+   "Gradient Map",
+   "Smart Sharpen",
+   "Lens Flare"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Ratio / Dimensions\" nədir?",
+  "options": [
+   "Qrafik dizayn üçün ən universal panellər toplusudur (Layers, Properties, Swatches).",
+   "Workspace, Layers, History, Properties",
+   "Kətanın proporsiyasını sabit saxlayır (məsələn, 1:1 Kvadrat, 16:9 Geniş ekran).",
+   "Mövcud seçimdən müəyyən sahəni kəsib çıxarır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Curves (Ctrl+M)",
+   "Automatically Save Recovery Information Every 5 Minutes",
+   "Curvature Pen Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Gradient Map (Qradiyent Xəritəsi)\" nədir?",
+  "options": [
+   "Ön və arxa plan rəngləri əsasında təbii duman, tüstü və bulud toxuması generasiya edir.",
+   "Şəklin kölgələrinə, orta tonlarına və işıqlarına fərqli rəng keçidi bağlayaraq xüsusi bədii və kinematoqrafik afişa effektləri yaradır.",
+   "Kətan sərhədlərini aşan sahələri süni intellekt alqoritmləri ilə şəklin təbii davamı kimi generasiya edir.",
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üz və bədən quruluşunu elastik korreksiya edir.\"",
+  "options": [
+   "Color Lookup",
+   "Gradient Map",
+   "Liquify (Shift+Ctrl+X)",
+   "Manual Rəngləmə"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Layihə PNG/JPEG formatında şəbəkə üçün optimallaşdırılaraq ixrac olunur.\"",
+  "options": [
+   "File > Export > Export As",
+   "Snap (Snap to Guides/Layers)",
+   "Image Size & Canvas Size",
+   "Automate > Photomerge"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"New Adjustment Layer\" nədir?",
+  "options": [
+   "Pikselləri zədələmədən rəng və kontrast verən dağıdıcı olmayan tənzimləmə qatları açır.",
+   "Obyektin miqyasını, fırlanmasını və əyilməsini təmin edir.",
+   "Yüzlərlə fotoşəkilə eyni anda avtomatlaşdırılmış əməliyyatları (Actions) tətbiq edir.",
+   "Şəklin piksel ölçülərini, həllolma dəqiqliyini (PPI) və ya işçi kətanın fiziki sərhədlərini artırıb-azaldır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Polar Coordinates",
+   "Levels (Ctrl+L)",
+   "Lens Flare",
+   "Baza vahidi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Ətraf Mühit Kölgəsi (Ambient Occlusion)",
+   "Feather (Yumşaltma)",
+   "Color Range",
+   "Nəticə"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçim kənarlarındakı iti küncləri yumşaldır.\"",
+  "options": [
+   "Fayl formatları",
+   "Smooth",
+   "Layer Mask",
+   "Vector Mask"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Lens Flare",
+   "Smoothing (Hamarlama)",
+   "16-bit / 32-bit kanal",
+   "File > Export > Export As"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Adjustments (Ton və Rəng Korreksiyası)\" nədir?",
+  "options": [
+   "Yaxınlaşdırmanın axıcı olmasını təmin edir.",
+   "Xətkeşlərin ölçü vahidini poliqrafiya üçün.",
+   "Qəfil elektrik kəsilməsi və ya sistem qəzası zamanı işin itməməsi üçün avtomatik ehtiyat nüsxə çıxarır.",
+   "Curves, Levels, Hue/Saturation, Color Balance kimi güclü rəng və kontrast alətlərini birbaşa piksellərə tətbiq edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kəsilən xarici piksellərin birdəfəlik silinməsini və ya qat xaricində gizli saxlanılmasını tənzimləyir.\"",
+  "options": [
+   "File (Fayl)",
+   "Essentials (Standart)",
+   "Delete Cropped Pixels",
+   "3D Menyusu"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tək kliklə eyni rəng çalarını seçir (Tolerance dəyəri nə qədər yüksək olarsa, bir o qədər geniş rəng spektrini əhatə edir).\"",
+  "options": [
+   "Auto-Select (Layer / Group)",
+   "Vektor və Tipoqrafika Zonası",
+   "Magic Wand Tool",
+   "Elliptical Marquee Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün layihəyə vahid kinematoqrafik rəng profili verilir.\"",
+  "options": [
+   "Layer > New Adjustment Layer > Color Lookup",
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Select > Subject",
+   "Color Range"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mode (Qarışdırma Rejimləri)\" nədir?",
+  "options": [
+   "Kətanın proporsiyasını sabit saxlayır (məsələn, 1:1 Kvadrat, 16:9 Geniş ekran).",
+   "Yalnız iki seçimin kəsişdiyi ortaq zonanı saxlayır.",
+   "Fırça vuruşunun kətandakı piksellərlə necə qarışacağını (Normal, Multiply, Screen, Overlay) seçir.",
+   "Fırçanı kətan üzərində hərəkət etdirərkən boyanın çıxma sürətini idarə edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Color Halftone\" nədir?",
+  "options": [
+   "Qara pikselləri tam şəffaf edir, yalnız işıqlı hissələri saxlayır (alov, işıq şüası və qığılcım effektləri üçün idealdır).",
+   "Şəklin enini və ya hündürlüyünü böyüdüb-kiçildərkən mərkəzdəki insan və ya əsas obyektləri deformasiyaya uğratmadan yalnız arxa fondakı boşluqları…",
+   "Qəzet və pop-art çapındakı kimi böyük nöqtəli CMYK raster toru effekti verir.",
+   "Ön və arxa plan rəngləri əsasında təbii duman, tüstü və bulud toxuması generasiya edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçimin kənarına müəyyən piksel qalınlığında haşiyə verir.\"",
+  "options": [
+   "Miqyaslanma",
+   "Expand & Contract",
+   "Baza vahidi",
+   "Border"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"1920×1080 px və ya 3840×2160 px).\"",
+  "options": [
+   "16-bit / 32-bit kanal",
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn",
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "Export for Web"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ağ və açıq rəngli pikselləri tam şəffaf edir, yalnız qaranlıq pikselləri göstərir (məsələn, ağ kağız üzərindəki qara eskizi fona otuzdurmaq üçün).\"",
+  "options": [
+   "Darken Qrupu (Multiply, Darken)",
+   "Clouds / Difference Clouds",
+   "Perspective",
+   "Polar Coordinates"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Portret Təmizlənməsi",
+   "Daimi Yaddaş (Disk)",
+   "3D Menyusu",
+   "Opacity (Qeyri-şəffaflıq) və Fill"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Enable Flick Panning\" nədir?",
+  "options": [
+   "Seçilmiş arzuolunmaz elementi silir və boş qalan sahəni arxa fonun toxuması ilə avtomatik toxuyur.",
+   "Kətanı sürüşdürərkən ətalətli hərəkət hissi verir.",
+   "Qatı \"ağıllı konteyner\" halına salaraq keyfiyyət itkisinin qarşısını alır.",
+   "Xətkeşlərin ölçü vahidini poliqrafiya üçün."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Pikselləri zədələmədən rəng və kontrast verən dağıdıcı olmayan tənzimləmə qatları açır.\"",
+  "options": [
+   "Preferences (Ctrl+K)",
+   "New Adjustment Layer",
+   "Smart Objects > Convert to Smart Object",
+   "Free Transform (Ctrl+T)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Layihə qat-qat zonalara bölünür\" nədir?",
+  "options": [
+   "Obyektin zəminə toxunduğu yerdəki ən tünd, kəskin xətt.",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma.",
+   "[01_FON] → [02_OBYEKTLƏR] → [03_EFEKTLƏR] → [04_MƏTNLƏR] → [05_RƏNG_KORREKSİYASI].",
+   "Kamera obyektivinə çox yaxın olan ön detallar və ən arxadakı mənzərə dumanlandırılır (Lens Blur), diqqət yalnız əsas kompozisiya mərkəzində…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Eyni rəngdə olan bütöv fonu tək kliklə şəffaf edir.\"",
+  "options": [
+   "Content-Aware Move Tool (J)",
+   "Standard Eraser",
+   "Magic Eraser",
+   "Lasso Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Add to Selection (Shift)\" nədir?",
+  "options": [
+   "Fotoretuşçular üçün Histogram, Navigator, Adjustments panellərini ön plana çıxarır.",
+   "Mövcud seçimin üzərinə yeni sahə əlavə edir.",
+   "Dizayner ən çox işlətdiyi panelləri ekranda yerləşdirib ad qoyaraq yaddaşa verə bilər (Window > Workspace > New Workspace).",
+   "Mövcud seçimdən müəyyən sahəni kəsib çıxarır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hər bir vizual detal, mətn, filtr və tənzimləmə bir-birindən asılı olmayan müstəqil laylarda idarə olunur.\"",
+  "options": [
+   "Qat Əsaslı (Layer-Based) İş Strukturu",
+   "Lasso Tool",
+   "Dağıdıcı Olmayan Redaktə (Non-Destructive Editing)",
+   "Süni İntellekt və Generativ Alətlər (Generative Fill / Expand)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müəyyən sahələri tündləşdirərək dərinlik və kölgə qatır (Dodge & Burn klassik fotoretuş texnikası).\"",
+  "options": [
+   "Curves (Ctrl+M)",
+   "Sponge Tool",
+   "Burn Tool",
+   "Hue/Saturation (Ctrl+U)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçilmiş zonanı arxa fonun pikselləri ilə avtomatik tamamlayaraq obyekti yox edir.\"",
+  "options": [
+   "Hue/Saturation (Ctrl+U)",
+   "Content-Aware Fill",
+   "Liquify (Shift+Ctrl+X)",
+   "Sharpen Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hər klikdə yeni tək seçim açır.\"",
+  "options": [
+   "Painting (Rəqəmsal Rəssamlıq)",
+   "Delete Cropped Pixels",
+   "Graphic and Web",
+   "New Selection"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Alt düyməsi ilə təmiz dəri sahəsindən nümunə götürür və hədəf zonaya həmin teksturanı köçürərək işıq tonunu avtomatik uyğunlaşdırır.\"",
+  "options": [
+   "Polygonal Lasso Tool",
+   "Healing Brush Tool (J)",
+   "Feather (Yumşaltma)",
+   "Magic Eraser"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Təyinatı",
+   "İşıq Sirayəti (Light Wrap)",
+   "Flow (Axın Sürəti)",
+   "Qruplar (Ctrl+G)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Real kamera obyektivinin sahə dərinliyini (Depth of Field) imitasiya edir; şəhər mənzərəsini kiçik oyuncaq maket kimi göstərən Tilt-Shift effekti formalaşdırır.\"",
+  "options": [
+   "Blur Gallery (Tilt-Shift, Iris Blur)",
+   "Face-Aware Liquify",
+   "Qara rəng",
+   "Smart Sharpen"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Interface\" nədir?",
+  "options": [
+   "Proqramın vizual temasını (tünd boz, qara və ya açıq) və şrift ölçüsünü nizamlayır.",
+   "İnsan və ya obyekt siluetinə daxili oynaq nöqtələri (Pins) qoyaraq bədən üzvlərini və ya detalları sərbəst hərəkət etdirir.",
+   "Seçilmiş arzuolunmaz elementi silir və boş qalan sahəni arxa fonun toxuması ilə avtomatik toxuyur.",
+   "Qatı \"ağıllı konteyner\" halına salaraq keyfiyyət itkisinin qarşısını alır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Hava Perspektivi (Atmospheric Perspective)\" nədir?",
+  "options": [
+   "Arxa planda olan obyektlər ön plandakılara nisbətən daha az kontrastlı, daha solğun və havanın rənginə (adətən mavi/boz çalara) bürünmüş olmalıdır.",
+   "Obyektin zəminə toxunduğu yerdəki ən tünd, kəskin xətt.",
+   "Obyektin altındakı ümumi yarıqaranlıq zona.",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Content-Aware Crop",
+   "Automatically Save Recovery Information Every 5 Minutes",
+   "Magic Wand Tool",
+   "Lens Flare"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanı istənilən istiqamətdə sürüşdürür.\"",
+  "options": [
+   "Direct Selection Tool (Ağ ox)",
+   "Əyilmiş bina və ya dəniz üfüqünün düzəldilməsi",
+   "Hand Tool (H / Space)",
+   "Vektor çərçivənin künc nöqtələrinin fərdiləşdirilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Match Color",
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Color Dodge və Linear Dodge (Add)",
+   "Painting (Rəqəmsal Rəssamlıq)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Radial Blur",
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn",
+   "Magnetic Lasso Tool",
+   "Boz çalarlar"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Fayl formatları\" nədir?",
+  "options": [
+   "Kənarlara optik şəffaflıq və yumşaq keçid bəxş edir.",
+   "Böyüdüldükdə pikselləşir, keyfiyyət itir",
+   "PSD, JPEG, PNG, TIFF, WebP",
+   "Mürəkkəb fotolar, dəri teksturası, rəqəmsal rəsm"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Type Layer (Mətn Qatı)\" nədir?",
+  "options": [
+   "Tipoqrafik vektor mətn blokları.",
+   "Seçilmiş zonanı arxa fonun pikselləri ilə avtomatik tamamlayaraq obyekti yox edir.",
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.",
+   "Geniş ləkələrin, paltardakı qırışların və ya fondakı böyük zədələrin aradan qaldırılması."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Save / Save As",
+   "Gradient Map",
+   "Path Selection Tool (Qara ox)",
+   "Miqyaslanma"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Əyilmiş bina və ya dəniz üfüqünün düzəldilməsi\" nədir?",
+  "options": [
+   "Bütöv vektor cığırını seçir və hərəkət etdirir.",
+   "Əyilmiş üfüq xəttini xətkeşlə çəkib tək kliklə sənədi tam üfüqi vəziyyətə gətirir.",
+   "Ruler Tool",
+   "Qrafik planşetlə rəsm çəkərkən və ya retuş edərkən kətanı təbii kağız kimi sərbəst bucaq altında fırladır (Esc basıldıqda ilkin vəziyyətə qayıdır)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsviri sferik qabarıq və ya çökük linza formasına salır.\"",
+  "options": [
+   "Mosaic",
+   "Match Color",
+   "Gradient Map (Qradiyent Xəritəsi)",
+   "Spherize"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Straighten\" nədir?",
+  "options": [
+   "Boyanın kətanda görünmə intensivliyini təyin edir (0% - 100%).",
+   "New 3D Extrusion, Render, Light Settings",
+   "Fırçanın ölçüsünü (Size), sərtliyini (Hardness) və uc formasını təyin edir.",
+   "Kətanda əyri üfüq xətti boyunca xətt çəkərək təsviri avtomatik düzəldir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin ilkin orijinal piksel datasını konteyner içində qoruyan və ölçü dəyişərkən keyfiyyət itkisini sıfıra endirən qat formasıdır.\"",
+  "options": [
+   "Smart Object (Ağıllı Obyekt)",
+   "Type Layer (Mətn Qatı)",
+   "Content-Aware Fill",
+   "Sponge Tool"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Object Selection Tool\" nədir?",
+  "options": [
+   "Obyekti seçib başqa yerə sürüşdürdükdə onu yeni yerə otuzdurur, əvvəlki yerini isə arxa fonla doldurur.",
+   "Qatdakı pikselləri fiziki olaraq silir.",
+   "Şəkildəki əsas fiqurun (insan, avtomobil, fincan) üzərinə çərçivə çəkildikdə süni intellekt obyekti fondan ayırır.",
+   "Rəng nümunəsi götürərək yalnız arxa fonu silir, obyektin konturunu qoruyur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xarici fotoşəkli cari layihəyə daxil edir və avtomatik olaraq Smart Object qatına çevirir.\"",
+  "options": [
+   "Place Embedded",
+   "Subject / Sky",
+   "New Adjustment Layer",
+   "Layer > New Adjustment Layer > Color Lookup"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Poliqrafiya və nəşriyyatda ən yüksək keyfiyyətli sənəd formatıdır. İtkisiz sıxılmanı (LZW / ZIP) dəstəkləyir, qatları və CMYK profillərini qüsursuz saxlayır.\"",
+  "options": [
+   "16-bit / 32-bit kanal",
+   "RAW (DNG, CR2, NEF, ARW)",
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "TIFF (Tagged Image File Format)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Layout / Layer\" nədir?",
+  "options": [
+   "Fırçanı kətan üzərində hərəkət etdirərkən boyanın çıxma sürətini idarə edir.",
+   "Rulers, Guides, Snap, Proof Colors",
+   "New Layer, Mask, Smart Objects, Group",
+   "New 3D Extrusion, Render, Light Settings"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Layer > New Adjustment Layer > Color Lookup",
+   "JPEG / JPG (Joint Photographic Experts Group)",
+   "Lasso Tool",
+   "Object Selection Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirin piksellərini yenidən hesablayır (Resample) və ya iş sahəsinin fiziki sərhədlərini genişləndirir.\"",
+  "options": [
+   "Filter > Camera Raw Filter",
+   "View > Guides > New Guide Layout",
+   "Export > Save for Web (Legacy)",
+   "Image Size & Canvas Size"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ətrafdakı pikselləri analiz edərək sızanaq, xal və ya toz izlərini tək kliklə silir.\"",
+  "options": [
+   "Spot Healing Brush Tool (J)",
+   "Standard Eraser",
+   "Object Selection Tool",
+   "Feather (Yumşaltma)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Modelin dəri rəngi və kontrastı canlandırılır.\"",
+  "options": [
+   "Image Size & Canvas Size",
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Filter > Camera Raw Filter",
+   "Export > Save for Web (Legacy)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Liquify (Shift+Ctrl+X)\" nədir?",
+  "options": [
+   "Sənədin rəng məkanını dəyişir (məsələn, ekrandan çapa keçərkən RGB-dən CMYK-ya).",
+   "Fiqurları və siluetləri maye kimi elastik korreksiya edir.",
+   "Süni intellekt vasitəsilə insanı, əsas obyekti və ya səmanı tək kliklə fondan ayırır.",
+   "Qatın keyfiyyətini deformasiyadan və piksel itkisindən qoruyan konteyner yaradır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Painting (Rəqəmsal Rəssamlıq)\" nədir?",
+  "options": [
+   "Seçim kənarlarına piksellə ölçülən yumşaq keçid verir.",
+   "Fırça dinamikası (Brush Settings) və rəng təkərini aktivləşdirir.",
+   "Kətan böyüdüldükdə boş qalan kənarları fon toxuması ilə süni intellekt vasitəsilə doldurur.",
+   "Yalnız iki seçimin kəsişdiyi ortaq zonanı saxlayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Piksel və ya millimetr xətkeşlərini açır.\"",
+  "options": [
+   "Image Size & Canvas Size",
+   "Guides > New Guide Layout",
+   "Rulers (Ctrl+R)",
+   "Filter > Camera Raw Filter"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Təyinatı",
+   "Elliptical Marquee Tool",
+   "PSB (Photoshop Big Document / Böyük Sənəd Formatı)",
+   "Smart Filters"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəng və kontrast kənarlarını avtomatik hiss edərək obyektin kənarına yapışır.\"",
+  "options": [
+   "Magnetic Lasso Tool",
+   "Quick Selection Tool",
+   "Healing Brush Tool (J)",
+   "Patch Tool (J)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"20 GB boş yer olan standart HDD\"",
+  "options": [
+   "Ən böyük məhdudiyyəti isə miqyasa bağlı olmasıdır",
+   "Fill Selection",
+   "Stamp Visible (Merge All to New)",
+   "Daimi Yaddaş (Disk)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)",
+   "Ətraf Mühit Kölgəsi (Ambient Occlusion)",
+   "Content-Aware Fill (Məzmuna Uyğun Doldurma)",
+   "Lasso Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırçanın ölçüsünü (Size), sərtliyini (Hardness) və uc formasını təyin edir.\"",
+  "options": [
+   "Smoothing (Hamarlama)",
+   "New Selection",
+   "Brush Preset Picker",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Layer Mask",
+   "Quick Selection Tool",
+   "Levels (Ctrl+L)",
+   "Color Halftone"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"PPI (Pixels Per Inch)\" nədir?",
+  "options": [
+   "Bir düym (2.54 sm) sahəyə düşən piksellərin sıxlığıdır.",
+   "Ctrl + Alt + Shift + S",
+   "Proqramın doğma (native) işçi formatıdır. Bütün qatları (Layers), maskaları, mətn bloklarını, kanalları və tənzimləmə qatlarını (Adjustment Layers)…",
+   "Müasir internet üçün Google tərəfindən yaradılmış, həm şəffaflığı, həm də JPEG-dən daha kiçik fayl həcmində yüksək keyfiyyəti təmin edən formatdır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Smart Objects",
+   "Rulers (Ctrl+R)",
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Neural Filters > Colorize"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Bədii və Stilistik Manipulyasiya",
+   "Rəsm və Rəngləmə Zonası",
+   "Böyük Formatlı Küçə Bannerləri",
+   "File > Place Embedded"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Image (Görüntü)\" nədir?",
+  "options": [
+   "Mode, Adjustments, Canvas Size, Image Size",
+   "Fırça dinamikası (Brush Settings) və rəng təkərini aktivləşdirir.",
+   "Dizayner ən çox işlətdiyi panelləri ekranda yerləşdirib ad qoyaraq yaddaşa verə bilər (Window > Workspace > New Workspace).",
+   "Hər klikdə yeni tək seçim açır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin yalnız xırda kənarlarını boz rəngdə çıxarır; qatın rejimi Overlay edildikdə fotoya təbii mikro-kəskinlik qazandırır.\"",
+  "options": [
+   "Gradient Map",
+   "Color Lookup",
+   "Gaussian Blur",
+   "High Pass Filter (Other > High Pass)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "New Adjustment Layer",
+   "Camera Raw Filter (Ctrl+Shift+A)",
+   "Lens Flare",
+   "Enable Flick Panning"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənəd qısaltmaları (davamı), şəkil növləri və Photoshop proqramını quraşdırmaq üçün lazımi sistem parametrləri\" mövzusuna aiddir?",
+  "options": [
+   "Emboss",
+   "JPEG / JPG (Joint Photographic Experts Group)",
+   "Cache Levels",
+   "Miqyaslanma"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Object Selection Tool",
+   "Brush Size / Hardness",
+   "Miqyaslanma",
+   "Add Noise"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Clouds / Difference Clouds",
+   "Spot Healing Brush Tool (J)",
+   "Automatically Save Recovery Information Every 5 Minutes",
+   "Interface"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırçanı kətan üzərində hərəkət etdirərkən boyanın çıxma sürətini idarə edir.\"",
+  "options": [
+   "Flow (Axın Sürəti)",
+   "Essentials (Standart)",
+   "Anti-alias",
+   "Intersect with Selection (Alt+Shift)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Warp\" nədir?",
+  "options": [
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir.",
+   "Kətan sərhədlərini aşan sahələri süni intellekt alqoritmləri ilə şəklin təbii davamı kimi generasiya edir.",
+   "Şəklin üzərinə elastik modul toru (Grid) atır. Məsələn, bir etiketi silindrik butulkanın və ya parçanın dalğalı relyefinə uyğun bükmək üçün tətbiq…",
+   "Təsviri sferik qabarıq və ya çökük linza formasına salır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil birləşdirmə əməliyyatının mərhələləri, vizual dizayn əməliyyatları və layerlərin düzəldilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Təmas Kölgəsi (Contact Shadow)",
+   "Aşağı Tezlik Qatı (Low Frequency)",
+   "Unsharp Mask",
+   "Add to Selection (Shift)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Expand & Contract",
+   "RAW (DNG, CR2, NEF, ARW)",
+   "Qara maska üzərində ağ fırça ilə (Flow",
+   "Motion Blur"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"JPEG / JPG (Joint Photographic Experts Group)\" nədir?",
+  "options": [
+   "Ctrl + Alt + Shift + S",
+   "Həcmi 2 GB-dan böyük olan, piksel ölçüsü 30 000 x 30 000 pikseli aşan (maksimum 300 000 pikselə qədər) nəhəng banner və bilbord layihələri üçün…",
+   "Maksimum 256 rəng çalarını dəstəkləyən, sadə veb animasiyaları üçün nəzərdə tutulan formatdır.",
+   "Ən populyar foto formatıdır. Yüksək sıxılma dərəcəsinə malikdir, faylın çəkisini kəskin azaldır, lakin sıxılma zamanı piksellərdə müəyyən…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Content-Aware Fill (Məzmuna Uyğun Doldurma)",
+   "Feather (Yumşaltma)",
+   "Reduce Noise",
+   "Puppet Warp (Qurğu Deformasiyası)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Interface",
+   "Qat Kilidi (Lock)",
+   "Qruplar (Ctrl+G)",
+   "Bədii və Stilistik Manipulyasiya"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Düzbucaqlı və kvadrat piksel sahələrini seçir (Shift ilə bərabərtərəfli kvadrat).\"",
+  "options": [
+   "Rectangular Marquee Tool",
+   "Polygonal Lasso Tool",
+   "Shape Rejimi",
+   "Rəsm və Rəngləmə Zonası"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tək kliklə eyni rəng çalarına malik pikselləri aktivləşdirir (Tolerance parametri ilə həssaslığı idarə olunur).\"",
+  "options": [
+   "Polygonal Lasso Tool",
+   "Magnetic Lasso Tool",
+   "Qat Əsaslı (Layer-Based) İş Strukturu",
+   "Magic Wand Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "Qruplar (Ctrl+G)",
+   "Mürəkkəb Rəng və Ton Korreksiyası",
+   "Object Selection Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Böyük Formatlı Küçə Bannerləri",
+   "File > New",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Pikselləri siçanın istiqamətində itələyir (paltar qırışlarını və ya silueti düzəltmək üçün).\"",
+  "options": [
+   "Radial Blur",
+   "Face-Aware Liquify",
+   "Forward Warp Tool (W)",
+   "Lens Flare"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Object Selection Tool",
+   "Smart Objects > Convert to Smart Object",
+   "Mosaic",
+   "WebP"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Kəskinləşdirmə və Detallaşdırma",
+   "Portret Təmizlənməsi",
+   "Overlay və Soft Light",
+   "PPI (Pixels Per Inch)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Mode",
+   "Type Layer (Mətn Qatı)",
+   "Essentials (Standart)",
+   "Smart Objects > Convert to Smart Object"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Süni İntellekt və Generativ Alətlər (Generative Fill / Expand)\" nədir?",
+  "options": [
+   "Kontrast kənarları maqnit kimi izləyərək konturu avtomatik tutur.",
+   "Fırça kimi sürtərək bənzər rəng zonalarını sürətlə seçir.",
+   "Neyron alqoritmləri vasitəsilə təsvirləri genişləndirmək, arzuolunmaz obyektləri silmək və ya mətn sorğusu ilə yeni vizual elementlər yaratmaq.",
+   "Adjustment Layers (tənzimləmə qatları), Layer Masks (qat maskaları) və Smart Objects sayəsində orijinal piksellər toxunulmaz qalır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırçalar, degradelər və rəng doldurma mexanizmləri vasitəsilə yeni piksellər yaratmaq və ya mövcud rəngləri qarışdırmaq üçündür.\"",
+  "options": [
+   "Lasso Tool",
+   "Rəsm və Rəngləmə Zonası",
+   "Shape Rejimi",
+   "Vektor və Tipoqrafika Zonası"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Export for Web\" nədir?",
+  "options": [
+   "Space (basılı saxlamaq)",
+   "Peşəkar fotoretuş və HDR kompozitlər üçün minlərlə çalar təqdim edir, qradiyent keçidlərində xətlənmənin (Color Banding) qarşısını alır.",
+   "Müasir internet üçün Google tərəfindən yaradılmış, həm şəffaflığı, həm də JPEG-dən daha kiçik fayl həcmində yüksək keyfiyyəti təmin edən formatdır.",
+   "Ctrl + Alt + Shift + S"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Portret Təmizlənməsi",
+   "Smooth",
+   "Spot Healing Brush Tool (J)",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Snap (Snap to Guides/Layers)\" nədir?",
+  "options": [
+   "Layihə PNG/JPEG formatında şəbəkə üçün optimallaşdırılaraq ixrac olunur.",
+   "Obyektləri hərəkət etdirərkən bələdçi xətlərə və qat kənarlarına maqnit kimi yapışdırır.",
+   "Təsvirin piksellərini yenidən hesablayır (Resample) və ya iş sahəsinin fiziki sərhədlərini genişləndirir.",
+   "Qatın keyfiyyətini deformasiyadan və piksel itkisindən qoruyan konteyner yaradır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Məhsul Təqdimatı",
+   "Mode (Rəng Rejimləri)",
+   "Export > Save for Web (Legacy)",
+   "Vector Mask"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fiqurları və siluetləri maye kimi elastik korreksiya edir.\"",
+  "options": [
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Liquify (Shift+Ctrl+X)",
+   "Guides > New Guide Layout",
+   "Automate > Photomerge"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Proqramın doğma (native) işçi formatıdır. Bütün qatları (Layers), maskaları, mətn bloklarını, kanalları və tənzimləmə qatlarını (Adjustment Layers) tam həcmdə qoruyub saxlayır.…\"",
+  "options": [
+   "PNG (Portable Network Graphics - PNG-8 / PNG-24)",
+   "PSD (Photoshop Document)",
+   "Zoom In / Zoom Out",
+   "WebP"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Flame & Tree\" nədir?",
+  "options": [
+   "Vektor xətləri (Paths) boyunca realistik alov dilləri və ya müxtəlif fəsillərə uyğun ağac illüstrasiyaları çəkir.",
+   "Çoxmüstəvili memarlıq binalarının və ya interyerlərin perspektiv bucağını foto çəkildikdən sonra belə sərbəst dəyişməyə imkan verir.",
+   "50% boz rəngi şəffaflaşdırır, işıqları daha parlaq, kölgələri isə daha tünd edərək kontrastı kəskin artırır.",
+   "Ağ və açıq rəngli pikselləri tam şəffaf edir, yalnız qaranlıq pikselləri göstərir (məsələn, ağ kağız üzərindəki qara eskizi fona otuzdurmaq üçün)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Unsharp Mask",
+   "Enable Flick Panning",
+   "Layout / Layer",
+   "Nəticə"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Saç, tül və xəz kimi mürəkkəb və şəffaf kənarları təmizləyir.\"",
+  "options": [
+   "Select and Mask (Alt+Ctrl+R)",
+   "Place Embedded",
+   "Liquify (Shift+Ctrl+X)",
+   "Automate > Photomerge"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelinin komponentlərinin izahı (davamı) və qabaqcıl tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "Təyinatı",
+   "Direct Selection Tool (Ağ ox)",
+   "Qrafik Kart (GPU)",
+   "Böyük Formatlı Küçə Bannerləri"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qüsurlu sahə sərbəst çərçivəyə alınır və siçanla təmiz teksturaya malik sahənin üzərinə sürüklənir (Source rejimi).\"",
+  "options": [
+   "Levels (Ctrl+L)",
+   "Dodge Tool",
+   "İş prinsipi",
+   "Color Balance (Ctrl+B)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Qrafik Kart (GPU)\" nədir?",
+  "options": [
+   "DirectX 12 dəstəkli, 1.5 GB VRAM",
+   "[ və ] / Shift + [ və ]",
+   "Böyük piksel ölçülü şəkillər üçün keş səviyyəsini artırmaq kətanın daha axıcı hərəkət etməsini təmin edir.",
+   "şəkli böyütdükdə keyfiyyət itir, kənarlarda kələ-kötür piksel toru görünür."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Sharpen Tool",
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Intersect with Selection (Alt+Shift)",
+   "Spot Healing Brush Tool (J)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənəd qısaltmaları (davamı), şəkil növləri və Photoshop proqramını quraşdırmaq üçün lazımi sistem parametrləri\" mövzusuna aiddir?",
+  "options": [
+   "Image Size & Canvas Size",
+   "Brush Size / Hardness",
+   "Gradient Map (Qradiyent Xəritəsi)",
+   "Lighten Qrupu (Screen, Lighten)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Hue/Saturation (Ctrl+U)\" nədir?",
+  "options": [
+   "Şəkli müstəvi üzrə əyir və ya fəzada perspektiv bucağına otuzdurur.",
+   "Rəng tonunu (Hue), doymasını (Saturation) və parlaqlığını (Lightness) dəyişir.",
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.",
+   "Təsvirin qara, orta və ağ işıq nöqtələrini histoqram üzərində tənzimləyir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Layer quruluşunun açıqlaması (davamı), şəkil filtrləmə tətbiqinin istifadə məqsədləri və filtr əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Painting (Rəqəmsal Rəssamlıq)",
+   "Blur Gallery (Tilt-Shift, Iris Blur)",
+   "Feather",
+   "Content-Aware Fill"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Add to Selection (Shift)",
+   "Magnetic Lasso Tool",
+   "Subject / Sky",
+   "Shape Layer"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İşıq mənbəyinin istiliyini (məsələn, gün batımının qızılı şüalarını) bütün personajın üzərinə hopdurmaq üçün tətbiq olunur.\"",
+  "options": [
+   "Save / Save As",
+   "Overlay və Soft Light",
+   "Image (Görüntü)",
+   "Export > Export As / Quick Export as PNG"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Subtract from Selection (Alt)\" nədir?",
+  "options": [
+   "Workspace, Layers, History, Properties",
+   "New Layer, Mask, Smart Objects, Group",
+   "Yalnız iki seçimin kəsişdiyi ortaq zonanı saxlayır.",
+   "Mövcud seçimdən müəyyən sahəni kəsib çıxarır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Units & Rulers\" nədir?",
+  "options": [
+   "Qatı \"ağıllı konteyner\" halına salaraq keyfiyyət itkisinin qarşısını alır.",
+   "Xətkeşlərin ölçü vahidini poliqrafiya üçün.",
+   "Sənədi RGB, CMYK, Grayscale və ya Lab rəng modellərinə keçirir.",
+   "Proqramın vizual temasını (tünd boz, qara və ya açıq) və şrift ölçüsünü nizamlayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Shape Layer\" nədir?",
+  "options": [
+   "Şəklin müəyyən hissələrinin rəng doymasını artırır (Saturate) və ya azaldaraq ağ-qaraya doğru aparır (Desaturate).",
+   "Üzdəki xırda sızanaqlar, qırışlar, toz izləri və skan cızıqlarının sürətlə təmizlənməsi.",
+   "Həndəsi vektor formaları saxlayan qat.",
+   "Altındakı bütün qatların rəngini və kontrastını idarə edən, orijinal fotoya toxunmayan dinamik qatdır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"İş prinsipi\" nədir?",
+  "options": [
+   "Əlavə nümunə sahəsi tələb etmir. Tək bir kliklə seçilmiş ləkənin daxili piksellərini ətrafdakı qonşu piksellərin teksturası, parlaqlığı və rəngi ilə…",
+   "Standart foto və rəsm qatıdır.",
+   "Peşəkar işıq, tekstura, aydınlıq (Clarity) və rəng dərəcələndirmə mərkəzidir.",
+   "İşıq-kölgə əyrisi vasitəsilə ən dəqiq kontrast və rəng kanalları korreksiyasını təmin edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Smart Sharpen\" nədir?",
+  "options": [
+   "Təsvirə günəş və ya projektor linza parıltısı əlavə edir.",
+   "Üz və bədən quruluşunu elastik korreksiya edir.",
+   "Şəkildəki küyü (Noise) artırmadan xırda konturları və detalları önə çıxarır.",
+   "Şəklin işıq-kölgə pillələrinə xüsusi rəng qradiyenti bağlayır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Image Size & Canvas Size",
+   "Rulers (Ctrl+R)",
+   "Clouds / Difference Clouds",
+   "Mürəkkəb Fon Dəyişdirilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.\"",
+  "options": [
+   "Curves (Ctrl+M)",
+   "Sponge Tool",
+   "Liquify (Shift+Ctrl+X)",
+   "Təyinatı"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Vector Mask",
+   "Image Size & Canvas Size",
+   "Ratio / Dimensions",
+   "Polygonal Lasso Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Yuxarı Tezlik Qatı (High Frequency)\" nədir?",
+  "options": [
+   "Üz və bədən quruluşunu elastik korreksiya edir.",
+   "Şəkildəki küyü (Noise) artırmadan xırda konturları və detalları önə çıxarır.",
+   "Yalnız xırda dəri məsamələrini və toxumanı saxlayır (Apply Image əmri və Linear Light rejimi ilə).",
+   "Qırmızı (R), Yaşıl (G) və Mavi (B) kanalları fərdi şəkildə qaldırıb-endirərək rəng tonlaması yaradır (məsələn, kölgələrə mavi, işıqlara qızılı ton)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"biri işıqlandırma, digəri tündləşdirmə üçün.\"",
+  "options": [
+   "Color Lookup",
+   "Lens Flare",
+   "Smart Sharpen",
+   "İki ayrı tənzimləmə qatı (Curves) açılır"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Place Embedded / Place Linked\" nədir?",
+  "options": [
+   "Yaxınlaşdırmanın axıcı olmasını təmin edir.",
+   "Proqramın bütün daxili performans, interfeys və yaddaş nizamlamaları pəncərəsini açır.",
+   "Obyektin miqyasını, fırlanmasını və əyilməsini təmin edir.",
+   "Xarici foto və ya vektor fayllarını cari sənədin içinə Smart Object kimi yerləşdirir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor xəttinin fərdi bağlantı nöqtələrini (Anchor Points) və qövs tutacaqlarını tənzimləyir.\"",
+  "options": [
+   "Hand Tool (H / Space)",
+   "Direct Selection Tool (Ağ ox)",
+   "Vektor çərçivənin künc nöqtələrinin fərdiləşdirilməsi",
+   "Straighten Layer"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Color Dodge və Linear Dodge (Add)",
+   "Sponge Tool",
+   "Surface Blur",
+   "Image (Görüntü)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Blur Tool",
+   "Show Transform Controls",
+   "Motion Blur",
+   "Düşən Kölgə (Cast Shadow)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İşıq Sirayəti (Light Wrap)\" nədir?",
+  "options": [
+   "Kamera obyektivinə çox yaxın olan ön detallar və ən arxadakı mənzərə dumanlandırılır (Lens Blur), diqqət yalnız əsas kompozisiya mərkəzində…",
+   "Parlaq fondan gələn işıq şüalarının ön plandakı obyektin kənarlarına hopmasıdır. Yumşaq fırça və Inner Glow effekti ilə obyektin kənarlarına fon…",
+   "[01_FON] → [02_OBYEKTLƏR] → [03_EFEKTLƏR] → [04_MƏTNLƏR] → [05_RƏNG_KORREKSİYASI].",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Daimi Yaddaş (Disk)",
+   "Qat Kilidi (Lock)",
+   "Elliptical Marquee Tool",
+   "Select and Mask (Alt+Ctrl+R)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Parlaq günəş altında qaranlıq düşmüş kölgələri açır və ya həddindən artıq ağarmış işıqlı səthlərin detalını bərpa edir.\"",
+  "options": [
+   "Clouds / Difference Clouds",
+   "Spherize",
+   "Color Halftone",
+   "Shadows/Highlights (Image > Adjustments > Shadows/Highlights)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirə müəyyən bucaq və məsafə üzrə sürətli hərəkət dinamikası (məsələn, şütüyən avtomobil çarxı) verir.\"",
+  "options": [
+   "Wind",
+   "Ağ rəng",
+   "Unsharp Mask",
+   "Motion Blur"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Workspace, Layers, History, Properties\"",
+  "options": [
+   "Window (Pəncərə)",
+   "3D Menyusu",
+   "Opacity (Şəffaflıq)",
+   "Essentials (Standart)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil birləşdirmə əməliyyatının mərhələləri, vizual dizayn əməliyyatları və layerlərin düzəldilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Blur Gallery (Tilt-Shift, Iris Blur)",
+   "WebP",
+   "Object Selection Tool",
+   "Fokus və Sahə Dərinliyi (Depth of Field)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Dağıdıcı Olmayan Redaktə (Non-Destructive Editing)\" nədir?",
+  "options": [
+   "Adjustment Layers (tənzimləmə qatları), Layer Masks (qat maskaları) və Smart Objects sayəsində orijinal piksellər toxunulmaz qalır.",
+   "Süni intellektlə obyektin üzərinə çərçivə çəkdikdə həmin fiquru dərhal fondan ayırır.",
+   "Tək kliklə eyni rəng çalarına malik pikselləri aktivləşdirir (Tolerance parametri ilə həssaslığı idarə olunur).",
+   "Neyron alqoritmləri vasitəsilə təsvirləri genişləndirmək, arzuolunmaz obyektləri silmək və ya mətn sorğusu ilə yeni vizual elementlər yaratmaq."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir neçə fərqli kadrı avtomatik birləşdirərək vahid geniş panoramik foto yaradır.\"",
+  "options": [
+   "Filter > Camera Raw Filter",
+   "Snap (Snap to Guides/Layers)",
+   "Smart Objects",
+   "Automate > Photomerge"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Animated Zoom\" nədir?",
+  "options": [
+   "Curves, Levels, Hue/Saturation, Color Balance kimi güclü rəng və kontrast alətlərini birbaşa piksellərə tətbiq edir.",
+   "Yaxınlaşdırmanın axıcı olmasını təmin edir.",
+   "Pikselləri zədələmədən rəng və kontrast verən dağıdıcı olmayan tənzimləmə qatları açır.",
+   "Xarici foto və ya vektor fayllarını cari sənədin içinə Smart Object kimi yerləşdirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Straighten Layer",
+   "Healing Brush Tool (J)",
+   "Hand Tool (Pan)",
+   "Reduce Noise"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ruler Tool\"",
+  "options": [
+   "Əyilmiş bina və ya dəniz üfüqünün düzəldilməsi",
+   "Direct Selection Tool (Ağ ox)",
+   "Path Selection Tool (Qara ox)",
+   "Straighten Layer"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Straighten",
+   "Export > Export As / Quick Export as PNG",
+   "Quick Selection Tool",
+   "Adjustments (Curves, Levels, Vibrance)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Free Transform (Ctrl+T)",
+   "Subject / Sky",
+   "Liquify (Shift+Ctrl+X)",
+   "Spot Healing Brush Tool (J)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Veb-saytlar üçün qrafikləri sıxaraq minimum fayl həcmində və yüksək sürətlə yüklənən keyfiyyətdə saxlayır.\"",
+  "options": [
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Export > Save for Web (Legacy)",
+   "Subject / Sky",
+   "Smart Objects"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Vector Mask\" nədir?",
+  "options": [
+   "Qatı xüsusi qoruyucu zərf içinə alır. Bu obyekt dəfələrlə kiçildilib yenidən böyüdülsə belə, orijinal piksellər bərpa olunur.",
+   "Pen Tool ilə çəkilmiş kəskin vektor konturlar əsasında maskalama yaradır.",
+   "Seçilmiş sahəni göstərilən piksel qədər böyüdür və ya daxilə doğru sıxır.",
+   "Böyüdüldükdə pikselləşir, keyfiyyət itir"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Match Color\" nədir?",
+  "options": [
+   "50% boz rəngi şəffaflaşdırır, işıqları daha parlaq, kölgələri isə daha tünd edərək kontrastı kəskin artırır.",
+   "Şəklin üzərinə elastik modul toru (Grid) atır. Məsələn, bir etiketi silindrik butulkanın və ya parçanın dalğalı relyefinə uyğun bükmək üçün tətbiq…",
+   "Bir fotoşəklin rəng və işıq atmosferini başqa bir fotoşəkilin rəng tonlarına avtomatik uyğunlaşdırır. Kompozitinq üçün əvəzsiz əmrdir.",
+   "Ağ və açıq rəngli pikselləri tam şəffaf edir, yalnız qaranlıq pikselləri göstərir (məsələn, ağ kağız üzərindəki qara eskizi fona otuzdurmaq üçün)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma.\"",
+  "options": [
+   "Fokus və Sahə Dərinliyi (Depth of Field)",
+   "Hava Perspektivi (Atmospheric Perspective)",
+   "Ətraf Mühit Kölgəsi (Ambient Occlusion)",
+   "Düşən Kölgə (Cast Shadow)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Arxa planda olan obyektlər ön plandakılara nisbətən daha az kontrastlı, daha solğun və havanın rənginə (adətən mavi/boz çalara) bürünmüş olmalıdır.\"",
+  "options": [
+   "Fokus və Sahə Dərinliyi (Depth of Field)",
+   "İşıq Sirayəti (Light Wrap)",
+   "Hava Perspektivi (Atmospheric Perspective)",
+   "Təmas Kölgəsi (Contact Shadow)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Həndəsi vektor formaları saxlayan qat.\"",
+  "options": [
+   "Type Layer (Mətn Qatı)",
+   "Shape Layer",
+   "Transform > Perspective / Warp",
+   "İş prinsipi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dərinin teksturası və məsamələri qətiyyən pozulmadan altındakı ləkələr və ton uyğunsuzluqları hamarlanır.\"",
+  "options": [
+   "Nəticə",
+   "Gradient Map",
+   "Motion Blur",
+   "Lens Flare"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Create Clipping Mask (Alt+Ctrl+G)\" nədir?",
+  "options": [
+   "Sənəddə avtomatlaşdırılmış modul torları, sütunlar və kənar sahələr (marjinlər) qurur.",
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır.",
+   "Fiqurları və siluetləri maye kimi elastik korreksiya edir.",
+   "Xarici fotoşəkli cari layihəyə daxil edir və avtomatik olaraq Smart Object qatına çevirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İnsan və ya obyekt siluetinə daxili oynaq nöqtələri (Pins) qoyaraq bədən üzvlərini və ya detalları sərbəst hərəkət etdirir.\"",
+  "options": [
+   "Place Embedded / Place Linked",
+   "Adjustments (Ton və Rəng Korreksiyası)",
+   "Smart Objects > Convert to Smart Object",
+   "Puppet Warp (Qurğu Deformasiyası)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əlavə nümunə sahəsi tələb etmir. Tək bir kliklə seçilmiş ləkənin daxili piksellərini ətrafdakı qonşu piksellərin teksturası, parlaqlığı və rəngi ilə avtomatik qovuşdurur.\"",
+  "options": [
+   "Pixel Layer",
+   "İş prinsipi",
+   "Sharpen Tool",
+   "Burn Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Camera Raw Filter (Shift+Ctrl+A)\" nədir?",
+  "options": [
+   "Peşəkar işıq, temperatur və rəng dərəcələndirmə mərkəzidir.",
+   "Üst qatı altındakı qatın konturları daxilində məhdudlaşdırır.",
+   "Sənədin rəng məkanını dəyişir (məsələn, ekrandan çapa keçərkən RGB-dən CMYK-ya).",
+   "Təsvirdəki müəyyən bir rəng çalarını damlalığın köməyi ilə bütün kətan boyu avtomatik seçir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Place Embedded",
+   "Gaussian Blur",
+   "Qat Əsaslı (Layer-Based) İş Strukturu",
+   "Magic Wand Tool"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Show Transform Controls\" nədir?",
+  "options": [
+   "Şəklin sərhədlərini ölçüləndirmək, ləkələri təmizləmək və pikselləri klonlaşdırmaq üçün istifadə olunur.",
+   "Siçanın hərəkəti ilə sərbəst əl cizgisi seçimi aparır.",
+   "Obyektin ətrafında ölçü dəyişmə çərçivəsini göstərir.",
+   "Rəng və kontrast kənarlarını avtomatik hiss edərək obyektin kənarına yapışır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Magic Wand Tool",
+   "Photography (Fotoqrafiya)",
+   "Snap (Snap to Guides/Layers)",
+   "İş prinsipi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yaxınlaşdırmanın axıcı olmasını təmin edir.\"",
+  "options": [
+   "Puppet Warp (Qurğu Deformasiyası)",
+   "Animated Zoom",
+   "Image Size (Alt+Ctrl+I) & Canvas Size (Alt+Ctrl+C)",
+   "Enable Flick Panning"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanın proporsiyasını sabit saxlayır (məsələn, 1:1 Kvadrat, 16:9 Geniş ekran).\"",
+  "options": [
+   "Ratio / Dimensions",
+   "Mode (Qarışdırma Rejimləri)",
+   "New Selection",
+   "Photography (Fotoqrafiya)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qrafik dizayn üçün ən universal panellər toplusudur (Layers, Properties, Swatches).\"",
+  "options": [
+   "Ratio / Dimensions",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "Mode (Qarışdırma Rejimləri)",
+   "Essentials (Standart)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"64-bit dəstəkli, 2 GHz və ya daha sürətli Intel / AMD prosessor\"",
+  "options": [
+   "Prosessor (CPU)",
+   "History States (Geri Qaytarma Addımları)",
+   "New Layer",
+   "Fill Selection"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Bədii və Stilistik Manipulyasiya",
+   "Select Subject & Select and Mask",
+   "Lighten Qrupu (Screen, Lighten)",
+   "Place Embedded / Place Linked"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"PSB (Photoshop Big Document / Böyük Sənəd Formatı)\" nədir?",
+  "options": [
+   "Veb və interfeys dizaynı üçün əvəzsizdir. İtkisiz sıxılma təqdim edir və ən əsası.",
+   "Peşəkar fotoretuş və HDR kompozitlər üçün minlərlə çalar təqdim edir, qradiyent keçidlərində xətlənmənin (Color Banding) qarşısını alır.",
+   "Həcmi 2 GB-dan böyük olan, piksel ölçüsü 30 000 x 30 000 pikseli aşan (maksimum 300 000 pikselə qədər) nəhəng banner və bilbord layihələri üçün…",
+   "Bir düym (2.54 sm) sahəyə düşən piksellərin sıxlığıdır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətan böyüdüldükdə boş qalan kənarları fon toxuması ilə süni intellekt vasitəsilə doldurur.\"",
+  "options": [
+   "Content-Aware Crop",
+   "Flow (Axın Sürəti)",
+   "3D Menyusu",
+   "Feather"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dərhal rəngli vektor forma və qat yaradır.\"",
+  "options": [
+   "Spot Healing Brush Tool (J)",
+   "Background Eraser",
+   "Magic Eraser",
+   "Shape Rejimi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelinin komponentlərinin izahı (davamı) və qabaqcıl tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "Path Selection Tool (Qara ox)",
+   "Qara rəng",
+   "Qat Kilidi (Lock)",
+   "Guides > New Guide Layout"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Unsharp Mask",
+   "View > Guides > New Guide Layout",
+   "Magnetic Lasso Tool",
+   "Ratio / Dimensions"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ön və arxa plan rəngləri əsasında təbii duman, tüstü və bulud toxuması generasiya edir.\"",
+  "options": [
+   "Clouds / Difference Clouds",
+   "Flame & Tree",
+   "Warp",
+   "Perspective"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Piksellərin işıq, kölgə və rəng doymasını birbaşa tənzimləyir.\"",
+  "options": [
+   "Liquify (Shift+Ctrl+X)",
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Snap (Snap to Guides/Layers)",
+   "File > Export > Export As"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Standard Eraser",
+   "Content-Aware Fill",
+   "Units & Rulers",
+   "Feather (Shift+F6)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mövcud seçimin üzərinə yeni sahə əlavə edir.\"",
+  "options": [
+   "Ratio / Dimensions",
+   "Add to Selection (Shift)",
+   "File (Fayl)",
+   "Subtract from Selection (Alt)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn",
+   "Quick Selection Tool",
+   "Opacity (Qeyri-şəffaflıq) və Fill",
+   "Window (Pəncərə)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ctrl + S / Ctrl + Shift + S\"",
+  "options": [
+   "Böyük Formatlı Küçə Bannerləri",
+   "Save / Save As",
+   "PPI (Pixels Per Inch)",
+   "Export for Web"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Layer Mask\" nədir?",
+  "options": [
+   "Seçilmiş sahəni göstərilən piksel qədər böyüdür və ya daxilə doğru sıxır.",
+   "PSD, JPEG, PNG, TIFF, WebP",
+   "Qara və ağ fırçalarla piksel əsaslı yumşaq gizlətmə aparır.",
+   "Pen Tool ilə çəkilmiş kəskin vektor konturlar əsasında maskalama yaradır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Flow (Axın Sürəti)\" nədir?",
+  "options": [
+   "Kətan böyüdüldükdə boş qalan kənarları fon toxuması ilə süni intellekt vasitəsilə doldurur.",
+   "Mövcud seçimin üzərinə yeni sahə əlavə edir.",
+   "Kətanın proporsiyasını sabit saxlayır (məsələn, 1:1 Kvadrat, 16:9 Geniş ekran).",
+   "Fırçanı kətan üzərində hərəkət etdirərkən boyanın çıxma sürətini idarə edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "TIFF (Tagged Image File Format)",
+   "Blur Gallery (Tilt-Shift, Iris Blur)",
+   "Guides > New Guide Layout",
+   "PSD (Photoshop Document)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Export > Export As / Quick Export as PNG\" nədir?",
+  "options": [
+   "Qatları və ya bütöv sənədi rəqəmsal şəbəkə üçün optimallaşdırılmış şəkildə sürətlə yaddaşa yazır.",
+   "Pikselləri zədələmədən rəng və kontrast verən dağıdıcı olmayan tənzimləmə qatları açır.",
+   "Xarici foto və ya vektor fayllarını cari sənədin içinə Smart Object kimi yerləşdirir.",
+   "Proqramın bütün daxili performans, interfeys və yaddaş nizamlamaları pəncərəsini açır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil birləşdirmə əməliyyatının mərhələləri, vizual dizayn əməliyyatları və layerlərin düzəldilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Gaussian Blur",
+   "Object Selection Tool",
+   "Hava Perspektivi (Atmospheric Perspective)",
+   "Qruplar (Ctrl+G)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kənar kəskinlikləri qoruyaraq yalnız daxili hamar səthləri dumanlandırır (dəri təmizlənməsində istifadə edilir).\"",
+  "options": [
+   "Smart Sharpen",
+   "Surface Blur",
+   "Aşağı Tezlik Qatı (Low Frequency)",
+   "Motion Blur"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Lasso Tool\" nədir?",
+  "options": [
+   "Əllə sərbəst seçim aparır.",
+   "8-bit, 16-bit və 32-bit kanallarda işləyərək rəngləri, ekspozisiyanı və kontrastı peşəkar səviyyədə nizamlamaq imkanı.",
+   "Düz xətlərdən ibarət künclü obyektləri seçir.",
+   "Hər bir vizual detal, mətn, filtr və tənzimləmə bir-birindən asılı olmayan müstəqil laylarda idarə olunur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Preferences (Ctrl+K)\" nədir?",
+  "options": [
+   "Qatın müəyyən sahələrini qara/ağ fırça ilə gizlətmək və ya göstərmək üçün maska qatır.",
+   "Proqramın bütün daxili performans, interfeys və yaddaş nizamlamaları pəncərəsini açır.",
+   "Yaxınlaşdırmanın axıcı olmasını təmin edir.",
+   "Obyektin miqyasını, fırlanmasını və əyilməsini təmin edir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Təmas Kölgəsi (Contact Shadow)\" nədir?",
+  "options": [
+   "Kamera obyektivinə çox yaxın olan ön detallar və ən arxadakı mənzərə dumanlandırılır (Lens Blur), diqqət yalnız əsas kompozisiya mərkəzində…",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma.",
+   "Obyektin zəminə toxunduğu yerdəki ən tünd, kəskin xətt.",
+   "Obyektin altındakı ümumi yarıqaranlıq zona."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Qara maska üzərində ağ fırça ilə (Flow\" nədir?",
+  "options": [
+   "1-3%) modelin yanaq sümükləri, burun xətti və gözləri işıqlandırılır, konturlar tündləşdirilərək dərin 3D həcm yaradılır.",
+   "Şəklin işıq-kölgə pillələrinə xüsusi rəng qradiyenti bağlayır.",
+   "Şəkildəki küyü (Noise) artırmadan xırda konturları və detalları önə çıxarır.",
+   "Şəklin yalnız xırda kənarlarını boz rəngdə çıxarır; qatın rejimi Overlay edildikdə fotoya təbii mikro-kəskinlik qazandırır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Stamp Visible (Merge All to New)\" nədir?",
+  "options": [
+   "[ və ] / Shift + [ və ]",
+   "Ctrl + Shift + N",
+   "Alt + Backspace / Ctrl + Backspace",
+   "Ctrl + Alt + Shift + E"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Clone Stamp Tool (S)\" nədir?",
+  "options": [
+   "Alt düyməsi ilə təmiz dəri sahəsindən nümunə götürür və hədəf zonaya həmin teksturanı köçürərək işıq tonunu avtomatik uyğunlaşdırır.",
+   "Nöqtələri qoyduqca qövsləri avtomatik formalaşdıran intuitiv vektor alətidir.",
+   "Alt ilə götürülən pikselləri heç bir süni rəng yumşaltması aparmadan 1:1 dəqiqliklə hədəfə köçürür.",
+   "Rəng və kontrast kənarlarını avtomatik hiss edərək obyektin kənarına yapışır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Alətlər panelində yerləşən şəkil üzərində işləmə və düzəltmə alətlərinin istifadə məqsədləri, şəkil üzərində işləmə əmrləri və layer quruluşu\" mövzusuna aiddir?",
+  "options": [
+   "Layer Mask",
+   "Smudge Tool",
+   "Adjustments (Ton və Rəng Korreksiyası)",
+   "Export for Web"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Smart Sharpen\" nədir?",
+  "options": [
+   "Şəkildəki küyü artırmadan kənarların kəskinliyini dəqiqliklə bərpa edir.",
+   "Pikselləri siçanın istiqamətində itələyir (paltar qırışlarını və ya silueti düzəltmək üçün).",
+   "Real kamera obyektivinin sahə dərinliyini (Depth of Field) imitasiya edir; şəhər mənzərəsini kiçik oyuncaq maket kimi göstərən Tilt-Shift effekti…",
+   "Obyektiv təhriflərini (distorsiyanı), xromatik aberrasiyaları və kənar qaralmalarını (vinetkanı) aradan qaldırmaq."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Face-Aware Liquify\" nədir?",
+  "options": [
+   "Pikselləri siçanın istiqamətində itələyir (paltar qırışlarını və ya silueti düzəltmək üçün).",
+   "Mərkəzdən fırlanma və ya partlayışvari yaxınlaşma təsiri yaradır.",
+   "Şəkildəki insan simasını avtomatik tanıyır; gözlərin ölçüsünü, burnun enini, dodaqların gülüş dərəcəsini və çənə xəttini tək bir slayderlə təbii…",
+   "Qaranlıq mühitdə çəkilmiş fotoşəkillərdəki rəngli rəqəmsal parazitləri təmizləyir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Süni intellekt köhnə ağ-qara şəklin elementlərini (dəri, səma, geyim) tanıyaraq avtomatik rəngləndirir.\"",
+  "options": [
+   "Qara maska üzərində ağ fırça ilə (Flow",
+   "Color Lookup",
+   "Neural Filters > Colorize",
+   "Surface Blur"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Düzbucaqlı panoramik şəkilləri dairəvi \"kiçik planet\" (Tiny Planet) formasına çevirir və ya əksinə açır.\"",
+  "options": [
+   "Lighten Qrupu (Screen, Lighten)",
+   "Mosaic",
+   "Polar Coordinates",
+   "Perspective"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil üzərində əməliyyatlar əmrlərinin istifadəsi (davamı) və şəkil filtrlərinin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Border",
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)",
+   "Filter > Camera Raw Filter",
+   "Motion Blur"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Flame & Tree",
+   "Select Subject & Select and Mask",
+   "Convert to Smart Object",
+   "Background Eraser"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətan sərhədlərini aşan sahələri süni intellekt alqoritmləri ilə şəklin təbii davamı kimi generasiya edir.\"",
+  "options": [
+   "Shadows/Highlights (Image > Adjustments > Shadows/Highlights)",
+   "Generative Expand (Generativ Genişləndirmə)",
+   "Darken Qrupu (Multiply, Darken)",
+   "Perspective"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"File (Fayl)\" nədir?",
+  "options": [
+   "Open, Save As, Place Embedded, Export As",
+   "Mode, Adjustments, Canvas Size, Image Size",
+   "Fırça vuruşunun kətandakı piksellərlə necə qarışacağını (Normal, Multiply, Screen, Overlay) seçir.",
+   "Bir kliklə mürəkkəb saç və bədən kənarlarını ayırmaq üçün süni intellektli kənar emalı mühitinə keçir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Graphic and Web",
+   "Mosaic",
+   "File > Place Embedded",
+   "Dodge Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramını yükləyən zaman keçilən mərhələlər, proqramın xüsusiyyətləri və əsas alətlərin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Color Halftone",
+   "Qara maska üzərində ağ fırça ilə (Flow",
+   "Export > Save for Web (Legacy)",
+   "Süni İntellekt və Generativ Alətlər (Generative Fill / Expand)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Filtr və xüsusiyyətlərinin izahı, şəkil rəngləmə və şəkil düzəltmə (retouch) əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Color Lookup",
+   "Curves (Ctrl+M)",
+   "Sponge Tool",
+   "Automate > Batch"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Ən böyük məhdudiyyəti isə miqyasa bağlı olmasıdır\" nədir?",
+  "options": [
+   "Ctrl + Alt + Shift + E",
+   "şəkli böyütdükdə keyfiyyət itir, kənarlarda kələ-kötür piksel toru görünür.",
+   "DirectX 12 dəstəkli, 1.5 GB VRAM",
+   "64-bit dəstəkli, 2 GHz və ya daha sürətli Intel / AMD prosessor"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Perspective\" nədir?",
+  "options": [
+   "Təsvirin künclərini fəza oxları üzrə dartaraq divar, bilbord və ya döşəmə kimi müstəvilərə tam otuzdurur.",
+   "Kətan sərhədlərini aşan sahələri süni intellekt alqoritmləri ilə şəklin təbii davamı kimi generasiya edir.",
+   "Şəklin kölgələrinə, orta tonlarına və işıqlarına fərqli rəng keçidi bağlayaraq xüsusi bədii və kinematoqrafik afişa effektləri yaradır.",
+   "Maye səthində yaranan su dalğalarını və titrəmələri simulyasiya edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rotate View Tool (R)\" nədir?",
+  "options": [
+   "Direct Selection Tool (A)",
+   "Qrafik planşetlə rəsm çəkərkən və ya retuş edərkən kətanı təbii kağız kimi sərbəst bucaq altında fırladır (Esc basıldıqda ilkin vəziyyətə qayıdır).",
+   "Əyilmiş üfüq xəttini xətkeşlə çəkib tək kliklə sənədi tam üfüqi vəziyyətə gətirir.",
+   "Vektor xəttinin fərdi bağlantı nöqtələrini (Anchor Points) və qövs tutacaqlarını tənzimləyir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Ətraf Mühit Kölgəsi (Ambient Occlusion)\" nədir?",
+  "options": [
+   "[01_FON] → [02_OBYEKTLƏR] → [03_EFEKTLƏR] → [04_MƏTNLƏR] → [05_RƏNG_KORREKSİYASI].",
+   "Obyektin altındakı ümumi yarıqaranlıq zona.",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma.",
+   "Arxa planda olan obyektlər ön plandakılara nisbətən daha az kontrastlı, daha solğun və havanın rənginə (adətən mavi/boz çalara) bürünmüş olmalıdır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"History States (Geri Qaytarma Addımları)\" nədir?",
+  "options": [
+   "64-bit dəstəkli, 2 GHz və ya daha sürətli Intel / AMD prosessor",
+   "20 GB boş yer olan standart HDD",
+   "Standart olaraq 50 addım təyin edilir. Bu rəqəmi 100-dən yuxarı qaldırmaq RAM-ı həddindən artıq yükləyə bilər.",
+   "DirectX 12 dəstəkli, 1.5 GB VRAM"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop menyularının xüsusiyyətləri, nizamlamaları, alət və menyuların istifadəsi, fayl növləri və rəng modları\" mövzusuna aiddir?",
+  "options": [
+   "Emboss",
+   "Face-Aware Liquify",
+   "Anti-alias",
+   "Preferences (Ctrl+K)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Camera Raw Filter (Shift+Ctrl+A)",
+   "Free Transform (Ctrl+T)",
+   "Mürəkkəb Rəng və Ton Korreksiyası",
+   "Color Lookup"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin kölgələrinə, orta tonlarına və işıqlarına fərqli rəng keçidi bağlayaraq xüsusi bədii və kinematoqrafik afişa effektləri yaradır.\"",
+  "options": [
+   "Gradient Map (Qradiyent Xəritəsi)",
+   "Match Color",
+   "Mosaic",
+   "Generative Expand (Generativ Genişləndirmə)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nöqtələri qoyduqca qövsləri avtomatik formalaşdıran intuitiv vektor alətidir.\"",
+  "options": [
+   "Show Transform Controls",
+   "Curvature Pen Tool",
+   "Rectangular Marquee Tool",
+   "Vektor və Tipoqrafika Zonası"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tipoqrafika və interfeys dizaynı üçün Character, Paragraph, Glyphs panellərini mərkəzə yığır.\"",
+  "options": [
+   "Brush Preset Picker",
+   "3D Menyusu",
+   "Graphic and Web",
+   "Flow (Axın Sürəti)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üzdəki xırda sızanaqlar, qırışlar, toz izləri və skan cızıqlarının sürətlə təmizlənməsi.\"",
+  "options": [
+   "Təyinatı",
+   "Curves (Ctrl+M)",
+   "İş prinsipi",
+   "Dodge Tool"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil birləşdirmə əməliyyatının mərhələləri, vizual dizayn əməliyyatları və layerlərin düzəldilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Zoom In / Zoom Out",
+   "Hand Tool (H / Space)",
+   "Hand Tool (Pan)",
+   "İşıq Sirayəti (Light Wrap)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil birləşdirmə əməliyyatının mərhələləri, vizual dizayn əməliyyatları və layerlərin düzəldilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Layihə qat-qat zonalara bölünür",
+   "Zoom In / Zoom Out",
+   "Polygonal Lasso Tool",
+   "Burn Tool"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Qara rəng\" nədir?",
+  "options": [
+   "Təsvirə müəyyən bucaq və məsafə üzrə sürətli hərəkət dinamikası (məsələn, şütüyən avtomobil çarxı) verir.",
+   "Obyektiv təhriflərini (distorsiyanı), xromatik aberrasiyaları və kənar qaralmalarını (vinetkanı) aradan qaldırmaq.",
+   "Qatdakı pikselləri tamamilə gizlədir (şəffaf edir).",
+   "Arxa fonu dumanlandıraraq əsas obyekti qabartmaq (Bokeh effekti)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Smoothing (Hamarlama)\" nədir?",
+  "options": [
+   "Fırça vuruşunun kətandakı piksellərlə necə qarışacağını (Normal, Multiply, Screen, Overlay) seçir.",
+   "Tipoqrafika və interfeys dizaynı üçün Character, Paragraph, Glyphs panellərini mərkəzə yığır.",
+   "Rulers, Guides, Snap, Proof Colors",
+   "Əl titrəməsini kompensasiya edərək qüsursuz, hamar xətlər çəkməyə imkan verir (0% - 100%)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Düşən Kölgə (Cast Shadow)\" nədir?",
+  "options": [
+   "Parlaq fondan gələn işıq şüalarının ön plandakı obyektin kənarlarına hopmasıdır. Yumşaq fırça və Inner Glow effekti ilə obyektin kənarlarına fon…",
+   "İşıq mənbəyinin əks istiqamətinə düşən, uzaqlaşdıqca yumşalan (Gaussian Blur) forma.",
+   "[01_FON] → [02_OBYEKTLƏR] → [03_EFEKTLƏR] → [04_MƏTNLƏR] → [05_RƏNG_KORREKSİYASI].",
+   "Obyektin zəminə toxunduğu yerdəki ən tünd, kəskin xətt."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Delete Cropped Pixels\" nədir?",
+  "options": [
+   "Dizayner ən çox işlətdiyi panelləri ekranda yerləşdirib ad qoyaraq yaddaşa verə bilər (Window > Workspace > New Workspace).",
+   "Piksel kənarlarının pilləkənli kələ-kötürlüyünü optik hamarlayır.",
+   "Fırçanın ölçüsünü (Size), sərtliyini (Hardness) və uc formasını təyin edir.",
+   "Kəsilən xarici piksellərin birdəfəlik silinməsini və ya qat xaricində gizli saxlanılmasını tənzimləyir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Sponge Tool\" nədir?",
+  "options": [
+   "Alt düyməsi ilə təmiz bir dəri və ya toxuma sahəsindən nümunə götürülür, sonra qüsurlu yerin üzərinə çəkilir. Proqram nümunənin teksturasını…",
+   "Tipoqrafik vektor mətn blokları.",
+   "Altındakı bütün qatların rəngini və kontrastını idarə edən, orijinal fotoya toxunmayan dinamik qatdır.",
+   "Şəklin müəyyən hissələrinin rəng doymasını artırır (Saturate) və ya azaldaraq ağ-qaraya doğru aparır (Desaturate)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Altındakı bütün qatların rəngini və kontrastını idarə edən, orijinal fotoya toxunmayan dinamik qatdır.\"",
+  "options": [
+   "Adjustment Layer (Tənzimləmə Qatı)",
+   "Qat Kilidi (Lock)",
+   "İş prinsipi",
+   "Təyinatı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Intersect with Selection (Alt+Shift)\" nədir?",
+  "options": [
+   "Tipoqrafika və interfeys dizaynı üçün Character, Paragraph, Glyphs panellərini mərkəzə yığır.",
+   "Yalnız iki seçimin kəsişdiyi ortaq zonanı saxlayır.",
+   "Fırçanın ölçüsünü (Size), sərtliyini (Hardness) və uc formasını təyin edir.",
+   "Kətan böyüdüldükdə boş qalan kənarları fon toxuması ilə süni intellekt vasitəsilə doldurur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mürəkkəb obyektlərin (məsələn, saç və ya maşın kənarları) ən kəskin və hamar kəsim xətlərini qurur; sonradan Ctrl+Enter ilə seçilmiş zonaya çevrilir.\"",
+  "options": [
+   "Quick Selection Tool",
+   "Path Rejimi",
+   "Healing Brush Tool (J)",
+   "Lasso Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Photography (Fotoqrafiya)\" nədir?",
+  "options": [
+   "Mode, Adjustments, Canvas Size, Image Size",
+   "Fotoretuşçular üçün Histogram, Navigator, Adjustments panellərini ön plana çıxarır.",
+   "Fırça vuruşunun kətandakı piksellərlə necə qarışacağını (Normal, Multiply, Screen, Overlay) seçir.",
+   "New 3D Extrusion, Render, Light Settings"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Məhsul Təqdimatı",
+   "Layer Mask (Qat Maskası)",
+   "Object Selection Tool",
+   "Mürəkkəb Fon Dəyişdirilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin ətrafında ölçü dəyişmə çərçivəsini göstərir.\"",
+  "options": [
+   "Clone Stamp Tool (S)",
+   "Show Transform Controls",
+   "Rəsm və Rəngləmə Zonası",
+   "Object Selection Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hazır 3D LUT profilləri vasitəsilə film və afişa rəng stilini tək kliklə tətbiq edir.\"",
+  "options": [
+   "Aşağı Tezlik Qatı (Low Frequency)",
+   "Color Lookup",
+   "Smart Sharpen",
+   "High Pass Filter (Other > High Pass)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Curvature Pen Tool\" nədir?",
+  "options": [
+   "Obyektin ətrafında ölçü dəyişmə çərçivəsini göstərir.",
+   "Qatdakı pikselləri fiziki olaraq silir.",
+   "Nöqtələri qoyduqca qövsləri avtomatik formalaşdıran intuitiv vektor alətidir.",
+   "Pikselləri fəzada hərəkət etdirmək, həndəsi və ya sərbəst sərhədlərlə ayırmaq üçün tətbiq edilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Motion Blur",
+   "Healing Brush Tool (J)",
+   "Smart Objects"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Content-Aware Fill\" nədir?",
+  "options": [
+   "Üz və bədən proporsiyalarını elastik şəkildə korreksiya edən maye deformasiya moduludur.",
+   "Təsvirin yalnız seçilmiş tonlarını (Shadows, Midtones, Highlights) yerli olaraq işıqlandırır.",
+   "Təsadüfi tərpənmələrin qarşısını almaq üçün qatın mövqeyi və ya pikselləri kilidlənir.",
+   "Seçilmiş zonanı arxa fonun pikselləri ilə avtomatik tamamlayaraq obyekti yox edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Filter > Camera Raw Filter",
+   "Gradient Map",
+   "Curves (Ctrl+M)",
+   "Şəklin eni və hündürlüyü boyu düzülən piksellərin sayıdır (məsələn"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kontrast kənarları maqnit kimi izləyərək konturu avtomatik tutur.\"",
+  "options": [
+   "Mürəkkəb Fon Dəyişdirilməsi",
+   "Dağıdıcı Olmayan Redaktə (Non-Destructive Editing)",
+   "Magnetic Lasso Tool",
+   "Mürəkkəb Rəng və Ton Korreksiyası"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Select) menyusunun istifadəsi, qrafika və rəsm dizaynı (Vector vs Raster), layerlər altmenyusu və xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Yuxarı Tezlik Qatı (High Frequency)",
+   "Smart Filters",
+   "Unsharp Mask",
+   "Content-Aware Scale (Alt+Shift+Ctrl+C)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Lasso Tool",
+   "Böyük Formatlı Küçə Bannerləri",
+   "Color Lookup",
+   "Prosessor (CPU)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"New 3D Extrusion, Render, Light Settings\"",
+  "options": [
+   "3D Menyusu",
+   "Anti-alias",
+   "Graphic and Web",
+   "Feather"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Photoshop proqramının quraşdırılması, fayl növləri, fayl xüsusiyyətləri və sənəd qısaltmaları\" mövzusuna aiddir?",
+  "options": [
+   "Təyinatı",
+   "Rulers (Ctrl+R)",
+   "Mode (Rəng Rejimləri)",
+   "8-bit kanal"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Menuların əsas istifadəsi — File, Edit, Image, Layer, Select, Filter, View, Window və 3D menyuları\" mövzusuna aiddir?",
+  "options": [
+   "Shadows/Highlights (Image > Adjustments > Shadows/Highlights)",
+   "Image (Görüntü)",
+   "Subject / Sky",
+   "Lasso Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün şəkli bərabər riyazi radius üzrə yumşaldır və dumanlandırır. Təbii kölgələrin qurulmasında ən çox tətbiq edilən filtrdir.\"",
+  "options": [
+   "Kameranın Optik Qüsurlarını Düzəltmək",
+   "Unsharp Mask",
+   "Gaussian Blur",
+   "Qara rəng"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Personajı arxa fondan qoparmaq üçün onun bədən kənarları boyunca incə, parlaq işıq xətləri çəkilir.\"",
+  "options": [
+   "Graphic and Web",
+   "Adjustments (Curves, Levels, Vibrance)",
+   "Shadows/Highlights (Image > Adjustments > Shadows/Highlights)",
+   "Rim Light (Kənar Kontur İşığ)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"50% boz rəngi şəffaflaşdırır, işıqları daha parlaq, kölgələri isə daha tünd edərək kontrastı kəskin artırır.\"",
+  "options": [
+   "Flame & Tree",
+   "Ripple və Wave",
+   "Generative Expand (Generativ Genişləndirmə)",
+   "Contrast Qrupu (Overlay, Soft Light)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Path Selection Tool (Qara ox)\" nədir?",
+  "options": [
+   "Direct Selection Tool (A)",
+   "Kətanı istənilən istiqamətdə sürüşdürür.",
+   "Bütöv vektor cığırını seçir və hərəkət etdirir.",
+   "Qrafik planşetlə rəsm çəkərkən və ya retuş edərkən kətanı təbii kağız kimi sərbəst bucaq altında fırladır (Esc basıldıqda ilkin vəziyyətə qayıdır)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mürəkkəb fotolar, dəri teksturası, rəqəmsal rəsm\"",
+  "options": [
+   "Təyinat sahəsi",
+   "Smart Filters",
+   "Fayl formatları",
+   "Smooth"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Color Dodge və Linear Dodge (Add)\" nədir?",
+  "options": [
+   "Qılınc parıltısı, sehirli şüalar, göz parıltısı və neon işıqları yaratmaq üçün istifadə olunur. Tünd fonda parlaq işıq partlayışı effekti verir.",
+   "Düzbucaqlı panoramik şəkilləri dairəvi \"kiçik planet\" (Tiny Planet) formasına çevirir və ya əksinə açır.",
+   "Ağac və ya insan silueti Object Selection Tool (W) ilə seçilir, yuxarı paneldən.",
+   "Kursoru obyektin üzərinə gətirib kliklədikdə həmin qatı avtomatik tapır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"[01_FON] → [02_OBYEKTLƏR] → [03_EFEKTLƏR] → [04_MƏTNLƏR] → [05_RƏNG_KORREKSİYASI].\"",
+  "options": [
+   "Ətraf Mühit Kölgəsi (Ambient Occlusion)",
+   "Düşən Kölgə (Cast Shadow)",
+   "Layihə qat-qat zonalara bölünür",
+   "Fokus və Sahə Dərinliyi (Depth of Field)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirə günəş və ya projektor linza parıltısı əlavə edir.\"",
+  "options": [
+   "Liquify (Shift+Ctrl+X)",
+   "Nəticə",
+   "Lens Flare",
+   "Neural Filters > Colorize"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Düz xətlərdən ibarət künclü binaları, qutuları və memarlıq formalarını nöqtələrlə seçir.\"",
+  "options": [
+   "Polygonal Lasso Tool",
+   "Magic Wand Tool",
+   "Healing Brush Tool (J)",
+   "Magic Eraser"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsvirin yalnız seçilmiş tonlarını (Shadows, Midtones, Highlights) yerli olaraq işıqlandırır.\"",
+  "options": [
+   "Smudge Tool",
+   "İş prinsipi",
+   "Curves (Ctrl+M)",
+   "Dodge Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir kliklə mürəkkəb saç və bədən kənarlarını ayırmaq üçün süni intellektli kənar emalı mühitinə keçir.\"",
+  "options": [
+   "Select Subject & Select and Mask",
+   "Add to Selection (Shift)",
+   "Fərdi İşçi Sahəsinin Yaradılması (New Workspace)",
+   "New Selection"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Seçimlər (Options) menyusu komponentləri, işçi sahə (Workspace), alətlər paneli ikonlarının istifadəsi və menyuların kompleks tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Delete Cropped Pixels",
+   "İş prinsipi",
+   "Qruplar (Ctrl+G)",
+   "Magnetic Lasso Tool"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırça kimi sürtərək bənzər tonları cəld toplayır.\"",
+  "options": [
+   "Magnetic Lasso Tool",
+   "Quick Selection Tool",
+   "Object Selection Tool",
+   "Vektor və Tipoqrafika Zonası"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Photoshop proqramının alət və menyularının istifadəsi — Seçim, hərəkət, redaktə, retuş, rəng və vektor alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Quick Selection Tool",
+   "Free Transform (Ctrl+T)",
+   "Fokus və Dərinlik İllüziyası",
+   "Mosaic"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sənədin rəng məkanını dəyişir (məsələn, ekrandan çapa keçərkən RGB-dən CMYK-ya).\"",
+  "options": [
+   "File > Place Embedded",
+   "Export > Save for Web (Legacy)",
+   "Mode",
+   "New Adjustment Layer"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"RAW (DNG, CR2, NEF, ARW)\" nədir?",
+  "options": [
+   "Ctrl + + / Ctrl + -",
+   "Peşəkar fotokameraların sensorundan heç bir sıxılma və korreksiya olmadan birbaşa çıxan təmiz rəqəmsal neqativdir. Camera Raw modulunda işlənmək üçün…",
+   "Maksimum 256 rəng çalarını dəstəkləyən, sadə veb animasiyaları üçün nəzərdə tutulan formatdır.",
+   "Müasir internet üçün Google tərəfindən yaradılmış, həm şəffaflığı, həm də JPEG-dən daha kiçik fayl həcmində yüksək keyfiyyəti təmin edən formatdır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ctrl + + / Ctrl + -\"",
+  "options": [
+   "8-bit kanal",
+   "Export for Web",
+   "Zoom In / Zoom Out",
+   "PSD (Photoshop Document)"
+  ],
+  "correct": 2
+ }
+]

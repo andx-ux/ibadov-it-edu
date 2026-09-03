@@ -1,0 +1,5002 @@
+[
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Piksellərin sıxlığı azdır. Yalnız rəqəmsal ekran işləri üçün istifadə olunur. Faylın çəkisini olduqca kiçik saxlayır və kompüteri yükləmir.\"",
+  "options": [
+   "Yuxarı Menyu Paneli (Menu Bar)",
+   "Nöqtə (Points - pt)",
+   "Medium (150 ppi)",
+   "Screen (72 ppi)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Altıbucaqlı bal pətəyi şəbəkəsi üzrə təkrarlanma.\"",
+  "options": [
+   "Hex by Column / Hex by Row",
+   "Swatches Panelində Saxlanma",
+   "İşıqlandırma Rejimləri (Screen, Lighten)",
+   "Pattern Rejiminin Açılması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Stretch Between Guides",
+   "Bucaq və Fırlanma Məlumatları",
+   "Kağız Eskizləri",
+   "Sürətli Çəkmə Rejimi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Simvol formatlanması, simvol formatlanmasının əsasları və irəli effektlər\" mövzusuna aiddir?",
+  "options": [
+   "İşıqlandırma Matrisləri (Diffuse & Specular Lighting)",
+   "Standart qayda",
+   "Tədbirin Adı və Dəvət Mətni",
+   "Üstünlüyü"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi Kitabxana Saxlanması",
+   "Column Graph Tool (Sütun Qrafiki)",
+   "Üz Qabığı",
+   "Make with Top Object (Alt+Ctrl+C)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Scale Strokes & Effects",
+   "Rəqəmlərin Yenilənməsi",
+   "Window Menyusundan Panellərin İdarəsi",
+   "Scale Proportionately"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Background (Fon)\" nədir?",
+  "options": [
+   "Maye dalğalanmaları, tüstü və təbii teksturaları kod səviyyəsində formalaşdırır.",
+   "3D faska + qızılı qradiyent + xarici parıltı) tək bir üslub kimi yaddaşa alır.",
+   "Obyektin ətrafındakı sahənin Transparent (Şəffaf) və ya White (Ağ) qalmasını nizamlayır.",
+   "İkiölçülü vektor düymələrinə və simvollarına relyefli qabarıqlıq və metal parıltısı bəxş edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sütunların enini təyin edir.\"",
+  "options": [
+   "Span",
+   "Transformasiya",
+   "Simvolun Hazırlanması",
+   "Daxili Parametrlərin Tənzimlənməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fiqurun daxili sahəsinin rəngi (Fill) və onu əhatə edən sərhəd xəttinin rəngi, qalınlığı və formasıdır (Stroke).\"",
+  "options": [
+   "Dolğu və Kontur (Fill & Stroke)",
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Ox düymələri (Up/Down Arrows)",
+   "Xətt Parçaları (Path / Segments)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Output (Çıxış Rejimi)",
+   "Zoom Səviyyəsi (Miqyas Göstəricisi)",
+   "Bələdçi Xətlərin (Guides / Guidelines) Yaradılması",
+   "Brick by Row / Brick by Column"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "Relyef Qabartma (Embossing / Debossing)",
+   "Mərkəzi Çevirici Qol (Center Bracket / Flip Handle)",
+   "New File (Yeni Fayl)",
+   "Adobe Bridge və Adobe Stock Girişi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Obyektlərin Seçilməsi\" nədir?",
+  "options": [
+   "Bu əmrdən sonra seçilmiş bütün elementlər vahid.",
+   "Kəsişən xətlər, fiqurlar və ya eskiz konturları Selection Tool (V) ilə bütövlükdə seçilir.",
+   "Bütün rənglənmiş canlı səthlər və kənarlar müstəqil qapalı vektor fiqurlarına parçalanır.",
+   "Aləti seçib canlı boyama qrupunun üzərinə gətirdikdə kursorun yanında üç kiçik rəng kvadratı görünür. Bu kvadratlar Swatches panelindəki cari və…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Emblem və loqo dizaynının hazırlanması, nümunələrin tədqiqi və eskiz mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Scatter Graph Tool (Səpələnmə Qrafiki)",
+   "Eskizin Daxil Edilməsi",
+   "Sütun Dizaynı Kimi Qeydiyyat",
+   "Open (Aç)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Mühüm Qayda\" nədir?",
+  "options": [
+   "Əlaqə məlumatlarının vizual iyerarxiyası sadə bloklarla eskizləşdirilir.",
+   "Əsas vurğu mərkəzidir (şrift ölçüsü: 9 - 11 pt, Bold və ya Medium).",
+   "Vizit kartında heç vaxt 6 pt-dən kiçik şrift istifadə edilməməlidir, əks halda çapda mətnin oxunması çətinləşir.",
+   "Rəssamlar, dizaynerlər, memarlar və fərdi sahibkarlar üçün nəzərdə tutulur; qeyri-standart tipoqrafika, bədii illüstrasiyalar və unikal materiallarla…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Dizaynın Hazırlanması\" nədir?",
+  "options": [
+   "Direct Selection Tool (A) və ya Group Selection Tool vasitəsilə qrafikin dinamik riyazi strukturunu pozmadan ayrı-ayrı sütunlara və sektorlara…",
+   "Obyekt proporsiyasını qoruyaraq mütənasib böyüyür.",
+   "Kətanda xüsusi bir vektor təsviri (məsələn, bina və ya ağac ikonu) çəkilir.",
+   "Ən çox istifadə olunan klassik növdür. Göstəriciləri şaquli sütunların hündürlüyü ilə müqayisə edir. İllik gəlir, aylıq satışlar və ya müqayisəli…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "General Units",
+   "Gutter",
+   "Üstünlüyü",
+   "Mühüm Qayda"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Gap Detection (Boşluqların Aşkarlanması)",
+   "Shift + Yuxarı/Aşağı oxlar",
+   "Məsafə Bərabərliyi (Equal Spacing)",
+   "Resolution (Həllolma Dəqiqliyi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən son üzərində işlənilmiş layihələrin siyahısını vizual önbaxış kartları və ya cədvəl şəklində göstərir. Bu siyahını adına, son redaktə tarixinə və ya fayl ölçüsünə görə…\"",
+  "options": [
+   "Köməkçi Xətlər (Guides - Ctrl+;)",
+   "New File (Yeni Fayl)",
+   "Böyük Fayllarda Avtomatik Saxlama",
+   "Recent (Son Fayllar) Bölməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanda şaquli və üfüqi bələdçi xətlər (Guides) vasitəsilə tipoqrafik və qrafik nizam qurulur.\"",
+  "options": [
+   "Konsept və Eskiz Hazırlığı",
+   "Mərkəzi Qrafikanın Qurulması",
+   "A2 Format (420 x 594 mm)",
+   "Köməkçi Qəfəs Sistemi (Grid System)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Data Pəncərəsinin Açılması",
+   "General Units",
+   "Nəticə",
+   "Tipoqrafiya Tənzimləmələri"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Eskizin Daxil Edilməsi\" nədir?",
+  "options": [
+   "Təbiət, sağlamlıq, ekologiya və maliyyə artımı.",
+   "Kağızdakı rəsm skan edilir və ya fotoşəkli çəkilərək kətana yerləşdirilir (File > Place).",
+   "Lüks, premium status və zəriflik.",
+   "Müştərinin fəaliyyət sahəsi, hədəf auditoriyasının yaşı, sosial təbəqəsi və brendin əsas dəyərləri dəqiqləşdirilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Stretch Between Guides\" nədir?",
+  "options": [
+   "Formanın yalnız müəyyən hissəsinin uzanmasını, baş və son kənarlarının isə deformasiyaya uğramadan sabit qalmasını təmin edir.",
+   "Yuxarı menyudan Window > Brushes (və ya.",
+   "Formanın daxilindəki əsas təməl rəngi (Key Color) yeni seçilmiş rəngə çevirir, digər rəngləri isə spektr üzrə mütənasib dəyişir. Çoxrəngli fırçalarda…",
+   "Hər bir elementin kətana və ya xəttin əyriliyinə nəzərən hansı bucaqla dönəcəyini təyin edir (Fixed və ya Random)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"5 əsas hissədən ibarətdir\" nədir?",
+  "options": [
+   "Hər bir elementin kətana və ya xəttin əyriliyinə nəzərən hansı bucaqla dönəcəyini təyin edir (Fixed və ya Random).",
+   "Düz xətt parçası (Side Tile), Xarici künc (Outer Corner), Daxili künc (Inner Corner), Başlanğıc ucluq (Start Tile) və Sonluq ucluq (End Tile).",
+   "Formanın yalnız müəyyən hissəsinin uzanmasını, baş və son kənarlarının isə deformasiyaya uğramadan sabit qalmasını təmin edir.",
+   "Formanın xətt üzrə hansı ucdan başlayıb hara doğru uzanacağını (ox istiqamətində) göstərir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Area Graph Tool (Sahə Qrafiki)",
+   "Miqyaslandırma (Scaling)",
+   "Tətbiq",
+   "Qaranlıqlaşdırma Rejimləri (Multiply, Darken)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırlanmanın sol kənar (Left Edge) və ya sağ kənar (Right Edge) oxu üzrə aparılacağı təyin edilir. Əgər oxdan müəyyən məsafə (Offset) qoyularsa, mərkəzində dəlik olan halqavari…\"",
+  "options": [
+   "İş Prinsipi",
+   "Metallic",
+   "Offset və Ox Seçimi",
+   "Roughness (Kələ-kötürlük)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Line Graph Tool (Xətti Qrafik)\" nədir?",
+  "options": [
+   "Obyekt sütunun hündürlüyünə uyğun şaquli uzanır.",
+   "Müəyyən zaman kəsiyində baş verən artım və ya azalma dinamikasını (trendləri) nöqtələri birləşdirən xətlərlə nümayiş etdirir.",
+   "Obyekt seçilir və yuxarı menyudan.",
+   "Statistiki qrafik seçilir və."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Illustrator proqramının daxilolma parametrləri və interfeysinin ümumi izahı\" mövzusuna aiddir?",
+  "options": [
+   "Stroke & Type Units",
+   "Registration Marks (Qeydiyyat / Çarpazlama İşarələri)",
+   "None",
+   "Millimetr (mm) və Santimetr (cm)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Xətkeşlər (Rulers - Ctrl+R)\" nədir?",
+  "options": [
+   "Obyekt böyüdüldükdə yumşaldılmış künc radiuslarının proporsiyasını qoruyur.",
+   "Artboard-un yuxarı və sol kənarlarında dəqiq ölçü şkalasını göstərir. Sıfır nöqtəsini artboard-un istənilən küncünə daşımaq mümkündür.",
+   "Çox mürəkkəb və ağır fayllarda kompüterin donmaması üçün lazım gələrsə Turn off Data Recovery for complex documents funksiyası tənzimlənə bilər.",
+   "Layihəni yaddaşa verərkən (.AI formatında) sənədi yerli kompüter diskinə və ya buluda saxlamaq seçimi təqdim olunur. Bulud saxlancı versiya…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyekt proporsiyasını qoruyaraq mütənasib böyüyür.\"",
+  "options": [
+   "Uniformly Scaled",
+   "Line Graph Tool (Xətti Qrafik)",
+   "Stacked Column Graph Tool (Yığılmış Sütun Qrafiki)",
+   "Repeating (Təkrarlanan)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"None\" nədir?",
+  "options": [
+   "Obyektlərin ana xətdən nə qədər uzağa yayılacağını müəyyən edir.",
+   "Düz xətt parçası (Side Tile), Xarici künc (Outer Corner), Daxili künc (Inner Corner), Başlanğıc ucluq (Start Tile) və Sonluq ucluq (End Tile).",
+   "Fırça yalnız çəkildiyi ilkin rəngdə qalır. Rəng panelindən dəyişiklik etmək olmur.",
+   "Fırçanın ölçüsünü, rənglənmə metodunu və istiqamətini nizamlayıb \"OK\" düyməsini sıxın."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ekran üçün 72 ppi və ya çap üçün 300 ppi dəqiqlik dərəcəsi təyin edilir.\"",
+  "options": [
+   "Rəng Transformasiyaları (Color Matrix)",
+   "Bulanıqlıq və Turbulensiya (Gaussian Blur & Turbulence)",
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Bir obyektə qurduğunuz mürəkkəb effektlər kombinasiyasını (məsələn"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətnin xətt üzərində haradan başlandığını göstərir. Bu qolu siçanla dartaraq mətni xətt boyunca irəli çəkmək olar.\"",
+  "options": [
+   "Başlanğıc Qolu (Start Bracket)",
+   "Gravity (Cazibə)",
+   "Baseline",
+   "Stair Step (Pilləkən)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bu əməliyyatdan sonra mətndəki hərfləri klaviatura ilə dəyişmək və ya orfoqrafik düzəliş etmək mümkün olmur. Buna görə də ehtiyat üçün sənədin canlı mətnli versiyasını ayrıca…\"",
+  "options": [
+   "Məhdudiyyəti",
+   "Üstünlüyü",
+   "Məqsədi",
+   "Rejimlər"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rasterləşdirmə effekti, stilize effektləri və SVG filtrləri\" mövzusuna aiddir?",
+  "options": [
+   "Brif Analizi (Briefing)",
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Bütün mətni seçmək",
+   "Registration Marks (Qeydiyyat / Çarpazlama İşarələri)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətan üzərində fırçaya çevirmək istədiyiniz formanı, simvolu və ya naxışı çəkin.\"",
+  "options": [
+   "Roundness (Dairəvilik)",
+   "Fırçanın Vektora Parçalanması (Expand Appearance)",
+   "Vektor Bazasının Hazırlanması",
+   "Size (Ölçü)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçilmiş obyektin daxili dolğu rəngini, kənar xəttinin qalınlığını (Weight) və xətt üslubunu (Dashed line, Corner type) anında dəyişir.\"",
+  "options": [
+   "Artboard Naviqasiyası",
+   "Arrange Documents (Sənədlərin Düzülüşü)",
+   "Workspace Switcher (İş Rejimi Seçicisi)",
+   "Rəng və Kontur İdarəetməsi (Fill & Stroke)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şüa sayını və daxili-xarici radiuslarını sərbəst dəyişə bildiyiniz ulduz formaları yaradır.\"",
+  "options": [
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)",
+   "Rounded Rectangle Tool (Dairəvi Kənarlı Düzbucaqlı)",
+   "Star Tool (Ulduz Aləti)",
+   "Exclude (Kənarlaşdırma)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çəkilən xəttin dərhal seçili qalmasını təmin edir.\"",
+  "options": [
+   "3D Ribbon (Üçölçülü Lent)",
+   "Fərdi / Yaradıcı Vizit Kartları",
+   "Ascender",
+   "Keep Selected"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yol mətni yaradılması, yol mətninin idxalı və redaktəsi\" mövzusuna aiddir?",
+  "options": [
+   "Onurğa Qalınlığının Riyazi Hesablanması",
+   "Stair Step (Pilləkən)",
+   "Scale Strokes & Effects",
+   "Dördqat klik"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Üstünlüyü\" nədir?",
+  "options": [
+   "İnsan gözünün təbii rəng qavrayışına ən yaxın modeldir. Dizayner hər hansı rəngin tonunu dəyişmədən sadəcə onu bir qədər qaranlıq və ya daha solğun…",
+   "Monitorlar, smartfonlar, televiziya ekranları və veb-saytlar üçün nəzərdə tutulur.",
+   "Hər kanal 0-255 aralığında dəyər alır. Ümumilikdə 16.7 milyondan çox canlı və parlaq rəng çaları formalaşdırır.",
+   "Hər boya 0%-dən 100%-ə qədər faizlə hesablanır. Rəng spektri RGB modelinə nisbətən daha dardır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fiqurun daxilində ixtiyari nöqtələr (Points) və ya xətlər (Lines) qoyaraq çoxsaylı rəngləri üzvi şəkildə qarışdırır. Təbii səma mənzərələri, aurora işıqları və müasir abstrakt…\"",
+  "options": [
+   "Freeform Gradient (Sərbəst Forma Degradəsi)",
+   "İnversiya Rejimləri (Difference, Exclusion)",
+   "Linear Gradient (Xətti Degrade)",
+   "Qaranlıqlaşdırma Rejimləri (Multiply, Darken)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Kağız Eskizləri\" nədir?",
+  "options": [
+   "Ən aşağıda zərif şəkildə qeyd olunan qonaq təsdiq əlaqəsi.",
+   "Kəsim bıçağı xətti (Overprint Stroke aktiv edilmiş vəziyyətdə).",
+   "Aydın, vurğulanmış rəqəmlərlə və kiçik vektor məkan ikonu ilə.",
+   "Mətn bloklarının və bəzək elementlərinin yerləşməsi kağızda cızılır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Geriqaytarılma\" nədir?",
+  "options": [
+   "Fiqurun kənarlarını fırça kimi sıxaraq formasını dəyişir.",
+   "Obyektin üzərinə tor şəbəkəsi ataraq onu fərdi nöqtələrlə dalğalandırır.",
+   "İstənilən mürəkkəb mətni və ya naxışı üstdə yerləşən fərdi vektor fiqurunun (məsələn, butulka və ya ürək silueti) formasına tam uyğunlaşdıraraq bükür.",
+   "Qeyri-dağıdıcı (non-destructive) redaktə üsuludur. İstənilən an Release Clipping Mask (Alt+Ctrl+7) əmri ilə obyekti əvvəlki tam vəziyyətinə qaytarmaq…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"KFC polkovniki, Pringles obrazı). Ailəvi və əyləncəli brendlərdə tətbiq edilir.\"",
+  "options": [
+   "Şirkətin adının xüsusi tipoqrafik şriftlə, unikal hərflərlə yazılmasıdır (məsələn",
+   "Rəqiblərin Tədqiqi",
+   "Eskizin Daxil Edilməsi",
+   "Brendi təmsil edən xüsusi illüstrativ xarakter və ya canlı qəhrəmandır (məsələn"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Vektor Bazasının Hazırlanması\" nədir?",
+  "options": [
+   "Açılan pəncərədə formaya uyğun fırça tipini seçin (Calligraphic, Scatter, Art, Bristle və ya Pattern).",
+   "Əgər fırça effektini adi sərbəst vektor obyektinə çevirmək istəyirsinizsə, xətti seçib.",
+   "Obyektlərin ana xətdən nə qədər uzağa yayılacağını müəyyən edir.",
+   "Kətan üzərində fırçaya çevirmək istədiyiniz formanı, simvolu və ya naxışı çəkin."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Brend Loqosu və Məhsulun Adı\" nədir?",
+  "options": [
+   "Qanunvericiliklə tələb olunan ölçü vahidləri (ml, q, l).",
+   "Əsas vizual mərkəz (Front Panel).",
+   "Hörmətli qonağın adı (adətən kalliqrafik xəttatlıq şrifti ilə).",
+   "Əsas abzas (oxunaqlı serifli və ya incə serifsiz şrift)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Radar Graph Tool (Radar / Hörümçək Qrafiki)",
+   "Obrazların Qəfəs Üzrə Təşkili",
+   "Bar Graph Tool (Üfüqi Zolaq Qrafiki)",
+   "Brightness (Parlaqlıq)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Scatter (Səpələnmə Payı)\" nədir?",
+  "options": [
+   "Yuxarı menyudan Window > Brushes (və ya.",
+   "Obyektlərin ana xətdən nə qədər uzağa yayılacağını müəyyən edir.",
+   "Qələmin ucunun nə dərəcədə yastı və ya dairəvi olduğunu faizlə nizamlayır.",
+   "Formanın xətt üzrə hansı ucdan başlayıb hara doğru uzanacağını (ox istiqamətində) göstərir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəbəkə üzərində yaranan hər bir kəsişmə nöqtəsinə (Mesh Point) fərqli rəng tonu vermək mümkündür.\"",
+  "options": [
+   "Hizalama və Mərkəzləşdirmə",
+   "Hide Guides (Bələdçiləri Gizlət - Ctrl+;)",
+   "İş Prinsipi",
+   "Nöqtələrə Fərdi Rəng Təyini"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Üstünlüyü\" nədir?",
+  "options": [
+   "Bütün hərfləri böyük (All Caps) yazılmış başlıqlarda trekinqi bir qədər artırmaq (məsələn, +100 və ya +200) yazıya müasir və premium vizual görünüş…",
+   "Məsələn, \"A\" və \"V\" və ya \"T\" və \"o\" hərfləri yanaşı gəldikdə həndəsi bucaqlarına görə aralarında böyük vizual boşluq yaranır. Körninq bu iki hərfi…",
+   "Light, Regular, Medium, Semi-Bold, Bold, Black, Italic.",
+   "Faylı başqa bir kompüterdə açdıqda şriftin olmaması barədə xəbərdarlıq (Missing Font Error) çıxmır və dizayn heç vaxt pozulmur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Arxa fon ilə ön plandakı mətnlər arasında maksimal rəng və parlaqlıq ziddiyyəti (məsələn, tünd sürməyi fonda parlaq sarı və ya ağ yazı) təmin edilir.\"",
+  "options": [
+   "Rəng Kontrastı",
+   "Köməkçi Qəfəs Sistemi (Grid System)",
+   "A2 Format (420 x 594 mm)",
+   "Raster Qrafikaların Bərkidilməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Etiketin və dəvətnamənin hazırlanması, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Mavi",
+   "Simvolun Hazırlanması",
+   "Qatların İyerarxiyası",
+   "Xətkeşlər (Rulers - Ctrl+R)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üstdə yerləşən obyekti və onun altdakı obyektlə kəsişdiyi hissəni kəsib atır.\"",
+  "options": [
+   "Shift + Alt kombinasiyası",
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Minus Front (Öndəkini Kəs)",
+   "Shift düyməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən populyar infoqrafik metoddur. Məsələn, hər 100 vahid üçün bir ikon qoyulur; rəqəm 500 olduqda proqram avtomatik olaraq 5 ədəd ikonu üst-üstə düzür.\"",
+  "options": [
+   "Rəqəmlərin Yenilənməsi",
+   "Column Graph Tool (Sütun Qrafiki)",
+   "Repeating (Təkrarlanan)",
+   "Stacked Column Graph Tool (Yığılmış Sütun Qrafiki)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsasən mətn ölçüləri və tipoqrafik tənzimləmələr zamanı istifadə edilir.\"",
+  "options": [
+   "Yuxarı Menyu Paneli (Menu Bar)",
+   "Nöqtə (Points - pt)",
+   "High (300 ppi)",
+   "CMYK (Cyan, Magenta, Yellow, Key/Black)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Adobe Cloud vs Yerli Saxlama\" nədir?",
+  "options": [
+   "Xətkeş və obyekt ölçülərinin standart vahidini (Millimeters, Pixels, Centimeters) təyin edir.",
+   "Kompüterin yaddaşında, xarici daşıyıcıda və ya bulud saxlancında olan mövcud faylları proqrama daxil edir.",
+   "Layihəni yaddaşa verərkən (.AI formatında) sənədi yerli kompüter diskinə və ya buluda saxlamaq seçimi təqdim olunur. Bulud saxlancı versiya…",
+   "Ən son üzərində işlənilmiş layihələrin siyahısını vizual önbaxış kartları və ya cədvəl şəklində göstərir. Bu siyahını adına, son redaktə tarixinə və…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Arrange Documents (Sənədlərin Düzülüşü)\" nədir?",
+  "options": [
+   "Eyni anda bir neçə layihə üzərində işləyərkən pəncərələri ekranda şaquli, üfüqi və ya 2x2 tor şəklində yanaşı bölüşdürməyə imkan verir. Bir sənəddən…",
+   "Qrafik kartın (GPU) təsviri sürətləndirmə rejimində olub-olmadığını göstərir. Güclü videokart olduqda xırda detalları yaxınlaşdırmaq (Zoom) tamamilə…",
+   "Hər hansı bir mətn bloku seçilən kimi şriftin növü (Font Family), qarnituru (Bold, Regular), hərflərin ölçüsü (Font Size) və paraqraf düzülüşü…",
+   "Layihənin sonuncu dəfə nə vaxt yaddaşa verildiyini izləməyə imkan verir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "Piksel (Pixels - px)",
+   "Global Color Seçimi",
+   "Lock Guides (Bələdçiləri Kilidlə - Ctrl+Alt+;)",
+   "Ctrl + Shift + Oxlar"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Learn (Öyrən) Bölməsi\" nədir?",
+  "options": [
+   "Proqramın daxilində interaktiv dərsliklərə, yeni funksiyaların izahına və rəsmi təlimatlara birbaşa çıxış təmin edir.",
+   "Ən son üzərində işlənilmiş layihələrin siyahısını vizual önbaxış kartları və ya cədvəl şəklində göstərir. Bu siyahını adına, son redaktə tarixinə və…",
+   "Layihəni yaddaşa verərkən (.AI formatında) sənədi yerli kompüter diskinə və ya buluda saxlamaq seçimi təqdim olunur. Bulud saxlancı versiya…",
+   "Panelləri bir-birinin yanına sürükləyərək tab (vərəqə) şəklinə salmaq və ya şaquli dar zolaq kimi yığmaq mümkündür."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)",
+   "Tints (Çalarlar)",
+   "Həcm və Fotorealizm",
+   "Boşluq Ölçüsünün Tənzimlənməsi (Gap Size)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Euro Standart (DL format)\" nədir?",
+  "options": [
+   "Aydın, vurğulanmış rəqəmlərlə və kiçik vektor məkan ikonu ilə.",
+   "210 x 100 mm (standart uzun zərflər üçün).",
+   "Hörmətli qonağın adı (adətən kalliqrafik xəttatlıq şrifti ilə).",
+   "Qida, ekoloji təmizlik və təkrar emal işarələri."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Arxa Tərəf\" nədir?",
+  "options": [
+   "Adın altında daha zərif şriftdə (7 - 8 pt, Regular).",
+   "Əlaqə məlumatlarının vizual iyerarxiyası sadə bloklarla eskizləşdirilir.",
+   "Şəxsin adı, soyadı, vəzifəsi, əlaqə vasitələri (telefon, e-poçt, sayt, ünvan və sosial şəbəkə ikonları) qeyd olunur.",
+   "Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xüsusi lak və folqa ştampları.\"",
+  "options": [
+   "Layer 3",
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Area Graph Tool (Sahə Qrafiki)",
+   "Fırça Növünün Seçilməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Tədbirin Adı və Dəvət Mətni",
+   "Piksel (Pixels - px)",
+   "Sənəd Toru (Document Grid - Ctrl+')",
+   "Graphics və PostScript"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Mühüm Qayda",
+   "Həcm və Fotorealizm",
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Klaviatura qısayolu"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Künc nöqtəsinin üzərinə klikləyib siçanı dartdıqda dərhal iki tərəfli tutacaqlar çıxır və iti künc elastik qövsə çevrilir.\"",
+  "options": [
+   "Həndəsi İti Künclərlə Üzvi Əyrilərin Birgə İdarəsi",
+   "Hamar Əyrini İti Küncə Çevirmək",
+   "İti Küncü Hamar Əyriyə Çevirmək",
+   "Mühüm Qayda"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Scale Strokes & Effects\" nədir?",
+  "options": [
+   "Ən son üzərində işlənilmiş layihələrin siyahısını vizual önbaxış kartları və ya cədvəl şəklində göstərir. Bu siyahını adına, son redaktə tarixinə və…",
+   "Xətkeşdən siçanla dartılaraq çıxarılan göy rəngli istiqamətləndirici xətlərdir. Mətn və qrafik blokların eyni xətt boyunca səliqəli düzülməsini təmin…",
+   "Obyekt miqyaslandırılarkən kontur qalınlığının və effektlərin proporsional şəkildə böyüyüb-kiçilməsini tənzimləyir.",
+   "Artboard-un yuxarı və sol kənarlarında dəqiq ölçü şkalasını göstərir. Sıfır nöqtəsini artboard-un istənilən küncünə daşımaq mümkündür."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "Recent (Son Fayllar) Bölməsi",
+   "Xüsusi Effektlər",
+   "İşıqlandırma Matrisləri (Diffuse & Specular Lighting)",
+   "Warp Tool (Shift+R)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Saturation (Doyma)",
+   "Qrafikə Tətbiq",
+   "Learn (Öyrən) Bölməsi",
+   "Bir obyektə qurduğunuz mürəkkəb effektlər kombinasiyasını (məsələn"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətni tam mərkəzindən keçən oxla xəttin üzərində bərabər bölüşdürür.\"",
+  "options": [
+   "Mərkəzi Çevirici Qol (Center Bracket / Flip Handle)",
+   "Stair Step (Pilləkən)",
+   "Descender",
+   "Center"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "Screen (72 ppi)",
+   "Shift + Alt kombinasiyası",
+   "Brightness (Parlaqlıq)",
+   "Size (Ölçü)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Edit Selected Paths",
+   "Simvolun Hazırlanması",
+   "Qütb və Düzbucaqlı Qəfəs Alətləri (Polar & Rectangular Grid Tools)",
+   "C-Fold (Məktub / Rol Qatlama)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Gravity (Cazibə)\" nədir?",
+  "options": [
+   "Standart rejimdir. Hər bir hərf xəttin radiusuna tam perpendikulyar qalaraq əyilir.",
+   "Mətni tam mərkəzindən keçən oxla xəttin üzərində bərabər bölüşdürür.",
+   "Hərfləri heç əymir, onları pilləkən kimi şaquli vəziyyətdə qoruyaraq xətt üzrə pillə-pillə düzür.",
+   "Hərfləri xəttin mərkəz nöqtəsinə doğru sıxaraq dinamik perspektiv qurur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Etiketin və dəvətnamənin hazırlanması, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Məhsulun Tərkibi və Həcmi",
+   "İş Prinsipi",
+   "Zoom Səviyyəsi (Miqyas Göstəricisi)",
+   "Descender"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"A2 Format (420 x 594 mm)\" nədir?",
+  "options": [
+   "Bütün tipoqrafik elementlər.",
+   "Böyük formatlar üçün hər tərəfdən ən azı.",
+   "Teatr və sərgi salonları üçün ən optimal ölçü.",
+   "Kiçik vitrinlər, daxili məkanlar və lövhələr üçün."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hazırladığınız obyekti seçərək siçanla birbaşa Brushes panelinin içinə sürükləyin və ya panelin altındakı.\"",
+  "options": [
+   "Fərdi Kitabxana Saxlanması",
+   "Rotation (Fırlanma)",
+   "Hue Shift (Rəng Tonunun Sürüşməsi)",
+   "Formanın Əlavə Edilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Hex by Column / Hex by Row\" nədir?",
+  "options": [
+   "Fiqurun daxilində ixtiyari nöqtələr (Points) və ya xətlər (Lines) qoyaraq çoxsaylı rəngləri üzvi şəkildə qarışdırır. Təbii səma mənzərələri, aurora…",
+   "Qara və tünd rəngləri şəffaflaşdırır, parlaq və ağ tonları önə çıxarır. İşıq parıltıları, neon effektləri və alov təsvirlərində Screen rejimi seçilir.",
+   "Üstdəki formanın rəngini altdakı formanın işıq-kölgə dəyərləri ilə qovuşdurur və ümumi rəng doymasını artırır.",
+   "Altıbucaqlı bal pətəyi şəbəkəsi üzrə təkrarlanma."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üstdəki formanın rəngini altdakı formanın işıq-kölgə dəyərləri ilə qovuşdurur və ümumi rəng doymasını artırır.\"",
+  "options": [
+   "Pattern Rejiminin Açılması",
+   "Freeform Gradient (Sərbəst Forma Degradəsi)",
+   "Linear Gradient (Xətti Degrade)",
+   "Kontrast Rejimləri (Overlay, Soft Light)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Line Graph Tool (Xətti Qrafik)",
+   "Background (Fon)",
+   "Avtomatik Çevrilmə",
+   "Səth Seçimi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Rənglərin Sürətli Dəyişdirilməsi",
+   "New File (Yeni Fayl)",
+   "Roundness (Dairəvilik)",
+   "Keep Selected"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kənar və künc nöqtələrindən tutaraq fiqurun enini və hündürlüyünü dəyişməyə şərait yaradır. Bu zaman Shift düyməsini sıxıb saxlamaq proporsiyanın pozulmasının qarşısını alır.\"",
+  "options": [
+   "Miqyaslandırma (Scaling)",
+   "İş Prinsipi",
+   "Bucaq və Fırlanma Məlumatları",
+   "Nöqtələrə Fərdi Rəng Təyini"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Fərdi Kitabxana Saxlanması\" nədir?",
+  "options": [
+   "Açılan pəncərədə formaya uyğun fırça tipini seçin (Calligraphic, Scatter, Art, Bristle və ya Pattern).",
+   "Panelin menyusundan.",
+   "Yuxarı menyudan Window > Brushes (və ya.",
+   "Elementlər arasındakı addım aralığını tənzimləyir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İş prinsipi\" nədir?",
+  "options": [
+   "Formanı burur, daxilə doğru büzür və ya şar kimi şişirdir.",
+   "Ən üst qata qoyulmuş qapalı vektor fiquru (məsələn, dairə) pəncərə rolunu oynayır. Altdakı fotoşəkil və ya mürəkkəb vektor naxışı yalnız həmin…",
+   "İstənilən mürəkkəb mətni və ya naxışı üstdə yerləşən fərdi vektor fiqurunun (məsələn, butulka və ya ürək silueti) formasına tam uyğunlaşdıraraq bükür.",
+   "Kətandakı raster fotoşəklin artıq kənarlarını fiziki olaraq kəsib atır və faylın çəkisini azaldır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırçanın baza qalınlığını müəyyənləşdirir.\"",
+  "options": [
+   "Rotation (Fırlanma)",
+   "Daxili Parametrlərin Tənzimlənməsi",
+   "Hue Shift (Rəng Tonunun Sürüşməsi)",
+   "Size (Ölçü)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Həcm və Fotorealizm",
+   "Rounded Rectangle Tool (Dairəvi Kənarlı Düzbucaqlı)",
+   "Tints and Shades (Çalarlar və Kölgələr)",
+   "Scale Proportionately"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sənəddə ən azı üç qat nizamlanır:.\"",
+  "options": [
+   "Layer 2 (Finishing)",
+   "Kağız Eskizləri",
+   "Qatların İyerarxiyası",
+   "Barkod (Barcode) Sahəsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Lokal UB Lak (Spot UV Varnishing)\" nədir?",
+  "options": [
+   "Kağızı mexaniki sıxaraq hərfləri və ya simvolu səthdən yuxarı qabardır və ya daxilə batırır.",
+   "Vizit kartında heç vaxt 6 pt-dən kiçik şrift istifadə edilməməlidir, əks halda çapda mətnin oxunması çətinləşir.",
+   "Adın altında daha zərif şriftdə (7 - 8 pt, Regular).",
+   "Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vərəqin kənarında çap olunan kiçik rəngli kvadratlardır. Çap operatoru xüsusi densitometr cihazı ilə bu şkalaları ölçərək boyanın sıxlığını və balansını tənzimləyir.\"",
+  "options": [
+   "CMYK Ayrılma Mexanizmi",
+   "Media və Kağız Ölçüsü",
+   "Color Bars (Rəng Nəzarət Şkalası)",
+   "Trim Marks (Kəsim İşarələri)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Broşür dizaynı, dizayn prinsipləri, eskiz, kompozisiya, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Nöqtə Mətni (Point Type)",
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "Exclude (Kənarlaşdırma)",
+   "Obrazların Qəfəs Üzrə Təşkili"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hər kanal 0-255 aralığında dəyər alır. Ümumilikdə 16.7 milyondan çox canlı və parlaq rəng çaları formalaşdırır.\"",
+  "options": [
+   "Rəng dərinliyi",
+   "Təyinatı",
+   "Brightness (Parlaqlıq)",
+   "İş prinsipi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Afişa (poster) dizaynı, planlama, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "None",
+   "Tətbiqi",
+   "Rəng Kontrastı",
+   "Nəticə"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsas CMYK qrafika və arxa fon.\"",
+  "options": [
+   "Layer 1",
+   "Creative Cloud Files",
+   "Nöqtə (Points - pt)",
+   "Simvolun Hazırlanması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Ox düymələri (Up/Down Arrows)\" nədir?",
+  "options": [
+   "Çoxbucaqlı və ya ulduz çəkərkən siçanın sol düyməsini buraxmadan yuxarı/aşağı oxları basdıqda tərəflərin və şüaların sayı anında artır və ya azalır.",
+   "Şüa sayını və daxili-xarici radiuslarını sərbəst dəyişə bildiyiniz ulduz formaları yaradır.",
+   "Düzbucaqlı və kvadratlar çəkmək üçün tətbiq edilir.",
+   "Seçilmiş obyektin ətrafındakı 8 nöqtəli çərçivədir. Obyekti dartmaq, sıxmaq və künclərindən tutaraq dərəcə ilə fırlatmaq imkanı verir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əgər siçanın düyməsini basılı saxlayaraq bir neçə qonşu sahənin üzərindən sürüşdürsəniz, keçdiyiniz bütün sahələr eyni rənglə ardıcıl boyanacaq.\"",
+  "options": [
+   "Səthin Boyanması (Face Fill)",
+   "Sürətli Çəkmə Rejimi",
+   "Kənarların Seçilməsi (Edge Selection)",
+   "Nəticə"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Stroke & Type Units",
+   "General (Ümumi Seçimlər)",
+   "Layer 2",
+   "Transformasiya"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İti Küncü Hamar Əyriyə Çevirmək\" nədir?",
+  "options": [
+   "Məsələn, bir kəpənək və ya quş illüstrasiyası çəkərkən qanadın kəskin ucları iti nöqtələrlə, bədənin yumşaq xətləri isə Bezje əyriləri və Anchor…",
+   "Formanın yalnız tək bir yarısı Pen Tool ilə dəqiq çəkilir, daha sonra Reflect Tool (O) ilə güzgü əksi çıxarılaraq mərkəzdəki nöqtələr Join (Ctrl+J)…",
+   "Künc nöqtəsinin üzərinə klikləyib siçanı dartdıqda dərhal iki tərəfli tutacaqlar çıxır və iti künc elastik qövsə çevrilir.",
+   "Əyri xətlərdə hər iki tərəfin tutacağı bir-biri ilə eyni ox üzrə hərəkət edir. Anchor Point Tool ilə təkcə bir tutacaqdan tutub hərəkət etdirdikdə ox…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yüksək keyfiyyətli peşəkar poliqrafiya standartıdır. Çap məhsullarında tətbiq olunan effektlərin dənəvər və keyfiyyətsiz görünməməsi üçün bu parametr mütləq 300 ppi olaraq…\"",
+  "options": [
+   "Metr (m)",
+   "Nöqtə (Points - pt)",
+   "High (300 ppi)",
+   "Screen (72 ppi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Standart qradiyent rəngi yalnız xətti və ya dairəvi keçidlərlə verir. Mesh Tool isə vektor obyektinin daxilində xüsusi tor şəbəkəsi qurur.\"",
+  "options": [
+   "Vektor Obyekti Bələdçiyə Çevirmək (Make Guides - Ctrl+5)",
+   "Bucaq və Fırlanma Məlumatları",
+   "İş Prinsipi",
+   "Bounding Box-un İtərsə Bərpası"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir sütunun daxilində bir neçə alt kateqoriyanı üst-üstə qatlarla toplayaraq ümumi yekun həcmi göstərir.\"",
+  "options": [
+   "Stacked Column Graph Tool (Yığılmış Sütun Qrafiki)",
+   "Sahənin Çəkilməsi",
+   "Verilənlərin İdxalı (Import Data)",
+   "Sütun Dizaynı Kimi Qeydiyyat"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Perspektiv Qəfəsi (Perspective Grid - Shift+P)\" nədir?",
+  "options": [
+   "Bir, iki və ya üç nöqtəli həcmli perspektiv toru qurur. Küçə mənzərələri, binalar və memarlıq qrafikalarını 3D bucaq altında düzgün çəkməyə imkan…",
+   "Ağ və açıq tonları tamamilə şəffaf edir, yalnız tünd və qara rəngləri saxlayır. Təbii kölgələr yaratmaq üçün ən çox Multiply rejimi tətbiq olunur.",
+   "Kərpic hörgüsü prinsipi ilə sürüşdürülmüş düzülüş.",
+   "Obyektləri şəbəkə xətlərinə yapışdırmaqla (Snap to Grid) vizual elementlərin xaotik paylanmasının qarşısı alınır və modul nizamı qurulur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rejimlər\" nədir?",
+  "options": [
+   "Faylı başqa bir kompüterdə açdıqda şriftin olmaması barədə xəbərdarlıq (Missing Font Error) çıxmır və dizayn heç vaxt pozulmur.",
+   "İki hərfin arasına klikləyib.",
+   "Auto (Metrics) şrift müəllifinin təyin etdiyi daxili cədvəli tətbiq edir; Optical isə proqramın hərflərin formasına baxaraq boşluğu süni intellektlə…",
+   "Leading dəyəri şrift ölçüsündən təxminən 20-30% böyük olmalıdır (məsələn, 10 pt şrift üçün 13-14 pt leading). Əks halda yuxarıdakı və aşağıdakı…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Nöqtə mətninin idxalı və mətnin seçilməsinin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Rəng və Effekt Təmizliyi",
+   "Shift + Yuxarı/Aşağı oxlar",
+   "Alt (Option) düyməsi",
+   "Scatter Graph Tool (Səpələnmə Qrafiki)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Qütb və Düzbucaqlı Qəfəs Alətləri (Polar & Rectangular Grid Tools)\" nədir?",
+  "options": [
+   "Kərpic hörgüsü prinsipi ilə sürüşdürülmüş düzülüş.",
+   "Cədvəllər, radar torları, spidometr şkalaları və hədəf dairələri yaratmaq üçün tətbiq olunur.",
+   "müəyyən bir vektor modulunun kətan boyunca tikişsiz (seamless) və fasiləsiz təkrarlanmasıdır.",
+   "Rənglərin spektral ziddiyyətini çıxararaq futuristik və qrafik kontrastlar formalaşdırır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Auto (Metrics) şrift müəllifinin təyin etdiyi daxili cədvəli tətbiq edir; Optical isə proqramın hərflərin formasına baxaraq boşluğu süni intellektlə avtomatik tənzimləməsidir…\"",
+  "options": [
+   "Şriftin xətt qalınlığını və duruşunu dəyişir",
+   "Rejimlər",
+   "Prosesin Mahiyyəti",
+   "Klaviatura qısayolu"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Qaranlıqlaşdırma Rejimləri (Multiply, Darken)",
+   "Expand Əmri",
+   "Bələdçi Xətlərin (Guides / Guidelines) Yaradılması",
+   "Gravity (Cazibə)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Swatches Panelində Saxlanma",
+   "Justify with Last Line Aligned Right",
+   "Verilənlərin İdxalı (Import Data)",
+   "Mühüm Qayda"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Vektor Obyekti Bələdçiyə Çevirmək (Make Guides - Ctrl+5)\" nədir?",
+  "options": [
+   "İstənilən dairəni və ya xətti seçib bələdçi xəttə çevirmək mümkündür.",
+   "Kursoru künc nöqtələrindən bir qədər kənara çıxardıqda əyri ox işarəsi yaranır və obyekti dərəcə ilə sərbəst fırlatmaq mümkün olur. Shift ilə…",
+   "Şəbəkə üzərində yaranan hər bir kəsişmə nöqtəsinə (Mesh Point) fərqli rəng tonu vermək mümkündür.",
+   "Nöqtələr arasındakı rənglər bir-birinə olduqca yumşaq və təbii şəkildə qarışır. Məsələn, 3D alma, insan portreti, parlaq avtomobil gövdəsi və ya maye…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Kvadrat Format\" nədir?",
+  "options": [
+   "Əsas vizual mərkəz (Front Panel).",
+   "Aydın, vurğulanmış rəqəmlərlə və kiçik vektor məkan ikonu ilə.",
+   "Əsas CMYK çap dizaynı.",
+   "140 x 140 mm və ya 150 x 150 mm."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Onurğa Qalınlığının Riyazi Hesablanması\" nədir?",
+  "options": [
+   "Əgər fırça effektini adi sərbəst vektor obyektinə çevirmək istəyirsinizsə, xətti seçib.",
+   "Onurğanın eni təsadüfi seçilə bilməz. O, səhifə sayından və kağızın sıxlığından asılıdır:.",
+   "Bir, iki və ya üç nöqtəli həcmli perspektiv toru qurur. Küçə mənzərələri, binalar və memarlıq qrafikalarını 3D bucaq altında düzgün çəkməyə imkan…",
+   "Quru rəqəmlər əvəzinə kiçik statistik sütunlar və ya vektor ikonlar tətbiq edilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəngin öz təmiz adıdır (qırmızı, sarı, bənövşəyi). Rəng çarxında 0 dərəcədən 360 dərəcəyə qədər olan bucaqla ölçülür.\"",
+  "options": [
+   "Təyinatı",
+   "Hue (Rəng Tonu)",
+   "Mahiyyəti",
+   "İş prinsipi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Mərkəzi Qrafikanın Qurulması\" nədir?",
+  "options": [
+   "Kiçik vitrinlər, daxili məkanlar və lövhələr üçün.",
+   "Vektor personaj, 3D obyekt və ya kollaj kompozisiyanın mərkəzində dominant ölçüdə yerləşdirilir.",
+   "Bütün tipoqrafik elementlər.",
+   "Teatr və sərgi salonları üçün ən optimal ölçü."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "Rəng dərinliyi",
+   "Şirkətin adının xüsusi tipoqrafik şriftlə, unikal hərflərlə yazılmasıdır (məsələn",
+   "PDF İxracı və 3D Təqdimat",
+   "Geri Qaytarma Sayı və Saxlanma Tarixi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Simvol həmin səthə yerləşdirilir və Scale to Fit ilə otuzdurulur. Etiket avtomatik olaraq 3D modelin bütün qabarıqlıqlarını və perspektiv bucaqlarını tam təkrarlayır.\"",
+  "options": [
+   "Tətbiq",
+   "Roughness (Kələ-kötürlük)",
+   "Səth Seçimi",
+   "İş Prinsipi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"İstiqamət Qolları və İdarəetmə Nöqtələri (Direction Handles)\" nədir?",
+  "options": [
+   "Üstdə yerləşən obyekti və onun altdakı obyektlə kəsişdiyi hissəni kəsib atır.",
+   "Şüa sayını və daxili-xarici radiuslarını sərbəst dəyişə bildiyiniz ulduz formaları yaradır.",
+   "Əyri xətlərin (Bezje əyriləri) bucağını, dərinliyini və formasını nizamlayan köməkçi tutacaqlardır.",
+   "İnteraktiv və ən sürətli forma qurma alətidir. Seçilmiş bir neçə fiqurun üzərindən siçanla xətt çəkərək onları birləşdirə, Alt düyməsini sıxıb…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Elementlər arasındakı addım aralığını tənzimləyir.\"",
+  "options": [
+   "Stretch Between Guides",
+   "Hue Shift (Rəng Tonunun Sürüşməsi)",
+   "Angle (Bucaq)",
+   "Spacing (Məsafə)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəngin canlılıq dərəcəsidir. 0% tam boz, 100% isə rəngin ən təmiz, doymuş halıdır.\"",
+  "options": [
+   "Mahiyyəti",
+   "Təyinatı",
+   "Saturation (Doyma)",
+   "Rəng dərinliyi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"A1 Format (594 x 841 mm) və A0 (841 x 1189 mm)\" nədir?",
+  "options": [
+   "Teatr və sərgi salonları üçün ən optimal ölçü.",
+   "Vektor personaj, 3D obyekt və ya kollaj kompozisiyanın mərkəzində dominant ölçüdə yerləşdirilir.",
+   "Bütün tipoqrafik elementlər.",
+   "Küçə dayanacaqları, böyük konsert afişaları və şəhər lövhələri üçün."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Bulanıqlıq və Turbulensiya (Gaussian Blur & Turbulence)",
+   "Kağız Eskizləri",
+   "Justify with Last Line Aligned Center",
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Dolğu və Kontur (Fill & Stroke)",
+   "Stroke & Type Units",
+   "Artboard Naviqasiyası",
+   "Geri Qaytarma Sayı və Saxlanma Tarixi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Trim Marks (Kəsim İşarələri)\" nədir?",
+  "options": [
+   "Dairə içərisində hədəf nişangahına bənzəyən simvollardır. Dörd fərqli rəng lövhəsinin (C, M, Y, K) çap maşınında üst-üstə mikron dəqiqliyi ilə…",
+   "Çap ediləcək artboard-ların aralığı (Range), nüsxə sayı və miqyas (Do not scale / Fit to page) təyin edilir.",
+   "Vərəqin künclərində yerləşən nazik xətlərdir. Gilyotin bıçağının məhsulu məhz haradan kəsəcəyini göstərir.",
+   "Vərəqin kənarında çap olunan kiçik rəngli kvadratlardır. Çap operatoru xüsusi densitometr cihazı ilə bu şkalaları ölçərək boyanın sıxlığını və…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yol mətni yaradılması, yol mətninin idxalı və redaktəsi\" mövzusuna aiddir?",
+  "options": [
+   "Make with Warp (Alt+Shift+Ctrl+W)",
+   "İşçi Kətan və Montaj Sahəsi (Canvas & Artboard)",
+   "Qatların İyerarxiyası",
+   "Spacing (Boşluqlar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Layihənin son vizualına baxarkən göy rəngli köməkçi xətləri ekrandan müvəqqəti gizlədir.\"",
+  "options": [
+   "Hide Guides (Bələdçiləri Gizlət - Ctrl+;)",
+   "İş Prinsipi",
+   "Hizalama və Mərkəzləşdirmə",
+   "Ölçü Başlanğıcının (Zero Point) Təyini"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Xüsusi Effektlər\" nədir?",
+  "options": [
+   "Rəngin işıqlıq dərəcəsidir. 0% tam qara, 100% isə maksimal dərəcədə aydın rəngdir.",
+   "Metalik rənglər (qızılı, gümüşü), neon və flüoressent rənglər CMYK ilə əldə edilə bilməz, onlar yalnız Pantone sistemi ilə təmin olunur.",
+   "Monitorlar, smartfonlar, televiziya ekranları və veb-saytlar üçün nəzərdə tutulur.",
+   "Standart dörd rəngin (CMYK) nöqtələrlə üst-üstə vurulmasından yaranmır. Bu rənglər əvvəlcədən xüsusi kimyəvi düsturla qarışdırılmış təmiz unikal…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor personaj, 3D obyekt və ya kollaj kompozisiyanın mərkəzində dominant ölçüdə yerləşdirilir.\"",
+  "options": [
+   "Rəng Kontrastı",
+   "A1 Format (594 x 841 mm) və A0 (841 x 1189 mm)",
+   "Mərkəzi Qrafikanın Qurulması",
+   "Raster Qrafikaların Bərkidilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Kənarların Seçilməsi (Edge Selection)\" nədir?",
+  "options": [
+   "Əgər siçanın düyməsini basılı saxlayaraq bir neçə qonşu sahənin üzərindən sürüşdürsəniz, keçdiyiniz bütün sahələr eyni rənglə ardıcıl boyanacaq.",
+   "Kəsişən xətlər, fiqurlar və ya eskiz konturları Selection Tool (V) ilə bütövlükdə seçilir.",
+   "Alətlə hər hansı xətt parçasının üzərinə kliklədikdə yalnız iki kəsişmə nöqtəsi arasında qalan kənar aktivləşir.",
+   "Small Gaps (Kiçik boşluqlar), Medium Gaps (Orta boşluqlar) və ya Large Gaps (Böyük boşluqlar) seçimləri ilə proqrama əmr verilir ki, xətlər fiziki…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Perspektiv Qəfəsi (Perspective Grid - Shift+P)",
+   "Barkod (Barcode) Sahəsi",
+   "Dress Code və RSVP",
+   "Column Graph Tool (Sütun Qrafiki)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Pattern Rejiminin Açılması",
+   "Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)",
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Recent (Son Fayllar) Bölməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Kağız Üzərində Eskiz (Sketching)\" nədir?",
+  "options": [
+   "Əsasən brendin loqosu, sloqanı və ya minimalist qrafik naxış yerləşir.",
+   "Əsas vurğu mərkəzidir (şrift ölçüsü: 9 - 11 pt, Bold və ya Medium).",
+   "Əlaqə məlumatlarının vizual iyerarxiyası sadə bloklarla eskizləşdirilir.",
+   "Şəxsin adı, soyadı, vəzifəsi, əlaqə vasitələri (telefon, e-poçt, sayt, ünvan və sosial şəbəkə ikonları) qeyd olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Obyektlərin Seçilməsi",
+   "Məsafə Bərabərliyi (Equal Spacing)",
+   "Rəng və Effekt Təmizliyi",
+   "Keep Selected"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Məsələn, bir kəpənək və ya quş illüstrasiyası çəkərkən qanadın kəskin ucları iti nöqtələrlə, bədənin yumşaq xətləri isə Bezje əyriləri və Anchor Point Tool köməyi ilə qurulur.\"",
+  "options": [
+   "Həndəsi İti Künclərlə Üzvi Əyrilərin Birgə İdarəsi",
+   "İti Küncü Hamar Əyriyə Çevirmək",
+   "Tutacaqları Bir-birindən Ayırmaq (Qırmaq)",
+   "Eskiz Üzərindən Çəkmək (Tracing)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hətta tək bir sözdən ibarət son sətri belə zorla qutunun bütün eni boyu dartır. Bu rejim hərflər arasında böyük boşluqlar yaratdığı üçün ehtiyatla istifadə edilməlidir.\"",
+  "options": [
+   "Brick by Row / Brick by Column",
+   "Justify All Lines (Tam Məcburi Düzləndirmə)",
+   "RGB (Red, Green, Blue)",
+   "Rotation (Fırlanma)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Dördqat klik\" nədir?",
+  "options": [
+   "Tək kliklə yaradılan, sərhəd çərçivəsi olmayan sərbəst mətn növüdür.",
+   "Bütün paraqrafı aktivləşdirir.",
+   "Sözbəsöz sürətli seçim həyata keçirir.",
+   "Mətn redaktə rejimində olarkən."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Sənəd Rəng Profili (Color Profile)\" nədir?",
+  "options": [
+   "Çoxsəhifəli layihələrdə neçənci montaj sahəsində olduğunuzu bildirir və səhifələr arasında bir toxunuşla keçid etməyə şərait yaradır.",
+   "Qrafik kartın (GPU) təsviri sürətləndirmə rejimində olub-olmadığını göstərir. Güclü videokart olduqda xırda detalları yaxınlaşdırmaq (Zoom) tamamilə…",
+   "Hazırda hansı alətin aktiv olduğunu yazılı şəkildə qeyd edir.",
+   "Layihənin CMYK və ya RGB olduğunu xatırladır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki bağlantı nöqtəsi arasında uzanan düz və ya qövsvarı vektor xətləridir. Xətlər açıq (məsələn, sərbəst çəkilmiş dalğa) və ya qapalı (məsələn, kvadrat) ola bilər.\"",
+  "options": [
+   "Ox düymələri (Up/Down Arrows)",
+   "Xətt Parçaları (Path / Segments)",
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)",
+   "Exclude (Kənarlaşdırma)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ekranın sol tərəfində şaquli şəkildə yerləşən əsas alətlər qutusudur. Burada obyektləri seçmək üçün Selection Tool (V) və Direct Selection Tool (A), sərbəst vektor xətləri çəkmək…\"",
+  "options": [
+   "High (300 ppi)",
+   "RGB (Red, Green, Blue)",
+   "Screen (72 ppi)",
+   "Alətlər Paneli (Tools Panel)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Korporativ Vizit Kartları\" nədir?",
+  "options": [
+   "Parıltısız, klassik və ciddi səth yaradır.",
+   "Təmiz və oxunaqlı (6 - 7.5 pt, Light və ya Regular).",
+   "Telefon, məkan və sayt ikonları vahid qalınlıqda vektor formalarla tərtib edilir. Müasir kartlarda sayta və ya rəqəmsal əlaqə vərəqəsinə aparan təmiz…",
+   "Şirkət əməkdaşları üçün hazırlanır; ciddi, brend kitabına (Brandbook) tam uyğun, loqo və korporativ rənglərin üstünlük təşkil etdiyi nizamlı…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Paraqraf formatlanması, paraqraf formatlanmasının əsasları və irəli effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Hex by Column / Hex by Row",
+   "İş prinsipi",
+   "Justify with Last Line Aligned Right",
+   "İstehsalçı Məlumatları, İstifadə Qaydaları və Sertifikat İkonları"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əlaqə məlumatlarının vizual iyerarxiyası sadə bloklarla eskizləşdirilir.\"",
+  "options": [
+   "Arxa Tərəf",
+   "Mühüm Qayda",
+   "Kağız Üzərində Eskiz (Sketching)",
+   "Ad və Soyad"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Kompleks Obyektlərin Formalaşdırılması\" nədir?",
+  "options": [
+   "Bir neçə fərqli primitivi (məsələn, dairə, ulduz və çoxbucaqlı) üst-üstə qoyub rəngləndirərək medal, sertifikat möhürü və ya müasir tətbiq nişanları…",
+   "Additiv (işıq əlavə edən) modeldir. Qaranlıq ekrana qırmızı, yaşıl və göy işıq şüaları göndərilir. Bütün rənglər 100% güclə üst-üstə düşdükdə təmiz…",
+   "Bütün fotoşəkillər vahid rəng korreksiyasından keçirilməli və Clipping Mask (Ctrl+7) ilə eyni formalı çərçivələrə salınmalıdır.",
+   "Arxa fon ilə ön plandakı mətnlər arasında maksimal rəng və parlaqlıq ziddiyyəti (məsələn, tünd sürməyi fonda parlaq sarı və ya ağ yazı) təmin edilir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Obrazların Qəfəs Üzrə Təşkili\" nədir?",
+  "options": [
+   "Obyekti böyüdüb-kiçildərkən Transform Pattern Only funksiyası ilə yalnız daxildəki naxışın sıxlığını dəyişmək olar.",
+   "Cədvəllər, radar torları, spidometr şkalaları və hədəf dairələri yaratmaq üçün tətbiq olunur.",
+   "Obyektləri şəbəkə xətlərinə yapışdırmaqla (Snap to Grid) vizual elementlərin xaotik paylanmasının qarşısı alınır və modul nizamı qurulur.",
+   "Tamamlanmış naxış Swatches panelinə rəng nümunəsi kimi əlavə olunur və istənilən formanın daxili dolğusu kimi tətbiq edilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Alətlər Paneli (Tools Panel)",
+   "Geriqaytarılma",
+   "Shift + Alt kombinasiyası",
+   "Alətin İş Mexanizmi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin şəffaflıq dərəcəsini və altdakı qatlarla necə qarışacağını tənzimləyir.\"",
+  "options": [
+   "Qeyri-şəffaflıq və Qarışdırma Rejimləri (Opacity & Blending Modes)",
+   "Geri Qaytarma Sayı və Saxlanma Tarixi",
+   "Düzləndirmə Seçimləri (Align)",
+   "Arrange Documents (Sənədlərin Düzülüşü)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Brushes Panelinə Daxil Olma\" nədir?",
+  "options": [
+   "Fırça yalnız çəkildiyi ilkin rəngdə qalır. Rəng panelindən dəyişiklik etmək olmur.",
+   "Hər bir elementin kətana və ya xəttin əyriliyinə nəzərən hansı bucaqla dönəcəyini təyin edir (Fixed və ya Random).",
+   "Yuxarı menyudan Window > Brushes (və ya.",
+   "Hazırladığınız obyekti seçərək siçanla birbaşa Brushes panelinin içinə sürükləyin və ya panelin altındakı."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Formanı burur, daxilə doğru büzür və ya şar kimi şişirdir.\"",
+  "options": [
+   "Geriqaytarılma",
+   "Warp Tool (Shift+R)",
+   "Pathfinder Crop",
+   "Twirl, Pucker, Bloat"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "Justify with Last Line Aligned Left",
+   "Image Trace və Maskalama",
+   "Arxa Tərəf",
+   "Baseline"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sənədə kənardan daxil edilmiş bütün raster şəkillərin (Links paneli vasitəsilə) faylın içinə basdırıldığından (.\"",
+  "options": [
+   "Sınaq Çapı (Proof Print / Hard Proof)",
+   "Media və Kağız Ölçüsü",
+   "Şəkillərin Bağlantısı və Daxil Edilməsi (Links & Embed)",
+   "Graphics və PostScript"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sütunlar arasındakı məsafəni riyazi dəqiqliklə (məsələn, 5 mm) nizamlayır.\"",
+  "options": [
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Praktiki Nümunələr",
+   "Gutter",
+   "İşçi Kətan və Montaj Sahəsi (Canvas & Artboard)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Artboard-un yuxarı və sol kənarlarında dəqiq ölçü şkalasını göstərir. Sıfır nöqtəsini artboard-un istənilən küncünə daşımaq mümkündür.\"",
+  "options": [
+   "New File (Yeni Fayl)",
+   "Xətkeşlər (Rulers - Ctrl+R)",
+   "Stroke & Type Units",
+   "Böyük Fayllarda Avtomatik Saxlama"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün sətri bütövlükdə seçir.\"",
+  "options": [
+   "İkiqat klik (Double-click)",
+   "Bütün mətni seçmək",
+   "Üçqat klik (Triple-click)",
+   "Nöqtə Mətni (Point Type)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Yaşıl\" nədir?",
+  "options": [
+   "Google, Coca-Cola, Sony).",
+   "KFC polkovniki, Pringles obrazı). Ailəvi və əyləncəli brendlərdə tətbiq edilir.",
+   "Təbiət, sağlamlıq, ekologiya və maliyyə artımı.",
+   "Müştərinin fəaliyyət sahəsi, hədəf auditoriyasının yaşı, sosial təbəqəsi və brendin əsas dəyərləri dəqiqləşdirilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Make with Top Object (Alt+Ctrl+C)\" nədir?",
+  "options": [
+   "Kətandakı raster fotoşəklin artıq kənarlarını fiziki olaraq kəsib atır və faylın çəkisini azaldır.",
+   "Ən üst qata qoyulmuş qapalı vektor fiquru (məsələn, dairə) pəncərə rolunu oynayır. Altdakı fotoşəkil və ya mürəkkəb vektor naxışı yalnız həmin…",
+   "Vektor obyektlərini üstdəki kəsici formanın sərhədləri üzrə fiziki kəsir, maskadan fərqli olaraq kənar sahələri tamamilə silir.",
+   "İstənilən mürəkkəb mətni və ya naxışı üstdə yerləşən fərdi vektor fiqurunun (məsələn, butulka və ya ürək silueti) formasına tam uyğunlaşdıraraq bükür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Proqramın daxilində interaktiv dərsliklərə, yeni funksiyaların izahına və rəsmi təlimatlara birbaşa çıxış təmin edir.\"",
+  "options": [
+   "Panellərin Birləşdirilməsi və Qruplaşdırılması",
+   "General Units",
+   "Xətkeşlər (Rulers - Ctrl+R)",
+   "Learn (Öyrən) Bölməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Vertically Scaled",
+   "Learn (Öyrən) Bölməsi",
+   "İşıqlandırma Matrisləri (Diffuse & Specular Lighting)",
+   "Miqyaslandırma (Scaling)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Broşür dizaynı, dizayn prinsipləri, eskiz, kompozisiya, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Z-Fold (Akkordeon Qatlama)",
+   "A3 Format (297 x 420 mm)",
+   "A5 Format",
+   "Sənəd Rəng Profili (Color Profile)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırçalar və panelinin izahı, raster görüntüsünün boyanması\" mövzusuna aiddir?",
+  "options": [
+   "Böyük Fayllarda Avtomatik Saxlama",
+   "Color Bars (Rəng Nəzarət Şkalası)",
+   "Şriftin xətt qalınlığını və duruşunu dəyişir",
+   "Accurate (Dəqiq)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Orta dərəcəli sıxlıqdır. Bəzi qəzet çapları və böyük çöl reklamları üçün yetərlidir.\"",
+  "options": [
+   "Millimetr (mm) və Santimetr (cm)",
+   "Screen (72 ppi)",
+   "CMYK (Cyan, Magenta, Yellow, Key/Black)",
+   "Medium (150 ppi)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"General Units\" nədir?",
+  "options": [
+   "Ən son üzərində işlənilmiş layihələrin siyahısını vizual önbaxış kartları və ya cədvəl şəklində göstərir. Bu siyahını adına, son redaktə tarixinə və…",
+   "Preferences daxilində.",
+   "Layihəni yaddaşa verərkən (.AI formatında) sənədi yerli kompüter diskinə və ya buluda saxlamaq seçimi təqdim olunur. Bulud saxlancı versiya…",
+   "Xətkeş və obyekt ölçülərinin standart vahidini (Millimeters, Pixels, Centimeters) təyin edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Minus Front (Öndəkini Kəs)",
+   "Color Bars (Rəng Nəzarət Şkalası)",
+   "Spacing (Məsafə)",
+   "Pattern-in Miqyaslandırılması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Simvol formatlanması, simvol formatlanmasının əsasları və irəli effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Small Caps (Kapitel)",
+   "Color Model",
+   "Şəkillərin Yoxlanması",
+   "Tətbiq"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rəng dərinliyi\" nədir?",
+  "options": [
+   "Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches…",
+   "İnsan gözünün təbii rəng qavrayışına ən yaxın modeldir. Dizayner hər hansı rəngin tonunu dəyişmədən sadəcə onu bir qədər qaranlıq və ya daha solğun…",
+   "Hər boya 0%-dən 100%-ə qədər faizlə hesablanır. Rəng spektri RGB modelinə nisbətən daha dardır.",
+   "Mətbəə, poliqrafiya, printer və tekstil çapı üçün istifadə edilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Shift + Yuxarı/Aşağı oxlar\" nədir?",
+  "options": [
+   "Bütün sətri bütövlükdə seçir.",
+   "Tək kliklə yaradılan, sərhəd çərçivəsi olmayan sərbəst mətn növüdür.",
+   "Əvvəlcədən çəkilmiş xüsusi həndəsi çərçivənin daxilinə doldurulan paraqraf mətnidir.",
+   "Sətirləri yuxarıdan aşağıya doğru blok şəklində seçir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Nəticə",
+   "Mühüm Qayda",
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "Brick by Row / Brick by Column"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rəng və Effekt Təmizliyi\" nədir?",
+  "options": [
+   "Loqo və ya hərflərə parlaq metalik qızıl, gümüş, bürünc və ya holoqrafik qat əlavə edir.",
+   "Vizit kartında heç vaxt 6 pt-dən kiçik şrift istifadə edilməməlidir, əks halda çapda mətnin oxunması çətinləşir.",
+   "Təmiz və oxunaqlı (6 - 7.5 pt, Light və ya Regular).",
+   "Bütün elementlərin CMYK-da olduğu yoxlanılır, artıq gizli qatlar silinir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız obyektlərin bir-birinin üzərinə düşən ortaq hissəsini saxlayır, qalan sahələri silir.\"",
+  "options": [
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Shape Builder Tool (Forma Quraşdırıcı - Shift+M)",
+   "Polygon Tool (Çoxbucaqlı Aləti)",
+   "Intersect (Kəsişmə)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tor Şəbəkəsi (Grid - Ctrl+')\" nədir?",
+  "options": [
+   "Xətkeşdən siçanla dartılaraq çıxarılan göy rəngli istiqamətləndirici xətlərdir. Mətn və qrafik blokların eyni xətt boyunca səliqəli düzülməsini təmin…",
+   "Kompüterin yaddaşında, xarici daşıyıcıda və ya bulud saxlancında olan mövcud faylları proqrama daxil edir.",
+   "Çox mürəkkəb və ağır fayllarda kompüterin donmaması üçün lazım gələrsə Turn off Data Recovery for complex documents funksiyası tənzimlənə bilər.",
+   "Vərəqin üzərinə milimetrlik tor örtüyü atır. Xüsusilə piksellərin dəqiq yerləşdirilməsi və loqo torlarının qurulması zamanı əvəzsizdir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kitab kartı (Book Cover / Dust Jacket / Kitab üzlüyü) dizaynı, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Layer 1",
+   "Justify with Last Line Aligned Left",
+   "Transformasiya",
+   "A5 Format"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Layihəyə xarici vektor və ya foto resursları dərhal daxil etmək üçün qısayol təmin edir.\"",
+  "options": [
+   "Artboard Naviqasiyası",
+   "GPU Acceleration Indikatoru",
+   "Adobe Bridge və Adobe Stock Girişi",
+   "Workspace Switcher (İş Rejimi Seçicisi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Nöqtə Mətni (Point Type)\" nədir?",
+  "options": [
+   "Kursoru hərflərin arasına yerləşdirir.",
+   "Bütün paraqrafı aktivləşdirir.",
+   "Kursorun dayandığı tək bir sözü bütöv seçir.",
+   "Tək kliklə yaradılan, sərhəd çərçivəsi olmayan sərbəst mətn növüdür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Small Gaps (Kiçik boşluqlar), Medium Gaps (Orta boşluqlar) və ya Large Gaps (Böyük boşluqlar) seçimləri ilə proqrama əmr verilir ki, xətlər fiziki olaraq birləşməsə belə, həmin…\"",
+  "options": [
+   "Səthin Boyanması (Face Fill)",
+   "Xətlərin Görünməz Edilməsi",
+   "Kontur Rənginin və Qalınlığının Təyini",
+   "Boşluq Ölçüsünün Tənzimlənməsi (Gap Size)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Şəkillərin Bağlantısı və Daxil Edilməsi (Links & Embed)\" nədir?",
+  "options": [
+   "Vərəqin künclərində yerləşən nazik xətlərdir. Gilyotin bıçağının məhsulu məhz haradan kəsəcəyini göstərir.",
+   "Vərəqin kənarına sənədin adını, cari səhifə nömrəsini, çap tarixini və rəng qatının adını avtomatik çap edir.",
+   "Dairə içərisində hədəf nişangahına bənzəyən simvollardır. Dörd fərqli rəng lövhəsinin (C, M, Y, K) çap maşınında üst-üstə mikron dəqiqliyi ilə…",
+   "Sənədə kənardan daxil edilmiş bütün raster şəkillərin (Links paneli vasitəsilə) faylın içinə basdırıldığından (."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin ətrafındakı sahənin Transparent (Şəffaf) və ya White (Ağ) qalmasını nizamlayır.\"",
+  "options": [
+   "Background (Fon)",
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Rəng Transformasiyaları (Color Matrix)",
+   "Color Model"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"A3 Format (297 x 420 mm)\" nədir?",
+  "options": [
+   "Kiçik vitrinlər, daxili məkanlar və lövhələr üçün.",
+   "Vektor personaj, 3D obyekt və ya kollaj kompozisiyanın mərkəzində dominant ölçüdə yerləşdirilir.",
+   "Kağız üzərində afişanın tərtibatı (layout) üçün müxtəlif variantlar çəkilir. Qızıl nisbət və üçdə bir qaydası (Rule of Thirds) tətbiq edilərək əsas…",
+   "Bütün tipoqrafik elementlər."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Tədbirin Adı və Dəvət Mətni\" nədir?",
+  "options": [
+   "210 x 100 mm (standart uzun zərflər üçün).",
+   "Aydın, vurğulanmış rəqəmlərlə və kiçik vektor məkan ikonu ilə.",
+   "Əsas abzas (oxunaqlı serifli və ya incə serifsiz şrift).",
+   "Sənəd PDF/X formatında çıxarılır, ardınca butulka və ya dəbdəbəli zərf maketinə (Mockup) otuzdurularaq müştəriyə vizual təqdim olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətan üzərində millimetrlik riyazi şəbəkə açır.\"",
+  "options": [
+   "İnversiya Rejimləri (Difference, Exclusion)",
+   "Brick by Row / Brick by Column",
+   "Freeform Gradient (Sərbəst Forma Degradəsi)",
+   "Sənəd Toru (Document Grid - Ctrl+')"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bəzən təsadüfi qısayol toxunuşu ilə bu çərçivə itir və obyekti böyütmək çətinləşir. Bu zaman yuxarı menyudan.\"",
+  "options": [
+   "Vektor Obyekti Bələdçiyə Çevirmək (Make Guides - Ctrl+5)",
+   "Həcm və Fotorealizm",
+   "Bounding Box-un İtərsə Bərpası",
+   "Bələdçi Xətlərin (Guides / Guidelines) Yaradılması"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Bələdçi Xətlərin (Guides / Guidelines) Yaradılması\" nədir?",
+  "options": [
+   "Xətkeşin üzərinə siçanın sol düyməsi ilə basıb kətana doğru çəkdikdə üfüqi və ya şaquli bələdçi xətt yaranır.",
+   "Standart olaraq sıfır nöqtəsi artboard-un yuxarı sol küncündə yerləşir. Xətkeşlərin kəsişdiyi sol üst küncdən tutub kətanın istənilən yerinə…",
+   "Bəzən təsadüfi qısayol toxunuşu ilə bu çərçivə itir və obyekti böyütmək çətinləşir. Bu zaman yuxarı menyudan.",
+   "Nöqtələr arasındakı rənglər bir-birinə olduqca yumşaq və təbii şəkildə qarışır. Məsələn, 3D alma, insan portreti, parlaq avtomobil gövdəsi və ya maye…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Alt (Option) düyməsi",
+   "Freeform Gradient (Sərbəst Forma Degradəsi)",
+   "Arxa Tərəf"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "Hue Shift (Rəng Tonunun Sürüşməsi)",
+   "Recent (Son Fayllar) Bölməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hazırlanmış broşür real qatlanmış vəziyyətdə vizual təqdimat maketinə otuzdurularaq müştəriyə nümayiş etdirilir.\"",
+  "options": [
+   "3D Mockup Təqdimatı",
+   "C-Fold (Məktub / Rol Qatlama)",
+   "Vizual Harmoniyası",
+   "Üz Qabığı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "Geri Qaytarma Sayı və Saxlanma Tarixi",
+   "Dikişsiz Keçid (Seamless Transition)",
+   "Crop Image",
+   "Bir obyektə qurduğunuz mürəkkəb effektlər kombinasiyasını (məsələn"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Alt (Option) düyməsi\" nədir?",
+  "options": [
+   "Həndəsi proporsiyanı tam qoruyur. Düzbucaqlı aləti ilə çəkərkən Shift sıxılarsa kamil kvadrat, ellips aləti ilə çəkərkən isə kamil dairə yaranır.",
+   "Düzbucaqlı və kvadratlar çəkmək üçün tətbiq edilir.",
+   "Hər bir vektor fiqurunun künclərini, əyilmə mərkəzlərini və istiqamət dəyişmə nöqtələrini təyin edən təməl koordinatlardır.",
+   "Fiquru küncdən deyil, kursorun dayandığı mərkəz nöqtəsindən xaricə doğru böyüdərək çəkir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Mahiyyəti\" nədir?",
+  "options": [
+   "Leading dəyəri şrift ölçüsündən təxminən 20-30% böyük olmalıdır (məsələn, 10 pt şrift üçün 13-14 pt leading). Əks halda yuxarıdakı və aşağıdakı…",
+   "Kiçik hərfləri böyük hərf formasına salır, lakin hündürlüyünü kiçik hərf səviyyəsində saxlayır.",
+   "Mətn redaktə olunan canlı tipoqrafik formadan çıxaraq adi bağlantı nöqtələri (Anchor Points) olan sərbəst vektor fiquruna çevrilir.",
+   "Seçilmiş bütöv söz, cümlə və ya abzas daxilindəki."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Intersect (Kəsişmə)\" nədir?",
+  "options": [
+   "İnteraktiv və ən sürətli forma qurma alətidir. Seçilmiş bir neçə fiqurun üzərindən siçanla xətt çəkərək onları birləşdirə, Alt düyməsini sıxıb…",
+   "Fiquru küncdən deyil, kursorun dayandığı mərkəz nöqtəsindən xaricə doğru böyüdərək çəkir.",
+   "Yalnız obyektlərin bir-birinin üzərinə düşən ortaq hissəsini saxlayır, qalan sahələri silir.",
+   "Əyri xətlərin (Bezje əyriləri) bucağını, dərinliyini və formasını nizamlayan köməkçi tutacaqlardır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Fırçanın Dəyişdirilməsi\" nədir?",
+  "options": [
+   "Yuxarı menyudan Window > Brushes (və ya.",
+   "Hər bir elementin kətana və ya xəttin əyriliyinə nəzərən hansı bucaqla dönəcəyini təyin edir (Fixed və ya Random).",
+   "Düz xətt parçası (Side Tile), Xarici künc (Outer Corner), Daxili künc (Inner Corner), Başlanğıc ucluq (Start Tile) və Sonluq ucluq (End Tile).",
+   "Brushes panelindəki fırçanın üzərinə iki dəfə klikləməklə onun parametrlər pəncərəsini açmaq və dəyərləri yeniləmək olar. Bu zaman açılan."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Bağlantı Nöqtələri (Anchor Points)\" nədir?",
+  "options": [
+   "Üçbucaqdan başlayaraq istənilən sayda bucağı olan fiqurlar formalaşdırır.",
+   "Obyektləri bir-birinə nəzərən və ya artboard-a nəzərən mərkəzləşdirmək, sol/sağ kənarlarını eyniləşdirmək və aralarındakı məsafəni riyazi…",
+   "İnteraktiv və ən sürətli forma qurma alətidir. Seçilmiş bir neçə fiqurun üzərindən siçanla xətt çəkərək onları birləşdirə, Alt düyməsini sıxıb…",
+   "Hər bir vektor fiqurunun künclərini, əyilmə mərkəzlərini və istiqamət dəyişmə nöqtələrini təyin edən təməl koordinatlardır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yol mətni yaradılması, yol mətninin idxalı və redaktəsi\" mövzusuna aiddir?",
+  "options": [
+   "Sonluq Qolu (End Bracket)",
+   "Layer 3",
+   "Make with Top Object (Alt+Ctrl+C)",
+   "Shift + Sağ/Sol oxlar"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xəttin altında qalan sahəni rənglə dolduraraq həcm dəyişikliyini vizual olaraq vurğulayır.\"",
+  "options": [
+   "Scatter Graph Tool (Səpələnmə Qrafiki)",
+   "Qrafikə Tətbiq",
+   "Area Graph Tool (Sahə Qrafiki)",
+   "Rəqəmlərin Yenilənməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Təyinatı\" nədir?",
+  "options": [
+   "Mətbəə, poliqrafiya, printer və tekstil çapı üçün istifadə edilir.",
+   "Rəngin canlılıq dərəcəsidir. 0% tam boz, 100% isə rəngin ən təmiz, doymuş halıdır.",
+   "Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches…",
+   "Rəngin öz təmiz adıdır (qırmızı, sarı, bənövşəyi). Rəng çarxında 0 dərəcədən 360 dərəcəyə qədər olan bucaqla ölçülür."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəngi dəyişərkən formanın qara və ağ sahələrinin işıq-kölgə dərinliyini tam qoruyub saxlayır.\"",
+  "options": [
+   "Angle (Bucaq)",
+   "Vektor Bazasının Hazırlanması",
+   "Tints and Shades (Çalarlar və Kölgələr)",
+   "Size (Ölçü)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Open (Aç)\" nədir?",
+  "options": [
+   "Ən rahat panellər düzülüşünü qurduqdan sonra.",
+   "Xətkeş və obyekt ölçülərinin standart vahidini (Millimeters, Pixels, Centimeters) təyin edir.",
+   "Kompüterin yaddaşında, xarici daşıyıcıda və ya bulud saxlancında olan mövcud faylları proqrama daxil edir.",
+   "Window menyusundan tez-tez istifadə olunan panelləri (Layers, Pathfinder, Align, Swatches, Color, Transform) ekrana əlavə etmək olar."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Lazım gəldikdə proqram açıq qalmış nöqtələr arasına avtomatik birləşdirici vektor xətləri çəkir.\"",
+  "options": [
+   "Close Gaps with Paths",
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Rənglərin Sürətli Dəyişdirilməsi",
+   "Səthin Boyanması (Face Fill)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Background (Fon)",
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "General Units",
+   "Hide Guides (Bələdçiləri Gizlət - Ctrl+;)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qrafik kartın (GPU) təsviri sürətləndirmə rejimində olub-olmadığını göstərir. Güclü videokart olduqda xırda detalları yaxınlaşdırmaq (Zoom) tamamilə hamar və anlıq baş verir.\"",
+  "options": [
+   "GPU Acceleration Indikatoru",
+   "Qeyri-şəffaflıq və Qarışdırma Rejimləri (Opacity & Blending Modes)",
+   "Adobe Bridge və Adobe Stock Girişi",
+   "Artboard Naviqasiyası"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əgər kompozisiyada kontur xətlərinin görünməsini istəmirsinizsə, həmin xətləri seçib kontur rəngini None (Şəffaf) vəziyyətinə gətirə bilərsiniz. Beləliklə, təsvir yalnız…\"",
+  "options": [
+   "Səthin Boyanması (Face Fill)",
+   "Rənglərin Sürətli Dəyişdirilməsi",
+   "Xətlərin Görünməz Edilməsi",
+   "Sürətli Çəkmə Rejimi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir neçə fərqli primitivi (məsələn, dairə, ulduz və çoxbucaqlı) üst-üstə qoyub rəngləndirərək medal, sertifikat möhürü və ya müasir tətbiq nişanları yaratmaq mümkündür.\"",
+  "options": [
+   "Page Information (Səhifə Məlumatı)",
+   "Kontrast Rejimləri (Overlay, Soft Light)",
+   "Onurğa Qalınlığının Riyazi Hesablanması",
+   "Kompleks Obyektlərin Formalaşdırılması"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Global Color Seçimi\" nədir?",
+  "options": [
+   "Hər boya 0%-dən 100%-ə qədər faizlə hesablanır. Rəng spektri RGB modelinə nisbətən daha dardır.",
+   "Mətbəə, poliqrafiya, printer və tekstil çapı üçün istifadə edilir.",
+   "Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches…",
+   "Metalik rənglər (qızılı, gümüşü), neon və flüoressent rənglər CMYK ilə əldə edilə bilməz, onlar yalnız Pantone sistemi ilə təmin olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Unite (Birləşdir)\" nədir?",
+  "options": [
+   "İki bağlantı nöqtəsi arasında uzanan düz və ya qövsvarı vektor xətləridir. Xətlər açıq (məsələn, sərbəst çəkilmiş dalğa) və ya qapalı (məsələn,…",
+   "Şüa sayını və daxili-xarici radiuslarını sərbəst dəyişə bildiyiniz ulduz formaları yaradır.",
+   "Üst-üstə düşən bütün formaları tək bir bütöv vektor fiquruna çevirir.",
+   "Həndəsi proporsiyanı tam qoruyur. Düzbucaqlı aləti ilə çəkərkən Shift sıxılarsa kamil kvadrat, ellips aləti ilə çəkərkən isə kamil dairə yaranır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Emblem və loqo dizaynının hazırlanması, nümunələrin tədqiqi və eskiz mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Bütün mətni seçmək",
+   "Şirkətin adının xüsusi tipoqrafik şriftlə, unikal hərflərlə yazılmasıdır (məsələn",
+   "Alətlər Paneli (Tools Panel)",
+   "Şriftin xətt qalınlığını və duruşunu dəyişir"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üfüqi zolaqlar üzərində alt qrupların payını əks etdirir.\"",
+  "options": [
+   "Scatter Graph Tool (Səpələnmə Qrafiki)",
+   "Repeating (Təkrarlanan)",
+   "Stacked Bar Graph Tool (Yığılmış Üfüqi Zolaq Qrafiki)",
+   "Rəqəmlərin Yenilənməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün hərfləri böyük (All Caps) yazılmış başlıqlarda trekinqi bir qədər artırmaq (məsələn, +100 və ya +200) yazıya müasir və premium vizual görünüş qazandırır.\"",
+  "options": [
+   "Tətbiqi",
+   "Məqsədi",
+   "Məhdudiyyəti",
+   "Mahiyyəti"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Emblem və loqo dizaynının hazırlanması, nümunələrin tədqiqi və eskiz mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Mavi",
+   "Hue Shift (Rəng Tonunun Sürüşməsi)",
+   "Qütb və Düzbucaqlı Qəfəs Alətləri (Polar & Rectangular Grid Tools)",
+   "Align Paneli (Düzləndirmə)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Formanın Əlavə Edilməsi\" nədir?",
+  "options": [
+   "Brushes panelindəki fırçanın üzərinə iki dəfə klikləməklə onun parametrlər pəncərəsini açmaq və dəyərləri yeniləmək olar. Bu zaman açılan.",
+   "Fırçanın rəngini kontur rənginə (Stroke Color) uyğunlaşdırır. Ən çox istifadə olunan metoddur. Qara və boz çalarlarla çəkilmiş formalar üçün mükəmməl…",
+   "Hazırladığınız obyekti seçərək siçanla birbaşa Brushes panelinin içinə sürükləyin və ya panelin altındakı.",
+   "Fırça yalnız çəkildiyi ilkin rəngdə qalır. Rəng panelindən dəyişiklik etmək olmur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Dolğu və Kontur (Fill & Stroke)\" nədir?",
+  "options": [
+   "Küncləri yumşaldılmış düzbucaqlılar yaradır.",
+   "Çoxbucaqlı və ya ulduz çəkərkən siçanın sol düyməsini buraxmadan yuxarı/aşağı oxları basdıqda tərəflərin və şüaların sayı anında artır və ya azalır.",
+   "İki bağlantı nöqtəsi arasında uzanan düz və ya qövsvarı vektor xətləridir. Xətlər açıq (məsələn, sərbəst çəkilmiş dalğa) və ya qapalı (məsələn,…",
+   "Fiqurun daxili sahəsinin rəngi (Fill) və onu əhatə edən sərhəd xəttinin rəngi, qalınlığı və formasıdır (Stroke)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Sonluq Qolu (End Bracket)\" nədir?",
+  "options": [
+   "Kəskin döngələrdə hərflərin bir-birinin üzərinə minməməsi üçün simvollar arasındakı məsafəni riyazi tənzimləyir.",
+   "Mətnin bitmə sərhədini təyin edir. Əgər sonluq qolu mətndən əvvələ çəkilərsə, sözlər sığmır və qırmızı daşma işarəsi (+) yaranır.",
+   "Mətnin ən yuxarı həddini xəttə yapışdırır (mətn xəttin altında qalır).",
+   "Mətni tam mərkəzindən keçən oxla xəttin üzərində bərabər bölüşdürür."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Böyük Fayllarda Avtomatik Saxlama",
+   "Freeform Gradient (Sərbəst Forma Degradəsi)",
+   "Center",
+   "Perspektiv Qəfəsi (Perspective Grid - Shift+P)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Səhifələr \"Z\" hərfi kimi qatlanır. Hər üç səhifə tam eyni endə (99 mm) ola bilər.\"",
+  "options": [
+   "Z-Fold (Akkordeon Qatlama)",
+   "Daxili Bloklar",
+   "İkonlar və İnfoqrafika",
+   "3D Mockup Təqdimatı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Köməkçi Qəfəs Sistemi (Grid System)\" nədir?",
+  "options": [
+   "Teatr və sərgi salonları üçün ən optimal ölçü.",
+   "Kiçik vitrinlər, daxili məkanlar və lövhələr üçün.",
+   "Bütün tipoqrafik elementlər.",
+   "Kətanda şaquli və üfüqi bələdçi xətlər (Guides) vasitəsilə tipoqrafik və qrafik nizam qurulur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Cədvəl pəncərəsinin yuxarısındakı qovluq ikonuna klikləyərək xarici fayllardan (.csv, .txt) hazır rəqəmsal bazanı birbaşa cədvələ yükləmək mümkündür.\"",
+  "options": [
+   "Repeating (Təkrarlanan)",
+   "Təsdiq",
+   "Stacked Column Graph Tool (Yığılmış Sütun Qrafiki)",
+   "Verilənlərin İdxalı (Import Data)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əgər kateqoriya adının rəqəmlə deyil, sözlə qəbul edilməsini istəyirsinizsə, mətni dırnaq içərisində (məsələn: \"2025\", \"Yanvar\") daxil etmək lazımdır.\"",
+  "options": [
+   "Scatter Graph Tool (Səpələnmə Qrafiki)",
+   "Mühüm Qayda",
+   "Vertically Scaled",
+   "Dizaynın Hazırlanması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Ölçü Başlanğıcının (Zero Point) Təyini\" nədir?",
+  "options": [
+   "Layihənin son vizualına baxarkən göy rəngli köməkçi xətləri ekrandan müvəqqəti gizlədir.",
+   "Şəbəkə üzərində yaranan hər bir kəsişmə nöqtəsinə (Mesh Point) fərqli rəng tonu vermək mümkündür.",
+   "Standart qradiyent rəngi yalnız xətti və ya dairəvi keçidlərlə verir. Mesh Tool isə vektor obyektinin daxilində xüsusi tor şəbəkəsi qurur.",
+   "Standart olaraq sıfır nöqtəsi artboard-un yuxarı sol küncündə yerləşir. Xətkeşlərin kəsişdiyi sol üst küncdən tutub kətanın istənilən yerinə…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Mühüm Qayda",
+   "Üçqat klik (Triple-click)",
+   "Hizalama və Mərkəzləşdirmə",
+   "Justify with Last Line Aligned Center"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Adobe bulud sisteminə inteqrasiya olunmuş sənədlərə digər cihazlardan dərhal daxil olmaq imkanı yaradır.\"",
+  "options": [
+   "Open (Aç)",
+   "Creative Cloud Files",
+   "New File (Yeni Fayl)",
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Simvol formatlanması, simvol formatlanmasının əsasları və irəli effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Üstünlüyü",
+   "Bütün mətni seçmək",
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Korporativ Vizit Kartları"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Daxili Parametrlərin Tənzimlənməsi\" nədir?",
+  "options": [
+   "Obyektlərin böyüklük dərəcəsini nizamlayır.",
+   "Yuxarı menyudan Window > Brushes (və ya.",
+   "Açılan pəncərədə formaya uyğun fırça tipini seçin (Calligraphic, Scatter, Art, Bristle və ya Pattern).",
+   "Fırçanın ölçüsünü, rənglənmə metodunu və istiqamətini nizamlayıb \"OK\" düyməsini sıxın."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "İşıqlandırma Rejimləri (Screen, Lighten)",
+   "Sənəd Toru (Document Grid - Ctrl+')",
+   "İnversiya Rejimləri (Difference, Exclusion)",
+   "Səthin Boyanması (Face Fill)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"İş prinsipi\" nədir?",
+  "options": [
+   "Rəngin işıqlıq dərəcəsidir. 0% tam qara, 100% isə maksimal dərəcədə aydın rəngdir.",
+   "Hər boya 0%-dən 100%-ə qədər faizlə hesablanır. Rəng spektri RGB modelinə nisbətən daha dardır.",
+   "Additiv (işıq əlavə edən) modeldir. Qaranlıq ekrana qırmızı, yaşıl və göy işıq şüaları göndərilir. Bütün rənglər 100% güclə üst-üstə düşdükdə təmiz…",
+   "Subtraktiv (işığı udan) modeldir. Ağ kağız üzərinə boya vurulduqca boyalar işıq şüalarını udur və əks olunan rəng dəyişir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Transformasiya\" nədir?",
+  "options": [
+   "Əyri xətlərin (Bezje əyriləri) bucağını, dərinliyini və formasını nizamlayan köməkçi tutacaqlardır.",
+   "Kətanda xüsusi bir vektor təsviri (məsələn, bina və ya ağac ikonu) çəkilir.",
+   "Təbiət, sağlamlıq, ekologiya və maliyyə artımı.",
+   "Bounding Box vasitəsilə fiqurlar çevrilir, bucaq altında əyilir (Shear) və ya miqyaslandırılır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Star Tool (Ulduz Aləti)",
+   "Verilənlərin İdxalı (Import Data)",
+   "Məqsədi",
+   "Sınaq Çapı (Proof Print / Hard Proof)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırçanın ölçüsünü, rənglənmə metodunu və istiqamətini nizamlayıb \"OK\" düyməsini sıxın.\"",
+  "options": [
+   "Spacing (Məsafə)",
+   "None",
+   "Scale Proportionately",
+   "Daxili Parametrlərin Tənzimlənməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Qara və Qızılı\" nədir?",
+  "options": [
+   "Artıq bağlantı nöqtələri təmizlənir, kənarların kəskinliyi yoxlanılır.",
+   "Lüks, premium status və zəriflik.",
+   "Enerji, ehtiras, sürət və təcili çağırış.",
+   "KFC polkovniki, Pringles obrazı). Ailəvi və əyləncəli brendlərdə tətbiq edilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Fırlatma (Rotating)",
+   "A3 Format (297 x 420 mm)",
+   "Üstünlüyü",
+   "Nəticə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rasterləşdirmə effekti, stilize effektləri və SVG filtrləri\" mövzusuna aiddir?",
+  "options": [
+   "Polygon Tool (Çoxbucaqlı Aləti)",
+   "Rəng Transformasiyaları (Color Matrix)",
+   "Fərdi Kitabxana Saxlanması",
+   "Output (Çıxış Rejimi)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Shift+Ctrl+G əmri ilə qrupu dağıtdıqdan sonra hər bir rəngli detala fərdi qradiyent, kölgə və ya xüsusi effektlər tətbiq etmək olar.\"",
+  "options": [
+   "Boşluq Ölçüsünün Tənzimlənməsi (Gap Size)",
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Obyektlərin Seçilməsi",
+   "Alətin İş Mexanizmi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rasterləşdirmə effekti, stilize effektləri və SVG filtrləri\" mövzusuna aiddir?",
+  "options": [
+   "İnversiya Rejimləri (Difference, Exclusion)",
+   "Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)",
+   "Layer 3",
+   "Background (Fon)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yol mətni yaradılması, yol mətninin idxalı və redaktəsi\" mövzusuna aiddir?",
+  "options": [
+   "Scatter (Səpələnmə Payı)",
+   "Qrafikə Tətbiq",
+   "Baseline",
+   "Make with Mesh"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Simvolları tək-tək seçir.\"",
+  "options": [
+   "Shift + Sağ/Sol oxlar",
+   "İkiqat klik (Double-click)",
+   "Sahə Mətni (Area Type)",
+   "Bütün mətni seçmək"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Emblem və loqo dizaynının hazırlanması, nümunələrin tədqiqi və eskiz mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Color Model",
+   "Məsafə Bərabərliyi (Equal Spacing)",
+   "Vektor Təmizliyi",
+   "Mahiyyəti"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Workspace Switcher (İş Rejimi Seçicisi)\" nədir?",
+  "options": [
+   "Eyni anda bir neçə layihə üzərində işləyərkən pəncərələri ekranda şaquli, üfüqi və ya 2x2 tor şəklində yanaşı bölüşdürməyə imkan verir. Bir sənəddən…",
+   "İstifadəçinin məqsədinə uyğun interfeys konfiqurasiyalarını (Essentials, Painting, Typography, Web) sürətlə dəyişir.",
+   "Layihənin CMYK və ya RGB olduğunu xatırladır.",
+   "Layihəyə xarici vektor və ya foto resursları dərhal daxil etmək üçün qısayol təmin edir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sütunları üfüqi istiqamətdə yerləşdirir. Kateqoriya adları uzun olduqda oxunaqlılığı qorumaq üçün seçilir.\"",
+  "options": [
+   "Bar Graph Tool (Üfüqi Zolaq Qrafiki)",
+   "Repeating (Təkrarlanan)",
+   "Line Graph Tool (Xətti Qrafik)",
+   "Mühüm Qayda"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Tarix, Saat və Məkan (Address)\" nədir?",
+  "options": [
+   "210 x 100 mm (standart uzun zərflər üçün).",
+   "Hörmətli qonağın adı (adətən kalliqrafik xəttatlıq şrifti ilə).",
+   "Sənəd PDF/X formatında çıxarılır, ardınca butulka və ya dəbdəbəli zərf maketinə (Mockup) otuzdurularaq müştəriyə vizual təqdim olunur.",
+   "Aydın, vurğulanmış rəqəmlərlə və kiçik vektor məkan ikonu ilə."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Etiketin və dəvətnamənin hazırlanması, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Ümumi En",
+   "Dress Code və RSVP",
+   "Shift + Alt kombinasiyası",
+   "Rəng Kontrastı"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"PDF İxracı və 3D Təqdimat\" nədir?",
+  "options": [
+   "Mətn bloklarının və bəzək elementlərinin yerləşməsi kağızda cızılır.",
+   "210 x 100 mm (standart uzun zərflər üçün).",
+   "Sənəd PDF/X formatında çıxarılır, ardınca butulka və ya dəbdəbəli zərf maketinə (Mockup) otuzdurularaq müştəriyə vizual təqdim olunur.",
+   "Qanunvericiliklə tələb olunan ölçü vahidləri (ml, q, l)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Statistiki qrafik seçilir və.\"",
+  "options": [
+   "Qrafikə Tətbiq",
+   "Verilənlərin İdxalı (Import Data)",
+   "Line Graph Tool (Xətti Qrafik)",
+   "Radar Graph Tool (Radar / Hörümçək Qrafiki)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rasterləşdirmə effekti, stilize effektləri və SVG filtrləri\" mövzusuna aiddir?",
+  "options": [
+   "Məqsədi",
+   "Vektor Bazasının Hazırlanması",
+   "İşıqlandırma Matrisləri (Diffuse & Specular Lighting)",
+   "General Units"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Rənglərin Sürətli Dəyişdirilməsi",
+   "Təyinatı",
+   "Yeni İş Mühitinin Saxlanması",
+   "Background (Fon)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Formanın yalnız bir tərəfinin şaquli kəsik konturu (profili) çəkilir. Proqram həmin açıq və ya qapalı xətti 360 dərəcəlik mərkəzi ox ətrafında tam fırladaraq bütöv həcmli gövdə…\"",
+  "options": [
+   "İstifadə Sahələri",
+   "İş Prinsipi",
+   "Metallic",
+   "Simvolun Hazırlanması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Nöqtə (Points - pt)\" nədir?",
+  "options": [
+   "Orta dərəcəli sıxlıqdır. Bəzi qəzet çapları və böyük çöl reklamları üçün yetərlidir.",
+   "Əsasən mətn ölçüləri və tipoqrafik tənzimləmələr zamanı istifadə edilir.",
+   "Yalnız rəqəmsal ekranlar, veb-saytlar, tətbiqlər və sosial media postları üçün istifadə edilir.",
+   "Ekranın sol tərəfində şaquli şəkildə yerləşən əsas alətlər qutusudur. Burada obyektləri seçmək üçün Selection Tool (V) və Direct Selection Tool (A),…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Səthin Boyanması (Face Fill)\" nədir?",
+  "options": [
+   "Kursor qapalı sahənin üzərinə gəldikdə həmin hissə qalın qırmızı xətlə haşiyələnir. Siçanın sol düyməsini bircə dəfə kliklədikdə seçilmiş rəng anında…",
+   "Klaviaturadakı sol və sağ ox düymələrinə basaraq Swatches panelini açmadan belə palitradakı rənglər arasında dərhal keçid etmək mümkündür.",
+   "Kəsişən xətlər, fiqurlar və ya eskiz konturları Selection Tool (V) ilə bütövlükdə seçilir.",
+   "Small Gaps (Kiçik boşluqlar), Medium Gaps (Orta boşluqlar) və ya Large Gaps (Böyük boşluqlar) seçimləri ilə proqrama əmr verilir ki, xətlər fiziki…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Adobe Cloud vs Yerli Saxlama",
+   "Layer 3 (Die-cut)",
+   "Align Paneli (Düzləndirmə)",
+   "İstehsalçı Məlumatları, İstifadə Qaydaları və Sertifikat İkonları"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bu, işıq əsaslı additiv rəng modelidir. Kompüter monitorları, smartfonlar, planşetlər və televizorlar rəngləri bu üç əsas işıq şüasının kombinasiyası ilə formalaşdırır. Əgər…\"",
+  "options": [
+   "Metr (m)",
+   "Nöqtə (Points - pt)",
+   "Piksel (Pixels - px)",
+   "RGB (Red, Green, Blue)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Metallic\" nədir?",
+  "options": [
+   "Həcmli 3D tipoqrafik başlıqlar, loqolar, qrafik qutular və interfeys düymələrinin hazırlanmasında geniş tətbiq olunur.",
+   "Obyektə metal parıltısı və əksolunma dərəcəsi qazandırır.",
+   "Formanın yalnız bir tərəfinin şaquli kəsik konturu (profili) çəkilir. Proqram həmin açıq və ya qapalı xətti 360 dərəcəlik mərkəzi ox ətrafında tam…",
+   "Vaza, şüşə butulka, qədəh, gil qablar, lampa plafonları və meyvə təsvirlərini sıfırdan yaratmaq üçün yalnız onların sol kənar siluetini çəkib Revolve…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Simvol formatlanması, simvol formatlanmasının əsasları və irəli effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Klaviatura qısayolu",
+   "Spacing (Məsafə)",
+   "Vizual Harmoniyası",
+   "Shift düyməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Emblem və loqo dizaynının hazırlanması, nümunələrin tədqiqi və eskiz mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Üz Qabığı",
+   "Qara və Qızılı",
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Exclude (Kənarlaşdırma)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)\" nədir?",
+  "options": [
+   "Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır.",
+   "Loqo və ya hərflərə parlaq metalik qızıl, gümüş, bürünc və ya holoqrafik qat əlavə edir.",
+   "Vizit kartında heç vaxt 6 pt-dən kiçik şrift istifadə edilməməlidir, əks halda çapda mətnin oxunması çətinləşir.",
+   "Telefon, məkan və sayt ikonları vahid qalınlıqda vektor formalarla tərtib edilir. Müasir kartlarda sayta və ya rəqəmsal əlaqə vərəqəsinə aparan təmiz…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Exclude (Kənarlaşdırma)\" nədir?",
+  "options": [
+   "Ellips və tam dairələr qurmaq üçün istifadə olunur.",
+   "İnteraktiv və ən sürətli forma qurma alətidir. Seçilmiş bir neçə fiqurun üzərindən siçanla xətt çəkərək onları birləşdirə, Alt düyməsini sıxıb…",
+   "Seçilmiş obyektin ətrafındakı 8 nöqtəli çərçivədir. Obyekti dartmaq, sıxmaq və künclərindən tutaraq dərəcə ilə fırlatmaq imkanı verir.",
+   "Kəsişən ortaq sahəni şəffaf boşluğa çevirir, kənar hissələri saxlayır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Hamar Əyrini İti Küncə Çevirmək\" nədir?",
+  "options": [
+   "Əyri xətlərdə hər iki tərəfin tutacağı bir-biri ilə eyni ox üzrə hərəkət edir. Anchor Point Tool ilə təkcə bir tutacaqdan tutub hərəkət etdirdikdə ox…",
+   "Məsələn, bir kəpənək və ya quş illüstrasiyası çəkərkən qanadın kəskin ucları iti nöqtələrlə, bədənin yumşaq xətləri isə Bezje əyriləri və Anchor…",
+   "Tutacaqları olan yumşaq nöqtənin üzərinə bircə dəfə kliklədikdə bütün tutacaqlar ləğv edilir və forma dərhal iti həndəsi künc alır.",
+   "Kağızda çəkilmiş eskiz şəkli Illustrator-a daxil edilir və qat kilidlənir. Üst qatda Pen Tool vasitəsilə konturlar addım-addım yüksək dəqiqliklə…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Afişa (poster) dizaynı, planlama, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "File Handling & Clipboard Bölməsi",
+   "Transformasiya",
+   "Hide Guides (Bələdçiləri Gizlət - Ctrl+;)",
+   "A1 Format (594 x 841 mm) və A0 (841 x 1189 mm)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Son sətri sola çəkir (qəzet və jurnal məqalələri üçün qızıl standart).\"",
+  "options": [
+   "Brif Analizi (Briefing)",
+   "Şəkillərin Yoxlanması",
+   "Justify with Last Line Aligned Left",
+   "Make with Top Object (Alt+Ctrl+C)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırçalar və panelinin izahı, raster görüntüsünün boyanması\" mövzusuna aiddir?",
+  "options": [
+   "Mərkəzi Çevirici Qol (Center Bracket / Flip Handle)",
+   "Brendi təmsil edən xüsusi illüstrativ xarakter və ya canlı qəhrəmandır (məsələn",
+   "Smooth (Hamar)",
+   "Giriş Müraciəti"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Formanın proporsiyasını itirmədən böyüməsini təmin edir.\"",
+  "options": [
+   "Roundness (Dairəvilik)",
+   "Daxili Parametrlərin Tənzimlənməsi",
+   "Fırça Növünün Seçilməsi",
+   "Scale Proportionately"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"High (300 ppi)\" nədir?",
+  "options": [
+   "Əsasən mətn ölçüləri və tipoqrafik tənzimləmələr zamanı istifadə edilir.",
+   "Piksellərin sıxlığı azdır. Yalnız rəqəmsal ekran işləri üçün istifadə olunur. Faylın çəkisini olduqca kiçik saxlayır və kompüteri yükləmir.",
+   "Yalnız rəqəmsal ekranlar, veb-saytlar, tətbiqlər və sosial media postları üçün istifadə edilir.",
+   "Yüksək keyfiyyətli peşəkar poliqrafiya standartıdır. Çap məhsullarında tətbiq olunan effektlərin dənəvər və keyfiyyətsiz görünməməsi üçün bu parametr…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tək klik\" nədir?",
+  "options": [
+   "Əvvəlcədən çəkilmiş xüsusi həndəsi çərçivənin daxilinə doldurulan paraqraf mətnidir.",
+   "Kursoru hərflərin arasına yerləşdirir.",
+   "Sözbəsöz sürətli seçim həyata keçirir.",
+   "Simvolları tək-tək seçir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Məsələn, \"A\" və \"V\" və ya \"T\" və \"o\" hərfləri yanaşı gəldikdə həndəsi bucaqlarına görə aralarında böyük vizual boşluq yaranır. Körninq bu iki hərfi bir-birinə yaxınlaşdıraraq…\"",
+  "options": [
+   "Prosesin Mahiyyəti",
+   "All Caps",
+   "Məqsədi",
+   "Üstünlüyü"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Illustrator proqramının daxilolma parametrləri və interfeysinin ümumi izahı\" mövzusuna aiddir?",
+  "options": [
+   "Metr (m)",
+   "İş prinsipi",
+   "Bounding Box-un İtərsə Bərpası",
+   "Unite (Birləşdir)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Illustrator proqramının daxilolma parametrləri və interfeysinin ümumi izahı\" mövzusuna aiddir?",
+  "options": [
+   "Tipoqrafiya Tənzimləmələri",
+   "High (300 ppi)",
+   "Unite (Birləşdir)",
+   "Qeyri-şəffaflıq və Qarışdırma Rejimləri (Opacity & Blending Modes)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Accurate (Dəqiq)\" nədir?",
+  "options": [
+   "Əlinizin hər bir kiçik titrəməsini və xırda hərəkətini çoxsaylı nöqtələrlə kətana köçürür.",
+   "Çoxbucaqlı və ya ulduz çəkərkən siçanın sol düyməsini buraxmadan yuxarı/aşağı oxları basdıqda tərəflərin və şüaların sayı anında artır və ya azalır.",
+   "Əyri xətlərdə hər iki tərəfin tutacağı bir-biri ilə eyni ox üzrə hərəkət edir. Anchor Point Tool ilə təkcə bir tutacaqdan tutub hərəkət etdirdikdə ox…",
+   "Obyekti böyüdüb-kiçildərkən Transform Pattern Only funksiyası ilə yalnız daxildəki naxışın sıxlığını dəyişmək olar."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"CMYK Ayrılma Mexanizmi\" nədir?",
+  "options": [
+   "Təsvir dörd ayrı çap qəlibinə (lövhəsinə) bölünür:.",
+   "Vərəqin künclərində yerləşən nazik xətlərdir. Gilyotin bıçağının məhsulu məhz haradan kəsəcəyini göstərir.",
+   "Çap ediləcək artboard-ların aralığı (Range), nüsxə sayı və miqyas (Do not scale / Fit to page) təyin edilir.",
+   "Bütün tirajı çapa verməzdən əvvəl mütləq 1 ədəd sınaq nüsxəsi çap olunmalıdır. Dizayner və müştəri həmin nüsxə üzərində rənglərin real çıxışını, mətn…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Sahənin Çəkilməsi",
+   "Ümumi En",
+   "Arxa Tərəf",
+   "Avtomatik Çevrilmə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ctrl+R ilə xətkeşlər açılır və kartın kənarlarından daxilə doğru 4 mm-lik təhlükəsizlik bələdçiləri qurulur.\"",
+  "options": [
+   "Qrafik İkonların və QR Kodun İnteqrasiyası",
+   "Matt (Mat)",
+   "Köməkçi Bələdçi Xətlərin Təyini (Guides)",
+   "Kağız Üzərində Eskiz (Sketching)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Bulanıqlıq və Turbulensiya (Gaussian Blur & Turbulence)\" nədir?",
+  "options": [
+   "Maye dalğalanmaları, tüstü və təbii teksturaları kod səviyyəsində formalaşdırır.",
+   "Obyektin ətrafındakı sahənin Transparent (Şəffaf) və ya White (Ağ) qalmasını nizamlayır.",
+   "Təsvirin rəng kanallarını xüsusi riyazi matrislə dəyişərək unikal tonlama filtrləri tətbiq edir.",
+   "Şəklin hansı rəng modelində (RGB, CMYK, Grayscale) hesablanacağını müəyyənləşdirir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəngləri düz bir ox boyunca (üfüqi, şaquli və ya istənilən bucaq altında) keçirir.\"",
+  "options": [
+   "Linear Gradient (Xətti Degrade)",
+   "Perspektiv Qəfəsi (Perspective Grid - Shift+P)",
+   "Grid",
+   "Swatches Panelində Saxlanma"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Scatter Graph Tool (Səpələnmə Qrafiki)",
+   "Mərkəzi Qrafikanın Qurulması",
+   "Barkod (Barcode) Sahəsi",
+   "Tətbiqi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Relyef Qabartma (Embossing / Debossing)",
+   "Dördqat klik",
+   "Qeyri-şəffaflıq və Qarışdırma Rejimləri (Opacity & Blending Modes)",
+   "File Handling & Clipboard Bölməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Qaranlıqlaşdırma Rejimləri (Multiply, Darken)\" nədir?",
+  "options": [
+   "Tamamlanmış naxış Swatches panelinə rəng nümunəsi kimi əlavə olunur və istənilən formanın daxili dolğusu kimi tətbiq edilir.",
+   "Üstdəki formanın rəngini altdakı formanın işıq-kölgə dəyərləri ilə qovuşdurur və ümumi rəng doymasını artırır.",
+   "Ağ və açıq tonları tamamilə şəffaf edir, yalnız tünd və qara rəngləri saxlayır. Təbii kölgələr yaratmaq üçün ən çox Multiply rejimi tətbiq olunur.",
+   "Standart kvadrat şahmat düzülüşü."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Layer 1",
+   "İkonlar və İnfoqrafika",
+   "Stroke & Type Units",
+   "Nöqtələrə Fərdi Rəng Təyini"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "Shift + Alt kombinasiyası",
+   "Rounded Rectangle Tool (Dairəvi Kənarlı Düzbucaqlı)",
+   "Ctrl + Shift + Oxlar",
+   "Cari Alət Göstəricisi (Current Tool)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İkiölçülü vektor düymələrinə və simvollarına relyefli qabarıqlıq və metal parıltısı bəxş edir.\"",
+  "options": [
+   "Background (Fon)",
+   "İşıqlandırma Matrisləri (Diffuse & Specular Lighting)",
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Bulanıqlıq və Turbulensiya (Gaussian Blur & Turbulence)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təsadüfən yerlərinin dəyişməməsi üçün xətləri dondurur.\"",
+  "options": [
+   "Miqyaslandırma (Scaling)",
+   "Həcm və Fotorealizm",
+   "Bounding Box-un İtərsə Bərpası",
+   "Lock Guides (Bələdçiləri Kilidlə - Ctrl+Alt+;)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Şəkillərin Bağlantısı və Daxil Edilməsi (Links & Embed)",
+   "Köməkçi Bələdçi Xətlərin Təyini (Guides)",
+   "İş Prinsipi",
+   "Bucaq və Fırlanma Məlumatları"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kəskin döngələrdə hərflərin bir-birinin üzərinə minməməsi üçün simvollar arasındakı məsafəni riyazi tənzimləyir.\"",
+  "options": [
+   "Baseline",
+   "Stair Step (Pilləkən)",
+   "3D Ribbon (Üçölçülü Lent)",
+   "Spacing (Boşluqlar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsasən brendin loqosu, sloqanı və ya minimalist qrafik naxış yerləşir.\"",
+  "options": [
+   "Lokal UB Lak (Spot UV Varnishing)",
+   "Ön Tərəf",
+   "Mühüm Qayda",
+   "Fərdi / Yaradıcı Vizit Kartları"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İkiqat klik (Double-click)\" nədir?",
+  "options": [
+   "Kursorun dayandığı tək bir sözü bütöv seçir.",
+   "Bütün sətri bütövlükdə seçir.",
+   "Kursoru hərflərin arasına yerləşdirir.",
+   "Sözbəsöz sürətli seçim həyata keçirir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qələmin kəsik ucunun duruş bucağını təyin edir.\"",
+  "options": [
+   "Angle (Bucaq)",
+   "Brushes Panelinə Daxil Olma",
+   "None",
+   "Stretch Between Guides"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətnlər Area Type Tool vasitəsilə sütunlara bölünür. Böyük paraqraflar kiçik hissələrə parçalanır, aralarına paraqraf başlıqları (H2, H3), say siyahıları və ikonlar əlavə edilir.\"",
+  "options": [
+   "Daxili Bloklar",
+   "Vizual Harmoniyası",
+   "3D Mockup Təqdimatı",
+   "C-Fold (Məktub / Rol Qatlama)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Düz xətt parçası (Side Tile), Xarici künc (Outer Corner), Daxili künc (Inner Corner), Başlanğıc ucluq (Start Tile) və Sonluq ucluq (End Tile).\"",
+  "options": [
+   "Tints (Çalarlar)",
+   "Formanın Əlavə Edilməsi",
+   "Fırçanın Vektora Parçalanması (Expand Appearance)",
+   "5 əsas hissədən ibarətdir"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Ağıllı Bələdçilər (Smart Guides - Ctrl+U)\" nədir?",
+  "options": [
+   "Obyektləri çəkərkən və ya hərəkət etdirərkən mərkəz, kəsişmə və bərabər məsafə xətlərini avtomatik göstərən dinamik indikatorlardır.",
+   "Klaviatura oxları ilə obyektin bir addımda neçə millimetr və ya piksel yer dəyişəcəyini təyin edir (məsələn, 1 mm və ya 0.5 px).",
+   "Çox mürəkkəb və ağır fayllarda kompüterin donmaması üçün lazım gələrsə Turn off Data Recovery for complex documents funksiyası tənzimlənə bilər.",
+   "Obyekt böyüdüldükdə yumşaldılmış künc radiuslarının proporsiyasını qoruyur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Afişa (poster) dizaynı, planlama, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Eskiz Üzərindən Çəkmək (Tracing)",
+   "Raster Qrafikaların Bərkidilməsi",
+   "Radar Graph Tool (Radar / Hörümçək Qrafiki)",
+   "Shift düyməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətbəə, poliqrafiya, printer və tekstil çapı üçün istifadə edilir.\"",
+  "options": [
+   "Təyinatı",
+   "Xüsusi Effektlər",
+   "Hue (Rəng Tonu)",
+   "Saturation (Doyma)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"İş prinsipi\" nədir?",
+  "options": [
+   "İnsan gözünün təbii rəng qavrayışına ən yaxın modeldir. Dizayner hər hansı rəngin tonunu dəyişmədən sadəcə onu bir qədər qaranlıq və ya daha solğun…",
+   "Rəngin canlılıq dərəcəsidir. 0% tam boz, 100% isə rəngin ən təmiz, doymuş halıdır.",
+   "Additiv (işıq əlavə edən) modeldir. Qaranlıq ekrana qırmızı, yaşıl və göy işıq şüaları göndərilir. Bütün rənglər 100% güclə üst-üstə düşdükdə təmiz…",
+   "Rəngin öz təmiz adıdır (qırmızı, sarı, bənövşəyi). Rəng çarxında 0 dərəcədən 360 dərəcəyə qədər olan bucaqla ölçülür."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Expand Əmri",
+   "Bounding Box (Sərhədləyici Qutu)",
+   "CMYK (Cyan, Magenta, Yellow, Key/Black)",
+   "Pie Graph Tool (Dairəvi / Sektor Qrafiki)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Area Graph Tool (Sahə Qrafiki)\" nədir?",
+  "options": [
+   "Cədvəl pəncərəsinin yuxarısındakı qovluq ikonuna klikləyərək xarici fayllardan (.csv, .txt) hazır rəqəmsal bazanı birbaşa cədvələ yükləmək mümkündür.",
+   "Bütöv bir tamın (100%) daxilindəki faiz paylarını dairənin sektorlarına bölərək əks etdirir. Bazar payı və ya büdcə bölgüsü üçün ən aydın vizual…",
+   "Xəttin altında qalan sahəni rənglə dolduraraq həcm dəyişikliyini vizual olaraq vurğulayır.",
+   "Yuxarı sağ küncdəki."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Vizual Harmoniyası\" nədir?",
+  "options": [
+   "Quru rəqəmlər əvəzinə kiçik statistik sütunlar və ya vektor ikonlar tətbiq edilir.",
+   "Bütün fotoşəkillər vahid rəng korreksiyasından keçirilməli və Clipping Mask (Ctrl+7) ilə eyni formalı çərçivələrə salınmalıdır.",
+   "Səhifələr \"Z\" hərfi kimi qatlanır. Hər üç səhifə tam eyni endə (99 mm) ola bilər.",
+   "Hazırlanmış broşür real qatlanmış vəziyyətdə vizual təqdimat maketinə otuzdurularaq müştəriyə nümayiş etdirilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki hərfin arasına klikləyib.\"",
+  "options": [
+   "Üstünlüyü",
+   "Prosesin Mahiyyəti",
+   "Klaviatura qısayolu",
+   "Mahiyyəti"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Sütun Dizaynı Kimi Qeydiyyat\" nədir?",
+  "options": [
+   "Obyekt seçilir və yuxarı menyudan.",
+   "Qrafikin üzərinə sağ klikləyib.",
+   "Müəyyən zaman kəsiyində baş verən artım və ya azalma dinamikasını (trendləri) nöqtələri birləşdirən xətlərlə nümayiş etdirir.",
+   "Direct Selection Tool (A) və ya Group Selection Tool vasitəsilə qrafikin dinamik riyazi strukturunu pozmadan ayrı-ayrı sütunlara və sektorlara…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Google, Coca-Cola, Sony).\"",
+  "options": [
+   "Mavi",
+   "Eskizin Daxil Edilməsi",
+   "Hərfsiz, yalnız tək bir qrafik obyektdən və ya simvoldan ibarət olan işarələrdir (məsələn",
+   "Şirkətin adının xüsusi tipoqrafik şriftlə, unikal hərflərlə yazılmasıdır (məsələn"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Eyni anda bir neçə layihə üzərində işləyərkən pəncərələri ekranda şaquli, üfüqi və ya 2x2 tor şəklində yanaşı bölüşdürməyə imkan verir. Bir sənəddən digərinə obyekt kopyalayarkən…\"",
+  "options": [
+   "Rəng və Kontur İdarəetməsi (Fill & Stroke)",
+   "Workspace Switcher (İş Rejimi Seçicisi)",
+   "Qeyri-şəffaflıq və Qarışdırma Rejimləri (Opacity & Blending Modes)",
+   "Arrange Documents (Sənədlərin Düzülüşü)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Lüks, premium status və zəriflik.\"",
+  "options": [
+   "Qara və Qızılı",
+   "Brif Analizi (Briefing)",
+   "Eskizin Daxil Edilməsi",
+   "Yaşıl"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Offset və Ox Seçimi",
+   "Swatches Panelində Saxlanma",
+   "Spacing (Boşluqlar)",
+   "Rounded Rectangle Tool (Dairəvi Kənarlı Düzbucaqlı)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bounding Box vasitəsilə fiqurlar çevrilir, bucaq altında əyilir (Shear) və ya miqyaslandırılır.\"",
+  "options": [
+   "Trim Marks (Kəsim İşarələri)",
+   "Bağlantı Nöqtələri (Anchor Points)",
+   "Transformasiya",
+   "Kəsim Payı (Bleed)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hörmətli qonağın adı (adətən kalliqrafik xəttatlıq şrifti ilə).\"",
+  "options": [
+   "A5 Format",
+   "Layer 3 (Die-cut)",
+   "Giriş Müraciəti",
+   "Tarix, Saat və Məkan (Address)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"General (Ümumi Seçimlər)\" nədir?",
+  "options": [
+   "Çap ediləcək artboard-ların aralığı (Range), nüsxə sayı və miqyas (Do not scale / Fit to page) təyin edilir.",
+   "Printerin qəbul etdiyi kağız formatı (A4, A3, SRA3 və ya fərdi rulon ölçüsü) nizamlanır.",
+   "Bütün tirajı çapa verməzdən əvvəl mütləq 1 ədəd sınaq nüsxəsi çap olunmalıdır. Dizayner və müştəri həmin nüsxə üzərində rənglərin real çıxışını, mətn…",
+   "Mətbəə kompüterində şrift çatışmazlığı probleminin yaranmaması üçün bütün canlı mətnlər."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches panelindən həmin rəngi dəyişdiyiniz…\"",
+  "options": [
+   "Hue (Rəng Tonu)",
+   "Təyinatı",
+   "Rəng dərinliyi",
+   "Global Color Seçimi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"3D faska + qızılı qradiyent + xarici parıltı) tək bir üslub kimi yaddaşa alır.\"",
+  "options": [
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Bir obyektə qurduğunuz mürəkkəb effektlər kombinasiyasını (məsələn",
+   "Background (Fon)",
+   "Color Model"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün vektor mətnlər və barkod.\"",
+  "options": [
+   "İşıqlandırma Rejimləri (Screen, Lighten)",
+   "Layer 2",
+   "Millimetr (mm) və Santimetr (cm)",
+   "Line Graph Tool (Xətti Qrafik)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Şəkillərin Yoxlanması",
+   "Ellipse Tool (Ellips Aləti - L)",
+   "Global Color Seçimi",
+   "Justify with Last Line Aligned Left"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fiqurun kənarlarını fırça kimi sıxaraq formasını dəyişir.\"",
+  "options": [
+   "Geriqaytarılma",
+   "Crop Image",
+   "Warp Tool (Shift+R)",
+   "Make with Top Object (Alt+Ctrl+C)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Təsdiq\" nədir?",
+  "options": [
+   "Qrafikin üzərinə sağ klikləyib.",
+   "Direct Selection Tool (A) və ya Group Selection Tool vasitəsilə qrafikin dinamik riyazi strukturunu pozmadan ayrı-ayrı sütunlara və sektorlara…",
+   "Obyekt seçilir və yuxarı menyudan.",
+   "Yuxarı sağ küncdəki."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kəsim bıçağı xətti (Overprint Stroke aktiv edilmiş vəziyyətdə).\"",
+  "options": [
+   "Qatların İyerarxiyası",
+   "Layer 3 (Die-cut)",
+   "Kvadrat Format",
+   "Layer 2 (Finishing)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Emblem və loqo dizaynının hazırlanması, nümunələrin tədqiqi və eskiz mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "High (300 ppi)",
+   "Köməkçi Qəfəs Sistemi (Grid System)",
+   "Rəqiblərin Tədqiqi",
+   "Məhsulun Tərkibi və Həcmi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Afişa (poster) dizaynı, planlama, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "RGB (Red, Green, Blue)",
+   "Relyef Qabartma (Embossing / Debossing)",
+   "Bleed (Kəsim Payı)",
+   "Angle (Bucaq)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "Pattern-in Miqyaslandırılması",
+   "Tipoqrafiya Tənzimləmələri",
+   "İstehsalçı Məlumatları, İstifadə Qaydaları və Sertifikat İkonları",
+   "Color Model"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Stacked Column Graph Tool (Yığılmış Sütun Qrafiki)",
+   "Recent (Son Fayllar) Bölməsi",
+   "Descender",
+   "İkiqat klik (Double-click)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Klaviatura qısayolu",
+   "Qeyri-şəffaflıq və Qarışdırma Rejimləri (Opacity & Blending Modes)",
+   "Intersect (Kəsişmə)",
+   "New File (Yeni Fayl)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"3D təsvirlər, 3D əsasları, Extrude & Bevel, Revolve, Rotate və materiallar\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi / Yaradıcı Vizit Kartları",
+   "Relyef Qabartma (Embossing / Debossing)",
+   "İş prinsipi",
+   "Roughness (Kələ-kötürlük)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün paraqrafı aktivləşdirir.\"",
+  "options": [
+   "Ctrl + Shift + Oxlar",
+   "Dördqat klik",
+   "Tək klik",
+   "Shift + Sağ/Sol oxlar"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanın hazırda neçə faiz miqyasda böyüdüldüyünü göstərir (məsələn, 100%, 3200%).\"",
+  "options": [
+   "Zoom Səviyyəsi (Miqyas Göstəricisi)",
+   "Image Trace və Maskalama",
+   "Adobe Bridge və Adobe Stock Girişi",
+   "Rəng və Kontur İdarəetməsi (Fill & Stroke)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Klaviaturadakı sol və sağ ox düymələrinə basaraq Swatches panelini açmadan belə palitradakı rənglər arasında dərhal keçid etmək mümkündür.\"",
+  "options": [
+   "Avtomatik Çevrilmə",
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Close Gaps with Paths",
+   "Rənglərin Sürətli Dəyişdirilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yuxarı menyudan Window > Brushes (və ya.\"",
+  "options": [
+   "Formanın Əlavə Edilməsi",
+   "Angle (Bucaq)",
+   "Size (Ölçü)",
+   "Brushes Panelinə Daxil Olma"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "Metallic",
+   "Resolution (Həllolma Dəqiqliyi)",
+   "Təyinatı",
+   "Fərdi / Yaradıcı Vizit Kartları"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Saturation (Doyma)\" nədir?",
+  "options": [
+   "Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches…",
+   "Rəngin öz təmiz adıdır (qırmızı, sarı, bənövşəyi). Rəng çarxında 0 dərəcədən 360 dərəcəyə qədər olan bucaqla ölçülür.",
+   "İnsan gözünün təbii rəng qavrayışına ən yaxın modeldir. Dizayner hər hansı rəngin tonunu dəyişmədən sadəcə onu bir qədər qaranlıq və ya daha solğun…",
+   "Rəngin canlılıq dərəcəsidir. 0% tam boz, 100% isə rəngin ən təmiz, doymuş halıdır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bu əmrdən sonra seçilmiş bütün elementlər vahid.\"",
+  "options": [
+   "Avtomatik Çevrilmə",
+   "Alətin İş Mexanizmi",
+   "Obyektlərin Seçilməsi",
+   "Səthin Boyanması (Face Fill)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırçanın rəngini kontur rənginə (Stroke Color) uyğunlaşdırır. Ən çox istifadə olunan metoddur. Qara və boz çalarlarla çəkilmiş formalar üçün mükəmməl işləyir.\"",
+  "options": [
+   "Formanın Əlavə Edilməsi",
+   "Tints (Çalarlar)",
+   "Fərdi Kitabxana Saxlanması",
+   "Hue Shift (Rəng Tonunun Sürüşməsi)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Qrafikə Tətbiq\" nədir?",
+  "options": [
+   "Kətan üzərində Column Graph Tool və ya digər qrafik aləti ilə qrafikin yerləşəcəyi ölçü çərçivəsi çəkilir.",
+   "Kətanda xüsusi bir vektor təsviri (məsələn, bina və ya ağac ikonu) çəkilir.",
+   "Statistiki qrafik seçilir və.",
+   "Sütunları üfüqi istiqamətdə yerləşdirir. Kateqoriya adları uzun olduqda oxunaqlılığı qorumaq üçün seçilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Məhdudiyyəti\" nədir?",
+  "options": [
+   "Kiçik hərfləri böyük hərf formasına salır, lakin hündürlüyünü kiçik hərf səviyyəsində saxlayır.",
+   "Bu əməliyyatdan sonra mətndəki hərfləri klaviatura ilə dəyişmək və ya orfoqrafik düzəliş etmək mümkün olmur. Buna görə də ehtiyat üçün sənədin canlı…",
+   "Məsələn, \"A\" və \"V\" və ya \"T\" və \"o\" hərfləri yanaşı gəldikdə həndəsi bucaqlarına görə aralarında böyük vizual boşluq yaranır. Körninq bu iki hərfi…",
+   "Bütün hərfləri böyük (All Caps) yazılmış başlıqlarda trekinqi bir qədər artırmaq (məsələn, +100 və ya +200) yazıya müasir və premium vizual görünüş…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Make with Top Object (Alt+Ctrl+C)",
+   "Layer 1 (Artwork)",
+   "Layer 3 (Die-cut)",
+   "Expand Əmri"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dairə içərisində hədəf nişangahına bənzəyən simvollardır. Dörd fərqli rəng lövhəsinin (C, M, Y, K) çap maşınında üst-üstə mikron dəqiqliyi ilə oturmasını tənzimləmək üçün istifadə…\"",
+  "options": [
+   "Şəkillərin Bağlantısı və Daxil Edilməsi (Links & Embed)",
+   "CMYK Ayrılma Mexanizmi",
+   "Graphics və PostScript",
+   "Registration Marks (Qeydiyyat / Çarpazlama İşarələri)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Bütün mətni seçmək\" nədir?",
+  "options": [
+   "Tək kliklə yaradılan, sərhəd çərçivəsi olmayan sərbəst mətn növüdür.",
+   "Bütün paraqrafı aktivləşdirir.",
+   "Sətirləri yuxarıdan aşağıya doğru blok şəklində seçir.",
+   "Mətn redaktə rejimində olarkən."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Justify with Last Line Aligned Right\" nədir?",
+  "options": [
+   "Üst-üstə düşən bütün formaları tək bir bütöv vektor fiquruna çevirir.",
+   "Son sətri sağa çəkir.",
+   "Düz xətt parçası (Side Tile), Xarici künc (Outer Corner), Daxili künc (Inner Corner), Başlanğıc ucluq (Start Tile) və Sonluq ucluq (End Tile).",
+   "Fiqurun kənarlarını fırça kimi sıxaraq formasını dəyişir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Cədvəllər, radar torları, spidometr şkalaları və hədəf dairələri yaratmaq üçün tətbiq olunur.\"",
+  "options": [
+   "Qütb və Düzbucaqlı Qəfəs Alətləri (Polar & Rectangular Grid Tools)",
+   "Sənəd Toru (Document Grid - Ctrl+')",
+   "Dikişsiz Keçid (Seamless Transition)",
+   "İnversiya Rejimləri (Difference, Exclusion)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi Kitabxana Saxlanması",
+   "Data Pəncərəsinin Açılması",
+   "Panellərin Birləşdirilməsi və Qruplaşdırılması",
+   "Trim Marks (Kəsim İşarələri)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Soft-Touch\" nədir?",
+  "options": [
+   "Parıltısız, klassik və ciddi səth yaradır.",
+   "Şəxsin adı, soyadı, vəzifəsi, əlaqə vasitələri (telefon, e-poçt, sayt, ünvan və sosial şəbəkə ikonları) qeyd olunur.",
+   "Toxunduqda məxməri və xüsusi bahalı dəri hissi bəxş edən premium laminasiyadır.",
+   "Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Keyboard Increment\" nədir?",
+  "options": [
+   "Klaviatura oxları ilə obyektin bir addımda neçə millimetr və ya piksel yer dəyişəcəyini təyin edir (məsələn, 1 mm və ya 0.5 px).",
+   "Preferences daxilində.",
+   "Xətkeşdən siçanla dartılaraq çıxarılan göy rəngli istiqamətləndirici xətlərdir. Mətn və qrafik blokların eyni xətt boyunca səliqəli düzülməsini təmin…",
+   "Yeni sənəd yaratmaq və ilkin daxilolma parametrlərini seçmək üçün xüsusi pəncərəni açır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Hizalama və Mərkəzləşdirmə\" nədir?",
+  "options": [
+   "Bir obyekti hərəkət etdirərkən onun digər obyektlərin mərkəzinə, küncünə və ya kənarına tam çatdığını çəhrayı/bənövşəyi xətlərlə bildirir.",
+   "Xətkeşin üzərinə siçanın sol düyməsi ilə basıb kətana doğru çəkdikdə üfüqi və ya şaquli bələdçi xətt yaranır.",
+   "Standart olaraq sıfır nöqtəsi artboard-un yuxarı sol küncündə yerləşir. Xətkeşlərin kəsişdiyi sol üst küncdən tutub kətanın istənilən yerinə…",
+   "Şəbəkə üzərində yaranan hər bir kəsişmə nöqtəsinə (Mesh Point) fərqli rəng tonu vermək mümkündür."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Qrafik İkonların və QR Kodun İnteqrasiyası\" nədir?",
+  "options": [
+   "Telefon, məkan və sayt ikonları vahid qalınlıqda vektor formalarla tərtib edilir. Müasir kartlarda sayta və ya rəqəmsal əlaqə vərəqəsinə aparan təmiz…",
+   "Əlaqə məlumatlarının vizual iyerarxiyası sadə bloklarla eskizləşdirilir.",
+   "Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır.",
+   "Əsasən brendin loqosu, sloqanı və ya minimalist qrafik naxış yerləşir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Boşluq Ölçüsünün Tənzimlənməsi (Gap Size)\" nədir?",
+  "options": [
+   "Small Gaps (Kiçik boşluqlar), Medium Gaps (Orta boşluqlar) və ya Large Gaps (Böyük boşluqlar) seçimləri ilə proqrama əmr verilir ki, xətlər fiziki…",
+   "Əgər siçanın düyməsini basılı saxlayaraq bir neçə qonşu sahənin üzərindən sürüşdürsəniz, keçdiyiniz bütün sahələr eyni rənglə ardıcıl boyanacaq.",
+   "Shift+Ctrl+G əmri ilə qrupu dağıtdıqdan sonra hər bir rəngli detala fərdi qradiyent, kölgə və ya xüsusi effektlər tətbiq etmək olar.",
+   "Lazım gəldikdə proqram açıq qalmış nöqtələr arasına avtomatik birləşdirici vektor xətləri çəkir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Afişa (poster) dizaynı, planlama, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Nəticə",
+   "Justify with Last Line Aligned Left",
+   "Konsept və Eskiz Hazırlığı",
+   "Bar Graph Tool (Üfüqi Zolaq Qrafiki)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Düzləndirmə Seçimləri (Align)\" nədir?",
+  "options": [
+   "İki və ya daha çox obyekt seçildikdə onların mərkəzləşdirilməsi, sol/sağ kənarlara çəkilməsi düymələri dərhal bu paneldə görünür.",
+   "Seçilmiş obyektin daxili dolğu rəngini, kənar xəttinin qalınlığını (Weight) və xətt üslubunu (Dashed line, Corner type) anında dəyişir.",
+   "Çoxsəhifəli layihələrdə neçənci montaj sahəsində olduğunuzu bildirir və səhifələr arasında bir toxunuşla keçid etməyə şərait yaradır.",
+   "Hər hansı bir mətn bloku seçilən kimi şriftin növü (Font Family), qarnituru (Bold, Regular), hərflərin ölçüsü (Font Size) və paraqraf düzülüşü…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kitab kartı (Book Cover / Dust Jacket / Kitab üzlüyü) dizaynı, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Layer 2",
+   "Descender",
+   "Adobe Cloud vs Yerli Saxlama",
+   "Kənarların Seçilməsi (Edge Selection)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Bar Graph Tool (Üfüqi Zolaq Qrafiki)\" nədir?",
+  "options": [
+   "Əgər kateqoriya adının rəqəmlə deyil, sözlə qəbul edilməsini istəyirsinizsə, mətni dırnaq içərisində (məsələn: \"2025\", \"Yanvar\") daxil etmək lazımdır.",
+   "Çoxmeyarlı göstəriciləri (məsələn, bir idmançının və ya məhsulun fərqli bacarıq parametrlərini) mərkəzdən şüalanan şəbəkə üzərində müqayisə edir.",
+   "Cədvəl pəncərəsinin yuxarısındakı qovluq ikonuna klikləyərək xarici fayllardan (.csv, .txt) hazır rəqəmsal bazanı birbaşa cədvələ yükləmək mümkündür.",
+   "Sütunları üfüqi istiqamətdə yerləşdirir. Kateqoriya adları uzun olduqda oxunaqlılığı qorumaq üçün seçilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Daxili Parametrlərin Tənzimlənməsi",
+   "Vəzifə",
+   "Mavi",
+   "Swatches Panelində Saxlanma"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vərəqin künclərində yerləşən nazik xətlərdir. Gilyotin bıçağının məhsulu məhz haradan kəsəcəyini göstərir.\"",
+  "options": [
+   "Color Bars (Rəng Nəzarət Şkalası)",
+   "Trim Marks (Kəsim İşarələri)",
+   "Page Information (Səhifə Məlumatı)",
+   "Media və Kağız Ölçüsü"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Panellərin Birləşdirilməsi və Qruplaşdırılması",
+   "Trim Marks (Kəsim İşarələri)",
+   "Bir obyektə qurduğunuz mürəkkəb effektlər kombinasiyasını (məsələn",
+   "Sürətli Çəkmə Rejimi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Piksel (Pixels - px)",
+   "Scatter (Səpələnmə Payı)",
+   "Köməkçi Bələdçi Xətlərin Təyini (Guides)",
+   "Media və Kağız Ölçüsü"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hər hansı bir mətn bloku seçilən kimi şriftin növü (Font Family), qarnituru (Bold, Regular), hərflərin ölçüsü (Font Size) və paraqraf düzülüşü birbaşa Kontrol panelinə çıxarılır.\"",
+  "options": [
+   "Workspace Switcher (İş Rejimi Seçicisi)",
+   "GPU Acceleration Indikatoru",
+   "Image Trace və Maskalama",
+   "Tipoqrafiya Tənzimləmələri"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Daxili Bloklar\" nədir?",
+  "options": [
+   "Links panelindən şəkillərin daxil edildiyi (.",
+   "Mətnlər Area Type Tool vasitəsilə sütunlara bölünür. Böyük paraqraflar kiçik hissələrə parçalanır, aralarına paraqraf başlıqları (H2, H3), say…",
+   "Səhifələr \"Z\" hərfi kimi qatlanır. Hər üç səhifə tam eyni endə (99 mm) ola bilər.",
+   "Quru rəqəmlər əvəzinə kiçik statistik sütunlar və ya vektor ikonlar tətbiq edilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Giriş Müraciəti\" nədir?",
+  "options": [
+   "Mətn bloklarının və bəzək elementlərinin yerləşməsi kağızda cızılır.",
+   "Əsas CMYK çap dizaynı.",
+   "Əsas vizual mərkəz (Front Panel).",
+   "Hörmətli qonağın adı (adətən kalliqrafik xəttatlıq şrifti ilə)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sahə mətninin idxalı, sahə mətnində seçim və redaktənin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Qütb və Düzbucaqlı Qəfəs Alətləri (Polar & Rectangular Grid Tools)",
+   "Screen (72 ppi)",
+   "Rəng dərinliyi",
+   "Gutter"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Klaviatura oxları ilə obyektin bir addımda neçə millimetr və ya piksel yer dəyişəcəyini təyin edir (məsələn, 1 mm və ya 0.5 px).\"",
+  "options": [
+   "Keyboard Increment",
+   "Window Menyusundan Panellərin İdarəsi",
+   "Tor Şəbəkəsi (Grid - Ctrl+')",
+   "Adobe Cloud vs Yerli Saxlama"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Layer 1 (Artwork)\" nədir?",
+  "options": [
+   "148 x 210 mm (böyük və rəsmi dəvətnamələr).",
+   "210 x 100 mm (standart uzun zərflər üçün).",
+   "Əsas CMYK çap dizaynı.",
+   "Sənəd PDF/X formatında çıxarılır, ardınca butulka və ya dəbdəbəli zərf maketinə (Mockup) otuzdurularaq müştəriyə vizual təqdim olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Hue (Rəng Tonu)\" nədir?",
+  "options": [
+   "Hər kanal 0-255 aralığında dəyər alır. Ümumilikdə 16.7 milyondan çox canlı və parlaq rəng çaları formalaşdırır.",
+   "Metalik rənglər (qızılı, gümüşü), neon və flüoressent rənglər CMYK ilə əldə edilə bilməz, onlar yalnız Pantone sistemi ilə təmin olunur.",
+   "Rəngin öz təmiz adıdır (qırmızı, sarı, bənövşəyi). Rəng çarxında 0 dərəcədən 360 dərəcəyə qədər olan bucaqla ölçülür.",
+   "Standart dörd rəngin (CMYK) nöqtələrlə üst-üstə vurulmasından yaranmır. Bu rənglər əvvəlcədən xüsusi kimyəvi düsturla qarışdırılmış təmiz unikal…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Radar Graph Tool (Radar / Hörümçək Qrafiki)\" nədir?",
+  "options": [
+   "Obyekt sütunun hündürlüyünə uyğun şaquli uzanır.",
+   "Ən populyar infoqrafik metoddur. Məsələn, hər 100 vahid üçün bir ikon qoyulur; rəqəm 500 olduqda proqram avtomatik olaraq 5 ədəd ikonu üst-üstə düzür.",
+   "Çoxmeyarlı göstəriciləri (məsələn, bir idmançının və ya məhsulun fərqli bacarıq parametrlərini) mərkəzdən şüalanan şəbəkə üzərində müqayisə edir.",
+   "Bütöv bir tamın (100%) daxilindəki faiz paylarını dairənin sektorlarına bölərək əks etdirir. Bazar payı və ya büdcə bölgüsü üçün ən aydın vizual…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Gradient (Degrade)\" nədir?",
+  "options": [
+   "Qara və tünd rəngləri şəffaflaşdırır, parlaq və ağ tonları önə çıxarır. İşıq parıltıları, neon effektləri və alov təsvirlərində Screen rejimi seçilir.",
+   "Rənglərin spektral ziddiyyətini çıxararaq futuristik və qrafik kontrastlar formalaşdırır.",
+   "bir rəngin digər rəngə pilləsiz, axıcı şəkildə keçməsidir. Adobe Illustrator-un.",
+   "Rəngləri düz bir ox boyunca (üfüqi, şaquli və ya istənilən bucaq altında) keçirir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Əlaqə Məlumatları",
+   "Düzləndirmə Seçimləri (Align)",
+   "Shape Builder Tool (Forma Quraşdırıcı - Shift+M)",
+   "Gutter"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "Registration Marks (Qeydiyyat / Çarpazlama İşarələri)",
+   "İş prinsipi",
+   "Eskizin Daxil Edilməsi",
+   "Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Open (Aç)",
+   "Fərdi / Yaradıcı Vizit Kartları",
+   "CMYK Ayrılma Mexanizmi",
+   "Daxili Bloklar"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"File Handling & Clipboard Bölməsi\" nədir?",
+  "options": [
+   "Preferences daxilində.",
+   "Yeni sənəd yaratmaq və ilkin daxilolma parametrlərini seçmək üçün xüsusi pəncərəni açır.",
+   "Klaviatura oxları ilə obyektin bir addımda neçə millimetr və ya piksel yer dəyişəcəyini təyin edir (məsələn, 1 mm və ya 0.5 px).",
+   "Xətkeş və obyekt ölçülərinin standart vahidini (Millimeters, Pixels, Centimeters) təyin edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Parıltısız, klassik və ciddi səth yaradır.\"",
+  "options": [
+   "Köməkçi Bələdçi Xətlərin Təyini (Guides)",
+   "Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)",
+   "Qrafik İkonların və QR Kodun İnteqrasiyası",
+   "Matt (Mat)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xətkeşin üzərinə siçanın sol düyməsi ilə basıb kətana doğru çəkdikdə üfüqi və ya şaquli bələdçi xətt yaranır.\"",
+  "options": [
+   "Bounding Box-un İtərsə Bərpası",
+   "Həcm və Fotorealizm",
+   "Nöqtələrə Fərdi Rəng Təyini",
+   "Bələdçi Xətlərin (Guides / Guidelines) Yaradılması"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Baseline\" nədir?",
+  "options": [
+   "Standart rejimdir. Hər bir hərf xəttin radiusuna tam perpendikulyar qalaraq əyilir.",
+   "Mətnin alt oturacaq xəttini vektor yolunun üzərinə otuzdurur.",
+   "Hərfləri xəttin mərkəz nöqtəsinə doğru sıxaraq dinamik perspektiv qurur.",
+   "Mətnin ən aşağı quyruq hissələrini xəttə bağlayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Mərkəzi Qrafikanın Qurulması",
+   "Fırlatma (Rotating)",
+   "Shift düyməsi",
+   "Recent (Son Fayllar) Bölməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Broşür dizaynı, dizayn prinsipləri, eskiz, kompozisiya, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Daxili Bloklar",
+   "Fərdi Rənglənmə",
+   "Small Caps (Kapitel)",
+   "Minus Front (Öndəkini Kəs)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Hex by Column / Hex by Row",
+   "Mühüm Qayda",
+   "Close Gaps with Paths",
+   "Justify with Last Line Aligned Left"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Etiketin və dəvətnamənin hazırlanması, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Euro Standart (DL format)",
+   "Sürətli Çəkmə Rejimi",
+   "Fırçanın Vektora Parçalanması (Expand Appearance)",
+   "Səthin Boyanması (Face Fill)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "Xüsusi Effektlər",
+   "CMYK (Cyan, Magenta, Yellow, Key/Black)",
+   "Edit Selected Paths",
+   "Rənglərin Sürətli Dəyişdirilməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fırça yalnız çəkildiyi ilkin rəngdə qalır. Rəng panelindən dəyişiklik etmək olmur.\"",
+  "options": [
+   "Scatter (Səpələnmə Payı)",
+   "Fırçanın Vektora Parçalanması (Expand Appearance)",
+   "Fırçanın Dəyişdirilməsi",
+   "None"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Standart olaraq sıfır nöqtəsi artboard-un yuxarı sol küncündə yerləşir. Xətkeşlərin kəsişdiyi sol üst küncdən tutub kətanın istənilən yerinə sürükləməklə sıfır nöqtəsini dəyişmək…\"",
+  "options": [
+   "Hide Guides (Bələdçiləri Gizlət - Ctrl+;)",
+   "Xətkeşlərin Aktivləşdirilməsi",
+   "Ölçü Başlanğıcının (Zero Point) Təyini",
+   "Bucaq və Fırlanma Məlumatları"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Monitorlar, smartfonlar, televiziya ekranları və veb-saytlar üçün nəzərdə tutulur.\"",
+  "options": [
+   "Saturation (Doyma)",
+   "Təyinatı",
+   "Xüsusi Effektlər",
+   "Rəng dərinliyi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Nöqtə mətninin idxalı və mətnin seçilməsinin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Ctrl + Shift + Oxlar",
+   "Hərfsiz, yalnız tək bir qrafik obyektdən və ya simvoldan ibarət olan işarələrdir (məsələn",
+   "PDF İxracı və 3D Təqdimat",
+   "Hex by Column / Hex by Row"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyekt sütunun hündürlüyünə uyğun şaquli uzanır.\"",
+  "options": [
+   "Sahənin Çəkilməsi",
+   "Vertically Scaled",
+   "Bar Graph Tool (Üfüqi Zolaq Qrafiki)",
+   "Data Pəncərəsinin Açılması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"3D təsvirlər, 3D əsasları, Extrude & Bevel, Revolve, Rotate və materiallar\" mövzusuna aiddir?",
+  "options": [
+   "Səth Seçimi",
+   "İşçi Kətan və Montaj Sahəsi (Canvas & Artboard)",
+   "Warp Tool (Shift+R)",
+   "Cari Alət Göstəricisi (Current Tool)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Layihənin sonuncu dəfə nə vaxt yaddaşa verildiyini izləməyə imkan verir.\"",
+  "options": [
+   "Tipoqrafiya Tənzimləmələri",
+   "Düzləndirmə Seçimləri (Align)",
+   "Geri Qaytarma Sayı və Saxlanma Tarixi",
+   "Workspace Switcher (İş Rejimi Seçicisi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Köməkçi Xətlər (Guides - Ctrl+;)\" nədir?",
+  "options": [
+   "Kompüterin yaddaşında, xarici daşıyıcıda və ya bulud saxlancında olan mövcud faylları proqrama daxil edir.",
+   "Xətkeşdən siçanla dartılaraq çıxarılan göy rəngli istiqamətləndirici xətlərdir. Mətn və qrafik blokların eyni xətt boyunca səliqəli düzülməsini təmin…",
+   "Adobe bulud sisteminə inteqrasiya olunmuş sənədlərə digər cihazlardan dərhal daxil olmaq imkanı yaradır.",
+   "Artboard-un yuxarı və sol kənarlarında dəqiq ölçü şkalasını göstərir. Sıfır nöqtəsini artboard-un istənilən küncünə daşımaq mümkündür."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"C-Fold (Məktub / Rol Qatlama)\" nədir?",
+  "options": [
+   "Böyük və cəlbedici şüar, brend loqosu və yüksək keyfiyyətli əsas vizual yerləşdirilir. Üz qabığı məlumatla yüklənməməlidir.",
+   "Qapaqlar iç-içə bükülür. Mühüm Qayda: İçəri qatlanan ən daxili səhifə digər iki səhifədən.",
+   "Hazırlanmış broşür real qatlanmış vəziyyətdə vizual təqdimat maketinə otuzdurularaq müştəriyə nümayiş etdirilir.",
+   "Links panelindən şəkillərin daxil edildiyi (."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Fırçanın Dəyişdirilməsi",
+   "Tətbiqi",
+   "Ascender",
+   "Registration Marks (Qeydiyyat / Çarpazlama İşarələri)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Alətin İş Mexanizmi\" nədir?",
+  "options": [
+   "Lazım gəldikdə proqram açıq qalmış nöqtələr arasına avtomatik birləşdirici vektor xətləri çəkir.",
+   "Bütün rənglənmiş canlı səthlər və kənarlar müstəqil qapalı vektor fiqurlarına parçalanır.",
+   "Bu əmrdən sonra seçilmiş bütün elementlər vahid.",
+   "Aləti seçib canlı boyama qrupunun üzərinə gətirdikdə kursorun yanında üç kiçik rəng kvadratı görünür. Bu kvadratlar Swatches panelindəki cari və…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Apple alması, Twitter/X quşu, Nike qövsü).\"",
+  "options": [
+   "Brif Analizi (Briefing)",
+   "Rəqiblərin Tədqiqi",
+   "Hərfsiz, yalnız tək bir qrafik obyektdən və ya simvoldan ibarət olan işarələrdir (məsələn",
+   "Mavi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"3D təsvirlər, 3D əsasları, Extrude & Bevel, Revolve, Rotate və materiallar\" mövzusuna aiddir?",
+  "options": [
+   "İş Prinsipi",
+   "Rəng dərinliyi",
+   "İnversiya Rejimləri (Difference, Exclusion)",
+   "Şirkətin adının xüsusi tipoqrafik şriftlə, unikal hərflərlə yazılmasıdır (məsələn"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Graphics və PostScript",
+   "Layer 3",
+   "İş Prinsipi",
+   "5 əsas hissədən ibarətdir"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Justify with Last Line Aligned Left\" nədir?",
+  "options": [
+   "Son sətri sola çəkir (qəzet və jurnal məqalələri üçün qızıl standart).",
+   "Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches…",
+   "Obyektin şəffaflıq dərəcəsini və altdakı qatlarla necə qarışacağını tənzimləyir.",
+   "Mətnin ən aşağı quyruq hissələrini xəttə bağlayır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Relyef Qabartma (Embossing / Debossing)\" nədir?",
+  "options": [
+   "Vizit kartında heç vaxt 6 pt-dən kiçik şrift istifadə edilməməlidir, əks halda çapda mətnin oxunması çətinləşir.",
+   "Kağızı mexaniki sıxaraq hərfləri və ya simvolu səthdən yuxarı qabardır və ya daxilə batırır.",
+   "Şəxsin adı, soyadı, vəzifəsi, əlaqə vasitələri (telefon, e-poçt, sayt, ünvan və sosial şəbəkə ikonları) qeyd olunur.",
+   "Rəssamlar, dizaynerlər, memarlar və fərdi sahibkarlar üçün nəzərdə tutulur; qeyri-standart tipoqrafika, bədii illüstrasiyalar və unikal materiallarla…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"A5 Format\" nədir?",
+  "options": [
+   "Sənəd PDF/X formatında çıxarılır, ardınca butulka və ya dəbdəbəli zərf maketinə (Mockup) otuzdurularaq müştəriyə vizual təqdim olunur.",
+   "Qanunvericiliklə tələb olunan ölçü vahidləri (ml, q, l).",
+   "Mətn bloklarının və bəzək elementlərinin yerləşməsi kağızda cızılır.",
+   "148 x 210 mm (böyük və rəsmi dəvətnamələr)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əgər fırça effektini adi sərbəst vektor obyektinə çevirmək istəyirsinizsə, xətti seçib.\"",
+  "options": [
+   "Angle (Bucaq)",
+   "Tints (Çalarlar)",
+   "Fırçanın Vektora Parçalanması (Expand Appearance)",
+   "Formanın Əlavə Edilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətn redaktə olunan canlı tipoqrafik formadan çıxaraq adi bağlantı nöqtələri (Anchor Points) olan sərbəst vektor fiquruna çevrilir.\"",
+  "options": [
+   "Standart qayda",
+   "All Caps",
+   "Məqsədi",
+   "Prosesin Mahiyyəti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tipoqrafiya Tənzimləmələri\" nədir?",
+  "options": [
+   "Qrafik kartın (GPU) təsviri sürətləndirmə rejimində olub-olmadığını göstərir. Güclü videokart olduqda xırda detalları yaxınlaşdırmaq (Zoom) tamamilə…",
+   "Layihənin sonuncu dəfə nə vaxt yaddaşa verildiyini izləməyə imkan verir.",
+   "Eyni anda bir neçə layihə üzərində işləyərkən pəncərələri ekranda şaquli, üfüqi və ya 2x2 tor şəklində yanaşı bölüşdürməyə imkan verir. Bir sənəddən…",
+   "Hər hansı bir mətn bloku seçilən kimi şriftin növü (Font Family), qarnituru (Bold, Regular), hərflərin ölçüsü (Font Size) və paraqraf düzülüşü…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Illustrator proqramının daxilolma parametrləri və interfeysinin ümumi izahı\" mövzusuna aiddir?",
+  "options": [
+   "Stroke və Fill Ahəngi",
+   "Medium (150 ppi)",
+   "İstifadə Sahələri",
+   "New File (Yeni Fayl)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kitab kartı (Book Cover / Dust Jacket / Kitab üzlüyü) dizaynı, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Səthin Boyanması (Face Fill)",
+   "Onurğa Qalınlığının Riyazi Hesablanması",
+   "Brif Analizi (Briefing)",
+   "Arxa Tərəf"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Broşür dizaynı, dizayn prinsipləri, eskiz, kompozisiya, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Cari Alət Göstəricisi (Current Tool)",
+   "Mərkəzi Qrafikanın Qurulması",
+   "Gap Detection (Boşluqların Aşkarlanması)",
+   "Vizual Harmoniyası"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Additiv (işıq əlavə edən) modeldir. Qaranlıq ekrana qırmızı, yaşıl və göy işıq şüaları göndərilir. Bütün rənglər 100% güclə üst-üstə düşdükdə təmiz ağ işıq yaranır.\"",
+  "options": [
+   "Brightness (Parlaqlıq)",
+   "Hue (Rəng Tonu)",
+   "İş prinsipi",
+   "Global Color Seçimi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Stair Step (Pilləkən)\" nədir?",
+  "options": [
+   "Hərfləri şaquli saxlayaraq yalnız kənarlarını xətt üzrə uzadır.",
+   "Mətnin alt oturacaq xəttini vektor yolunun üzərinə otuzdurur.",
+   "Hərfləri heç əymir, onları pilləkən kimi şaquli vəziyyətdə qoruyaraq xətt üzrə pillə-pillə düzür.",
+   "Hərfləri xəttin mərkəz nöqtəsinə doğru sıxaraq dinamik perspektiv qurur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Canlı boyama qrupları, dolğu və kontur boyama\" mövzusuna aiddir?",
+  "options": [
+   "Scale Proportionately",
+   "Brightness (Parlaqlıq)",
+   "Kontur Rənginin və Qalınlığının Təyini",
+   "Mahiyyəti"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əlinizin hər bir kiçik titrəməsini və xırda hərəkətini çoxsaylı nöqtələrlə kətana köçürür.\"",
+  "options": [
+   "Descender",
+   "Hue (Rəng Tonu)",
+   "Stroke və Fill Ahəngi",
+   "Accurate (Dəqiq)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Etiket və ya loqo əvvəlcə Symbols panelinə əlavə edilir.\"",
+  "options": [
+   "Praktiki Nümunələr",
+   "Tətbiq",
+   "İş Prinsipi",
+   "Simvolun Hazırlanması"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Alt (Option) düyməsi",
+   "Tətbiq",
+   "Scatter (Səpələnmə Payı)",
+   "Learn (Öyrən) Bölməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Uniformly Scaled",
+   "Linear Gradient (Xətti Degrade)",
+   "Gap Detection (Boşluqların Aşkarlanması)",
+   "Xətkeşlərin Aktivləşdirilməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qlobal brendlərin korporativ loqolarında (məsələn, məşhur qırmızı Coca-Cola və ya mavi Tiffany rəngi) istifadə olunur. Dünyanın istənilən mətbəəsində eyni Pantone kodu ilə çap…\"",
+  "options": [
+   "İş prinsipi",
+   "Təyinatı",
+   "Mahiyyəti",
+   "Global Color Seçimi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır.\"",
+  "options": [
+   "Lokal UB Lak (Spot UV Varnishing)",
+   "Vəzifə",
+   "Əlaqə Məlumatları",
+   "Korporativ Vizit Kartları"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Linear Gradient (Xətti Degrade)\" nədir?",
+  "options": [
+   "bir rəngin digər rəngə pilləsiz, axıcı şəkildə keçməsidir. Adobe Illustrator-un.",
+   "Qara və tünd rəngləri şəffaflaşdırır, parlaq və ağ tonları önə çıxarır. İşıq parıltıları, neon effektləri və alov təsvirlərində Screen rejimi seçilir.",
+   "Tamamlanmış naxış Swatches panelinə rəng nümunəsi kimi əlavə olunur və istənilən formanın daxili dolğusu kimi tətbiq edilir.",
+   "Rəngləri düz bir ox boyunca (üfüqi, şaquli və ya istənilən bucaq altında) keçirir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Sürətli Çəkmə Rejimi",
+   "Üz Qabığı",
+   "Unite (Birləşdir)",
+   "Perspektiv Qəfəsi (Perspective Grid - Shift+P)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Adobe Illustrator proqramının daxilolma parametrləri və interfeysinin ümumi izahı\" mövzusuna aiddir?",
+  "options": [
+   "Matt (Mat)",
+   "Brendi təmsil edən xüsusi illüstrativ xarakter və ya canlı qəhrəmandır (məsələn",
+   "Hizalama və Mərkəzləşdirmə",
+   "Nöqtə (Points - pt)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Alətin İş Mexanizmi",
+   "Scatter Graph Tool (Səpələnmə Qrafiki)",
+   "Formanın Əlavə Edilməsi",
+   "Bütün mətni seçmək"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Ascender\" nədir?",
+  "options": [
+   "Hərfləri xəttin mərkəz nöqtəsinə doğru sıxaraq dinamik perspektiv qurur.",
+   "Mətnin ən yuxarı həddini xəttə yapışdırır (mətn xəttin altında qalır).",
+   "Mətnin xətt üzərində haradan başlandığını göstərir. Bu qolu siçanla dartaraq mətni xətt boyunca irəli çəkmək olar.",
+   "Ən vacib tutacaqdır. Xəttin mərkəzində şaquli çıxıntı şəklində görünür:."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Stair Step (Pilləkən)",
+   "Pattern-in Miqyaslandırılması",
+   "Brightness (Parlaqlıq)",
+   "Registration Marks (Qeydiyyat / Çarpazlama İşarələri)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "3D Mockup Təqdimatı",
+   "Ascender",
+   "Rəng dərinliyi",
+   "Arxa Tərəf"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Transformasiya",
+   "Standart qayda",
+   "Yeni İş Mühitinin Saxlanması",
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Simmetrik Obyektlərin Yaradılması",
+   "Data Pəncərəsinin Açılması",
+   "Sənəd Toru (Document Grid - Ctrl+')",
+   "Geri Qaytarma Sayı və Saxlanma Tarixi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Yeni İş Mühitinin Saxlanması\" nədir?",
+  "options": [
+   "Klaviatura oxları ilə obyektin bir addımda neçə millimetr və ya piksel yer dəyişəcəyini təyin edir (məsələn, 1 mm və ya 0.5 px).",
+   "Preferences daxilində.",
+   "Xətkeşdən siçanla dartılaraq çıxarılan göy rəngli istiqamətləndirici xətlərdir. Mətn və qrafik blokların eyni xətt boyunca səliqəli düzülməsini təmin…",
+   "Ən rahat panellər düzülüşünü qurduqdan sonra."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Rəng Kontrastı\" nədir?",
+  "options": [
+   "Teatr və sərgi salonları üçün ən optimal ölçü.",
+   "Arxa fon ilə ön plandakı mətnlər arasında maksimal rəng və parlaqlıq ziddiyyəti (məsələn, tünd sürməyi fonda parlaq sarı və ya ağ yazı) təmin edilir.",
+   "Bütün daxil edilmiş fotoşəkillər Links panelindən fayla birləşdirilir (.",
+   "Vektor personaj, 3D obyekt və ya kollaj kompozisiyanın mərkəzində dominant ölçüdə yerləşdirilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Registration Marks (Qeydiyyat / Çarpazlama İşarələri)\" nədir?",
+  "options": [
+   "Çap ediləcək artboard-ların aralığı (Range), nüsxə sayı və miqyas (Do not scale / Fit to page) təyin edilir.",
+   "Vektor xətlərinin dəqiqliyi və şrift yükləmə parametrləri idarə edilir.",
+   "Dairə içərisində hədəf nişangahına bənzəyən simvollardır. Dörd fərqli rəng lövhəsinin (C, M, Y, K) çap maşınında üst-üstə mikron dəqiqliyi ilə…",
+   "Çapın Composite (bütün rənglər bir yerdə) və ya Separations (rəng ayrımı ilə) rejimində çıxarılacağı seçilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"İşçi Kətan və Montaj Sahəsi (Canvas & Artboard)\" nədir?",
+  "options": [
+   "Nəhəng çöl reklamları, yol kənarı bilbordlar və sərgi stendləri üçün nəzərdə tutulur.",
+   "Mərkəzdə yerləşən ağ rəngli vərəq və onun ətrafındakı geniş boz iş sahəsidir. Ağ vərəq son çap və ixrac sahəsidir, ətrafdakı boz sahə isə…",
+   "Ekranın ən üst hissəsində yerləşir. File, Edit, Object, Type, Select, Effect, View, Window, Help menyularını əhatə edir. Faylların yaddaşa verilməsi,…",
+   "Piksellərin sıxlığı azdır. Yalnız rəqəmsal ekran işləri üçün istifadə olunur. Faylın çəkisini olduqca kiçik saxlayır və kompüteri yükləmir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Mətnlərin Vektora Çevrilməsi\" nədir?",
+  "options": [
+   "Bütün daxil edilmiş fotoşəkillər Links panelindən fayla birləşdirilir (.",
+   "Bütün tipoqrafik elementlər.",
+   "Arxa fon ilə ön plandakı mətnlər arasında maksimal rəng və parlaqlıq ziddiyyəti (məsələn, tünd sürməyi fonda parlaq sarı və ya ağ yazı) təmin edilir.",
+   "Böyük formatlar üçün hər tərəfdən ən azı."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Sahə Mətni (Area Type)",
+   "Bütün mətni seçmək",
+   "Metallic",
+   "Brushes Panelinə Daxil Olma"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Bir obyektə qurduğunuz mürəkkəb effektlər kombinasiyasını (məsələn\" nədir?",
+  "options": [
+   "3D faska + qızılı qradiyent + xarici parıltı) tək bir üslub kimi yaddaşa alır.",
+   "Maye dalğalanmaları, tüstü və təbii teksturaları kod səviyyəsində formalaşdırır.",
+   "İkiölçülü vektor düymələrinə və simvollarına relyefli qabarıqlıq və metal parıltısı bəxş edir.",
+   "Ekran üçün 72 ppi və ya çap üçün 300 ppi dəqiqlik dərəcəsi təyin edilir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Etiketin və dəvətnamənin hazırlanması, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "Barkod (Barcode) Sahəsi",
+   "Rəqiblərin Tədqiqi",
+   "Fırlatma (Rotating)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Nöqtələrə Fərdi Rəng Təyini\" nədir?",
+  "options": [
+   "Kursoru künc nöqtələrindən bir qədər kənara çıxardıqda əyri ox işarəsi yaranır və obyekti dərəcə ilə sərbəst fırlatmaq mümkün olur. Shift ilə…",
+   "Üç və ya daha çox fiqur yanaşı düzüldükdə aralarındakı boşluqların bərabər olduğunu ölçü oxları ilə dərhal göstərir.",
+   "Kənar və künc nöqtələrindən tutaraq fiqurun enini və hündürlüyünü dəyişməyə şərait yaradır. Bu zaman Shift düyməsini sıxıb saxlamaq proporsiyanın…",
+   "Şəbəkə üzərində yaranan hər bir kəsişmə nöqtəsinə (Mesh Point) fərqli rəng tonu vermək mümkündür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "5 əsas hissədən ibarətdir",
+   "Fırçanın Vektora Parçalanması (Expand Appearance)",
+   "Tor Şəbəkəsi (Grid - Ctrl+')",
+   "Köməkçi Qəfəs Sistemi (Grid System)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Eskizin Daxil Edilməsi",
+   "Scale Strokes & Effects",
+   "Simmetrik Obyektlərin Yaradılması",
+   "Page Information (Səhifə Məlumatı)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətnin ən aşağı quyruq hissələrini xəttə bağlayır.\"",
+  "options": [
+   "Center",
+   "Descender",
+   "Başlanğıc Qolu (Start Bracket)",
+   "Mərkəzi Çevirici Qol (Center Bracket / Flip Handle)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Ön Tərəf\" nədir?",
+  "options": [
+   "Şəxsin adı, soyadı, vəzifəsi, əlaqə vasitələri (telefon, e-poçt, sayt, ünvan və sosial şəbəkə ikonları) qeyd olunur.",
+   "Təmiz və oxunaqlı (6 - 7.5 pt, Light və ya Regular).",
+   "Telefon, məkan və sayt ikonları vahid qalınlıqda vektor formalarla tərtib edilir. Müasir kartlarda sayta və ya rəqəmsal əlaqə vərəqəsinə aparan təmiz…",
+   "Əsasən brendin loqosu, sloqanı və ya minimalist qrafik naxış yerləşir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"CMYK (Cyan, Magenta, Yellow, Key/Black)\" nədir?",
+  "options": [
+   "Nəhəng çöl reklamları, yol kənarı bilbordlar və sərgi stendləri üçün nəzərdə tutulur.",
+   "Mətbəəyə göndəriləcək vizitkartlar, flayerlər, qutular, etiketlər və kataloqlar üçün tətbiq olunur.",
+   "Bu, boya əsaslı subtraktiv rəng modelidir. Poliqrafiya avadanlıqları və printerlər ağ kağız üzərinə boyaları qarışdıraraq rəng çalarını…",
+   "Mərkəzdə yerləşən ağ rəngli vərəq və onun ətrafındakı geniş boz iş sahəsidir. Ağ vərəq son çap və ixrac sahəsidir, ətrafdakı boz sahə isə…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sahə mətninin idxalı, sahə mətnində seçim və redaktənin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Span",
+   "Səth Seçimi",
+   "Stacked Column Graph Tool (Yığılmış Sütun Qrafiki)",
+   "Daxili Parametrlərin Tənzimlənməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Standart kvadrat şahmat düzülüşü.\"",
+  "options": [
+   "Radial Gradient (Dairəvi Degrade)",
+   "Perspektiv Qəfəsi (Perspective Grid - Shift+P)",
+   "Grid",
+   "Qaranlıqlaşdırma Rejimləri (Multiply, Darken)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qara və tünd rəngləri şəffaflaşdırır, parlaq və ağ tonları önə çıxarır. İşıq parıltıları, neon effektləri və alov təsvirlərində Screen rejimi seçilir.\"",
+  "options": [
+   "İşıqlandırma Rejimləri (Screen, Lighten)",
+   "Obrazların Qəfəs Üzrə Təşkili",
+   "Qaranlıqlaşdırma Rejimləri (Multiply, Darken)",
+   "Linear Gradient (Xətti Degrade)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"İşıqlandırma Rejimləri (Screen, Lighten)\" nədir?",
+  "options": [
+   "Tamamlanmış naxış Swatches panelinə rəng nümunəsi kimi əlavə olunur və istənilən formanın daxili dolğusu kimi tətbiq edilir.",
+   "Rənglərin spektral ziddiyyətini çıxararaq futuristik və qrafik kontrastlar formalaşdırır.",
+   "Ağ və açıq tonları tamamilə şəffaf edir, yalnız tünd və qara rəngləri saxlayır. Təbii kölgələr yaratmaq üçün ən çox Multiply rejimi tətbiq olunur.",
+   "Qara və tünd rəngləri şəffaflaşdırır, parlaq və ağ tonları önə çıxarır. İşıq parıltıları, neon effektləri və alov təsvirlərində Screen rejimi seçilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hərfləri heç əymir, onları pilləkən kimi şaquli vəziyyətdə qoruyaraq xətt üzrə pillə-pillə düzür.\"",
+  "options": [
+   "Spacing (Boşluqlar)",
+   "Ascender",
+   "Stair Step (Pilləkən)",
+   "Center"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Fərdi / Yaradıcı Vizit Kartları\" nədir?",
+  "options": [
+   "Təmiz və oxunaqlı (6 - 7.5 pt, Light və ya Regular).",
+   "Əlaqə məlumatlarının vizual iyerarxiyası sadə bloklarla eskizləşdirilir.",
+   "Kartın yalnız müəyyən yerlərini (məsələn, loqonu və ya naxışı) parıldadaraq qabardır.",
+   "Rəssamlar, dizaynerlər, memarlar və fərdi sahibkarlar üçün nəzərdə tutulur; qeyri-standart tipoqrafika, bədii illüstrasiyalar və unikal materiallarla…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Səthin matlığını və ya cilalanmış güzgü kimi parlaqlığını nizamlayır.\"",
+  "options": [
+   "Səth Seçimi",
+   "Roughness (Kələ-kötürlük)",
+   "Simvolun Hazırlanması",
+   "Tətbiq"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qələm və bağlantı nöqtəsi əlavə etmək, silmək, çevirmək alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Köməkçi Bələdçi Xətlərin Təyini (Guides)",
+   "Mühüm Qayda",
+   "Data Pəncərəsinin Açılması",
+   "Fərdi Kitabxana Saxlanması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Subtraktiv (işığı udan) modeldir. Ağ kağız üzərinə boya vurulduqca boyalar işıq şüalarını udur və əks olunan rəng dəyişir.\"",
+  "options": [
+   "Rəng dərinliyi",
+   "İş prinsipi",
+   "Təyinatı",
+   "Mahiyyəti"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "A1 Format (594 x 841 mm) və A0 (841 x 1189 mm)",
+   "Media və Kağız Ölçüsü",
+   "Qatların İyerarxiyası",
+   "Geriqaytarılma"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Alətin İş Mexanizmi",
+   "Yuxarı Menyu Paneli (Menu Bar)",
+   "Size (Ölçü)",
+   "Linear Gradient (Xətti Degrade)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Etiketin və dəvətnamənin hazırlanması, layout, eskiz, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "3D Ribbon (Üçölçülü Lent)",
+   "Radial Gradient (Dairəvi Degrade)",
+   "Sənəd Rəng Profili (Color Profile)",
+   "A5 Format"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Rəng seçiminin izahı, rəng panellərinin açıqlaması, rəng nümunələri və rəng qruplarının izahı\" mövzusuna aiddir?",
+  "options": [
+   "Mahiyyəti",
+   "Praktiki Nümunələr",
+   "Piksel (Pixels - px)",
+   "Rectangle Tool (Düzbucaqlı Aləti - M)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Tətbiq\" nədir?",
+  "options": [
+   "Obyektə metal parıltısı və əksolunma dərəcəsi qazandırır.",
+   "Fırlanmanın sol kənar (Left Edge) və ya sağ kənar (Right Edge) oxu üzrə aparılacağı təyin edilir. Əgər oxdan müəyyən məsafə (Offset) qoyularsa,…",
+   "Simvol həmin səthə yerləşdirilir və Scale to Fit ilə otuzdurulur. Etiket avtomatik olaraq 3D modelin bütün qabarıqlıqlarını və perspektiv bucaqlarını…",
+   "Səthin matlığını və ya cilalanmış güzgü kimi parlaqlığını nizamlayır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hərfləri xəttin mərkəz nöqtəsinə doğru sıxaraq dinamik perspektiv qurur.\"",
+  "options": [
+   "Stair Step (Pilləkən)",
+   "Center",
+   "Gravity (Cazibə)",
+   "Baseline"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Kağız Üzərində Eskiz (Sketching)",
+   "Sınaq Çapı (Proof Print / Hard Proof)",
+   "Open (Aç)",
+   "Zoom Səviyyəsi (Miqyas Göstəricisi)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Eskiz Üzərindən Çəkmək (Tracing)",
+   "Məqsədi",
+   "Kontur Rənginin və Qalınlığının Təyini",
+   "Rəng və Effekt Təmizliyi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Sınaq Çapı (Proof Print / Hard Proof)",
+   "Kəsim Payı (Bleed)",
+   "Hamar Əyrini İti Küncə Çevirmək",
+   "Spacing (Məsafə)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "Stroke & Type Units",
+   "Learn (Öyrən) Bölməsi",
+   "Yaşıl",
+   "Zoom Səviyyəsi (Miqyas Göstəricisi)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xətkeş və təlimatları \"guidelines\", ağıllı təlimatlar, mesh tool və sərhədləyici qutu (bounding box)\" mövzusuna aiddir?",
+  "options": [
+   "Lock Guides (Bələdçiləri Kilidlə - Ctrl+Alt+;)",
+   "Brif Analizi (Briefing)",
+   "Pattern (Naxış)",
+   "Xətlərin Görünməz Edilməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Başlanğıc Qolu (Start Bracket)\" nədir?",
+  "options": [
+   "Mətnin xətt üzərində haradan başlandığını göstərir. Bu qolu siçanla dartaraq mətni xətt boyunca irəli çəkmək olar.",
+   "Mətnin alt oturacaq xəttini vektor yolunun üzərinə otuzdurur.",
+   "Standart rejimdir. Hər bir hərf xəttin radiusuna tam perpendikulyar qalaraq əyilir.",
+   "Hərfləri xəttin mərkəz nöqtəsinə doğru sıxaraq dinamik perspektiv qurur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"148 x 210 mm (böyük və rəsmi dəvətnamələr).\"",
+  "options": [
+   "Giriş Müraciəti",
+   "Tarix, Saat və Məkan (Address)",
+   "A5 Format",
+   "Barkod (Barcode) Sahəsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsas vurğu mərkəzidir (şrift ölçüsü: 9 - 11 pt, Bold və ya Medium).\"",
+  "options": [
+   "Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)",
+   "Kağız Üzərində Eskiz (Sketching)",
+   "Ad və Soyad",
+   "Ön Tərəf"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sətirləri yuxarıdan aşağıya doğru blok şəklində seçir.\"",
+  "options": [
+   "Nöqtə Mətni (Point Type)",
+   "Shift + Yuxarı/Aşağı oxlar",
+   "Bütün mətni seçmək",
+   "Üçqat klik (Triple-click)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İstifadə Sahələri\" nədir?",
+  "options": [
+   "Səthin matlığını və ya cilalanmış güzgü kimi parlaqlığını nizamlayır.",
+   "Etiket və ya loqo əvvəlcə Symbols panelinə əlavə edilir.",
+   "Həcmli 3D tipoqrafik başlıqlar, loqolar, qrafik qutular və interfeys düymələrinin hazırlanmasında geniş tətbiq olunur.",
+   "Vaza, şüşə butulka, qədəh, gil qablar, lampa plafonları və meyvə təsvirlərini sıfırdan yaratmaq üçün yalnız onların sol kənar siluetini çəkib Revolve…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Rainbow (Göyqurşağı)\" nədir?",
+  "options": [
+   "Mətnin alt oturacaq xəttini vektor yolunun üzərinə otuzdurur.",
+   "Ən vacib tutacaqdır. Xəttin mərkəzində şaquli çıxıntı şəklində görünür:.",
+   "Hərfləri şaquli saxlayaraq yalnız kənarlarını xətt üzrə uzadır.",
+   "Standart rejimdir. Hər bir hərf xəttin radiusuna tam perpendikulyar qalaraq əyilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əyri xətlərin (Bezje əyriləri) bucağını, dərinliyini və formasını nizamlayan köməkçi tutacaqlardır.\"",
+  "options": [
+   "Shift düyməsi",
+   "Unite (Birləşdir)",
+   "Polygon Tool (Çoxbucaqlı Aləti)",
+   "İstiqamət Qolları və İdarəetmə Nöqtələri (Direction Handles)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tutacaqları olan yumşaq nöqtənin üzərinə bircə dəfə kliklədikdə bütün tutacaqlar ləğv edilir və forma dərhal iti həndəsi künc alır.\"",
+  "options": [
+   "Həndəsi İti Künclərlə Üzvi Əyrilərin Birgə İdarəsi",
+   "Hamar Əyrini İti Küncə Çevirmək",
+   "Simmetrik Obyektlərin Yaradılması",
+   "Mühüm Qayda"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "İş Prinsipi",
+   "Adobe Bridge və Adobe Stock Girişi",
+   "Color Bars (Rəng Nəzarət Şkalası)",
+   "Xətlərin Görünməz Edilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Repeating (Təkrarlanan)\" nədir?",
+  "options": [
+   "Müəyyən zaman kəsiyində baş verən artım və ya azalma dinamikasını (trendləri) nöqtələri birləşdirən xətlərlə nümayiş etdirir.",
+   "Siçanın düyməsi buraxılan kimi dərhal ekranda Excel cədvəlinə bənzər daxili.",
+   "İki fərqli dəyişən arasındakı korrelyasiyanı koordinat oxları üzərində nöqtələrlə göstərir.",
+   "Ən populyar infoqrafik metoddur. Məsələn, hər 100 vahid üçün bir ikon qoyulur; rəqəm 500 olduqda proqram avtomatik olaraq 5 ədəd ikonu üst-üstə düzür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kərpic hörgüsü prinsipi ilə sürüşdürülmüş düzülüş.\"",
+  "options": [
+   "Qütb və Düzbucaqlı Qəfəs Alətləri (Polar & Rectangular Grid Tools)",
+   "İnversiya Rejimləri (Difference, Exclusion)",
+   "Dikişsiz Keçid (Seamless Transition)",
+   "Brick by Row / Brick by Column"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Color Model\" nədir?",
+  "options": [
+   "Şəklin hansı rəng modelində (RGB, CMYK, Grayscale) hesablanacağını müəyyənləşdirir.",
+   "Ekran üçün 72 ppi və ya çap üçün 300 ppi dəqiqlik dərəcəsi təyin edilir.",
+   "Təsvirin rəng kanallarını xüsusi riyazi matrislə dəyişərək unikal tonlama filtrləri tətbiq edir.",
+   "Maye dalğalanmaları, tüstü və təbii teksturaları kod səviyyəsində formalaşdırır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"3D təsvirlər, 3D əsasları, Extrude & Bevel, Revolve, Rotate və materiallar\" mövzusuna aiddir?",
+  "options": [
+   "Simmetrik Obyektlərin Yaradılması",
+   "Yuxarı Menyu Paneli (Menu Bar)",
+   "Simvolun Hazırlanması",
+   "Vektor Obyekti Bələdçiyə Çevirmək (Make Guides - Ctrl+5)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kiçik vitrinlər, daxili məkanlar və lövhələr üçün.\"",
+  "options": [
+   "Mətnlərin Vektora Çevrilməsi",
+   "A3 Format (297 x 420 mm)",
+   "Raster Qrafikaların Bərkidilməsi",
+   "Rəng Kontrastı"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Böyük Fayllarda Avtomatik Saxlama\" nədir?",
+  "options": [
+   "Çox mürəkkəb və ağır fayllarda kompüterin donmaması üçün lazım gələrsə Turn off Data Recovery for complex documents funksiyası tənzimlənə bilər.",
+   "Obyekt miqyaslandırılarkən kontur qalınlığının və effektlərin proporsional şəkildə böyüyüb-kiçilməsini tənzimləyir.",
+   "Artboard-un yuxarı və sol kənarlarında dəqiq ölçü şkalasını göstərir. Sıfır nöqtəsini artboard-un istənilən küncünə daşımaq mümkündür.",
+   "Adobe bulud sisteminə inteqrasiya olunmuş sənədlərə digər cihazlardan dərhal daxil olmaq imkanı yaradır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Layer 2 (Finishing)\" nədir?",
+  "options": [
+   "Folqa və lak sahələri (Spot rənglər).",
+   "Aydın, vurğulanmış rəqəmlərlə və kiçik vektor məkan ikonu ilə.",
+   "140 x 140 mm və ya 150 x 150 mm.",
+   "Kəsim bıçağı xətti (Overprint Stroke aktiv edilmiş vəziyyətdə)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əyri xətlərdə hər iki tərəfin tutacağı bir-biri ilə eyni ox üzrə hərəkət edir. Anchor Point Tool ilə təkcə bir tutacaqdan tutub hərəkət etdirdikdə ox qırılır və bir tərəfi əyri,…\"",
+  "options": [
+   "Tutacaqları Bir-birindən Ayırmaq (Qırmaq)",
+   "Simmetrik Obyektlərin Yaradılması",
+   "Eskiz Üzərindən Çəkmək (Tracing)",
+   "Hamar Əyrini İti Küncə Çevirmək"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qida, ekoloji təmizlik və təkrar emal işarələri.\"",
+  "options": [
+   "Euro Standart (DL format)",
+   "Kvadrat Format",
+   "Layer 2 (Finishing)",
+   "İstehsalçı Məlumatları, İstifadə Qaydaları və Sertifikat İkonları"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Panellərin Birləşdirilməsi və Qruplaşdırılması\" nədir?",
+  "options": [
+   "Panelləri bir-birinin yanına sürükləyərək tab (vərəqə) şəklinə salmaq və ya şaquli dar zolaq kimi yığmaq mümkündür.",
+   "Adobe bulud sisteminə inteqrasiya olunmuş sənədlərə digər cihazlardan dərhal daxil olmaq imkanı yaradır.",
+   "Xətkeşdən siçanla dartılaraq çıxarılan göy rəngli istiqamətləndirici xətlərdir. Mətn və qrafik blokların eyni xətt boyunca səliqəli düzülməsini təmin…",
+   "Layihəni yaddaşa verərkən (.AI formatında) sənədi yerli kompüter diskinə və ya buluda saxlamaq seçimi təqdim olunur. Bulud saxlancı versiya…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qələm və bağlantı nöqtəsi əlavə etmək, silmək, çevirmək alətləri\" mövzusuna aiddir?",
+  "options": [
+   "Alətlər Paneli (Tools Panel)",
+   "Kənarların Seçilməsi (Edge Selection)",
+   "Simmetrik Obyektlərin Yaradılması",
+   "İş prinsipi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Raster Qrafikaların Bərkidilməsi\" nədir?",
+  "options": [
+   "Arxa fon ilə ön plandakı mətnlər arasında maksimal rəng və parlaqlıq ziddiyyəti (məsələn, tünd sürməyi fonda parlaq sarı və ya ağ yazı) təmin edilir.",
+   "Vektor personaj, 3D obyekt və ya kollaj kompozisiyanın mərkəzində dominant ölçüdə yerləşdirilir.",
+   "Bütün daxil edilmiş fotoşəkillər Links panelindən fayla birləşdirilir (.",
+   "Küçə dayanacaqları, böyük konsert afişaları və şəhər lövhələri üçün."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün xarici kənarlardan ən azı.\"",
+  "options": [
+   "Bleed (Kəsim Payı)",
+   "Vertically Scaled",
+   "Kənarların Seçilməsi (Edge Selection)",
+   "Tints and Shades (Çalarlar və Kölgələr)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Bleed (Kəsim Payı)\" nədir?",
+  "options": [
+   "Bütün tipoqrafik elementlər.",
+   "Kağız üzərində afişanın tərtibatı (layout) üçün müxtəlif variantlar çəkilir. Qızıl nisbət və üçdə bir qaydası (Rule of Thirds) tətbiq edilərək əsas…",
+   "Küçə dayanacaqları, böyük konsert afişaları və şəhər lövhələri üçün.",
+   "Böyük formatlar üçün hər tərəfdən ən azı."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Artboard Naviqasiyası\" nədir?",
+  "options": [
+   "Hər hansı bir mətn bloku seçilən kimi şriftin növü (Font Family), qarnituru (Bold, Regular), hərflərin ölçüsü (Font Size) və paraqraf düzülüşü…",
+   "İstifadəçinin məqsədinə uyğun interfeys konfiqurasiyalarını (Essentials, Painting, Typography, Web) sürətlə dəyişir.",
+   "Kətanın hazırda neçə faiz miqyasda böyüdüldüyünü göstərir (məsələn, 100%, 3200%).",
+   "Çoxsəhifəli layihələrdə neçənci montaj sahəsində olduğunuzu bildirir və səhifələr arasında bir toxunuşla keçid etməyə şərait yaradır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müştərinin fəaliyyət sahəsi, hədəf auditoriyasının yaşı, sosial təbəqəsi və brendin əsas dəyərləri dəqiqləşdirilir.\"",
+  "options": [
+   "Hərfsiz, yalnız tək bir qrafik obyektdən və ya simvoldan ibarət olan işarələrdir (məsələn",
+   "Brif Analizi (Briefing)",
+   "Mavi",
+   "Brendi təmsil edən xüsusi illüstrativ xarakter və ya canlı qəhrəmandır (məsələn"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Küçə dayanacaqları, böyük konsert afişaları və şəhər lövhələri üçün.\"",
+  "options": [
+   "Raster Qrafikaların Bərkidilməsi",
+   "Köməkçi Qəfəs Sistemi (Grid System)",
+   "A1 Format (594 x 841 mm) və A0 (841 x 1189 mm)",
+   "Bleed (Kəsim Payı)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Direction (İstiqamət)",
+   "3D Mockup Təqdimatı",
+   "Lokal UB Lak (Spot UV Varnishing)",
+   "Simmetrik Obyektlərin Yaradılması"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Brushes panelindəki fırçanın üzərinə iki dəfə klikləməklə onun parametrlər pəncərəsini açmaq və dəyərləri yeniləmək olar. Bu zaman açılan.\"",
+  "options": [
+   "Fırçanın Dəyişdirilməsi",
+   "Vektor Bazasının Hazırlanması",
+   "Formanın Əlavə Edilməsi",
+   "Scale Proportionately"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qələmin ucunun nə dərəcədə yastı və ya dairəvi olduğunu faizlə nizamlayır.\"",
+  "options": [
+   "Roundness (Dairəvilik)",
+   "Spacing (Məsafə)",
+   "Angle (Bucaq)",
+   "Size (Ölçü)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Gutter\" nədir?",
+  "options": [
+   "Leading dəyəri şrift ölçüsündən təxminən 20-30% böyük olmalıdır (məsələn, 10 pt şrift üçün 13-14 pt leading). Əks halda yuxarıdakı və aşağıdakı…",
+   "Formanın yalnız tək bir yarısı Pen Tool ilə dəqiq çəkilir, daha sonra Reflect Tool (O) ilə güzgü əksi çıxarılaraq mərkəzdəki nöqtələr Join (Ctrl+J)…",
+   "Sütunlar arasındakı məsafəni riyazi dəqiqliklə (məsələn, 5 mm) nizamlayır.",
+   "Yalnız rəqəmsal ekranlar, veb-saytlar, tətbiqlər və sosial media postları üçün istifadə edilir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Tətbiqetmə, kontrol və durum panelinin mahiyyəti\" mövzusuna aiddir?",
+  "options": [
+   "New File (Yeni Fayl)",
+   "Xətt Parçaları (Path / Segments)",
+   "Arxa Tərəf",
+   "Artboard Naviqasiyası"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Dress Code və RSVP\" nədir?",
+  "options": [
+   "Kəsim bıçağı xətti (Overprint Stroke aktiv edilmiş vəziyyətdə).",
+   "Ən aşağıda zərif şəkildə qeyd olunan qonaq təsdiq əlaqəsi.",
+   "Sənəddə ən azı üç qat nizamlanır:.",
+   "Sənəd PDF/X formatında çıxarılır, ardınca butulka və ya dəbdəbəli zərf maketinə (Mockup) otuzdurularaq müştəriyə vizual təqdim olunur."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Klaviatura qısayolu\" nədir?",
+  "options": [
+   "Faylı başqa bir kompüterdə açdıqda şriftin olmaması barədə xəbərdarlıq (Missing Font Error) çıxmır və dizayn heç vaxt pozulmur.",
+   "İki hərfin arasına klikləyib.",
+   "Bütün hərfləri böyük (All Caps) yazılmış başlıqlarda trekinqi bir qədər artırmaq (məsələn, +100 və ya +200) yazıya müasir və premium vizual görünüş…",
+   "Mətn redaktə olunan canlı tipoqrafik formadan çıxaraq adi bağlantı nöqtələri (Anchor Points) olan sərbəst vektor fiquruna çevrilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Praktiki Nümunələr",
+   "İstifadə Sahələri",
+   "C-Fold (Məktub / Rol Qatlama)",
+   "Vektor Bazasının Hazırlanması"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "Close Gaps with Paths",
+   "Make with Mesh",
+   "Dördqat klik",
+   "Daxili Parametrlərin Tənzimlənməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Dizaynın Hazırlanması",
+   "Daxili Parametrlərin Tənzimlənməsi",
+   "Köməkçi Bələdçi Xətlərin Təyini (Guides)",
+   "Media və Kağız Ölçüsü"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Açılış ekranının əsas xüsusiyyətləri, ilk tənzimləmə və seçimlər\" mövzusuna aiddir?",
+  "options": [
+   "Mahiyyəti",
+   "Sınaq Çapı (Proof Print / Hard Proof)",
+   "Rectangle Tool (Düzbucaqlı Aləti - M)",
+   "Scale Corners"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Bağlantı Nöqtələri (Anchor Points)",
+   "Standart qayda",
+   "Mahiyyəti",
+   "Üstünlüyü"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Simvol formatlanması, simvol formatlanmasının əsasları və irəli effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Mahiyyəti",
+   "Kağız Üzərində Eskiz (Sketching)",
+   "Ox düymələri (Up/Down Arrows)",
+   "Edit Selected Paths"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsvirləri çevirmək və deformasiya etmək, birləşdirmək, qırpma (crop) aləti\" mövzusuna aiddir?",
+  "options": [
+   "Make with Warp (Alt+Shift+Ctrl+W)",
+   "Workspace Switcher (İş Rejimi Seçicisi)",
+   "Standart qayda",
+   "Freeform Gradient (Sərbəst Forma Degradəsi)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kağız üzərində afişanın tərtibatı (layout) üçün müxtəlif variantlar çəkilir. Qızıl nisbət və üçdə bir qaydası (Rule of Thirds) tətbiq edilərək əsas diqqət nöqtəsi seçilir.\"",
+  "options": [
+   "Köməkçi Qəfəs Sistemi (Grid System)",
+   "Konsept və Eskiz Hazırlığı",
+   "A3 Format (297 x 420 mm)",
+   "A1 Format (594 x 841 mm) və A0 (841 x 1189 mm)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Xətkeşlərin Aktivləşdirilməsi\" nədir?",
+  "options": [
+   "Kursoru künc nöqtələrindən bir qədər kənara çıxardıqda əyri ox işarəsi yaranır və obyekti dərəcə ilə sərbəst fırlatmaq mümkün olur. Shift ilə…",
+   "Yuxarı menyudan View > Rulers > Show Rulers seçərək və ya.",
+   "Kənar və künc nöqtələrindən tutaraq fiqurun enini və hündürlüyünü dəyişməyə şərait yaradır. Bu zaman Shift düyməsini sıxıb saxlamaq proporsiyanın…",
+   "Standart olaraq sıfır nöqtəsi artboard-un yuxarı sol küncündə yerləşir. Xətkeşlərin kəsişdiyi sol üst küncdən tutub kətanın istənilən yerinə…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektləri çəkərkən və ya hərəkət etdirərkən mərkəz, kəsişmə və bərabər məsafə xətlərini avtomatik göstərən dinamik indikatorlardır.\"",
+  "options": [
+   "Xətkeşlər (Rulers - Ctrl+R)",
+   "Ağıllı Bələdçilər (Smart Guides - Ctrl+U)",
+   "Keyboard Increment",
+   "New File (Yeni Fayl)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Column Graph Tool (Sütun Qrafiki)\" nədir?",
+  "options": [
+   "Ən çox istifadə olunan klassik növdür. Göstəriciləri şaquli sütunların hündürlüyü ilə müqayisə edir. İllik gəlir, aylıq satışlar və ya müqayisəli…",
+   "Obyekt seçilir və yuxarı menyudan.",
+   "Bütöv bir tamın (100%) daxilindəki faiz paylarını dairənin sektorlarına bölərək əks etdirir. Bazar payı və ya büdcə bölgüsü üçün ən aydın vizual…",
+   "Obyekt sütunun hündürlüyünə uyğun şaquli uzanır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Size (Ölçü)\" nədir?",
+  "options": [
+   "Açılan pəncərədə formaya uyğun fırça tipini seçin (Calligraphic, Scatter, Art, Bristle və ya Pattern).",
+   "Rəngi dəyişərkən formanın qara və ağ sahələrinin işıq-kölgə dərinliyini tam qoruyub saxlayır.",
+   "Obyektlərin ana xətdən nə qədər uzağa yayılacağını müəyyən edir.",
+   "Obyektlərin böyüklük dərəcəsini nizamlayır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tutacaqları Bir-birindən Ayırmaq (Qırmaq)\" nədir?",
+  "options": [
+   "Kağızda çəkilmiş eskiz şəkli Illustrator-a daxil edilir və qat kilidlənir. Üst qatda Pen Tool vasitəsilə konturlar addım-addım yüksək dəqiqliklə…",
+   "Əyri xətlərdə hər iki tərəfin tutacağı bir-biri ilə eyni ox üzrə hərəkət edir. Anchor Point Tool ilə təkcə bir tutacaqdan tutub hərəkət etdirdikdə ox…",
+   "Məsələn, bir kəpənək və ya quş illüstrasiyası çəkərkən qanadın kəskin ucları iti nöqtələrlə, bədənin yumşaq xətləri isə Bezje əyriləri və Anchor…",
+   "Tutacaqları olan yumşaq nöqtənin üzərinə bircə dəfə kliklədikdə bütün tutacaqlar ləğv edilir və forma dərhal iti həndəsi künc alır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kəsim xətlərindən fərqli olaraq qatlanacaq yerlər üçün sənədin kənarına xüsusi qırıq-qırıq xətlərlə işarələr qoyulur.\"",
+  "options": [
+   "Z-Fold (Akkordeon Qatlama)",
+   "3D Mockup Təqdimatı",
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "Şəkillərin Yoxlanması"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "Tints (Çalarlar)",
+   "Vektor Təmizliyi",
+   "İşıqlandırma Rejimləri (Screen, Lighten)",
+   "Hamar Əyrini İti Küncə Çevirmək"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vərəqin üzərinə milimetrlik tor örtüyü atır. Xüsusilə piksellərin dəqiq yerləşdirilməsi və loqo torlarının qurulması zamanı əvəzsizdir.\"",
+  "options": [
+   "Keyboard Increment",
+   "Tor Şəbəkəsi (Grid - Ctrl+')",
+   "New File (Yeni Fayl)",
+   "Köməkçi Xətlər (Guides - Ctrl+;)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vizit kartı dizaynı, layout, eskiz hazırlığı, rəqəmsal dizayn və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Xətlərin Görünməz Edilməsi",
+   "Hide Guides (Bələdçiləri Gizlət - Ctrl+;)",
+   "Bağlantı Nöqtələri (Anchor Points)",
+   "Ad və Soyad"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompleks təsviri çap etmək, rəng ayırımlarını tənzimləmək, çap işarələrinin açıqlaması və çap seçimləri\" mövzusuna aiddir?",
+  "options": [
+   "Trim Marks (Kəsim İşarələri)",
+   "Üstünlüyü",
+   "İş prinsipi",
+   "Gravity (Cazibə)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İnteraktiv və ən sürətli forma qurma alətidir. Seçilmiş bir neçə fiqurun üzərindən siçanla xətt çəkərək onları birləşdirə, Alt düyməsini sıxıb saxlayaraq artıq qalan lazımsız…\"",
+  "options": [
+   "Shape Builder Tool (Forma Quraşdırıcı - Shift+M)",
+   "Exclude (Kənarlaşdırma)",
+   "Polygon Tool (Çoxbucaqlı Aləti)",
+   "Star Tool (Ulduz Aləti)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektlərin ana xətdən nə qədər uzağa yayılacağını müəyyən edir.\"",
+  "options": [
+   "Size (Ölçü)",
+   "Scatter (Səpələnmə Payı)",
+   "Roundness (Dairəvilik)",
+   "Daxili Parametrlərin Tənzimlənməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Rəng dərinliyi\" nədir?",
+  "options": [
+   "Swatches panelində yeni rəng yaradarkən \"Global\" qutusunu işarələsəniz, bu rəng sənədin bütün obyektlərinə dinamik bağlanır. Gələcəkdə Swatches…",
+   "Rəngin işıqlıq dərəcəsidir. 0% tam qara, 100% isə maksimal dərəcədə aydın rəngdir.",
+   "İnsan gözünün təbii rəng qavrayışına ən yaxın modeldir. Dizayner hər hansı rəngin tonunu dəyişmədən sadəcə onu bir qədər qaranlıq və ya daha solğun…",
+   "Hər kanal 0-255 aralığında dəyər alır. Ümumilikdə 16.7 milyondan çox canlı və parlaq rəng çaları formalaşdırır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyekt böyüdüldükdə yumşaldılmış künc radiuslarının proporsiyasını qoruyur.\"",
+  "options": [
+   "Learn (Öyrən) Bölməsi",
+   "Scale Corners",
+   "Yeni İş Mühitinin Saxlanması",
+   "Panellərin Birləşdirilməsi və Qruplaşdırılması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fırça seçimləri, fırça növlərinin seçimi və yeni fırça yaratmaq mərhələləri\" mövzusuna aiddir?",
+  "options": [
+   "GPU Acceleration Indikatoru",
+   "Məhdudiyyəti",
+   "Qrupu Dağıtmaq (Ungroup)",
+   "Tints and Shades (Çalarlar və Kölgələr)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Hərfsiz, yalnız tək bir qrafik obyektdən və ya simvoldan ibarət olan işarələrdir (məsələn\" nədir?",
+  "options": [
+   "Müştərinin fəaliyyət sahəsi, hədəf auditoriyasının yaşı, sosial təbəqəsi və brendin əsas dəyərləri dəqiqləşdirilir.",
+   "Lüks, premium status və zəriflik.",
+   "Təbiət, sağlamlıq, ekologiya və maliyyə artımı.",
+   "Apple alması, Twitter/X quşu, Nike qövsü)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yol mətni yaradılması, yol mətninin idxalı və redaktəsi\" mövzusuna aiddir?",
+  "options": [
+   "Köməkçi Xətlər (Guides - Ctrl+;)",
+   "Scatter (Səpələnmə Payı)",
+   "Skew (Maili)",
+   "Alt (Option) düyməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Skew (Maili)\" nədir?",
+  "options": [
+   "Hərfləri heç əymir, onları pilləkən kimi şaquli vəziyyətdə qoruyaraq xətt üzrə pillə-pillə düzür.",
+   "Hərfləri şaquli saxlayaraq yalnız kənarlarını xətt üzrə uzadır.",
+   "Mətnin xətt üzərində haradan başlandığını göstərir. Bu qolu siçanla dartaraq mətni xətt boyunca irəli çəkmək olar.",
+   "Standart rejimdir. Hər bir hərf xəttin radiusuna tam perpendikulyar qalaraq əyilir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Qırmızı\" nədir?",
+  "options": [
+   "Enerji, ehtiras, sürət və təcili çağırış.",
+   "KFC polkovniki, Pringles obrazı). Ailəvi və əyləncəli brendlərdə tətbiq edilir.",
+   "Kağızdakı rəsm skan edilir və ya fotoşəkli çəkilərək kətana yerləşdirilir (File > Place).",
+   "Google, Coca-Cola, Sony)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Statistiki qrafiklər, sütun, dairəvi qrafiklər və infoqrafika əməliyyatları\" mövzusuna aiddir?",
+  "options": [
+   "Dizaynın Hazırlanması",
+   "Xüsusi Effektlər",
+   "Justify with Last Line Aligned Center",
+   "Səthin Boyanması (Face Fill)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Nöqtə mətninin idxalı və mətnin seçilməsinin izahı\" mövzusuna aiddir?",
+  "options": [
+   "Dikişsiz Keçid (Seamless Transition)",
+   "Shift + Sağ/Sol oxlar",
+   "Mərkəzi Çevirici Qol (Center Bracket / Flip Handle)",
+   "Simvolun Hazırlanması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Nöqtə mətninin idxalı və mətnin seçilməsinin izahı\" mövzusuna aiddir?",
+  "options": [
+   "İkiqat klik (Double-click)",
+   "Rəng və Kontur İdarəetməsi (Fill & Stroke)",
+   "Kəsim Payı (Bleed)",
+   "Tədbirin Adı və Dəvət Mətni"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Links panelindən şəkillərin daxil edildiyi (.\"",
+  "options": [
+   "Şəkillərin Yoxlanması",
+   "3D Mockup Təqdimatı",
+   "Qatlama İşarələri (Creasing / Score Lines)",
+   "Üz Qabığı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əvvəlcədən çəkilmiş xüsusi həndəsi çərçivənin daxilinə doldurulan paraqraf mətnidir.\"",
+  "options": [
+   "Sahə Mətni (Area Type)",
+   "Üçqat klik (Triple-click)",
+   "İkiqat klik (Double-click)",
+   "Ctrl + Shift + Oxlar"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Vektor Təmizliyi\" nədir?",
+  "options": [
+   "Təbiət, sağlamlıq, ekologiya və maliyyə artımı.",
+   "Apple alması, Twitter/X quşu, Nike qövsü).",
+   "Artıq bağlantı nöqtələri təmizlənir, kənarların kəskinliyi yoxlanılır.",
+   "Enerji, ehtiras, sürət və təcili çağırış."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Qarışdırma modları, degradelər, qəfəslər və pattern-lər\" mövzusuna aiddir?",
+  "options": [
+   "Xüsusi Effektlər",
+   "Direction (İstiqamət)",
+   "Hex by Column / Hex by Row",
+   "Mətnlərin Vektora Çevrilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müəyyən zaman kəsiyində baş verən artım və ya azalma dinamikasını (trendləri) nöqtələri birləşdirən xətlərlə nümayiş etdirir.\"",
+  "options": [
+   "Mühüm Qayda",
+   "Qrafikə Tətbiq",
+   "Verilənlərin İdxalı (Import Data)",
+   "Line Graph Tool (Xətti Qrafik)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Mərkəzi Çevirici Qol (Center Bracket / Flip Handle)\" nədir?",
+  "options": [
+   "Mətnin ən yuxarı həddini xəttə yapışdırır (mətn xəttin altında qalır).",
+   "Hərfləri şaquli saxlayaraq yalnız kənarlarını xətt üzrə uzadır.",
+   "Hərfləri heç əymir, onları pilləkən kimi şaquli vəziyyətdə qoruyaraq xətt üzrə pillə-pillə düzür.",
+   "Ən vacib tutacaqdır. Xəttin mərkəzində şaquli çıxıntı şəklində görünür:."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Son sətri sağa çəkir.\"",
+  "options": [
+   "Alt (Option) düyməsi",
+   "Justify with Last Line Aligned Right",
+   "Rounded Rectangle Tool (Dairəvi Kənarlı Düzbucaqlı)",
+   "Xətlərin Görünməz Edilməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Vektorial tərtib texnikaları, vektor qrafikasının əsasları və əsas formaların qurulması\" mövzusuna aiddir?",
+  "options": [
+   "Qrafikə Tətbiq",
+   "Folqa Basqısı (Foil Stamping / Qızılı-Gümüşü İsti Vurma)",
+   "Exclude (Kənarlaşdırma)",
+   "Center"
+  ],
+  "correct": 2
+ }
+]

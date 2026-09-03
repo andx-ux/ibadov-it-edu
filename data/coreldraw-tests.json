@@ -1,0 +1,5002 @@
+[
+ {
+  "question": "\"Cusp (İti Bucaq)\" nədir?",
+  "options": [
+   "Tutacaqlar eyni ox üzərində hərəkət edir, yumşaq təbii qövs təmin edir.",
+   "İstifadəçi kətanda əli ilə sərbəst şəkildə kobud və qeyri-dəqiq bir dairə, düzbucaqlı, üçbucaq, ox və ya ellips çəkir.",
+   "Nöqtələri ardıcıl qoyaraq və tutacaqları dartaraq riyazi qövslər qurur.",
+   "Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Uniform Fill (Spot Pantone)\"",
+  "options": [
+   "Loqo və Başlıq Mətni",
+   "Dekorativ Çərçivə / Haşiyə",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Sağ klik"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə millimetrlə aparılır.\"",
+  "options": [
+   "Wireframe",
+   "Rectangle Tool (F6)",
+   "Shift + F4",
+   "Ellipse Tool (F7)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Texture / Bitmap\" nədir?",
+  "options": [
+   "Mərkəz oxu ətrafında 360∘ fırlanan konus keçidi (metal disklər və boru effektləri üçün).",
+   "Fraktal / Piksel Data",
+   "Təmiz Vektor Rəngi",
+   "Dinamik Düyün Toru"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Freehand Tool-un Property Bar-dakı əsas parametri hansıdır?",
+  "options": [
+   "Freehand Smoothing",
+   "Kontur qalınlığı",
+   "Şrift ölçüsü",
+   "Cədvəl sətri"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Two-color",
+   "Color Banding (Zolaqlanma)",
+   "Blend Tool (Qarışdırma Keçidi)",
+   "Midpoint (Orta Balans Nöqtəsi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Paragraph Text necə yaradılır?",
+  "options": [
+   "Kətanda çərçivə çəkərək",
+   "Tək kliklə",
+   "Rəng seçərək",
+   "Cədvəl qurarq"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dinamik Düyün Toru\"",
+  "options": [
+   "Linear (Xətti)",
+   "Vector Pattern",
+   "Conical (Konusvari)",
+   "Mesh Fill (M)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Midpoint (Orta Balans Nöqtəsi)\" nədir?",
+  "options": [
+   "Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq…",
+   "İki rəngin hansı məsafədə bir-birinə qarışacağını (10%-90%) tənzimləyir.",
+   "Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin…",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"RGB\" nədir?",
+  "options": [
+   "Rəqəmsal ekranlar və veb qrafika üçün 0-255 diapazonunda işıq dəyərləri ilə qurulur.",
+   "Çox uzun məsafəli degradələrdə tonlar arasında kəskin zolaqlar yarana bilər. Bunun qarşısını almaq üçün CorelDRAW-da.",
+   "Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq…",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Smooth (Yumşaq Keçid)\" nədir?",
+  "options": [
+   "Tutacaqların həm bucağı, həm də uzunluğu bərabər idarə olunur.",
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir.",
+   "Tutacaqlar eyni ox üzərində hərəkət edir, yumşaq təbii qövs təmin edir.",
+   "Vektor konturlarını maye kimi dartır, burur və ya maqnit kimi çəkir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektləri tək bir blok halında birləşdirir və ya ayırır.\"",
+  "options": [
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Blend Tool (Qarışdırma Keçidi)",
+   "Cusp / Smooth / Symmetrical",
+   "Group (Ctrl + G) / Ungroup (Ctrl + U)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Standart Əmrlər Paneli (Standard Toolbar)\" nədir?",
+  "options": [
+   "İş kətanı boyunca sərbəst hərəkət edir.",
+   "Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət…",
+   "Sənəd açmaq, yaddaşa vermək, çap etmək, kəsmək və miqyası dəyişmək üçün sürətli qısayol düymələri.",
+   "Ekranın sol tərəfində yerləşən şaquli alətlər paneli."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müəyyən bucaq altında düz xətt boyunca keçid.\"",
+  "options": [
+   "Bitmap",
+   "Uniform Fill",
+   "Smart Fill Tool",
+   "Linear (Xətti)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yazı növlərinə giriş, yazı formatlaşdırması, mətnlərə qrafik yerləşdirilməsi və vizual/inkişaf etmiş effektlərin verilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Tətbiq sahəsi",
+   "OpenType Features",
+   "T (Top) / B (Bottom)",
+   "Artistic Text (Bədii Mətn)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Grayscale",
+   "Page Size",
+   "Doğma Fayl Formatı (CDR)",
+   "Smart Drawing Tool (Shift + S)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Normal / Enhanced",
+   "Offset",
+   "Conical (Konusvari)",
+   "Xüsusiyyətlər Paneli (Property Bar)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Linear (Xətti)\" nədir?",
+  "options": [
+   "İki və ya daha çox açıq/qapalı vektor xəttinin kəsişməsindən yaranan boşluqları dərhal aşkar edir və ora klikləndikdə müstəqil yeni rənglənmiş obyekt…",
+   "Bir obyektin dolğu növünü, kontur qalınlığını və effektlərini bütövlükdə kopyalayaraq digər obyektə yapışdırır.",
+   "Müəyyən bucaq altında düz xətt boyunca keçid.",
+   "Dinamik Qradiyent"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Rəng Palitrasında sağ klik nəyi rəngləyir?",
+  "options": [
+   "Daxili dolğunu (Fill)",
+   "Xarici konturu (Outline)",
+   "Arxa fonu",
+   "Mətn rəngini"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Pixels",
+   "Convert Line to Curve",
+   "Shape Recognition Level",
+   "Tətbiq sahəsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Smart Fill Tool\" nədir?",
+  "options": [
+   "Mürəkkəb çoxrəngli vektor ornamentlər.",
+   "Təkrarlanan Vektor",
+   "İki və ya daha çox açıq/qapalı vektor xəttinin kəsişməsindən yaranan boşluqları dərhal aşkar edir və ora klikləndikdə müstəqil yeni rənglənmiş obyekt…",
+   "Dinamik Düyün Toru"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"RGB və CMYK Ziddiyyəti\" nədir?",
+  "options": [
+   "Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq…",
+   "Keçid xəttinin kətan üzərindəki istiqamətini müəyyən edir (məsələn, 90∘ şaquli, 0∘ üfüqi, 45∘ diaqonal).",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir.",
+   "Çox uzun məsafəli degradələrdə tonlar arasında kəskin zolaqlar yarana bilər. Bunun qarşısını almaq üçün CorelDRAW-da."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Uniform Fill-in qısayolu hansıdır?",
+  "options": [
+   "Shift + F11",
+   "F11",
+   "Ctrl + F11",
+   "Alt + F11"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Rectangle Tool ilə Shift basılı saxlanıldıqda haradan çəkilir?",
+  "options": [
+   "Mərkəzdən",
+   "Kənardan",
+   "Yuxarıdan",
+   "Random nöqtədən"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Normal / Enhanced",
+   "Color Nodes (Rəng Düyünləri)",
+   "Transparency Tool (İnteraktiv Şəffaflıq)",
+   "İş Prinsipi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "CorelDRAW-da neçə əsas dolğu (fill) mexanizmi mövcuddur?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "8"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Smooth parametri\" nədir?",
+  "options": [
+   "Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir.",
+   "Yalnız qara boyanın faiz dərəcəsi ilə (0%-100%) monoxrom tonlar yaradır.",
+   "Çap istehsalı üçün tətbiq olunur. Hər rəng 0%-dən 100%-ə qədər olan 4 boya komponenti (Cyan, Magenta, Yellow, Black) ilə dəqiq kodlaşdırılır.",
+   "Keçid xəttinin kətan üzərindəki istiqamətini müəyyən edir (məsələn, 90∘ şaquli, 0∘ üfüqi, 45∘ diaqonal)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Baseline Shift nə edir?",
+  "options": [
+   "Simvolu sətir oxundan yuxarı/aşağı qaldırır",
+   "Rəngi dəyişir",
+   "Şrifti silir",
+   "Sənədi fırladır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətni xətt boyunca irəli və ya geri sürüşdürür.\"",
+  "options": [
+   "Kerning",
+   "Offset",
+   "Sağ ox",
+   "Fərdi hərf markerləri"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Smart Smoothing Level",
+   "Cusp / Smooth / Symmetrical",
+   "Attributes Eyedropper",
+   "Pixels"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Mesh Fill nəyi təmin edir?",
+  "options": [
+   "Vektor qrafikasında fotorealizmin zirvəsini",
+   "Yalnız bir rəngli dolğunu",
+   "Mətn formatını",
+   "Cədvəl strukturunu"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur\" nədir?",
+  "options": [
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır.",
+   "Açıq boz → Tünd polad → Bəyaz parıltı → Orta boz.",
+   "Siçanla markerlərdən tutub fırladaraq keçidin bucağını (0∘-360∘) və uzunluğunu anında dəyişmək mümkündür.",
+   "Ekranın sağındakı rəng palitrasından hər hansı bir rəngi siçanla tutub kətan üzərindəki vektor oxunun xətti üzərinə atmaq və ya xətt üzərində iki…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Vector Pattern",
+   "Smooth Tool",
+   "Smooth parametri",
+   "Serif (Antikva / Çıxıntılı şriftlər)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Polyline Tool nəyi birləşdirir?",
+  "options": [
+   "Düz xətləri və sərbəst əl cizgilərini tək zəncirdə",
+   "Yalnız mətnləri",
+   "Yalnız rəngləri",
+   "Yalnız fotoları"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında mətn alətləri ilə tanışlıq, mətnlərin xüsusiyyətləri və paraqraf (abzas) mətnlərin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Zoom (Z)",
+   "Left, Center, Right",
+   "Mesh Fill (M)",
+   "Ellipse Tool (F7)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İstənilən mürəkkəb fotoşəkli və ya vektor naxışını qapalı bir karkasın (məsələn, dairənin və ya hərfin) daxilinə kəsmədən yerləşdirir.\"",
+  "options": [
+   "Trim",
+   "Contour Tool (Kontur)",
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "Transparency Tool (İnteraktiv Şəffaflıq)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bu dolğular standart ekranda yalnız boz karkas və ya sadə ştrix kimi görünə bilər, lakin çapa verildikdə və ya rasterlaşdırıldıqda yüksək dəqiqlikli bədii qravüra kimi açılır.\"",
+  "options": [
+   "Sağ klik",
+   "Xüsusiyyəti",
+   "Arxa Fon (Background)",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Cusp (İti Bucaq)",
+   "Two-color",
+   "İş Prinsipi",
+   "Vəziyyət Sətiri (Status Bar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Keçid xəttinin kətan üzərindəki istiqamətini müəyyən edir (məsələn, 90∘ şaquli, 0∘ üfüqi, 45∘ diaqonal).\"",
+  "options": [
+   "Color Nodes (Rəng Düyünləri)",
+   "Grayscale",
+   "Angle (Bucaq Dərəcəsi)",
+   "RGB və CMYK Ziddiyyəti"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir.\"",
+  "options": [
+   "T (Top) / B (Bottom)",
+   "Intersect",
+   "Drop Shadow Tool (Kölgə Aləti)",
+   "Extrude Tool (3D Həcm)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Kerning\" nədir?",
+  "options": [
+   "Hərflərin xətt üzərində duruş formasını (şaquli, xəttə perpendikulyar, fəza baxışı) seçir.",
+   "Yanaşı duran iki xüsusi simvol (məsələn, \"AV\", \"To\", \"WA\") arasındakı vizual boşluğun optik tənzimlənməsidir.",
+   "Mətni xətt boyunca irəli və ya geri sürüşdürür.",
+   "Mətn ilə xətt arasındakı şaquli məsafəni millimetrlə aralayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Standart vektor keyfiyyətini və antialiasing (kənar hamarlama) rejimini təmin edir.\"",
+  "options": [
+   "Ellipse Tool (F7)",
+   "Normal / Enhanced",
+   "Polygon Tool (Y)",
+   "Wireframe"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üst və ya alt kənarları hizalayır.\"",
+  "options": [
+   "Drop Shadow Tool (Kölgə Aləti)",
+   "Freehand Tool (F5)",
+   "T (Top) / B (Bottom)",
+   "Intersect"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Drawing Page",
+   "Smear / Twirl / Attract / Repel",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Color Eyedropper"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Table Tool nə üçün istifadə olunur?",
+  "options": [
+   "Cədvəllərin yaradılması üçün",
+   "Mətnin fırladılması üçün",
+   "Rəng seçimi üçün",
+   "Şəkil kəsimi üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki rəngin hansı məsafədə bir-birinə qarışacağını (10%-90%) tənzimləyir.\"",
+  "options": [
+   "Düyünlərin tənzimlənməsi",
+   "RGB",
+   "Grayscale",
+   "Midpoint (Orta Balans Nöqtəsi)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Add / Delete Node\" nədir?",
+  "options": [
+   "Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir).",
+   "Mətni istənilən əyri xəttin, dairənin və ya konturun üzərinə trayektoriya boyunca düzür (möhür və dairəvi loqolar üçün əsas texnika).",
+   "Xətt üzərinə iki dəfə klikləyərək yeni nöqtə əlavə etmək və ya mövcud nöqtəni silmək."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Text Orientation\" nədir?",
+  "options": [
+   "Hərflər arasındakı ümumi məsafəni (Tracking) siçanla canlı dartaraq açır və ya sıxır.",
+   "Hərflərin xətt üzərində duruş formasını (şaquli, xəttə perpendikulyar, fəza baxışı) seçir.",
+   "Mətni xətt boyunca irəli və ya geri sürüşdürür.",
+   "Mətn ilə xətt arasındakı şaquli məsafəni millimetrlə aralayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yazı növlərinə giriş, yazı formatlaşdırması, mətnlərə qrafik yerləşdirilməsi və vizual/inkişaf etmiş effektlərin verilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "Shift + F4",
+   "Dönmə və Miqyas Oxu",
+   "Fon Üzərindəki Ornament"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Son Kvadrat Marker",
+   "Başlıq və Əsas Menyu Sətiri (Menu Bar)",
+   "Linear (Xətti)",
+   "Fit Text To Path"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Düyünlərin tənzimlənməsi\" nədir?",
+  "options": [
+   "Çox uzun məsafəli degradələrdə tonlar arasında kəskin zolaqlar yarana bilər. Bunun qarşısını almaq üçün CorelDRAW-da.",
+   "Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin…",
+   "Oxun üzərindəki markerləri kətan boyu dartaraq rəng sərhədlərini daraltmaq və ya genişləndirmək mümkündür.",
+   "Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"PostScript Fill\"",
+  "options": [
+   "Fon Üzərindəki Ornament",
+   "Dekorativ Çərçivə / Haşiyə",
+   "Əsas Məhsul / İllüstrasiya",
+   "Xüsusiyyəti"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Create Envelope From",
+   "Yeni rəng əlavə etmək",
+   "Freehand Tool (F5)",
+   "Linear (Xətti)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Qabaqcıl Fit Text to Path-da qırmızı almaz formalı marker nəyi idarə edir?",
+  "options": [
+   "Mətnin trayektoriya boyu hərəkətini",
+   "Rəngi",
+   "Şrift ölçüsünü",
+   "Sənəd formatını"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Cusp node tipi nəyi yaradır?",
+  "options": [
+   "Kəskin künclər (tutacaqlar asılı olmadan hərəkət edir)",
+   "Yumşaq axıcı qövs",
+   "Simmetrik keçid",
+   "Düz xətt"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Bézier Tool və Pen Tool\" nədir?",
+  "options": [
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir.",
+   "Nöqtə-bənöqtə dəqiq kəsim xətləri və mürəkkəb loqo konturları qurur.",
+   "Sərbəst əl cizgisi ilə eskiz çəkir.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Loqo və Başlıq Mətni",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Color Banding (Zolaqlanma)",
+   "Fountain Fill"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Zoom Tool-un qısayolu hansıdır?",
+  "options": [
+   "Z",
+   "P",
+   "H",
+   "G"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Pixels\" nədir?",
+  "options": [
+   "Vektor təsvirinin veb üçün ixrac edildikdə hansı piksel kələ-kötürlüyünə düşəcəyini əvvəlcədən simulyasiya edir.",
+   "Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə…",
+   "Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir.",
+   "Bütün dolğu və effektləri gizlədərək obyektləri yalnız təmiz qara karkas xətləri kimi göstərir. Minlərlə detaldan ibarət mürəkkəb xəritə və ya lazer…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fountain Fill (Elliptical)\"",
+  "options": [
+   "Loqo və Başlıq Mətni",
+   "Əsas Məhsul / İllüstrasiya",
+   "Tətbiq sahəsi",
+   "Arxa Fon (Background)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Fərdi hərf markerini seçərək nə etmək mümkündür?",
+  "options": [
+   "Yalnız həmin hərfi fırlatmaq, rəngini dəyişmək və sürüşdürmək",
+   "Bütün mətni silmək",
+   "Sənədi bağlamaq",
+   "Yeni səhifə açmaq"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor təsvirlərini vizitkart ölçüsündən (90x50 mm) nəhəng bina fasadı ölçüsünə qədər böyütdükdə heç bir kənar kələ-kötürlüyü və ya keyfiyyət itkisi yaranmır.\"",
+  "options": [
+   "Zoom (Z)",
+   "Qeyri-məhdud Miqyaslanma",
+   "Rəng Palitrası (Color Palette)",
+   "Başlıq və Əsas Menyu Sətiri (Menu Bar)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Vektor nöqtələrini (Nodes) redaktə edən əsas alət hansıdır?",
+  "options": [
+   "Shape Tool (F10)",
+   "Pick Tool",
+   "Zoom Tool",
+   "Eraser"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektləri sol və ya sağ kənara bərabərləşdirir.\"",
+  "options": [
+   "Intersect",
+   "Extrude Tool (3D Həcm)",
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "L (Left) / R (Right)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Alətlər Qutusu (Toolbox) ekranın harasında yerləşir?",
+  "options": [
+   "Sol tərəfdə",
+   "Sağ tərəfdə",
+   "Yuxarıda",
+   "Aşağıda"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Intersect\" nədir?",
+  "options": [
+   "İki və ya daha çox obyekt seçildikdə yuxarı Property Bar-da xüsusi formalaşdırma düymələri aktivləşir:.",
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir.",
+   "Yalnız obyektlərin üst-üstə düşən ortaq sahəsindən yeni forma yaradır.",
+   "Üst-üstə düşən bütün görünməz daxili vektor xətlərini kəsib təmizləyir (lazer kəsimi və kəsici plotterlər üçün zəruridir)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Smart Smoothing Level",
+   "Fit Text To Path",
+   "Intersect",
+   "Grayscale"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Shift + F4\" nədir?",
+  "options": [
+   "Standart vektor keyfiyyətini və antialiasing (kənar hamarlama) rejimini təmin edir.",
+   "Bütün dolğu və effektləri gizlədərək obyektləri yalnız təmiz qara karkas xətləri kimi göstərir. Minlərlə detaldan ibarət mürəkkəb xəritə və ya lazer…",
+   "Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə…",
+   "Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Spot Color (Pantone Matching System - PMS)",
+   "Color Eyedropper",
+   "Full Justify (Hər iki tərəfə bərabər düzləndirmə)",
+   "Polygon Tool (Y)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Sağ klik\" nədir?",
+  "options": [
+   "Fountain Fill (Elliptical)",
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir.",
+   "İnsan dərisindəki təbii qızartılar, meyvələrin üzərindəki rəng keçidləri və avtomobil səthindəki işıq qırılmaları.",
+   "Bu dolğular standart ekranda yalnız boz karkas və ya sadə ştrix kimi görünə bilər, lakin çapa verildikdə və ya rasterlaşdırıldıqda yüksək dəqiqlikli…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Interactive Fill Tool ilə keçidin bucağı hansı diapazonda dəyişdirilə bilər?",
+  "options": [
+   "0°-360°",
+   "0°-180°",
+   "0°-90°",
+   "0°-45°"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Düyünlərin tənzimlənməsi",
+   "Intersect",
+   "Tracking (Character Spacing)",
+   "Wireframe"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Rəng düyününü silmək üçün nə etmək lazımdır?",
+  "options": [
+   "Düyünü seçib Delete düyməsini sıxmaq",
+   "Sağ klikləmək",
+   "Sənədi bağlamaq",
+   "Undo etmək"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Transparency Tool (İnteraktiv Şəffaflıq)",
+   "Polygon Tool (Y)",
+   "Əsas Məhsul / İllüstrasiya",
+   "Page Size"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Normal / Enhanced",
+   "Eraser (Pozan - X)",
+   "Symmetrical (Simmetrik Keçid)",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yazı növlərinə giriş, yazı formatlaşdırması, mətnlərə qrafik yerləşdirilməsi və vizual/inkişaf etmiş effektlərin verilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Sans-Serif (Qrotesk / Çıxıntısız şriftlər)",
+   "Contour Tool (Kontur)",
+   "Smart Smoothing Level",
+   "Symmetrical (Simmetrik Keçid)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tünd qızılı (#9B7126) → Açıq sarı parıltı (#FBF5B7) → Orta qızılı (#D4AF37).\"",
+  "options": [
+   "Smart Fill Tool",
+   "Conical (Konusvari)",
+   "Rəng pillələri",
+   "Linear (Xətti)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Sağ klik",
+   "Offset",
+   "Normal / Enhanced",
+   "Pan (H)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Pen Tool\" nədir?",
+  "options": [
+   "Yuxarı paneldən alətin tanıma həssaslığı (None, Lowest, Medium, Highest) tənzimlənir. Yüksək səviyyədə alət ən əyri cizgiləri belə dərhal nizamlı…",
+   "Növbəti xəttin hara gedəcəyini canlı göstərən (Preview) ən stabil konturlama alətidir.",
+   "İstifadəçi kətanda əli ilə sərbəst şəkildə kobud və qeyri-dəqiq bir dairə, düzbucaqlı, üçbucaq, ox və ya ellips çəkir.",
+   "Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "CorelDRAW",
+   "Smart Fill Tool",
+   "Yeni Rəng Əlavəsi",
+   "Offset"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin bütün dünyada eyni çıxması üçün…\"",
+  "options": [
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "CMYK",
+   "Spot Color (Pantone Matching System - PMS)",
+   "Yeni rəng əlavə etmək"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Mesh Fill (M)",
+   "Tətbiq sahəsi",
+   "Horizontal / Vertical Scale"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq seçilməlidir.\"",
+  "options": [
+   "Color Nodes (Rəng Düyünləri)",
+   "RGB",
+   "Angle (Bucaq Dərəcəsi)",
+   "RGB və CMYK Ziddiyyəti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Pen Tool-un əsas üstünlüyü nədir?",
+  "options": [
+   "Növbəti xəttin hara gedəcəyini canlı göstərir (Preview)",
+   "Yalnız dairə çəkir",
+   "Avtomatik rəngləyir",
+   "Mətni formatlayır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Standart formatlar (A4, A3) və ya fərdi ölçülər (mm, sm, metr, piksel).\"",
+  "options": [
+   "Zoom (Z)",
+   "Vəziyyət Sətiri (Status Bar)",
+   "Drawing Page",
+   "Page Size"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "Drawing Window",
+   "Texture / Bitmap",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Smooth parametri",
+   "Vector",
+   "Fon Üzərindəki Ornament",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Extrude Tool (3D Həcm)",
+   "Avtomatik Tanıma və Düzəltmə",
+   "Smart Fill Tool",
+   "Tracking (Character Spacing)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Palitranın ən yuxarısındakı çarpaz (X) xana nə edir?",
+  "options": [
+   "Dolğunu və ya konturu tamamilə ləğv edir",
+   "Rəngi tündləşdirir",
+   "Sənədi çap edir",
+   "Yeni rəng yaradır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Fon Üzərindəki Ornament\" nədir?",
+  "options": [
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir.",
+   "Uniform Fill (Spot Pantone)",
+   "Fountain Fill (Elliptical)",
+   "Two-Color Vector Pattern"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında mətn alətləri ilə tanışlıq, mətnlərin xüsusiyyətləri və paraqraf (abzas) mətnlərin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Paragraph Text (Paraqraf / Abzas Mətni)",
+   "Yeni Rəng Əlavəsi",
+   "Shift + F4",
+   "Drop Shadow Tool (Kölgə Aləti)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Fountain Fill",
+   "Mesh Fill (M)",
+   "Alətlər Qutusu (Toolbox)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Smart Drawing Tool əl ilə çəkilmiş kobud fiquru nəyə çevirir?",
+  "options": [
+   "İdeal həndəsi formaya",
+   "Mətnə",
+   "Fotoya",
+   "Cədvələ"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Sağ ox (Shape Tool ilə bədii mətndə) nəyi tənzimləyir?",
+  "options": [
+   "Hərflər arasındakı ümumi məsafəni (Tracking)",
+   "Sətirlərarası məsafəni",
+   "Şriftin rəngini",
+   "Mətnin ölçüsünü"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.\"",
+  "options": [
+   "Drawing Page",
+   "Doğma Fayl Formatı (CDR)",
+   "Drawing Window",
+   "Standart Əmrlər Paneli (Standard Toolbar)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır.\"",
+  "options": [
+   "Smooth (Yumşaq Keçid)",
+   "Smooth Tool",
+   "Shape Recognition Level",
+   "Cusp (İti Bucaq)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Orta Sürüşdürücü Xətt (Midpoint Slider)\" nədir?",
+  "options": [
+   "Ekranın sağındakı rəng palitrasından hər hansı bir rəngi siçanla tutub kətan üzərindəki vektor oxunun xətti üzərinə atmaq və ya xətt üzərində iki…",
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır.",
+   "Açıq boz → Tünd polad → Bəyaz parıltı → Orta boz.",
+   "İki rəngin bir-birinə qarışma sərhədini (10%-90%) tənzimləyir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi hərf markerləri",
+   "Başlanğıc Kvadrat Marker",
+   "Rəngin Ləğv Edilməsi",
+   "Xüsusiyyətlər Paneli (Property Bar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Shape Recognition Level",
+   "Intersect",
+   "Sağ klik",
+   "Left, Center, Right"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Ellipse Tool (F7)",
+   "Drawing Page",
+   "Freehand Tool (F5)",
+   "Aşağı ox"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Fountain Fill-in Elliptical (Radial) növü nəyi göstərmək üçün idealdır?",
+  "options": [
+   "İşıq mənbəyini və sferik həcmi",
+   "Düz xətləri",
+   "Mətn formatını",
+   "Cədvəl sərhədlərini"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor konturlarını maye kimi dartır, burur və ya maqnit kimi çəkir.\"",
+  "options": [
+   "Smear / Twirl / Attract / Repel",
+   "Cusp (İti Bucaq)",
+   "Symmetrical (Simmetrik Keçid)",
+   "İş Prinsipi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"L (Left) / R (Right)\" nədir?",
+  "options": [
+   "Üst və ya alt kənarları hizalayır.",
+   "Obyektləri sol və ya sağ kənara bərabərləşdirir.",
+   "Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək.",
+   "İstənilən mürəkkəb fotoşəkli və ya vektor naxışını qapalı bir karkasın (məsələn, dairənin və ya hərfin) daxilinə kəsmədən yerləşdirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "CorelDRAW-da mətbəəyə göndərilən fayllarda mətnin Convert to Curves edilməsinin səbəbi nədir?",
+  "options": [
+   "Qarşı tərəfin kompüterində şrift itkisinin qarşısını almaq",
+   "Faylı kiçiltmək",
+   "Rəngi dəyişmək",
+   "Sənədi sürətli açmaq"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yazı növlərinə giriş, yazı formatlaşdırması, mətnlərə qrafik yerləşdirilməsi və vizual/inkişaf etmiş effektlərin verilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Shift + F2",
+   "Baseline Shift",
+   "Rəng Palitrası (Color Palette)",
+   "Smear / Twirl / Attract / Repel"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağı ox (Shape Tool ilə bədii mətndə) nəyi tənzimləyir?",
+  "options": [
+   "Sətirlərarası məsafəni (Leading)",
+   "Hərflər arasındakı məsafəni",
+   "Şrift növünü",
+   "Mətnin rəngini"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Smart Drawing Tool (Shift + S)\" nədir?",
+  "options": [
+   "Mərkəzi oxlar üzrə bərabərləşdirir.",
+   "Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.",
+   "Xətt üzərinə iki dəfə klikləyərək yeni nöqtə əlavə etmək və ya mövcud nöqtəni silmək.",
+   "Vektor obyektinə fəzada dərinlik verərək onu üçölçülü relyefli blok halına salır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir).\"",
+  "options": [
+   "Doğma Fayl Formatı (CDR)",
+   "Qeyri-məhdud Miqyaslanma",
+   "Zoom (Z)",
+   "Pan (H)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "Pixels",
+   "Mirror Horizontally / Vertically",
+   "Başlanğıc Kvadrat Marker",
+   "Qeyri-məhdud Miqyaslanma"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çoxbucaqlının nöqtələri Shape Tool (F10) ilə daxilə çəkildikdə ulduz, çiçək və ya dişli çarx formaları yaranır.\"",
+  "options": [
+   "Polygon Tool (Y)",
+   "Wireframe",
+   "Ellipse Tool (F7)",
+   "Shift + F2"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ox üzərindəki hər hansı markerə tək kliklədikdə açılan mini-palitradan yeni CMYK və ya RGB çaları seçilir.\"",
+  "options": [
+   "Rəngin Ləğv Edilməsi",
+   "Rəngin Dəyişdirilməsi",
+   "Başlanğıc Kvadrat Marker",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Vector\" nədir?",
+  "options": [
+   "Bir obyektin dolğu növünü, kontur qalınlığını və effektlərini bütövlükdə kopyalayaraq digər obyektə yapışdırır.",
+   "Şəklin istənilən nöqtəsindən təmiz rəng nümunəsi götürür.",
+   "Real foto teksturasına (taxta, mərmər, parça toxuması) əsaslanan raster naxışlar.",
+   "Mürəkkəb çoxrəngli vektor ornamentlər."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "CorelDRAW-ın doğma (native) iş fayl formatı hansıdır?",
+  "options": [
+   "CDR",
+   "PSD",
+   "AI",
+   "EPS"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Two-color\" nədir?",
+  "options": [
+   "Müəyyən bucaq altında düz xətt boyunca keçid.",
+   "Yalnız iki rəngdən ibarət sadə vektor naxışlar.",
+   "Künclərdən mərkəzə doğru yönələn piramidal keçid.",
+   "Təmiz Vektor Rəngi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Smart Drawing Tool-un qısayolu hansıdır?",
+  "options": [
+   "Shift + S",
+   "Ctrl + S",
+   "Alt + S",
+   "F5"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "CorelDRAW piksellərlə yox, nə ilə işləyir?",
+  "options": [
+   "Həndəsi vektor riyaziyyatı ilə",
+   "Yalnız rənglə",
+   "Yalnız mətnlə",
+   "Yalnız fotolarla"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Pick Tool alətinin qısayolu hansıdır?",
+  "options": [
+   "F10",
+   "Space / V",
+   "F6",
+   "Ctrl + P"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "Smear / Twirl / Attract / Repel",
+   "Rəng pillələri",
+   "Fountain Fill",
+   "Distance from Path"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Zoom (Z)",
+   "C (Center Vertical) / E (Center Horizontal)",
+   "Kerning",
+   "Avtomatik Tanıma və Düzəltmə"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Attributes Eyedropper\" nədir?",
+  "options": [
+   "Mərkəz oxu ətrafında 360∘ fırlanan konus keçidi (metal disklər və boru effektləri üçün).",
+   "Mürəkkəb çoxrəngli vektor ornamentlər.",
+   "Bir obyektin dolğu növünü, kontur qalınlığını və effektlərini bütövlükdə kopyalayaraq digər obyektə yapışdırır.",
+   "Künclərdən mərkəzə doğru yönələn piramidal keçid."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Distance from Path\" nədir?",
+  "options": [
+   "Yanaşı duran iki xüsusi simvol (məsələn, \"AV\", \"To\", \"WA\") arasındakı vizual boşluğun optik tənzimlənməsidir.",
+   "Mətn ilə xətt arasındakı şaquli məsafəni millimetrlə aralayır.",
+   "Mətni xətt boyunca irəli və ya geri sürüşdürür.",
+   "Hərflərin xətt üzərində duruş formasını (şaquli, xəttə perpendikulyar, fəza baxışı) seçir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Drawing Page ilə Drawing Window arasındakı fərq nədir?",
+  "options": [
+   "Page — çap sərhədidir, Window — ətrafdakı geniş iş sahəsidir",
+   "İkisi də eyni şeydir",
+   "Page yalnız mətn üçündür",
+   "Window yalnız rənglər üçündür"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Simvolu ümumi sətir oxundan yuxarı və ya aşağı qaldırır (riyazi indekslər və ya yaradıcı kompozisiyalar üçün).\"",
+  "options": [
+   "Baseline Shift",
+   "Two-color",
+   "Transparency Tool (İnteraktiv Şəffaflıq)",
+   "RGB"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Smear / Twirl / Attract / Repel",
+   "Trim",
+   "İş Prinsipi",
+   "Symmetrical (Simmetrik Keçid)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Wireframe",
+   "Aşağı ox",
+   "Grayscale",
+   "Left, Center, Right"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Bézier Tool\" nədir?",
+  "options": [
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir.",
+   "Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır.",
+   "Nöqtələri ardıcıl qoyaraq və tutacaqları dartaraq riyazi qövslər qurur.",
+   "Forma üzərindən fırça kimi sürtərək artıq nöqtələri silir və xətti mükəmməl hamarlayır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sadə çevrə, sektor (piroq dilimi) və ya açıq qövs rejimlərinə keçirilir.\"",
+  "options": [
+   "Rectangle Tool (F6)",
+   "Normal / Enhanced",
+   "Ellipse Tool (F7)",
+   "Pixels"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Text Orientation",
+   "Full Justify (Hər iki tərəfə bərabər düzləndirmə)",
+   "Eraser (Pozan - X)",
+   "Two-color"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Fountain Fill",
+   "Knife Tool (Bıçaq)",
+   "Sans-Serif (Qrotesk / Çıxıntısız şriftlər)",
+   "Artistic Text (Bədii Mətn)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Ellipse Tool-un qısayolu hansıdır?",
+  "options": [
+   "F6",
+   "F7",
+   "F8",
+   "F9"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Zoom (Z)\" nədir?",
+  "options": [
+   "Səhifənin ətrafındakı geniş ağ iş sahəsi (layihə üzərində işləyərkən eskizləri və kənar elementləri saxlamaq üçün istifadə olunur).",
+   "poliqrafiya, reklam istehsalı, açıq hava reklamları (outdoor advertising), lazer kəsimi və geyim/tekstil dizaynında qlobal sənaye standartı sayılan…",
+   "Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir).",
+   "Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Avtomatik Tanıma və Düzəltmə",
+   "Pen Tool",
+   "Crop",
+   "Mesh Fill (M)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Düz xətti qövs şəkilli dalğaya çevirmək.\"",
+  "options": [
+   "Bézier Tool və Pen Tool",
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Convert Line to Curve",
+   "Freehand Tool (F5)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Conical (Konusvari)\" nədir?",
+  "options": [
+   "Bir obyektin dolğu növünü, kontur qalınlığını və effektlərini bütövlükdə kopyalayaraq digər obyektə yapışdırır.",
+   "Dinamik Qradiyent",
+   "Mərkəzdən xaricə doğru yayılan konsentrik keçid (işıq mənbəyini və sferik həcmi göstərmək üçün idealdır).",
+   "Mərkəz oxu ətrafında 360∘ fırlanan konus keçidi (metal disklər və boru effektləri üçün)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Başlanğıc Kvadrat Marker\" nədir?",
+  "options": [
+   "Ox üzərindəki hər hansı markerə tək kliklədikdə açılan mini-palitradan yeni CMYK və ya RGB çaları seçilir.",
+   "Siçanla markerlərdən tutub fırladaraq keçidin bucağını (0∘-360∘) və uzunluğunu anında dəyişmək mümkündür.",
+   "İki rəngin bir-birinə qarışma sərhədini (10%-90%) tənzimləyir.",
+   "Qradiyentin birinci (baza) rəngini təyin edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hərflərin eninə və ya uzununa faizlə dartılması (tipoqrafik proporsiyanı pozmamaq üçün ±5% həddindən artıq tövsiyə edilmir).\"",
+  "options": [
+   "Horizontal / Vertical Scale",
+   "RGB və CMYK Ziddiyyəti",
+   "L (Left) / R (Right)",
+   "Vector"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Şəkil çərçivəsinin künclərindən dartdıqda nə baş verir?",
+  "options": [
+   "Yalnız görünən sahə genişlənir, şrift ölçüsü dəyişmir",
+   "Şrift ölçüsü də böyüyür",
+   "Mətn silinir",
+   "Rəng dəyişir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Loqo və Başlıq Mətni\" nədir?",
+  "options": [
+   "Bu dolğular standart ekranda yalnız boz karkas və ya sadə ştrix kimi görünə bilər, lakin çapa verildikdə və ya rasterlaşdırıldıqda yüksək dəqiqlikli…",
+   "Uniform Fill (Spot Pantone)",
+   "Seçilmiş obyektin daxili sahəsini (Fill) rəngləyir.",
+   "PostScript Fill"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Freehand Tool (F5)\" nədir?",
+  "options": [
+   "Nöqtə-bənöqtə dəqiq kəsim xətləri və mürəkkəb loqo konturları qurur.",
+   "Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək.",
+   "Sərbəst əl cizgisi ilə eskiz çəkir.",
+   "Mətni istənilən əyri xəttin, dairənin və ya konturun üzərinə trayektoriya boyunca düzür (möhür və dairəvi loqolar üçün əsas texnika)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Left, Center, Right\" nədir?",
+  "options": [
+   "Fraktal / Piksel Data",
+   "Mətni müvafiq kənarlara söykəyir.",
+   "P, L, R, T, B, C, E):.",
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Script / Display (Xəttatlıq və Bədii şriftlər)",
+   "Sağ ox",
+   "Color Banding (Zolaqlanma)",
+   "Fit Text To Path"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Full Justify (Hər iki tərəfə bərabər düzləndirmə)\" nədir?",
+  "options": [
+   "Two-Color Vector Pattern",
+   "Mərkəzi oxlar üzrə bərabərləşdirir.",
+   "Bütün sətirlərin həm sol, həm də sağ kənarlarını qüsursuz blok halına gətirir; poliqrafiyada ən çox işlənən formatdır.",
+   "Bu dolğular standart ekranda yalnız boz karkas və ya sadə ştrix kimi görünə bilər, lakin çapa verildikdə və ya rasterlaşdırıldıqda yüksək dəqiqlikli…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dinamik paneldir. Seçilmiş alətdən və ya aktiv obyektdən asılı olaraq dəyişir (obyektin X/Y koordinatları, eni, hündürlüyü, fırlanma bucağı, kontur qalınlığı burada göstərilir).\"",
+  "options": [
+   "Drawing Window",
+   "Page Size",
+   "Drawing Page",
+   "Xüsusiyyətlər Paneli (Property Bar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İş kətanı boyunca sərbəst hərəkət edir.\"",
+  "options": [
+   "Rəng Palitrası (Color Palette)",
+   "Standart Əmrlər Paneli (Standard Toolbar)",
+   "Pan (H)",
+   "Crop"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Two-color",
+   "Sağ ox",
+   "Son Kvadrat Marker",
+   "Xüsusiyyəti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətan üzərinə tək kliklə açılır, loqotip və başlıqlar üçün sərbəst vektor obyekti kimi çıxış edir.\"",
+  "options": [
+   "Artistic Text (Bədii Mətn)",
+   "Polygon Tool (Y)",
+   "Rəng pillələri",
+   "Vector"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Rəngin Ləğv Edilməsi",
+   "Arxa Fon (Background)",
+   "Simplify",
+   "Vector Pattern"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Midpoint (Orta Balans Nöqtəsi) hansı diapazonda tənzimlənir?",
+  "options": [
+   "10%-90%",
+   "0%-50%",
+   "1%-99%",
+   "20%-80%"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fraktal / Piksel Data\"",
+  "options": [
+   "Rəng pillələri",
+   "Texture / Bitmap",
+   "Mesh Fill (M)",
+   "Attributes Eyedropper"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Ellipse Tool (F7)",
+   "Bézier Tool",
+   "Script / Display (Xəttatlıq və Bədii şriftlər)",
+   "Rəng pillələri"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Smooth node tipi hansı xüsusiyyətə malikdir?",
+  "options": [
+   "Tutacaqlar eyni ox üzərində hərəkət edir, yumşaq qövs verir",
+   "Tutacaqlar asılı olmadan hərəkət edir",
+   "Yalnız düz xətt yaradır",
+   "Rəngi avtomatik dəyişir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ekranın sol tərəfində yerləşən şaquli alətlər paneli.\"",
+  "options": [
+   "CorelDRAW",
+   "Doğma Fayl Formatı (CDR)",
+   "Pan (H)",
+   "Alətlər Qutusu (Toolbox)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Açıq boz → Tünd polad → Bəyaz parıltı → Orta boz.\"",
+  "options": [
+   "Dönmə və Miqyas Oxu",
+   "Rəngin Ləğv Edilməsi",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Başlanğıc Kvadrat Marker"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Vector Pattern",
+   "Tracking (Character Spacing)",
+   "Yeni rəng əlavə etmək",
+   "Serif (Antikva / Çıxıntılı şriftlər)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qradiyentin yekunlaşdığı hədəf rəngi saxlayır.\"",
+  "options": [
+   "Başlanğıc Kvadrat Marker",
+   "Son Kvadrat Marker",
+   "Dönmə və Miqyas Oxu",
+   "Yeni Rəng Əlavəsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Qeyri-məhdud Miqyaslanma",
+   "Arxa Fon (Background)",
+   "Rəngin Ləğv Edilməsi",
+   "Rectangular (Düzbucaqlı)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Mətn və vektor obyektlərini birləşdirmədən əvvəl mətn üzərində hansı əmr icra olunmalıdır?",
+  "options": [
+   "Convert to Curves (Ctrl+Q)",
+   "Group (Ctrl+G)",
+   "Zoom to Fit",
+   "Undo"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rəngin Dəyişdirilməsi\" nədir?",
+  "options": [
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır.",
+   "Ox üzərindəki hər hansı markerə tək kliklədikdə açılan mini-palitradan yeni CMYK və ya RGB çaları seçilir.",
+   "Ekranın sağındakı rəng palitrasından hər hansı bir rəngi siçanla tutub kətan üzərindəki vektor oxunun xətti üzərinə atmaq və ya xətt üzərində iki…",
+   "İki rəngin bir-birinə qarışma sərhədini (10%-90%) tənzimləyir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Künclərdən mərkəzə doğru yönələn piramidal keçid.\"",
+  "options": [
+   "Rectangular (Düzbucaqlı)",
+   "Rəng pillələri",
+   "Vector Pattern",
+   "Mesh Fill (M)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Horizontal/Vertical Scale ilə hərflərin neçə faizdən artıq dartılması tövsiyə edilmir?",
+  "options": [
+   "±5%",
+   "±20%",
+   "±50%",
+   "±1%"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mərkəz oxu ətrafında 360∘ fırlanan konus keçidi (metal disklər və boru effektləri üçün).\"",
+  "options": [
+   "Mesh Fill (M)",
+   "Elliptical (Radial / Dairəvi)",
+   "Conical (Konusvari)",
+   "Two-color"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Doğma CDR formatı sənəddə nələri saxlayır?",
+  "options": [
+   "Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini",
+   "Yalnız rəngləri",
+   "Yalnız mətni",
+   "Heç nəyi saxlamır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)\" nədir?",
+  "options": [
+   "Obyektin qat iyerarxiyasını dərhal ən önə və ya ən arxaya göndərir.",
+   "Vektor obyektinə fəzada dərinlik verərək onu üçölçülü relyefli blok halına salır.",
+   "İstənilən mürəkkəb fotoşəkli və ya vektor naxışını qapalı bir karkasın (məsələn, dairənin və ya hərfin) daxilinə kəsmədən yerləşdirir.",
+   "Yalnız obyektlərin üst-üstə düşən ortaq sahəsindən yeni forma yaradır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Vəziyyət Sətiri (Status Bar) interfeysin harasında yerləşir?",
+  "options": [
+   "Yuxarıda",
+   "Sol tərəfdə",
+   "Ən aşağıda",
+   "Sağ tərəfdə"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Order (Shift+PageUp/PageDown) əmri nəyi idarə edir?",
+  "options": [
+   "Obyektin qat iyerarxiyasını (önə/arxaya göndərmə)",
+   "Obyektin rəngini",
+   "Obyektin ölçüsünü",
+   "Mətnin şriftini"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Shape Recognition Level",
+   "Rectangular (Düzbucaqlı)",
+   "Color Eyedropper",
+   "Mesh Fill (M)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Naxışın kətandakı meyil bucağı və başlanğıc koordinatları necə idarə olunur?",
+  "options": [
+   "Xüsusi tənzimləmə oxları ilə",
+   "Yalnız klaviatura ilə",
+   "Avtomatik, dəyişdirilə bilmir",
+   "Yalnız Pick Tool ilə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yazı növlərinə giriş, yazı formatlaşdırması, mətnlərə qrafik yerləşdirilməsi və vizual/inkişaf etmiş effektlərin verilməsi\" mövzusuna aiddir?",
+  "options": [
+   "L (Left) / R (Right)",
+   "Two-color",
+   "Text Orientation",
+   "Horizontal / Vertical Scale"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Ellipse Tool ilə Ctrl basılı saxlanıldıqda nə alınır?",
+  "options": [
+   "Nizamlı (bərabərtərəfli) dairə",
+   "Kvadrat",
+   "Üçbucaq",
+   "Xətt"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Rəngin Ləğv Edilməsi",
+   "Xüsusiyyəti",
+   "Add / Delete Node",
+   "Paragraph Text (Paraqraf / Abzas Mətni)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İnsan dərisindəki təbii qızartılar, meyvələrin üzərindəki rəng keçidləri və avtomobil səthindəki işıq qırılmaları.\"",
+  "options": [
+   "Tətbiq sahəsi",
+   "Arxa Fon (Background)",
+   "Xüsusiyyəti",
+   "Dekorativ Çərçivə / Haşiyə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nöqtələri ardıcıl qoyaraq və tutacaqları dartaraq riyazi qövslər qurur.\"",
+  "options": [
+   "Symmetrical (Simmetrik Keçid)",
+   "Smooth (Yumşaq Keçid)",
+   "Avtomatik Tanıma və Düzəltmə",
+   "Bézier Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "C (Center Vertical) / E (Center Horizontal)",
+   "Kerning",
+   "Script / Display (Xəttatlıq və Bədii şriftlər)",
+   "Rectangular (Düzbucaqlı)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xəttin alt tərəfində yazılan mətnləri tərsinə çevrilməkdən xilas edir və oxunaqlı vəziyyətə gətirir.\"",
+  "options": [
+   "Aşağı ox",
+   "Mirror Horizontally / Vertically",
+   "Offset",
+   "Distance from Path"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Spot Color (Pantone Matching System - PMS)",
+   "Sol klik",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Smooth (Yumşaq Keçid)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sərbəst əl cizgisi ilə eskiz çəkir.\"",
+  "options": [
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Freehand Tool (F5)",
+   "Cusp / Smooth / Symmetrical",
+   "Simplify"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Symmetrical (Simmetrik Keçid)\" nədir?",
+  "options": [
+   "Tutacaqların həm bucağı, həm də uzunluğu bərabər idarə olunur.",
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir.",
+   "Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır.",
+   "Yuxarı paneldən alətin tanıma həssaslığı (None, Lowest, Medium, Highest) tənzimlənir. Yüksək səviyyədə alət ən əyri cizgiləri belə dərhal nizamlı…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Dizaynda \"Zərif xətlərdən ibarət ikonun altına Ultra Black şrift qoymaq\" nəyə səbəb olur?",
+  "options": [
+   "Vizual tarazlığın pozulmasına",
+   "Faylın kiçilməsinə",
+   "Rəngin avtomatik düzəlməsinə",
+   "Heç bir dəyişikliyə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Text Docker panelinin qısayolu hansıdır?",
+  "options": [
+   "Ctrl + T",
+   "Ctrl + F8",
+   "Alt + T",
+   "Shift + T"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mirror Horizontally / Vertically\" nədir?",
+  "options": [
+   "Xəttin alt tərəfində yazılan mətnləri tərsinə çevrilməkdən xilas edir və oxunaqlı vəziyyətə gətirir.",
+   "Bütün söz və ya cümlə boyu simvolların bir-birindən bərabər aralanmasıdır.",
+   "Mətni xətt boyunca irəli və ya geri sürüşdürür.",
+   "Hərflər arasındakı ümumi məsafəni (Tracking) siçanla canlı dartaraq açır və ya sıxır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Spot Color (Pantone Matching System - PMS)\" nədir?",
+  "options": [
+   "Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin…",
+   "Çap istehsalı üçün tətbiq olunur. Hər rəng 0%-dən 100%-ə qədər olan 4 boya komponenti (Cyan, Magenta, Yellow, Black) ilə dəqiq kodlaşdırılır.",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir.",
+   "Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təmiz Vektor Rəngi\"",
+  "options": [
+   "Uniform Fill",
+   "Vector Pattern",
+   "Rectangular (Düzbucaqlı)",
+   "Color Eyedropper"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor obyektinə fəzada dərinlik verərək onu üçölçülü relyefli blok halına salır.\"",
+  "options": [
+   "Extrude Tool (3D Həcm)",
+   "Simplify",
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Düzləndirmə və Paylama (Align and Distribute - Qısayol"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Mesh Fill-in qısayolu hansıdır?",
+  "options": [
+   "M",
+   "F11",
+   "Shift + M",
+   "Ctrl + M"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Trim əməliyyatı nəyə xidmət edir?",
+  "options": [
+   "Üstdə duran obyektin kənarları ilə altdakını kəsir",
+   "İki obyekti birləşdirir",
+   "Obyektin ölçüsünü böyüdür",
+   "Mətni əyriyə çevirir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Qeyri-məhdud Miqyaslanma\" nədir?",
+  "options": [
+   "Vektor təsvirlərini vizitkart ölçüsündən (90x50 mm) nəhəng bina fasadı ölçüsünə qədər böyütdükdə heç bir kənar kələ-kötürlüyü və ya keyfiyyət itkisi…",
+   "Vektor obyektini fiziki olaraq iki və ya daha çox müstəqil hissəyə bölür.",
+   "Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help).",
+   "Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.\"",
+  "options": [
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Smart Drawing Tool (Shift + S)",
+   "Add / Delete Node",
+   "Blend Tool (Qarışdırma Keçidi)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Baseline Shift\" nədir?",
+  "options": [
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir.",
+   "Simvolu ümumi sətir oxundan yuxarı və ya aşağı qaldırır (riyazi indekslər və ya yaradıcı kompozisiyalar üçün).",
+   "Hərflər arasındakı ümumi məsafəni (Tracking) siçanla canlı dartaraq açır və ya sıxır.",
+   "Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Linked Text Frames (əlaqələndirilmiş çərçivələr) nə üçün istifadə olunur?",
+  "options": [
+   "Mətnin bir sütundan digərinə avtomatik axması üçün",
+   "Rəngi dəyişmək üçün",
+   "Şəkli kəsmək üçün",
+   "Cədvəl yaratmaq üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Knife Tool (Bıçaq)",
+   "Angle (Bucaq Dərəcəsi)",
+   "Color Eyedropper",
+   "Dekorativ Çərçivə / Haşiyə"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Fit Text to Path funksiyası nə edir?",
+  "options": [
+   "Mətni əyri xətt trayektoriyası boyunca yerləşdirir",
+   "Mətni silir",
+   "Mətni cədvələ çevirir",
+   "Rəngi dəyişir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"CorelDRAW\" nədir?",
+  "options": [
+   "Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help).",
+   "Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir).",
+   "Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir.",
+   "poliqrafiya, reklam istehsalı, açıq hava reklamları (outdoor advertising), lazer kəsimi və geyim/tekstil dizaynında qlobal sənaye standartı sayılan…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor təsvirinin veb üçün ixrac edildikdə hansı piksel kələ-kötürlüyünə düşəcəyini əvvəlcədən simulyasiya edir.\"",
+  "options": [
+   "Rectangle Tool (F6)",
+   "Pixels",
+   "Normal / Enhanced",
+   "Shift + F2"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Smart Smoothing Level\" nədir?",
+  "options": [
+   "Vektor konturlarını maye kimi dartır, burur və ya maqnit kimi çəkir.",
+   "Növbəti xəttin hara gedəcəyini canlı göstərən (Preview) ən stabil konturlama alətidir.",
+   "Yuxarı paneldən alətin tanıma həssaslığı (None, Lowest, Medium, Highest) tənzimlənir. Yüksək səviyyədə alət ən əyri cizgiləri belə dərhal nizamlı…",
+   "Tanınmayan sərbəst cizgilərin kənarlarındakı qırışıqlığı avtomatik hamarlayır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Sans-Serif şriftlər harada üstünlük təşkil edir?",
+  "options": [
+   "Açıq hava reklamları və veb bannerlərdə",
+   "Kitab nəşrlərində",
+   "Dəvətnamələrdə",
+   "Restoran menyularında"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Serif (Antikva / Çıxıntılı şriftlər)\" nədir?",
+  "options": [
+   "Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.",
+   "Təkrarlanan Vektor",
+   "Hərflərin uclarında zərif dayaq xətləri (seriflər) olan ənənəvi şriftlər (məsələn, Times New Roman, Garamond). Kitab nəşrləri, rəsmi sənədlər və…",
+   "Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor xətlərini silərək avtomatik qapalı kontur yaradır.\"",
+  "options": [
+   "Page Size",
+   "Eraser (Pozan - X)",
+   "Pan (H)",
+   "Standart Əmrlər Paneli (Standard Toolbar)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Sənəddə istifadə olunan hər yeni rəng avtomatik olaraq haraya əlavə edilir?",
+  "options": [
+   "Document Palette-ə",
+   "Yalnız yaddaşa",
+   "Heç yerə əlavə olunmur",
+   "Yalnız Uniform Fill panelinə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"C (Center Vertical) / E (Center Horizontal)\" nədir?",
+  "options": [
+   "Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək.",
+   "Mərkəzi oxlar üzrə bərabərləşdirir.",
+   "İki fərqli forma və ya rəng arasında çoxpilləli yumşaq morfinq keçidi formalaşdırır.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Başlıq və Əsas Menyu Sətiri (Menu Bar)",
+   "Shift + F2",
+   "Angle (Bucaq Dərəcəsi)",
+   "Cusp (İti Bucaq)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Simplify əməliyyatı nəyi təmizləyir?",
+  "options": [
+   "Üst-üstə düşən görünməz daxili vektor xətlərini",
+   "Bütün rəngləri",
+   "Sənədin bütün mətnini",
+   "Kətanın ölçüsünü"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hərflər arasındakı ümumi məsafəni (Tracking) siçanla canlı dartaraq açır və ya sıxır.\"",
+  "options": [
+   "Mirror Horizontally / Vertically",
+   "Aşağı ox",
+   "Distance from Path",
+   "Sağ ox"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Left, Center, Right",
+   "Create Envelope From",
+   "Zoom (Z)",
+   "Loqo və Başlıq Mətni"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Tətbiq sahəsi",
+   "Baseline Shift",
+   "Linear (Xətti)",
+   "Yeni Rəng Əlavəsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Xüsusiyyəti\" nədir?",
+  "options": [
+   "Bu dolğular standart ekranda yalnız boz karkas və ya sadə ştrix kimi görünə bilər, lakin çapa verildikdə və ya rasterlaşdırıldıqda yüksək dəqiqlikli…",
+   "Uniform Fill (Spot Pantone)",
+   "Two-Color Vector Pattern",
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Intersect əməliyyatının nəticəsi nədir?",
+  "options": [
+   "Yalnız obyektlərin üst-üstə düşən ortaq sahəsi",
+   "İki obyektin tam birləşməsi",
+   "Obyektin güzgü əksi",
+   "Obyektin şəffaflaşması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rectangular (Düzbucaqlı)\" nədir?",
+  "options": [
+   "Təkrarlanan Vektor",
+   "Tünd qızılı (#9B7126) → Açıq sarı parıltı (#FBF5B7) → Orta qızılı (#D4AF37).",
+   "Dinamik Qradiyent",
+   "Künclərdən mərkəzə doğru yönələn piramidal keçid."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hərflərin uclarında zərif dayaq xətləri (seriflər) olan ənənəvi şriftlər (məsələn, Times New Roman, Garamond). Kitab nəşrləri, rəsmi sənədlər və klassik brendlər üçün nəzərdə…\"",
+  "options": [
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "RGB və CMYK Ziddiyyəti",
+   "Kerning",
+   "Fit Text To Path"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Contour Tool (Kontur)\" nədir?",
+  "options": [
+   "Nöqtə-bənöqtə dəqiq kəsim xətləri və mürəkkəb loqo konturları qurur.",
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir.",
+   "Vektor obyektinə fəzada dərinlik verərək onu üçölçülü relyefli blok halına salır.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sənəd açmaq, yaddaşa vermək, çap etmək, kəsmək və miqyası dəyişmək üçün sürətli qısayol düymələri.\"",
+  "options": [
+   "Standart Əmrlər Paneli (Standard Toolbar)",
+   "Eraser (Pozan - X)",
+   "Knife Tool (Bıçaq)",
+   "Zoom (Z)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İnterfeysin ən aşağısında yerləşir; seçilmiş obyektin dolğu rəngini, kontur qalınlığını və kursorun cari koordinatlarını göstərir.\"",
+  "options": [
+   "Knife Tool (Bıçaq)",
+   "Standart Əmrlər Paneli (Standard Toolbar)",
+   "Doğma Fayl Formatı (CDR)",
+   "Vəziyyət Sətiri (Status Bar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Convert to Curves əmrinin qısayolu hansıdır?",
+  "options": [
+   "Ctrl + Q",
+   "Ctrl + G",
+   "Ctrl + K",
+   "Ctrl + T"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Son Kvadrat Marker\" nədir?",
+  "options": [
+   "Ox üzərindəki hər hansı markerə tək kliklədikdə açılan mini-palitradan yeni CMYK və ya RGB çaları seçilir.",
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır.",
+   "Açıq boz → Tünd polad → Bəyaz parıltı → Orta boz.",
+   "Qradiyentin birinci (baza) rəngini təyin edir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Drawing Window\" nədir?",
+  "options": [
+   "Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help).",
+   "Səhifənin ətrafındakı geniş ağ iş sahəsi (layihə üzərində işləyərkən eskizləri və kənar elementləri saxlamaq üçün istifadə olunur).",
+   "Çapa və ya ixraca gedən rəsmi səhifə sərhədi.",
+   "Vektor obyektini fiziki olaraq iki və ya daha çox müstəqil hissəyə bölür."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "İş Prinsipi",
+   "Grayscale",
+   "Pixels",
+   "Transparency Tool (İnteraktiv Şəffaflıq)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün seçilmiş fiqurları vahid xarici konturda birləşdirir (bütün daxili sərhədlər silinir).\"",
+  "options": [
+   "Weld",
+   "Add / Delete Node",
+   "Fit Text To Path",
+   "Smart Drawing Tool (Shift + S)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Elliptical (Radial / Dairəvi)\" nədir?",
+  "options": [
+   "Dinamik Qradiyent",
+   "Təkrarlanan Vektor",
+   "Şəklin istənilən nöqtəsindən təmiz rəng nümunəsi götürür.",
+   "Mərkəzdən xaricə doğru yayılan konsentrik keçid (işıq mənbəyini və sferik həcmi göstərmək üçün idealdır)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Növbəti xəttin hara gedəcəyini canlı göstərən (Preview) ən stabil konturlama alətidir.\"",
+  "options": [
+   "Smooth (Yumşaq Keçid)",
+   "Smear / Twirl / Attract / Repel",
+   "Pen Tool",
+   "Bézier Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Rectangular (Düzbucaqlı)",
+   "Mirror Horizontally / Vertically",
+   "RGB və CMYK Ziddiyyəti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Forma üzərindən fırça kimi sürtərək artıq nöqtələri silir və xətti mükəmməl hamarlayır.\"",
+  "options": [
+   "Smooth Tool",
+   "Symmetrical (Simmetrik Keçid)",
+   "Avtomatik Tanıma və Düzəltmə",
+   "Bézier Tool"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Drop Shadow Tool (Kölgə Aləti)\" nədir?",
+  "options": [
+   "Mərkəzi oxlar üzrə bərabərləşdirir.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir).",
+   "Obyektləri tək bir blok halında birləşdirir və ya ayırır.",
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "PowerClip texnologiyası nə üçün istifadə olunur?",
+  "options": [
+   "Qrafikanı mətn və ya forma daxilinə yerləşdirmək üçün",
+   "Mətni silmək üçün",
+   "Rəngi qarışdırmaq üçün",
+   "Cədvəl qurmaq üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir).\"",
+  "options": [
+   "Contour Tool (Kontur)",
+   "Add / Delete Node",
+   "Weld",
+   "Intersect"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Trim əməliyyatı ilə mətni lent fiqurunun üzərinə qoyduqda nə alınır?",
+  "options": [
+   "Ştamp effekti (mətn kəsilib çıxarılır)",
+   "Mətn yox olur",
+   "Rəng dəyişir",
+   "Fiqur silinir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Pixels görünüş rejimi nəyi simulyasiya edir?",
+  "options": [
+   "Vektorun veb üçün ixracda hansı piksel görünüşü alacağını",
+   "Çap rəngini",
+   "Şrift ölçüsünü",
+   "Sənəd formatını"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Distance from Path",
+   "Two-color",
+   "Başlanğıc Kvadrat Marker",
+   "Drawing Page"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Rəngin Ləğv Edilməsi\" nədir?",
+  "options": [
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır.",
+   "Keçid oxu üzərindəki arzuolunmaz rəng düyününü seçib klaviaturadan Delete düyməsini sıxmaqla silinir.",
+   "İki rəngin bir-birinə qarışma sərhədini (10%-90%) tənzimləyir.",
+   "Ekranın sağındakı rəng palitrasından hər hansı bir rəngi siçanla tutub kətan üzərindəki vektor oxunun xətti üzərinə atmaq və ya xətt üzərində iki…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki rəngin bir-birinə qarışma sərhədini (10%-90%) tənzimləyir.\"",
+  "options": [
+   "Dönmə və Miqyas Oxu",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Son Kvadrat Marker",
+   "Rəngin Ləğv Edilməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Səhifənin ətrafındakı geniş ağ iş sahəsi (layihə üzərində işləyərkən eskizləri və kənar elementləri saxlamaq üçün istifadə olunur).\"",
+  "options": [
+   "Drawing Window",
+   "Doğma Fayl Formatı (CDR)",
+   "Drawing Page",
+   "Eraser (Pozan - X)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yuxarı paneldən alətin tanıma həssaslığı (None, Lowest, Medium, Highest) tənzimlənir. Yüksək səviyyədə alət ən əyri cizgiləri belə dərhal nizamlı fiqura salır.\"",
+  "options": [
+   "Smear / Twirl / Attract / Repel",
+   "Bézier Tool",
+   "İş Prinsipi",
+   "Shape Recognition Level"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Simplify",
+   "Uniform Fill",
+   "Dekorativ Çərçivə / Haşiyə",
+   "OpenType Features"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Shape Recognition Level",
+   "Sans-Serif (Qrotesk / Çıxıntısız şriftlər)",
+   "Sol klik",
+   "Vektor Obyekti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tracking (Character Spacing)\" nədir?",
+  "options": [
+   "Bütün söz və ya cümlə boyu simvolların bir-birindən bərabər aralanmasıdır.",
+   "Hərflər arasındakı ümumi məsafəni (Tracking) siçanla canlı dartaraq açır və ya sıxır.",
+   "Yanaşı duran iki xüsusi simvol (məsələn, \"AV\", \"To\", \"WA\") arasındakı vizual boşluğun optik tənzimlənməsidir.",
+   "Çoxsətirli bədii mətnlərdə sətirlərarası məsafəni (Leading) tənzimləyir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Artistic Text-in Paragraph Text-dən fərqi nədir?",
+  "options": [
+   "Çərçivəyə ehtiyac yoxdur, tək klikdən yaranır",
+   "Yalnız cədvəllərdə işləyir",
+   "Rəngi dəyişə bilmir",
+   "Yalnız İngilis dilində işləyir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vektor obyektini fiziki olaraq iki və ya daha çox müstəqil hissəyə bölür.\"",
+  "options": [
+   "Eraser (Pozan - X)",
+   "Drawing Window",
+   "Rəng Palitrası (Color Palette)",
+   "Knife Tool (Bıçaq)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Intersect əməliyyatı mətn və fiqurla necə tətbiq olunur?",
+  "options": [
+   "Kəsişən ortaq sahədən yeni vektor qat yaradır",
+   "Hər ikisini silir",
+   "Rəngi avtomatik dəyişir",
+   "Mətni böyüdür"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir.\"",
+  "options": [
+   "Rəng Palitrası (Color Palette)",
+   "Crop",
+   "Standart Əmrlər Paneli (Standard Toolbar)",
+   "Pan (H)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Mətn və obyektlərin birləşdirilməsi, mətnin qrafik elementlərlə uyğunlaşdırılması və mətni əyri formada verməklə müxtəlif effektlərin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Smooth (Yumşaq Keçid)",
+   "Elliptical (Radial / Dairəvi)",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Create Envelope From"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tətbiq sahəsi\" nədir?",
+  "options": [
+   "İnsan dərisindəki təbii qızartılar, meyvələrin üzərindəki rəng keçidləri və avtomobil səthindəki işıq qırılmaları.",
+   "Bu dolğular standart ekranda yalnız boz karkas və ya sadə ştrix kimi görünə bilər, lakin çapa verildikdə və ya rasterlaşdırıldıqda yüksək dəqiqlikli…",
+   "PostScript Fill",
+   "Uniform Fill (Spot Pantone)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Group (qruplaşdırma) əmrinin qısayolu hansıdır?",
+  "options": [
+   "Ctrl + G",
+   "Ctrl + Q",
+   "Ctrl + U",
+   "Ctrl + K"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üst-üstə düşən bütün görünməz daxili vektor xətlərini kəsib təmizləyir (lazer kəsimi və kəsici plotterlər üçün zəruridir).\"",
+  "options": [
+   "Simplify",
+   "Transparency Tool (İnteraktiv Şəffaflıq)",
+   "Düzləndirmə və Paylama (Align and Distribute - Qısayol",
+   "Contour Tool (Kontur)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Two-Color Vector Pattern\"",
+  "options": [
+   "Loqo və Başlıq Mətni",
+   "Arxa Fon (Background)",
+   "Fon Üzərindəki Ornament",
+   "Sol klik"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Texture Fill hansı riyaziyyata əsaslanır?",
+  "options": [
+   "Fraktal riyaziyyata",
+   "Xətti cəbrə",
+   "Ehtimal nəzəriyyəsinə",
+   "Trigonometriyaya"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəqəmsal ekranlar və veb qrafika üçün 0-255 diapazonunda işıq dəyərləri ilə qurulur.\"",
+  "options": [
+   "Grayscale",
+   "Color Nodes (Rəng Düyünləri)",
+   "Color Banding (Zolaqlanma)",
+   "RGB"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "2-Point Line Tool Shift düyməsi ilə işlədikdə xətti neçə dərəcəlik addımlarla sabitləyir?",
+  "options": [
+   "15°",
+   "10°",
+   "45°",
+   "5°"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Real foto teksturasına (taxta, mərmər, parça toxuması) əsaslanan raster naxışlar.\"",
+  "options": [
+   "Bitmap",
+   "Attributes Eyedropper",
+   "Linear (Xətti)",
+   "Rectangular (Düzbucaqlı)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Tracking (Character Spacing) nəyi tənzimləyir?",
+  "options": [
+   "Bütün söz boyu simvolların bərabər aralanmasını",
+   "Yalnız iki hərf arasını",
+   "Rəngi",
+   "Kağız formatını"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Fountain Fill\" nədir?",
+  "options": [
+   "Dinamik Qradiyent",
+   "Müəyyən bucaq altında düz xətt boyunca keçid.",
+   "Künclərdən mərkəzə doğru yönələn piramidal keçid.",
+   "Təkrarlanan Vektor"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mesh Fill (M)\"",
+  "options": [
+   "Loqo və Başlıq Mətni",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Əsas Məhsul / İllüstrasiya",
+   "Tətbiq sahəsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Paraqraf mətnində sətirlərin \"axması\" (Flow Text) nə vaxt baş verir?",
+  "options": [
+   "Çərçivələr zəncirlə bağlandıqda və mətn sığmadıqda",
+   "Rəng dəyişdikdə",
+   "Sənəd bağlandıqda",
+   "Fayl adlandırıldıqda"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"CMYK\" nədir?",
+  "options": [
+   "Oxun üzərindəki markerləri kətan boyu dartaraq rəng sərhədlərini daraltmaq və ya genişləndirmək mümkündür.",
+   "Çap istehsalı üçün tətbiq olunur. Hər rəng 0%-dən 100%-ə qədər olan 4 boya komponenti (Cyan, Magenta, Yellow, Black) ilə dəqiq kodlaşdırılır.",
+   "Yalnız qara boyanın faiz dərəcəsi ilə (0%-100%) monoxrom tonlar yaradır.",
+   "Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Extrude Tool (3D Həcm)\" nədir?",
+  "options": [
+   "İki və ya daha çox obyekt seçildikdə yuxarı Property Bar-da xüsusi formalaşdırma düymələri aktivləşir:.",
+   "Vektor obyektinə fəzada dərinlik verərək onu üçölçülü relyefli blok halına salır.",
+   "Üst və ya alt kənarları hizalayır.",
+   "Düz xətti qövs şəkilli dalğaya çevirmək."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Başlıq və Əsas Menyu Sətiri (Menu Bar)\" nədir?",
+  "options": [
+   "İnterfeysin ən aşağısında yerləşir; seçilmiş obyektin dolğu rəngini, kontur qalınlığını və kursorun cari koordinatlarını göstərir.",
+   "Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help).",
+   "Çapa və ya ixraca gedən rəsmi səhifə sərhədi.",
+   "Ekranın sol tərəfində yerləşən şaquli alətlər paneli."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Son Kvadrat Marker",
+   "Weld",
+   "OpenType Features",
+   "Color Banding (Zolaqlanma)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Zoom Tool ilə sol klik nə edir, sağ klik nə edir?",
+  "options": [
+   "Sol — böyüdür, sağ — kiçildir",
+   "Sol — kiçildir, sağ — böyüdür",
+   "İkisi də böyüdür",
+   "İkisi də kiçildir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Color Banding (Zolaqlanma)\" nədir?",
+  "options": [
+   "Yalnız qara boyanın faiz dərəcəsi ilə (0%-100%) monoxrom tonlar yaradır.",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir.",
+   "Çox uzun məsafəli degradələrdə tonlar arasında kəskin zolaqlar yarana bilər. Bunun qarşısını almaq üçün CorelDRAW-da.",
+   "Keçidin başlanğıc, orta və son nöqtələrində yerləşən rəng markerləridir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"T (Top) / B (Bottom)\" nədir?",
+  "options": [
+   "Düz xətti qövs şəkilli dalğaya çevirmək.",
+   "Üst və ya alt kənarları hizalayır.",
+   "Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.",
+   "Obyektləri tək bir blok halında birləşdirir və ya ayırır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "CorelDRAW hansı sənaye sahələrində qlobal standart sayılır?",
+  "options": [
+   "Poliqrafiya, reklam istehsalı, lazer kəsimi, tekstil dizaynı",
+   "Yalnız video montajda",
+   "Yalnız 3D animasiyada",
+   "Yalnız veb proqramlaşdırmada"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətni müvafiq kənarlara söykəyir.\"",
+  "options": [
+   "Weld",
+   "Zoom (Z)",
+   "Bézier Tool",
+   "Left, Center, Right"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Grayscale rəng modeli nəyə əsaslanır?",
+  "options": [
+   "Yalnız qara boyanın faiz dərəcəsinə (0%-100%)",
+   "RGB dəyərlərinə",
+   "Pantone koduna",
+   "CMYK-ə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Ellipse Tool (F7)\" nədir?",
+  "options": [
+   "Sadə çevrə, sektor (piroq dilimi) və ya açıq qövs rejimlərinə keçirilir.",
+   "Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə…",
+   "Çoxbucaqlının nöqtələri Shape Tool (F10) ilə daxilə çəkildikdə ulduz, çiçək və ya dişli çarx formaları yaranır.",
+   "Standart vektor keyfiyyətini və antialiasing (kənar hamarlama) rejimini təmin edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Bitmap",
+   "Smart Drawing Tool (Shift + S)",
+   "Text Orientation",
+   "Horizontal / Vertical Scale"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Serif şriftlərə hansı nümunə aiddir?",
+  "options": [
+   "Times New Roman",
+   "Arial",
+   "Montserrat",
+   "Helvetica"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müasir şriftlərin daxilindəki alternativ qlifləri (Stylistic Alternates), liqaturaları (birləşən hərflər) və bədii qıvrımları (Swashes) aktivləşdirir.\"",
+  "options": [
+   "Smart Fill Tool",
+   "OpenType Features",
+   "Drawing Page",
+   "Dönmə və Miqyas Oxu"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Smart Fill Tool",
+   "Simplify",
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "İş Prinsipi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir.\"",
+  "options": [
+   "Düyünlərin tənzimlənməsi",
+   "Color Nodes (Rəng Düyünləri)",
+   "Smooth parametri",
+   "Spot Color (Pantone Matching System - PMS)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Freehand Tool-un qısayolu hansıdır?",
+  "options": [
+   "F5",
+   "F8",
+   "G",
+   "M"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Offset\" nədir?",
+  "options": [
+   "Mətn ilə xətt arasındakı şaquli məsafəni millimetrlə aralayır.",
+   "Yalnız bircə hərfin markerini seçərək həmin hərfi digərlərindən asılı olmadan fırlatmaq, rəngini dəyişmək və ya yuxarı-aşağı sürüşdürmək mümkündür.",
+   "Hərflərin xətt üzərində duruş formasını (şaquli, xəttə perpendikulyar, fəza baxışı) seçir.",
+   "Mətni xətt boyunca irəli və ya geri sürüşdürür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "Paragraph Text (Paraqraf / Abzas Mətni)",
+   "Düzləndirmə və Paylama (Align and Distribute - Qısayol"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Uniform Fill",
+   "Başlanğıc Kvadrat Marker",
+   "Drawing Page",
+   "Conical (Konusvari)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Yazı növlərinə giriş, yazı formatlaşdırması, mətnlərə qrafik yerləşdirilməsi və vizual/inkişaf etmiş effektlərin verilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Sol klik",
+   "Düyünlərin tənzimlənməsi",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Script / Display (Xəttatlıq və Bədii şriftlər)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Color Nodes (Rəng Düyünləri)\" nədir?",
+  "options": [
+   "Keçid xəttinin kətan üzərindəki istiqamətini müəyyən edir (məsələn, 90∘ şaquli, 0∘ üfüqi, 45∘ diaqonal).",
+   "Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq…",
+   "Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin…",
+   "Keçidin başlanğıc, orta və son nöqtələrində yerləşən rəng markerləridir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir.\"",
+  "options": [
+   "Ellipse Tool (F7)",
+   "Shift + F4",
+   "Polygon Tool (Y)",
+   "Shift + F2"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Qapalı kontur şərti (Close Curve) niyə vacibdir?",
+  "options": [
+   "Xəttin daxilinə rəng dolğusu vermək üçün",
+   "Xətti silmək üçün",
+   "Şrifti dəyişmək üçün",
+   "Sənədi bağlamaq üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Eraser (Pozan) alətinin qısayolu hansıdır?",
+  "options": [
+   "X",
+   "E",
+   "Del",
+   "Backspace"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün söz və ya cümlə boyu simvolların bir-birindən bərabər aralanmasıdır.\"",
+  "options": [
+   "Aşağı ox",
+   "Kerning",
+   "Tracking (Character Spacing)",
+   "Mirror Horizontally / Vertically"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Angle (Bucaq Dərəcəsi)",
+   "Smart Drawing Tool (Shift + S)",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "T (Top) / B (Bottom)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Smooth Tool",
+   "L (Left) / R (Right)",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Pan (H)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Wireframe\" nədir?",
+  "options": [
+   "Çoxbucaqlının nöqtələri Shape Tool (F10) ilə daxilə çəkildikdə ulduz, çiçək və ya dişli çarx formaları yaranır.",
+   "Standart vektor keyfiyyətini və antialiasing (kənar hamarlama) rejimini təmin edir.",
+   "Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir.",
+   "Bütün dolğu və effektləri gizlədərək obyektləri yalnız təmiz qara karkas xətləri kimi göstərir. Minlərlə detaldan ibarət mürəkkəb xəritə və ya lazer…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Smear / Twirl / Attract / Repel\" nədir?",
+  "options": [
+   "Forma üzərindən fırça kimi sürtərək artıq nöqtələri silir və xətti mükəmməl hamarlayır.",
+   "Vektor konturlarını maye kimi dartır, burur və ya maqnit kimi çəkir.",
+   "Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır.",
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Sans-Serif (Qrotesk / Çıxıntısız şriftlər)\" nədir?",
+  "options": [
+   "Müvafiq olaraq dolğunu və ya konturu tamamilə ləğv edir (şəffaflaşdırır).",
+   "Həndəsi, küncsüz və müasir kəsimlər (məsələn, Arial, Montserrat, Helvetica). Açıq hava reklamları, veb bannerlər və naviqasiya lövhələrində uzaqdan…",
+   "Təmiz Vektor Rəngi",
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Fountain Fill-in qısayolu hansıdır?",
+  "options": [
+   "F11",
+   "Shift + F11",
+   "Ctrl + F",
+   "F9"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Smear / Twirl / Attract / Repel",
+   "Smart Smoothing Level",
+   "Texture / Bitmap",
+   "Smooth parametri"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Rectangle Tool ilə Ctrl basılı saxlanıldıqda nə alınır?",
+  "options": [
+   "Bərabərtərəfli kvadrat",
+   "Dairə",
+   "Üçbucaq",
+   "Xətt"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Dekorativ Çərçivə / Haşiyə\" nədir?",
+  "options": [
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir.",
+   "PostScript Fill",
+   "Müvafiq olaraq dolğunu və ya konturu tamamilə ləğv edir (şəffaflaşdırır).",
+   "Two-Color Vector Pattern"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Rəng Uyğunluğu prinsipinə görə mətn rəngi nə ilə balanslaşdırılmalıdır?",
+  "options": [
+   "Qrafikin ən tünd və ya ən parlaq əsas tonu ilə",
+   "Yalnız qara rənglə",
+   "Yalnız ağ rənglə",
+   "Tənzimləməyə ehtiyac yoxdur"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Spot Color (Pantone) sisteminin üstünlüyü nədir?",
+  "options": [
+   "Rəngin bütün dünyada eyni çıxmasını təmin edir",
+   "Yalnız qara-ağ işləyir",
+   "Yalnız ekranda görünür",
+   "Fayl həcmini azaldır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hərflərin xətt üzərində duruş formasını (şaquli, xəttə perpendikulyar, fəza baxışı) seçir.\"",
+  "options": [
+   "Aşağı ox",
+   "Fərdi hərf markerləri",
+   "Offset",
+   "Text Orientation"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Rectangle Tool (F6)\" nədir?",
+  "options": [
+   "Sadə çevrə, sektor (piroq dilimi) və ya açıq qövs rejimlərinə keçirilir.",
+   "Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir.",
+   "Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə…",
+   "Çoxbucaqlının nöqtələri Shape Tool (F10) ilə daxilə çəkildikdə ulduz, çiçək və ya dişli çarx formaları yaranır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız cari seçilmiş obyekti ekrana böyüdür.\"",
+  "options": [
+   "Wireframe",
+   "Shift + F2",
+   "Polygon Tool (Y)",
+   "Ellipse Tool (F7)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Freehand Smoothing parametrinin faizi yüksək olduqda nə baş verir?",
+  "options": [
+   "Xətt daha hamar olur, az düyün nöqtəsi yaranır",
+   "Xətt daha kələ-kötür olur",
+   "Rəng dəyişir",
+   "Fayl böyüyür"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Arxa Fon (Background)\" nədir?",
+  "options": [
+   "Two-Color Vector Pattern",
+   "İnsan dərisindəki təbii qızartılar, meyvələrin üzərindəki rəng keçidləri və avtomobil səthindəki işıq qırılmaları.",
+   "Fountain Fill (Elliptical)",
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Document Palette (Sənəd Palitrası) haradadır?",
+  "options": [
+   "Ekranın aşağı zolağında",
+   "Yuxarı menyuda",
+   "Sağ küncdə",
+   "Sol küncdə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Paragraph Text (Paraqraf / Abzas Mətni)\" nədir?",
+  "options": [
+   "Kətanda çərçivə çəkilərək daxilinə yığılan, çoxsətirli böyük həcmli məqalələrin mizanlanması üçün tətbiq edilən nizamlı mühitdir.",
+   "Siçanla markerlərdən tutub fırladaraq keçidin bucağını (0∘-360∘) və uzunluğunu anında dəyişmək mümkündür.",
+   "Xətt üzərinə iki dəfə klikləyərək yeni nöqtə əlavə etmək və ya mövcud nöqtəni silmək.",
+   "Müvafiq olaraq dolğunu və ya konturu tamamilə ləğv edir (şəffaflaşdırır)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Wireframe",
+   "Vector Pattern",
+   "Qeyri-məhdud Miqyaslanma",
+   "Distance from Path"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəklin istənilən nöqtəsindən təmiz rəng nümunəsi götürür.\"",
+  "options": [
+   "Bitmap",
+   "Color Eyedropper",
+   "Mesh Fill (M)",
+   "Texture / Bitmap"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Interactive Fill Tool ilə başlanğıc kvadrat marker nəyi təyin edir?",
+  "options": [
+   "Qradiyentin birinci (baza) rəngini",
+   "Son rəngi",
+   "Mətnin ölçüsünü",
+   "Sənəd formatını"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Son kvadrat marker (Interactive Fill Tool-da) nəyi saxlayır?",
+  "options": [
+   "Qradiyentin yekunlaşdığı hədəf rəngi",
+   "Başlanğıc rəngi",
+   "Kontur qalınlığını",
+   "Şrift növünü"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çapa və ya ixraca gedən rəsmi səhifə sərhədi.\"",
+  "options": [
+   "Xüsusiyyətlər Paneli (Property Bar)",
+   "Vəziyyət Sətiri (Status Bar)",
+   "Page Size",
+   "Drawing Page"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dinamik Qradiyent\"",
+  "options": [
+   "Elliptical (Radial / Dairəvi)",
+   "Rectangular (Düzbucaqlı)",
+   "Vector Pattern",
+   "Fountain Fill"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tutacaqların həm bucağı, həm də uzunluğu bərabər idarə olunur.\"",
+  "options": [
+   "Smooth Tool",
+   "Symmetrical (Simmetrik Keçid)",
+   "Shape Recognition Level",
+   "Smart Smoothing Level"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin xarici kontur xəttini (Outline) rəngləyir.\"",
+  "options": [
+   "Əsas Məhsul / İllüstrasiya",
+   "Sağ klik",
+   "Loqo və Başlıq Mətni",
+   "Xüsusiyyəti"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir obyektin dolğu növünü, kontur qalınlığını və effektlərini bütövlükdə kopyalayaraq digər obyektə yapışdırır.\"",
+  "options": [
+   "Attributes Eyedropper",
+   "Two-color",
+   "Rəng pillələri",
+   "Rectangular (Düzbucaqlı)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Rəng Palitrası (Color Palette)\" nədir?",
+  "options": [
+   "Vektor təsvirlərini vizitkart ölçüsündən (90x50 mm) nəhəng bina fasadı ölçüsünə qədər böyütdükdə heç bir kənar kələ-kötürlüyü və ya keyfiyyət itkisi…",
+   "Vektor xətlərini silərək avtomatik qapalı kontur yaradır.",
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.",
+   "Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Knife Tool (Bıçaq)\" nədir?",
+  "options": [
+   "Dinamik paneldir. Seçilmiş alətdən və ya aktiv obyektdən asılı olaraq dəyişir (obyektin X/Y koordinatları, eni, hündürlüyü, fırlanma bucağı, kontur…",
+   "Vektor obyektini fiziki olaraq iki və ya daha çox müstəqil hissəyə bölür.",
+   "Vektor xətlərini silərək avtomatik qapalı kontur yaradır.",
+   "Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Elliptical (Radial / Dairəvi)",
+   "Qeyri-məhdud Miqyaslanma",
+   "Kerning",
+   "Pixels"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Smooth parametri",
+   "Sans-Serif (Qrotesk / Çıxıntısız şriftlər)",
+   "Angle (Bucaq Dərəcəsi)",
+   "Group (Ctrl + G) / Ungroup (Ctrl + U)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nöqtə-bənöqtə dəqiq kəsim xətləri və mürəkkəb loqo konturları qurur.\"",
+  "options": [
+   "Simplify",
+   "Bézier Tool və Pen Tool",
+   "T (Top) / B (Bottom)",
+   "Trim"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"poliqrafiya, reklam istehsalı, açıq hava reklamları (outdoor advertising), lazer kəsimi və geyim/tekstil dizaynında qlobal sənaye standartı sayılan güclü vektor qrafik…\"",
+  "options": [
+   "Xüsusiyyətlər Paneli (Property Bar)",
+   "Pan (H)",
+   "Crop",
+   "CorelDRAW"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Standart Əmrlər Paneli (Standard Toolbar) nə üçün istifadə olunur?",
+  "options": [
+   "Sənəd açmaq, yaddaşa vermək, çap etmək kimi sürətli əməliyyatlar üçün",
+   "Yalnız rəng seçimi üçün",
+   "Yalnız mətn yazmaq üçün",
+   "Yalnız cədvəl qurmaq üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Attributes Eyedropper",
+   "Left, Center, Right",
+   "Cusp (İti Bucaq)",
+   "Group (Ctrl + G) / Ungroup (Ctrl + U)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Interactive Fill Tool-un qısayolu hansıdır?",
+  "options": [
+   "G",
+   "F11",
+   "I",
+   "Ctrl + I"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help).\"",
+  "options": [
+   "Pan (H)",
+   "Drawing Page",
+   "Başlıq və Əsas Menyu Sətiri (Menu Bar)",
+   "Knife Tool (Bıçaq)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Contour Tool (Kontur)",
+   "Pen Tool",
+   "Eraser (Pozan - X)",
+   "Angle (Bucaq Dərəcəsi)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Text Tool-un qısayolu hansıdır?",
+  "options": [
+   "F8",
+   "F7",
+   "F9",
+   "T"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Pan (Hand) alətinin qısayolu hansıdır?",
+  "options": [
+   "H",
+   "P",
+   "Z",
+   "N"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "Yeni Rəng Əlavəsi",
+   "Smear / Twirl / Attract / Repel",
+   "Horizontal / Vertical Scale"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Angle (Bucaq Dərəcəsi)\" nədir?",
+  "options": [
+   "Keçid xəttinin kətan üzərindəki istiqamətini müəyyən edir (məsələn, 90∘ şaquli, 0∘ üfüqi, 45∘ diaqonal).",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir.",
+   "Yalnız qara boyanın faiz dərəcəsi ilə (0%-100%) monoxrom tonlar yaradır.",
+   "Ekranda parlaq görünən RGB degradelər CMYK çapına göndərildikdə sönük və çirkli çıxa bilər. Çap layihələrində bütün düyün rəngləri mütləq CMYK olaraq…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "PostScript Fill əsasən nə üçün istifadə olunur?",
+  "options": [
+   "Bədii qravüra effektləri üçün",
+   "Foto retuşu üçün",
+   "Mətn yazmaq üçün",
+   "Cədvəl qurmaq üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Shift + F2",
+   "Two-color",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Əsas Məhsul / İllüstrasiya"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Shift + F2\" nədir?",
+  "options": [
+   "Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir.",
+   "Sadə çevrə, sektor (piroq dilimi) və ya açıq qövs rejimlərinə keçirilir.",
+   "Yalnız cari seçilmiş obyekti ekrana böyüdür.",
+   "Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Rectangle Tool-un qısayolu hansıdır?",
+  "options": [
+   "F5",
+   "F6",
+   "F7",
+   "F8"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Arxa Fon (Background)",
+   "Contour Tool (Kontur)",
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "Wireframe"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "B-Spline Tool necə işləyir?",
+  "options": [
+   "Xətti kənardan idarə edən elastik karkas kimi qoyur",
+   "Yalnız düz xətlər çəkir",
+   "Yalnız dairə çəkir",
+   "Rəngi dəyişir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Xüsusiyyətlər Paneli (Property Bar)\" nədir?",
+  "options": [
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.",
+   "Ekranın sol tərəfində yerləşən şaquli alətlər paneli.",
+   "Dinamik paneldir. Seçilmiş alətdən və ya aktiv obyektdən asılı olaraq dəyişir (obyektin X/Y koordinatları, eni, hündürlüyü, fırlanma bucağı, kontur…",
+   "Səhifənin ətrafındakı geniş ağ iş sahəsi (layihə üzərində işləyərkən eskizləri və kənar elementləri saxlamaq üçün istifadə olunur)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Auto-Close Curve düyməsi nə edir?",
+  "options": [
+   "Açıq xəttin uclarını tək kliklə bağlayır",
+   "Rəngi silir",
+   "Mətni yaradır",
+   "Sənədi bağlayır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Rəng xanasının üzərində sol düyməni basılı saxladıqda nə açılır?",
+  "options": [
+   "Həmin rəngin alt tonlarını göstərən köməkçi palitra",
+   "Yeni sənəd",
+   "Cədvəl paneli",
+   "Şrift siyahısı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Pan (H)\" nədir?",
+  "options": [
+   "İş kətanı boyunca sərbəst hərəkət edir.",
+   "Çapa və ya ixraca gedən rəsmi səhifə sərhədi.",
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.",
+   "Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Eraser aləti vektor xətlərini silərkən nə yaradır?",
+  "options": [
+   "Avtomatik qapalı kontur",
+   "Açıq xətt",
+   "Yeni rəng",
+   "Cədvəl"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Trim\" nədir?",
+  "options": [
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir).",
+   "Xətt üzərinə iki dəfə klikləyərək yeni nöqtə əlavə etmək və ya mövcud nöqtəni silmək.",
+   "Mətni istənilən əyri xəttin, dairənin və ya konturun üzərinə trayektoriya boyunca düzür (möhür və dairəvi loqolar üçün əsas texnika).",
+   "Üstdə duran obyektin kənarları ilə altdakı obyekti kəsir (ştamp effekti)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Avtomatik Tanıma və Düzəltmə",
+   "Simplify",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Fon Üzərindəki Ornament"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir.\"",
+  "options": [
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Color Nodes (Rəng Düyünləri)",
+   "Angle (Bucaq Dərəcəsi)",
+   "Yeni rəng əlavə etmək"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Weld (qaynaq) əməliyyatı nə edir?",
+  "options": [
+   "Bütün seçilmiş fiqurları vahid xarici konturda birləşdirir",
+   "Obyektləri ayırır",
+   "Rəngi silir",
+   "Mətni fırladır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "Add / Delete Node",
+   "Sağ ox",
+   "L (Left) / R (Right)",
+   "Doğma Fayl Formatı (CDR)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"P, L, R, T, B, C, E):.\"",
+  "options": [
+   "Trim",
+   "Düzləndirmə və Paylama (Align and Distribute - Qısayol",
+   "C (Center Vertical) / E (Center Horizontal)",
+   "Smart Drawing Tool (Shift + S)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mərkəzdən xaricə doğru yayılan konsentrik keçid (işıq mənbəyini və sferik həcmi göstərmək üçün idealdır).\"",
+  "options": [
+   "Uniform Fill",
+   "Elliptical (Radial / Dairəvi)",
+   "Mesh Fill (M)",
+   "Fountain Fill"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"OpenType Features\" nədir?",
+  "options": [
+   "Çapa və ya ixraca gedən rəsmi səhifə sərhədi.",
+   "Növbəti xəttin hara gedəcəyini canlı göstərən (Preview) ən stabil konturlama alətidir.",
+   "İki və ya daha çox açıq/qapalı vektor xəttinin kəsişməsindən yaranan boşluqları dərhal aşkar edir və ora klikləndikdə müstəqil yeni rənglənmiş obyekt…",
+   "Müasir şriftlərin daxilindəki alternativ qlifləri (Stylistic Alternates), liqaturaları (birləşən hərflər) və bədii qıvrımları (Swashes) aktivləşdirir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Əsas Məhsul / İllüstrasiya",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Düyünlərin tənzimlənməsi",
+   "Vector"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Vektor Obyekti\" nədir?",
+  "options": [
+   "Səhifənin və ya seçilmiş qrafikanın artıq hissələrini kəsir.",
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.",
+   "Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət…",
+   "Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Loqotip dizaynında mətn və fiqurun \"vahid, ayrılmaz\" görünməsi üçün hansı alət qrupu istifadə olunur?",
+  "options": [
+   "Shaping Bar (Weld/Trim/Intersect)",
+   "Zoom alətləri",
+   "Cədvəl alətləri",
+   "Rəng palitrası yalnız"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki və ya daha çox açıq/qapalı vektor xəttinin kəsişməsindən yaranan boşluqları dərhal aşkar edir və ora klikləndikdə müstəqil yeni rənglənmiş obyekt yaradır.\"",
+  "options": [
+   "Two-color",
+   "Vector",
+   "Rectangular (Düzbucaqlı)",
+   "Smart Fill Tool"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Artistic Text (Bədii Mətn)\" nədir?",
+  "options": [
+   "Nöqtə-bənöqtə dəqiq kəsim xətləri və mürəkkəb loqo konturları qurur.",
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.",
+   "Kətan üzərinə tək kliklə açılır, loqotip və başlıqlar üçün sərbəst vektor obyekti kimi çıxış edir.",
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Artistic Text hansı məqsəd üçün daha uyğundur?",
+  "options": [
+   "Loqotip və başlıqlar üçün",
+   "Çoxsətirli məqalələr üçün",
+   "Cədvəllər üçün",
+   "Rəsmlər üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Weld əməliyyatı hərflər və fiqurla bağlı nə edir?",
+  "options": [
+   "Konturları bütöv vahid formada birləşdirir",
+   "Onları ayırır",
+   "Rəngi silir",
+   "Ölçünü kiçildir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün sətirlərin həm sol, həm də sağ kənarlarını qüsursuz blok halına gətirir; poliqrafiyada ən çox işlənən formatdır.\"",
+  "options": [
+   "Create Envelope From",
+   "Full Justify (Hər iki tərəfə bərabər düzləndirmə)",
+   "Rectangle Tool (F6)",
+   "Kerning"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Shift + F4 qısayolu nə edir?",
+  "options": [
+   "Yalnız çap səhifəsini ekrana mərkəzləşdirir",
+   "Bütün obyektləri sığdırır",
+   "Sənədi bağlayır",
+   "Yeni kətan açır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Fərdi hərf markerləri\" nədir?",
+  "options": [
+   "Mətni xətt boyunca irəli və ya geri sürüşdürür.",
+   "Xəttin alt tərəfində yazılan mətnləri tərsinə çevrilməkdən xilas edir və oxunaqlı vəziyyətə gətirir.",
+   "Çoxsətirli bədii mətnlərdə sətirlərarası məsafəni (Leading) tənzimləyir.",
+   "Yalnız bircə hərfin markerini seçərək həmin hərfi digərlərindən asılı olmadan fırlatmaq, rəngini dəyişmək və ya yuxarı-aşağı sürüşdürmək mümkündür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Bitmap\" nədir?",
+  "options": [
+   "Real foto teksturasına (taxta, mərmər, parça toxuması) əsaslanan raster naxışlar.",
+   "Fraktal / Piksel Data",
+   "Yalnız iki rəngdən ibarət sadə vektor naxışlar.",
+   "Dinamik Qradiyent"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tutacaqlar eyni ox üzərində hərəkət edir, yumşaq təbii qövs təmin edir.\"",
+  "options": [
+   "Pen Tool",
+   "Symmetrical (Simmetrik Keçid)",
+   "Smooth (Yumşaq Keçid)",
+   "Bézier Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "CMYK",
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Rectangular (Düzbucaqlı)",
+   "Rəngin Ləğv Edilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Palitranın ən yuxarısındakı çarpaz xətli (X) xana\" nədir?",
+  "options": [
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir.",
+   "İnsan dərisindəki təbii qızartılar, meyvələrin üzərindəki rəng keçidləri və avtomobil səthindəki işıq qırılmaları.",
+   "Müvafiq olaraq dolğunu və ya konturu tamamilə ləğv edir (şəffaflaşdırır).",
+   "Mesh Fill (M)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Doğma Fayl Formatı (CDR)\" nədir?",
+  "options": [
+   "Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir.",
+   "Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir).",
+   "poliqrafiya, reklam istehsalı, açıq hava reklamları (outdoor advertising), lazer kəsimi və geyim/tekstil dizaynında qlobal sənaye standartı sayılan…",
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Yeni rəng vektor oxu üzərinə necə əlavə edilir?",
+  "options": [
+   "Rəngi tutub xəttin üzərinə atmaq və ya xətt üzərində iki dəfə klikləmək",
+   "Yalnız klaviaturadan yazmaq",
+   "Yalnız menyu vasitəsilə",
+   "Mümkün deyil"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətn ilə xətt arasındakı şaquli məsafəni millimetrlə aralayır.\"",
+  "options": [
+   "Distance from Path",
+   "Mirror Horizontally / Vertically",
+   "Tracking (Character Spacing)",
+   "Text Orientation"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Keçid oxu üzərindəki arzuolunmaz rəng düyününü seçib klaviaturadan Delete düyməsini sıxmaqla silinir.\"",
+  "options": [
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Yeni Rəng Əlavəsi",
+   "Rəngin Dəyişdirilməsi",
+   "Rəngin Ləğv Edilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təkrarlanan Vektor\"",
+  "options": [
+   "Uniform Fill",
+   "Texture / Bitmap",
+   "Vector Pattern",
+   "Attributes Eyedropper"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Alətlər Qutusu (Toolbox)\" nədir?",
+  "options": [
+   "Ekranın sol tərəfində yerləşən şaquli alətlər paneli.",
+   "Proqramın yuxarısında yerləşir (File, Edit, View, Layout, Object, Effects, Text, Table, Tools, Window, Help).",
+   "İnterfeysin ən aşağısında yerləşir; seçilmiş obyektin dolğu rəngini, kontur qalınlığını və kursorun cari koordinatlarını göstərir.",
+   "İş kətanı boyunca sərbəst hərəkət edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xətt üzərinə iki dəfə klikləyərək yeni nöqtə əlavə etmək və ya mövcud nöqtəni silmək.\"",
+  "options": [
+   "Contour Tool (Kontur)",
+   "Add / Delete Node",
+   "Convert Line to Curve",
+   "Bézier Tool və Pen Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Break Artistic Text Apart əmrinin qısayolu hansıdır?",
+  "options": [
+   "Ctrl + K",
+   "Ctrl + Q",
+   "Ctrl + G",
+   "Ctrl + T"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Vector Pattern",
+   "Color Eyedropper",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Pixels"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "CorelDRAW-da mətn sistemi neçə müstəqil struktur üzrə idarə olunur?",
+  "options": [
+   "İki (Artistic və Paragraph)",
+   "Üç",
+   "Bir",
+   "Dörd"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Script/Display şriftlər hansı imitasiyanı edir?",
+  "options": [
+   "Əl yazısını",
+   "Çap hərflərini",
+   "Rəqəmsal kodu",
+   "Cədvəl xətlərini"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Group (Ctrl + G) / Ungroup (Ctrl + U)\" nədir?",
+  "options": [
+   "Düz xətti qövs şəkilli dalğaya çevirmək.",
+   "Obyektləri tək bir blok halında birləşdirir və ya ayırır.",
+   "Üst və ya alt kənarları hizalayır.",
+   "Sərbəst əl cizgisi ilə eskiz çəkir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Simplify\" nədir?",
+  "options": [
+   "Üst-üstə düşən bütün görünməz daxili vektor xətlərini kəsib təmizləyir (lazer kəsimi və kəsici plotterlər üçün zəruridir).",
+   "P, L, R, T, B, C, E):.",
+   "İstənilən mürəkkəb fotoşəkli və ya vektor naxışını qapalı bir karkasın (məsələn, dairənin və ya hərfin) daxilinə kəsmədən yerləşdirir.",
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Script / Display (Xəttatlıq və Bədii şriftlər)",
+   "Bézier Tool və Pen Tool",
+   "Conical (Konusvari)",
+   "Tətbiq sahəsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız qara boyanın faiz dərəcəsi ilə (0%-100%) monoxrom tonlar yaradır.\"",
+  "options": [
+   "Grayscale",
+   "Angle (Bucaq Dərəcəsi)",
+   "RGB",
+   "Color Banding (Zolaqlanma)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "Rəng Palitrası (Color Palette)",
+   "Fərdi hərf markerləri",
+   "Shift + F2",
+   "Page Size"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Normal / Enhanced",
+   "L (Left) / R (Right)",
+   "RGB",
+   "OpenType Features"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Açıq (bağlanmamış) vektor xəttinə hansı dolğu tətbiq oluna bilər?",
+  "options": [
+   "Yalnız kontur rəngi (Outline)",
+   "Yalnız daxili dolğu (Fill)",
+   "Hər ikisi eyni dərəcədə",
+   "Heç biri"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Arxa Fon (Background)",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Vector Pattern"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Shape Recognition Level\" nədir?",
+  "options": [
+   "Nöqtələri ardıcıl qoyaraq və tutacaqları dartaraq riyazi qövslər qurur.",
+   "Yuxarı paneldən alətin tanıma həssaslığı (None, Lowest, Medium, Highest) tənzimlənir. Yüksək səviyyədə alət ən əyri cizgiləri belə dərhal nizamlı…",
+   "Tutacaqlar bir-birindən asılı olmadan hərəkət edir, kəskin künclər yaradır.",
+   "Növbəti xəttin hara gedəcəyini canlı göstərən (Preview) ən stabil konturlama alətidir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yanaşı duran iki xüsusi simvol (məsələn, \"AV\", \"To\", \"WA\") arasındakı vizual boşluğun optik tənzimlənməsidir.\"",
+  "options": [
+   "Offset",
+   "Sağ ox",
+   "Kerning",
+   "Distance from Path"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Əsas Məhsul / İllüstrasiya\" nədir?",
+  "options": [
+   "PostScript Fill",
+   "Two-Color Vector Pattern",
+   "Mesh Fill (M)",
+   "İnsan dərisindəki təbii qızartılar, meyvələrin üzərindəki rəng keçidləri və avtomobil səthindəki işıq qırılmaları."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Pen Tool",
+   "Yeni Rəng Əlavəsi",
+   "Sans-Serif (Qrotesk / Çıxıntısız şriftlər)",
+   "Aşağı ox"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Two-Color Pattern neçə rəngdən ibarətdir?",
+  "options": [
+   "İki",
+   "Üç",
+   "Dörd",
+   "Sonsuz"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Tracking (Character Spacing)",
+   "Rectangle Tool (F6)",
+   "Angle (Bucaq Dərəcəsi)",
+   "Smart Fill Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Blend Tool (Qarışdırma Keçidi)",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Offset",
+   "Texture / Bitmap"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Wireframe",
+   "Başlıq və Əsas Menyu Sətiri (Menu Bar)",
+   "Pen Tool",
+   "Mesh Fill (M)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Color Eyedropper\" nədir?",
+  "options": [
+   "Tünd qızılı (#9B7126) → Açıq sarı parıltı (#FBF5B7) → Orta qızılı (#D4AF37).",
+   "Yalnız iki rəngdən ibarət sadə vektor naxışlar.",
+   "İki və ya daha çox açıq/qapalı vektor xəttinin kəsişməsindən yaranan boşluqları dərhal aşkar edir və ora klikləndikdə müstəqil yeni rənglənmiş obyekt…",
+   "Şəklin istənilən nöqtəsindən təmiz rəng nümunəsi götürür."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Drop Shadow Tool (Kölgə Aləti)",
+   "Fountain Fill",
+   "Full Justify (Hər iki tərəfə bərabər düzləndirmə)",
+   "Wireframe"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çox uzun məsafəli degradələrdə tonlar arasında kəskin zolaqlar yarana bilər. Bunun qarşısını almaq üçün CorelDRAW-da.\"",
+  "options": [
+   "Angle (Bucaq Dərəcəsi)",
+   "Color Nodes (Rəng Düyünləri)",
+   "Color Banding (Zolaqlanma)",
+   "CMYK"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Rəng pillələri\" nədir?",
+  "options": [
+   "Tünd qızılı (#9B7126) → Açıq sarı parıltı (#FBF5B7) → Orta qızılı (#D4AF37).",
+   "Fraktal / Piksel Data",
+   "Dinamik Qradiyent",
+   "Real foto teksturasına (taxta, mərmər, parça toxuması) əsaslanan raster naxışlar."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Uniform Fill\" nədir?",
+  "options": [
+   "Təmiz Vektor Rəngi",
+   "Yalnız iki rəngdən ibarət sadə vektor naxışlar.",
+   "Künclərdən mərkəzə doğru yönələn piramidal keçid.",
+   "Müəyyən bucaq altında düz xətt boyunca keçid."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Siçanla markerlərdən tutub fırladaraq keçidin bucağını (0∘-360∘) və uzunluğunu anında dəyişmək mümkündür.\"",
+  "options": [
+   "Yeni Rəng Əlavəsi",
+   "Başlanğıc Kvadrat Marker",
+   "Dönmə və Miqyas Oxu",
+   "Rəngin Dəyişdirilməsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Blend Tool (Qarışdırma Keçidi)\" nədir?",
+  "options": [
+   "İki fərqli forma və ya rəng arasında çoxpilləli yumşaq morfinq keçidi formalaşdırır.",
+   "Üst-üstə düşən bütün görünməz daxili vektor xətlərini kəsib təmizləyir (lazer kəsimi və kəsici plotterlər üçün zəruridir).",
+   "Obyektin qat iyerarxiyasını dərhal ən önə və ya ən arxaya göndərir.",
+   "Nöqtə-bənöqtə dəqiq kəsim xətləri və mürəkkəb loqo konturları qurur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "P düyməsi (Align and Distribute) seçilmiş obyektləri hara gətirir?",
+  "options": [
+   "Səhifənin tam mərkəzinə",
+   "Sol yuxarı küncə",
+   "Sağ aşağı küncə",
+   "Əvvəlki mövqeyinə"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Düzləndirmə və Paylama (Align and Distribute - Qısayol\" nədir?",
+  "options": [
+   "P, L, R, T, B, C, E):.",
+   "Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.",
+   "Sərbəst əl cizgisi ilə eskiz çəkir.",
+   "Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üstdə duran obyektin kənarları ilə altdakı obyekti kəsir (ştamp effekti).\"",
+  "options": [
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Trim",
+   "Extrude Tool (3D Həcm)",
+   "Düzləndirmə və Paylama (Align and Distribute - Qısayol"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Normal / Enhanced\" nədir?",
+  "options": [
+   "Vektor təsvirinin veb üçün ixrac edildikdə hansı piksel kələ-kötürlüyünə düşəcəyini əvvəlcədən simulyasiya edir.",
+   "Standart vektor keyfiyyətini və antialiasing (kənar hamarlama) rejimini təmin edir.",
+   "Bütün dolğu və effektləri gizlədərək obyektləri yalnız təmiz qara karkas xətləri kimi göstərir. Minlərlə detaldan ibarət mürəkkəb xəritə və ya lazer…",
+   "Yalnız rəsmi çap səhifəsini ekrana mərkəzləşdirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "İyerarxiya və Proporsiya Balansı prinsipinə görə nə vacibdir?",
+  "options": [
+   "Şrift kütləsinin loqo ikonunun xətt qalınlığına mütənasib olması",
+   "Yalnız rəngin uyğunluğu",
+   "Yalnız ölçünün böyük olması",
+   "Fontun İngilis dilində olması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız obyektlərin üst-üstə düşən ortaq sahəsindən yeni forma yaradır.\"",
+  "options": [
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Weld",
+   "Intersect",
+   "Drop Shadow Tool (Kölgə Aləti)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Sağ ox\" nədir?",
+  "options": [
+   "Bütün söz və ya cümlə boyu simvolların bir-birindən bərabər aralanmasıdır.",
+   "Hərflər arasındakı ümumi məsafəni (Tracking) siçanla canlı dartaraq açır və ya sıxır.",
+   "Çoxsətirli bədii mətnlərdə sətirlərarası məsafəni (Leading) tənzimləyir.",
+   "Xəttin alt tərəfində yazılan mətnləri tərsinə çevrilməkdən xilas edir və oxunaqlı vəziyyətə gətirir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektin qat iyerarxiyasını dərhal ən önə və ya ən arxaya göndərir.\"",
+  "options": [
+   "T (Top) / B (Bottom)",
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Contour Tool (Kontur)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "F4 düyməsi kətanda nə edir?",
+  "options": [
+   "Yalnız seçilmiş obyekti böyüdür",
+   "Bütün mövcud obyektləri ekrana tam sığdırır",
+   "Sənədi yadda saxlayır",
+   "Yeni səhifə əlavə edir"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Pattern Fill-in neçə əsas alt növü var (Two-color, Vector, Bitmap)?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Pixels",
+   "Offset",
+   "Başlanğıc Kvadrat Marker",
+   "Transparency Tool (İnteraktiv Şəffaflıq)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Vector",
+   "Shift + F4",
+   "Rəngin Dəyişdirilməsi",
+   "Bézier Tool"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çoxsətirli bədii mətnlərdə sətirlərarası məsafəni (Leading) tənzimləyir.\"",
+  "options": [
+   "Fərdi hərf markerləri",
+   "Sağ ox",
+   "Kerning",
+   "Aşağı ox"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Crop\" nədir?",
+  "options": [
+   "Vektor obyektini fiziki olaraq iki və ya daha çox müstəqil hissəyə bölür.",
+   "Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir).",
+   "Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət…",
+   "Səhifənin və ya seçilmiş qrafikanın artıq hissələrini kəsir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Grayscale",
+   "C (Center Vertical) / E (Center Horizontal)",
+   "Kerning",
+   "Paragraph Text (Paraqraf / Abzas Mətni)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Sadə həndəsi fiquru tam redaktə olunan azad vektor obyektinə çevirən əmr hansıdır?",
+  "options": [
+   "Convert to Curves (Ctrl+Q)",
+   "Group (Ctrl+G)",
+   "Weld",
+   "Zoom to Selected"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Rəng pillələri",
+   "Dönmə və Miqyas Oxu",
+   "Symmetrical (Simmetrik Keçid)",
+   "RGB və CMYK Ziddiyyəti"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Horizontal / Vertical Scale\" nədir?",
+  "options": [
+   "Mətni müvafiq kənarlara söykəyir.",
+   "Hərflərin eninə və ya uzununa faizlə dartılması (tipoqrafik proporsiyanı pozmamaq üçün ±5% həddindən artıq tövsiyə edilmir).",
+   "Çap istehsalı üçün tətbiq olunur. Hər rəng 0%-dən 100%-ə qədər olan 4 boya komponenti (Cyan, Magenta, Yellow, Black) ilə dəqiq kodlaşdırılır.",
+   "Yalnız obyektlərin üst-üstə düşən ortaq sahəsindən yeni forma yaradır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Müvafiq olaraq dolğunu və ya konturu tamamilə ləğv edir (şəffaflaşdırır).\"",
+  "options": [
+   "Dekorativ Çərçivə / Haşiyə",
+   "Loqo və Başlıq Mətni",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana",
+   "Əsas Məhsul / İllüstrasiya"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Drawing Page\" nədir?",
+  "options": [
+   "Vektor xətlərini silərək avtomatik qapalı kontur yaradır.",
+   "Çapa və ya ixraca gedən rəsmi səhifə sərhədi.",
+   "Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət…",
+   "Ekranın sağ tərəfində yerləşir. Sol klik obyektin daxili dolğusunu (Fill), sağ klik isə xarici konturunu (Outline) rəngləyir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Yeni Rəng Əlavəsi",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Alətlər Qutusu (Toolbox)",
+   "Elliptical (Radial / Dairəvi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Knife Tool nə edir?",
+  "options": [
+   "Vektor obyektini iki və ya daha çox hissəyə bölür",
+   "Rəngi silir",
+   "Mətni yazır",
+   "Obyekti böyüdür"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qradiyentin birinci (baza) rəngini təyin edir.\"",
+  "options": [
+   "Başlanğıc Kvadrat Marker",
+   "Rəngin Dəyişdirilməsi",
+   "Son Kvadrat Marker",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "RGB rəng modelində dəyərlər hansı diapazonda olur?",
+  "options": [
+   "0-100",
+   "0-255",
+   "0-360",
+   "0-10"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "CMYK rəng modeli harada istifadə olunur?",
+  "options": [
+   "Çap istehsalında",
+   "Yalnız veb ekranlarda",
+   "Yalnız videoda",
+   "Yalnız mətn redaktəsində"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Vector Pattern",
+   "İş Prinsipi",
+   "Loqo və Başlıq Mətni"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Vector Pattern-in Bitmap Pattern-dən fərqi nədir?",
+  "options": [
+   "Nə qədər böyüdülsə də kənarları kəskin qalır",
+   "Yalnız qara-ağdır",
+   "Rəngi yoxdur",
+   "Yalnız kətan üçündür"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Weld\" nədir?",
+  "options": [
+   "Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək.",
+   "Bütün seçilmiş fiqurları vahid xarici konturda birləşdirir (bütün daxili sərhədlər silinir).",
+   "Yalnız obyektlərin üst-üstə düşən ortaq sahəsindən yeni forma yaradır.",
+   "Mətni istənilən əyri xəttin, dairənin və ya konturun üzərinə trayektoriya boyunca düzür (möhür və dairəvi loqolar üçün əsas texnika)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəkil və smart çəkmə alətlərindən istifadə, şəkil çəkməyə giriş, şəkil redaktəsi, Smart Drawing Tool və hazır fiqurlar\" mövzusuna aiddir?",
+  "options": [
+   "Two-color",
+   "Symmetrical (Simmetrik Keçid)",
+   "Spot Color (Pantone Matching System - PMS)",
+   "Smart Drawing Tool (Shift + S)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Birinci mətn çərçivəsinin eni dəyişdirildikdə zəncirdəki digər çərçivələrdə nə baş verir?",
+  "options": [
+   "Mətn avtomatik sürüşərək yenidən nizamlanır",
+   "Heç nə dəyişmir",
+   "Digər çərçivələr silinir",
+   "Rəng dəyişir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Wireframe",
+   "Sağ klik",
+   "Color Eyedropper",
+   "İş Prinsipi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "CorelDRAW-da Object menyusundan PowerClip yerləşdirmək üçün hansı yol izlənir?",
+  "options": [
+   "Object > PowerClip > Place Inside Frame",
+   "Edit > Copy",
+   "File > Export",
+   "View > Zoom"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Sol klik\" nədir?",
+  "options": [
+   "Seçilmiş obyektin daxili sahəsini (Fill) rəngləyir.",
+   "Uniform Fill (Spot Pantone)",
+   "Obyektin xarici kontur xəttini (Outline) rəngləyir.",
+   "Mesh Fill (M)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Smooth Tool\" nədir?",
+  "options": [
+   "Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir.",
+   "Yuxarı paneldən alətin tanıma həssaslığı (None, Lowest, Medium, Highest) tənzimlənir. Yüksək səviyyədə alət ən əyri cizgiləri belə dərhal nizamlı…",
+   "Nöqtələri ardıcıl qoyaraq və tutacaqları dartaraq riyazi qövslər qurur.",
+   "Forma üzərindən fırça kimi sürtərək artıq nöqtələri silir və xətti mükəmməl hamarlayır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Grayscale",
+   "Page Size",
+   "Pixels",
+   "Tracking (Character Spacing)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İş Prinsipi\" nədir?",
+  "options": [
+   "Vektor konturlarını maye kimi dartır, burur və ya maqnit kimi çəkir.",
+   "İstifadəçi kətanda əli ilə sərbəst şəkildə kobud və qeyri-dəqiq bir dairə, düzbucaqlı, üçbucaq, ox və ya ellips çəkir.",
+   "Növbəti xəttin hara gedəcəyini canlı göstərən (Preview) ən stabil konturlama alətidir.",
+   "Tanınmayan sərbəst cizgilərin kənarlarındakı qırışıqlığı avtomatik hamarlayır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kətanda çərçivə çəkilərək daxilinə yığılan, çoxsətirli böyük həcmli məqalələrin mizanlanması üçün tətbiq edilən nizamlı mühitdir.\"",
+  "options": [
+   "Knife Tool (Bıçaq)",
+   "Two-color",
+   "Paragraph Text (Paraqraf / Abzas Mətni)",
+   "Xüsusiyyətlər Paneli (Property Bar)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Polygon Tool (Y)\" nədir?",
+  "options": [
+   "Yalnız cari seçilmiş obyekti ekrana böyüdür.",
+   "Bütün dolğu və effektləri gizlədərək obyektləri yalnız təmiz qara karkas xətləri kimi göstərir. Minlərlə detaldan ibarət mürəkkəb xəritə və ya lazer…",
+   "Çoxbucaqlının nöqtələri Shape Tool (F10) ilə daxilə çəkildikdə ulduz, çiçək və ya dişli çarx formaları yaranır.",
+   "Düzbucaqlı künclərinin yuvarlaqlaşdırılması (Round), içəriyə kəsilməsi (Scalloped) və ya fassallanması (Chamfered) yuxarı Property Bar vasitəsilə…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Yeni Rəng Əlavəsi\" nədir?",
+  "options": [
+   "İki rəngin bir-birinə qarışma sərhədini (10%-90%) tənzimləyir.",
+   "Ox üzərindəki hər hansı markerə tək kliklədikdə açılan mini-palitradan yeni CMYK və ya RGB çaları seçilir.",
+   "Qradiyentin birinci (baza) rəngini təyin edir.",
+   "Ekranın sağındakı rəng palitrasından hər hansı bir rəngi siçanla tutub kətan üzərindəki vektor oxunun xətti üzərinə atmaq və ya xətt üzərində iki…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Keçidin başlanğıc, orta və son nöqtələrində yerləşən rəng markerləridir.\"",
+  "options": [
+   "Color Nodes (Rəng Düyünləri)",
+   "Yeni rəng əlavə etmək",
+   "Angle (Bucaq Dərəcəsi)",
+   "CMYK"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mesh Fill (M)\" nədir?",
+  "options": [
+   "Real foto teksturasına (taxta, mərmər, parça toxuması) əsaslanan raster naxışlar.",
+   "Bir obyektin dolğu növünü, kontur qalınlığını və effektlərini bütövlükdə kopyalayaraq digər obyektə yapışdırır.",
+   "Dinamik Düyün Toru",
+   "Mürəkkəb çoxrəngli vektor ornamentlər."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Aşağı ox",
+   "Symmetrical (Simmetrik Keçid)",
+   "CMYK",
+   "Fon Üzərindəki Ornament"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Düyünlərin tənzimlənməsi",
+   "Angle (Bucaq Dərəcəsi)",
+   "Rəng Palitrası (Color Palette)",
+   "Tətbiq sahəsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız iki rəngdən ibarət sadə vektor naxışlar.\"",
+  "options": [
+   "Color Eyedropper",
+   "Two-color",
+   "Texture / Bitmap",
+   "Mesh Fill (M)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Oxun üzərindəki markerləri kətan boyu dartaraq rəng sərhədlərini daraltmaq və ya genişləndirmək mümkündür.\"",
+  "options": [
+   "Angle (Bucaq Dərəcəsi)",
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Spot Color (Pantone Matching System - PMS)",
+   "Düyünlərin tənzimlənməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Page Size\" nədir?",
+  "options": [
+   "Dinamik paneldir. Seçilmiş alətdən və ya aktiv obyektdən asılı olaraq dəyişir (obyektin X/Y koordinatları, eni, hündürlüyü, fırlanma bucağı, kontur…",
+   "Standart formatlar (A4, A3) və ya fərdi ölçülər (mm, sm, metr, piksel).",
+   "Vektor xətlərini silərək avtomatik qapalı kontur yaradır.",
+   "İnterfeysin ən aşağısında yerləşir; seçilmiş obyektin dolğu rəngini, kontur qalınlığını və kursorun cari koordinatlarını göstərir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək.\"",
+  "options": [
+   "Extrude Tool (3D Həcm)",
+   "Cusp / Smooth / Symmetrical",
+   "T (Top) / B (Bottom)",
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Bitmap",
+   "T (Top) / B (Bottom)",
+   "Mesh Fill (M)",
+   "Color Nodes (Rəng Düyünləri)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Paraqraf mətnində sətirlər hansı panel vasitəsilə idarə olunur?",
+  "options": [
+   "Property Bar və Text Docker",
+   "Yalnız klaviatura",
+   "Yalnız Pick Tool",
+   "Yalnız rəng palitrası"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Convert to Curves əmri mətnlə bağlı nə üçün vacibdir?",
+  "options": [
+   "Şrift itkisi olmadan çapa/lazer kəsiminə hazırlamaq üçün",
+   "Mətni silmək üçün",
+   "Rəngi dəyişmək üçün",
+   "Sənədi kiçiltmək üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Səhifənin və ya seçilmiş qrafikanın artıq hissələrini kəsir.\"",
+  "options": [
+   "Alətlər Qutusu (Toolbox)",
+   "Crop",
+   "Eraser (Pozan - X)",
+   "Rəng Palitrası (Color Palette)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Full Justify düzləndirmə rejimi nə edir?",
+  "options": [
+   "Bütün sətirləri həm sol, həm sağ kənardan blok halına gətirir",
+   "Yalnız sol kənara söykəyir",
+   "Mətni mərkəzləşdirir",
+   "Mətni silir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tanınmayan sərbəst cizgilərin kənarlarındakı qırışıqlığı avtomatik hamarlayır.\"",
+  "options": [
+   "Smooth (Yumşaq Keçid)",
+   "Smear / Twirl / Attract / Repel",
+   "Shape Recognition Level",
+   "Smart Smoothing Level"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İstifadəçi kətanda əli ilə sərbəst şəkildə kobud və qeyri-dəqiq bir dairə, düzbucaqlı, üçbucaq, ox və ya ellips çəkir.\"",
+  "options": [
+   "Cusp (İti Bucaq)",
+   "Symmetrical (Simmetrik Keçid)",
+   "İş Prinsipi",
+   "Pen Tool"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Wireframe",
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Script / Display (Xəttatlıq və Bədii şriftlər)",
+   "Fərdi hərf markerləri"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Vizitkart ölçüsündən nəhəng bina fasadına qədər böyütdükdə vektor təsvirdə nə baş verir?",
+  "options": [
+   "Heç bir keyfiyyət itkisi olmur",
+   "Şəkil bulanıqlaşır",
+   "Fayl silinir",
+   "Rənglər dəyişir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Page Size",
+   "Qeyri-məhdud Miqyaslanma",
+   "Uniform Fill",
+   "Xüsusiyyətlər Paneli (Property Bar)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Fit Text To Path\" nədir?",
+  "options": [
+   "Mətni istənilən əyri xəttin, dairənin və ya konturun üzərinə trayektoriya boyunca düzür (möhür və dairəvi loqolar üçün əsas texnika).",
+   "Düz xətti qövs şəkilli dalğaya çevirmək.",
+   "Obyektin arxasına təbii, istiqamətlənmiş və ya radial yumşaq kölgə əlavə edir.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Script / Display (Xəttatlıq və Bədii şriftlər)\" nədir?",
+  "options": [
+   "Vektor obyektini fiziki olaraq iki və ya daha çox müstəqil hissəyə bölür.",
+   "Yalnız iki rəngdən ibarət sadə vektor naxışlar.",
+   "Çoxbucaqlının nöqtələri Shape Tool (F10) ilə daxilə çəkildikdə ulduz, çiçək və ya dişli çarx formaları yaranır.",
+   "Əl yazısını imitasiya edən və ya unikal dekorativ formalara malik şriftlər. Dəvətnamələr, restoran menyuları və qablaşdırma loqolarında tətbiq edilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mərkəzi oxlar üzrə bərabərləşdirir.\"",
+  "options": [
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "Weld",
+   "C (Center Vertical) / E (Center Horizontal)",
+   "Blend Tool (Qarışdırma Keçidi)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçilmiş obyektin daxili sahəsini (Fill) rəngləyir.\"",
+  "options": [
+   "Loqo və Başlıq Mətni",
+   "Əsas Məhsul / İllüstrasiya",
+   "Sol klik",
+   "Tətbiq sahəsi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "CMYK",
+   "Order (Shift + PageUp / Shift + PageDown)",
+   "Freehand Tool (F5)",
+   "Rəngin Dəyişdirilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Baseline Shift",
+   "Color Eyedropper",
+   "CorelDRAW"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Həndəsi, küncsüz və müasir kəsimlər (məsələn, Arial, Montserrat, Helvetica). Açıq hava reklamları, veb bannerlər və naviqasiya lövhələrində uzaqdan oxunaqlılığı maksimuma çatdırır.\"",
+  "options": [
+   "Color Eyedropper",
+   "Drop Shadow Tool (Kölgə Aləti)",
+   "Sans-Serif (Qrotesk / Çıxıntısız şriftlər)",
+   "Sol klik"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Xüsusiyyətlər Paneli (Property Bar) hansı xüsusiyyəti daşıyır?",
+  "options": [
+   "Dinamikdir, seçilmiş alətdən asılı olaraq dəyişir",
+   "Statikdir, heç vaxt dəyişmir",
+   "Yalnız rəng göstərir",
+   "Yalnız şrift göstərir"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Alət çəkilən cizgini dərhal analiz edir; onun həndəsi formasını tanıyır və onu riyazi baxımdan qüsursuz, hamar həndəsi fiqura çevirir.\"",
+  "options": [
+   "Bézier Tool",
+   "Smart Smoothing Level",
+   "Smear / Twirl / Attract / Repel",
+   "Avtomatik Tanıma və Düzəltmə"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "Eraser (Pozan - X)",
+   "Aşağı ox",
+   "Paragraph Text (Paraqraf / Abzas Mətni)",
+   "Sağ klik"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Standart Əmrlər Paneli (Standard Toolbar)",
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "Linear (Xətti)",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Grayscale\" nədir?",
+  "options": [
+   "Yalnız qara boyanın faiz dərəcəsi ilə (0%-100%) monoxrom tonlar yaradır.",
+   "Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir.",
+   "Mətbəədə 4 rəngin qarışığından deyil, əvvəlcədən xüsusi kimyəvi qatışıqla hazırlanan təmiz mürəkkəblərdir. Qlobal brendlərin loqotiplərində rəngin…",
+   "İki rəngin hansı məsafədə bir-birinə qarışacağını (10%-90%) tənzimləyir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Order (Shift + PageUp / Shift + PageDown)\" nədir?",
+  "options": [
+   "Düz xətti qövs şəkilli dalğaya çevirmək.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir).",
+   "Sərbəst əl cizgisi ilə eskiz çəkir.",
+   "Obyektin qat iyerarxiyasını dərhal ən önə və ya ən arxaya göndərir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Arxa Fon (Background)",
+   "Mirror Horizontally / Vertically",
+   "Extrude Tool (3D Həcm)",
+   "Palitranın ən yuxarısındakı çarpaz xətli (X) xana"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Smear/Twirl/Attract/Repel alətləri nəyi edir?",
+  "options": [
+   "Vektor konturlarını maye kimi dartır, burur, maqnit kimi çəkir",
+   "Rəngi doldurur",
+   "Mətni yazır",
+   "Cədvəl yaradır"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Attributes Eyedropper",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Simplify",
+   "Loqo və Başlıq Mətni"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Polygon Tool-un qısayolu hansıdır?",
+  "options": [
+   "Y",
+   "P",
+   "N",
+   "G"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki və ya daha çox obyekt seçildikdə yuxarı Property Bar-da xüsusi formalaşdırma düymələri aktivləşir:.\"",
+  "options": [
+   "L (Left) / R (Right)",
+   "Simplify",
+   "Bézier Tool və Pen Tool",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Eraser (Pozan - X)\" nədir?",
+  "options": [
+   "Kətanı yaxınlaşdırır/uzaqlaşdırır (F4 səhifədəki bütün obyektləri ekrana sığdırır, Shift+F4 yalnız səhifəni mərkəzə gətirir).",
+   "İnterfeysin ən aşağısında yerləşir; seçilmiş obyektin dolğu rəngini, kontur qalınlığını və kursorun cari koordinatlarını göstərir.",
+   "Sənəd açmaq, yaddaşa vermək, çap etmək, kəsmək və miqyası dəyişmək üçün sürətli qısayol düymələri.",
+   "Vektor xətlərini silərək avtomatik qapalı kontur yaradır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "CorelDRAW-da poster və ya loqo dizaynı hazırlayarkən adətən neçə dolğu növü birləşdirilə bilər?",
+  "options": [
+   "Bir neçəsi bir layihədə birləşdirilə bilər",
+   "Yalnız bir növ istifadə edilə bilər",
+   "Dolğu ümumiyyətlə istifadə olunmur",
+   "Yalnız Uniform Fill"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mürəkkəb çoxrəngli vektor ornamentlər.\"",
+  "options": [
+   "Vector",
+   "Fountain Fill",
+   "Linear (Xətti)",
+   "Conical (Konusvari)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sabit dolğu alətləri (Uniform Fill) və degradə (Fountain Fill) — əsas anlayışlar və tətbiq qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Bézier Tool",
+   "RGB",
+   "Polygon Tool (Y)",
+   "Freehand Tool (F5)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət strukturdur.\"",
+  "options": [
+   "Xüsusiyyətlər Paneli (Property Bar)",
+   "Zoom (Z)",
+   "Vəziyyət Sətiri (Status Bar)",
+   "Vektor Obyekti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Görüntü və böyütmə alətləri (Zoom və Pan), görüntünün idarə olunması, obyekt və formaların hazırlanması, formanın redaktəsi və cədvəllərdən istifadə qaydası\" mövzusuna aiddir?",
+  "options": [
+   "Bir-birini əvəz edən kəskin tünd və açıq zolaqlar qurulur",
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "Xüsusiyyətlər Paneli (Property Bar)",
+   "Normal / Enhanced"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çap istehsalı üçün tətbiq olunur. Hər rəng 0%-dən 100%-ə qədər olan 4 boya komponenti (Cyan, Magenta, Yellow, Black) ilə dəqiq kodlaşdırılır.\"",
+  "options": [
+   "Grayscale",
+   "CMYK",
+   "Color Banding (Zolaqlanma)",
+   "RGB"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Vector Pattern\" nədir?",
+  "options": [
+   "Real foto teksturasına (taxta, mərmər, parça toxuması) əsaslanan raster naxışlar.",
+   "Təkrarlanan Vektor",
+   "Təmiz Vektor Rəngi",
+   "Yalnız iki rəngdən ibarət sadə vektor naxışlar."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Vəziyyət Sətiri (Status Bar)\" nədir?",
+  "options": [
+   "İnterfeysin ən aşağısında yerləşir; seçilmiş obyektin dolğu rəngini, kontur qalınlığını və kursorun cari koordinatlarını göstərir.",
+   "Sənəd açmaq, yaddaşa vermək, çap etmək, kəsmək və miqyası dəyişmək üçün sürətli qısayol düymələri.",
+   "CorelDRAW-ın işçi formatıdır. Bütün qatları, vektor cığırlarını, mətn bloklarını və rəng profillərini tam saxlayır.",
+   "Koordinat sistemində nöqtələr (Nodes), onları birləşdirən xətlər (Segments/Paths), daxili dolğu (Fill) və xarici konturdan (Outline) ibarət…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Bézier Tool və Pen Tool",
+   "Simplify",
+   "Smooth Tool",
+   "Bitmap"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Forma və obyektlərin yaradılması, obyektlərin idarə olunması, mətn və effektlərlə işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Fit Text To Path",
+   "Avtomatik Tanıma və Düzəltmə",
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "Rectangle Tool (F6)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Mətn çərçivəyə sığmadıqda hansı işarə görünür?",
+  "options": [
+   "Qırmızı oxlu kvadrat marker",
+   "Yaşıl dairə",
+   "Sarı üçbucaq",
+   "Göy xətt"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ekranın sağındakı rəng palitrasından hər hansı bir rəngi siçanla tutub kətan üzərindəki vektor oxunun xətti üzərinə atmaq və ya xətt üzərində iki dəfə sol klikləmək kifayətdir.\"",
+  "options": [
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Yeni Rəng Əlavəsi",
+   "Son Kvadrat Marker",
+   "Rəngin Dəyişdirilməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Dönmə və Miqyas Oxu\" nədir?",
+  "options": [
+   "Siçanla markerlərdən tutub fırladaraq keçidin bucağını (0∘-360∘) və uzunluğunu anında dəyişmək mümkündür.",
+   "Keçid oxu üzərindəki arzuolunmaz rəng düyününü seçib klaviaturadan Delete düyməsini sıxmaqla silinir.",
+   "Qradiyentin birinci (baza) rəngini təyin edir.",
+   "Qradiyentin yekunlaşdığı hədəf rəngi saxlayır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətni istənilən əyri xəttin, dairənin və ya konturun üzərinə trayektoriya boyunca düzür (möhür və dairəvi loqolar üçün əsas texnika).\"",
+  "options": [
+   "Intersect",
+   "Fit Text To Path",
+   "Düzləndirmə və Paylama (Align and Distribute - Qısayol",
+   "Simplify"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Transparency Tool (İnteraktiv Şəffaflıq)\" nədir?",
+  "options": [
+   "Bütün seçilmiş fiqurları vahid xarici konturda birləşdirir (bütün daxili sərhədlər silinir).",
+   "Obyektə xətti, dairəvi və ya tam vahid şəffaflıq tətbiq edir.",
+   "P, L, R, T, B, C, E):.",
+   "Xətt üzərinə iki dəfə klikləyərək yeni nöqtə əlavə etmək və ya mövcud nöqtəni silmək."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Kerning nəyi tənzimləyir?",
+  "options": [
+   "Yanaşı iki simvol arasındakı optik boşluğu",
+   "Bütün sətirlər arasındakı məsafəni",
+   "Şriftin rəngini",
+   "Sənədin ölçüsünü"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Mesh Fill (M)",
+   "Aşağı ox"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Cusp / Smooth / Symmetrical\" nədir?",
+  "options": [
+   "Obyektin qat iyerarxiyasını dərhal ən önə və ya ən arxaya göndərir.",
+   "Nöqtənin tutacaqlarının (bığcıqlarının) kəskin künc, yumşaq axıcı keçid və ya tam bərabər simmetrik işləməsini tənzimləmək.",
+   "İstənilən mürəkkəb fotoşəkli və ya vektor naxışını qapalı bir karkasın (məsələn, dairənin və ya hərfin) daxilinə kəsmədən yerləşdirir.",
+   "Sərbəst əl cizgisi ilə eskiz çəkir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Artistik mətnlərin xüsusiyyətləri, istifadə qaydası, mətnin formatlaşdırılması, transformasiyası və əyri xətt üzrə yazı (Fit Text to Path)\" mövzusuna aiddir?",
+  "options": [
+   "Extrude Tool (3D Həcm)",
+   "Tracking (Character Spacing)",
+   "Two-color",
+   "Smooth (Yumşaq Keçid)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız bircə hərfin markerini seçərək həmin hərfi digərlərindən asılı olmadan fırlatmaq, rəngini dəyişmək və ya yuxarı-aşağı sürüşdürmək mümkündür.\"",
+  "options": [
+   "Kerning",
+   "Sağ ox",
+   "Fərdi hərf markerləri",
+   "Aşağı ox"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün dolğu və effektləri gizlədərək obyektləri yalnız təmiz qara karkas xətləri kimi göstərir. Minlərlə detaldan ibarət mürəkkəb xəritə və ya lazer kəsimi çertyojlarında…\"",
+  "options": [
+   "Wireframe",
+   "Pixels",
+   "Shift + F2",
+   "Normal / Enhanced"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)\" nədir?",
+  "options": [
+   "Obyektləri tək bir blok halında birləşdirir və ya ayırır.",
+   "Obyektə xətti, dairəvi və ya tam vahid şəffaflıq tətbiq edir.",
+   "İki və ya daha çox obyekt seçildikdə yuxarı Property Bar-da xüsusi formalaşdırma düymələri aktivləşir:.",
+   "Obyektin ətrafına və ya daxilinə doğru pilləli kənar xətləri atır (açıq hava reklamlarında və həcmli hərflərdə tətbiq edilir)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Yeni rəng əlavə etmək\" nədir?",
+  "options": [
+   "Yuxarı paneldən rənglərin birləşmə xəttindəki pilləkənli zolaqları (Banding) aradan qaldıraraq axıcı keçid təmin edir.",
+   "Rəqəmsal ekranlar və veb qrafika üçün 0-255 diapazonunda işıq dəyərləri ilə qurulur.",
+   "Keçidin başlanğıc, orta və son nöqtələrində yerləşən rəng markerləridir.",
+   "Rəng palitrasından istənilən rəngi siçanla tutub birbaşa keçid oxunun istənilən nöqtəsinə atmaq kifayətdir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında mətn alətləri ilə tanışlıq, mətnlərin xüsusiyyətləri və paraqraf (abzas) mətnlərin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Horizontal / Vertical Scale",
+   "Full Justify (Hər iki tərəfə bərabər düzləndirmə)",
+   "Serif (Antikva / Çıxıntılı şriftlər)",
+   "Add / Delete Node"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Wireframe görünüş rejimi nə üçün istifadə olunur?",
+  "options": [
+   "Bütün dolğu və effektləri gizlədib obyektləri karkas xətləri kimi göstərmək",
+   "Şəkli çap etmək",
+   "Rəngləri dəyişmək",
+   "Mətni redaktə etmək"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "Attributes Eyedropper",
+   "Aşağı ox",
+   "Smart Fill Tool",
+   "Sağ klik"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İki fərqli forma və ya rəng arasında çoxpilləli yumşaq morfinq keçidi formalaşdırır.\"",
+  "options": [
+   "Freehand Tool (F5)",
+   "Drop Shadow Tool (Kölgə Aləti)",
+   "Blend Tool (Qarışdırma Keçidi)",
+   "Weld"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Obyektə xətti, dairəvi və ya tam vahid şəffaflıq tətbiq edir.\"",
+  "options": [
+   "PowerClip Mexanizmi (Object > PowerClip > Place Inside Frame)",
+   "Bézier Tool və Pen Tool",
+   "Drop Shadow Tool (Kölgə Aləti)",
+   "Transparency Tool (İnteraktiv Şəffaflıq)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Convert Line to Curve\" nədir?",
+  "options": [
+   "Əllə çəkilmiş kobud dairə və ya düzbucaqlını dərhal ideal həndəsi formaya salır.",
+   "P, L, R, T, B, C, E):.",
+   "Sərbəst əl cizgisi ilə eskiz çəkir.",
+   "Düz xətti qövs şəkilli dalğaya çevirmək."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramına giriş, vektor qrafikasının əsas anlayışları, interfeys və əsas alətlər paneli\" mövzusuna aiddir?",
+  "options": [
+   "Əsas Məhsul / İllüstrasiya",
+   "Create Envelope From",
+   "Orta Sürüşdürücü Xətt (Midpoint Slider)",
+   "Doğma Fayl Formatı (CDR)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Fountain Fill-in Conical (Konusvari) növü hansı effekti verir?",
+  "options": [
+   "Mərkəz oxu ətrafında 360° fırlanan konus keçidi",
+   "Düz xətt boyunca keçid",
+   "Künclərdən mərkəzə keçid",
+   "Sadəcə bir rəng"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təsirli dolğu alətləri (Interactive Fill Tools) və Fountain Fill (Gradient) ilə dərinləşdirilmiş işləmə\" mövzusuna aiddir?",
+  "options": [
+   "Dönmə və Miqyas Oxu",
+   "Blend Tool (Qarışdırma Keçidi)",
+   "Drawing Page",
+   "C (Center Vertical) / E (Center Horizontal)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında mətn alətləri ilə tanışlıq, mətnlərin xüsusiyyətləri və paraqraf (abzas) mətnlərin tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "L (Left) / R (Right)",
+   "Midpoint (Orta Balans Nöqtəsi)",
+   "Two-color",
+   "Artistic Text (Bədii Mətn)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əl yazısını imitasiya edən və ya unikal dekorativ formalara malik şriftlər. Dəvətnamələr, restoran menyuları və qablaşdırma loqolarında tətbiq edilir.\"",
+  "options": [
+   "Pixels",
+   "Əsas Məhsul / İllüstrasiya",
+   "Script / Display (Xəttatlıq və Bədii şriftlər)",
+   "Başlıq və Əsas Menyu Sətiri (Menu Bar)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"CorelDRAW proqramında dolğu alətlərinə giriş, dolğu növləri və xüsusiyyətlərinin fərqləndirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Bézier Tool və Pen Tool",
+   "Elliptical (Radial / Dairəvi)",
+   "Sağ klik",
+   "Horizontal / Vertical Scale"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətn seçilir, Envelope panelindən damlalıq götürülərək əvvəlcədən çəkilmiş ixtiyari əyri qapalı fiqura kliklənir; mətn dərhal həmin fiqurun daxili formasını alır.\"",
+  "options": [
+   "Color Nodes (Rəng Düyünləri)",
+   "Left, Center, Right",
+   "Məntiqi Kəsişmə və Birləşdirmə (Shaping Bar)",
+   "Create Envelope From"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Bézier Tool nə üçün istifadə olunur?",
+  "options": [
+   "Nöqtələri ardıcıl qoyaraq riyazi qövslər qurmaq üçün",
+   "Mətn yazmaq üçün",
+   "Cədvəl qurmaq üçün",
+   "Rəng qarışdırmaq üçün"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "OpenType Features nəyi aktivləşdirir?",
+  "options": [
+   "Alternativ qlifləri, liqaturaları və bədii qıvrımları",
+   "Yalnız rəngi",
+   "Yalnız ölçünü",
+   "Yalnız kontur qalınlığını"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Dolğuların obyektlərə tətbiqi, rəng palitrası, naxış, inkişaf etmiş dolğular (Mesh Fill və PostScript Fill) və müxtəlif dolğu növlərinin bir layihədə tətbiqi\" mövzusuna aiddir?",
+  "options": [
+   "RGB",
+   "Sol klik",
+   "Simplify",
+   "Smart Fill Tool"
+  ],
+  "correct": 1
+ }
+]

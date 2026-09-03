@@ -1,8 +1,12 @@
-const QUESTIONS_PER_QUIZ = 2; // Покажем 2 случайных вопроса
+const QUESTIONS_PER_QUIZ = 10; // Покажем 10 случайных вопросов из базы
 
 // Курс определяется параметром ?course= в ссылке (по умолчанию — Kompüter operatoru)
 const COURSE_TESTS = {
-    operator: './data/operator-tests.json'
+    helpdesk: './data/helpdesk-tests.json',
+    operator: './data/operator-tests.json',
+    illustrator: './data/illustrator-tests.json',
+    photoshop: './data/photoshop-tests.json',
+    coreldraw: './data/coreldraw-tests.json'
 };
 const urlParams = new URLSearchParams(window.location.search);
 const course = urlParams.get('course') || 'operator';

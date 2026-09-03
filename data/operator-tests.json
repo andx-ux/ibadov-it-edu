@@ -1,17 +1,5002 @@
 [
-  {
-    "question": "MS Word proqramında seçilmiş mətni kopyalamaq üçün hansı qısayol istifadə olunur?",
-    "options": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + Z"],
-    "correct": 2
-  },
-  {
-    "question": "Excel-də xananı redaktə etmək üçün hansı düymə basılır?",
-    "options": ["F1", "F2", "F3", "F4"],
-    "correct": 1
-  },
-  {
-    "question": "Kompüter işə düşmür və qısa səs siqnalları (beeps) gəlir. Bu nəyi göstərir?",
-    "options": ["Monitor xarab olub", "Operativ yaddaş (RAM) problemi", "Klaviatura qoşulmayıb", "Windows düzgün yüklənməyib"],
-    "correct": 1
-  }
+ {
+  "question": "Aşağıdakılardan hansı \"Axtarış sistemləri və açar sözlər\" mövzusuna aiddir?",
+  "options": [
+   "After Previous (Əvvəlkindən sonra)",
+   "Addım 4",
+   "Kompüter adı ilə giriş",
+   "Stripper"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellekt nəticələrinin etibarlılığı\" mövzusuna aiddir?",
+  "options": [
+   "1-ci Addım",
+   "Dynamic Content (Dinamik Məzmun)",
+   "Update entire table",
+   "Link Yoxlaması"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"ipconfig /flushdns\" nədir?",
+  "options": [
+   "Ping request could not find host google.com.",
+   "Əməliyyat sisteminin yaddaşında toplanmış köhnəlmiş DNS keş məlumatlarını tamamilə təmizləyir.",
+   "Standart olaraq 32 bayt həcmində paket göndərilir.",
+   "Ctrl + C basılana qədər fasiləsiz olaraq daimi ping göndərir (xəttin stabilliyini uzun müddət izləmək üçün)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"4K/8K 144-240 Hz\"",
+  "options": [
+   "İnformasiya və Periferiya Kabelləri",
+   "Əsas Monitor",
+   "DisplayPort 1.4 / 2.0",
+   "Klaviatura / Siçan"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter qurğularının texniki xidməti və profilaktik baxış qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Güc kabelinin çıxarılması",
+   "Printer Seçimi (Printer Selection)",
+   "Drive Letter",
+   "Diaqramın Yaradılması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Aşağı sağ künc\"",
+  "options": [
+   "Kəsmə (Cut — Ctrl + X)",
+   "Miqyas İdarəedicisi (Zoom Slider)",
+   "File (Fayl / Backstage View)",
+   "Vəziyyət Sətri (Status Bar)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"=A2 / B2 (B2 boşdur → #DIV/0!)\" nədir?",
+  "options": [
+   "Ən axırda yazılır: (B2:B50; \"Kredit\"; D2:D50)",
+   "=IFERROR(B2 * C2; 0)",
+   "Division by Zero (Sıfıra bölmə)",
+   "=IFERROR(A2 / B2; \"-\")"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şifrələnməmiş protokoldur. İstifadəçinin daxil etdiyi şifrələr və kart məlumatları açıq mətn şəklində şəbəkədən ötürülür və kənar şəxslər tərəfindən asanlıqla oxuna bilər…\"",
+  "options": [
+   "Qıfıl İkonu (Padlock)",
+   "HTTP (Hypertext Transfer Protocol)",
+   "Mürəkkəb Şifrə Siyasəti",
+   "Şifrə Menecerləri"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Monitor ekranındakı təsvirlərin formalaşdırılması və mürəkkəb qrafik əməliyyatların emalı üçün nəzərdə tutulmuş qurğudur (daxili inteqrasiya olunmuş və ya ayrıca diskret şəkildə…\"",
+  "options": [
+   "Videokart (GPU — Graphics Processing Unit)",
+   "Operativ Yaddaş (RAM — Random Access Memory)",
+   "Soyutma Sistemi (Cooling System)",
+   "Masaüstü Kompüter (Desktop PC / Sistem Bloku)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Cari xananın soluna və ya sağına yeni sütun daxil edir.\"",
+  "options": [
+   "Merge Cells",
+   "Insert Left / Right",
+   "Xana Daxili Düzləndirmə (Alignment)",
+   "Sətir Əlavə Etmək"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"TRIM (BOŞLUQLARI SİL)\" nədir?",
+  "options": [
+   "AZ9941234567",
+   "=UPPER(mətn)",
+   "Mətnin müəyyən edilmiş başlanğıc mövqeyindən etibarən göstərilən sayda simvolu çıxarır:.",
+   "=TRIM(mətn)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"By Category (Kateqoriya üzrə)\"",
+  "options": [
+   "Animation Painter",
+   "Standart Menyu Seçimi",
+   "Mətn Qutusu (Text)",
+   "Sütunlu Diaqram"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnternetdə məlumat axtarışı üsulları və internet mənbələrinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Açıq İcma və Bloq Resursları (Forumlar, Sosial Şəbəkələr)",
+   "Mətni Cədvələ Çevir (Convert Text to Table)",
+   "Fayl adlarının gizlənməsi",
+   "Test Çapı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Milyardlarla mətn parametri əsasında təlimlənmiş, təbii dili anlayan və generasiya edən neyron şəbəkələrdir.\"",
+  "options": [
+   "Böyük Dil Modelləri (LLM)",
+   "Generativ Süni İntellekt (GenAI)",
+   "2. Profil Qeydiyyatı",
+   "Rəsmi Ünvanın Yoxlanılması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Fərdi Məlumatlar\" nədir?",
+  "options": [
+   "Əgər real hadisə və ya mətn üzrə layihə hazırlanmalıdırsa, mətndəki bütün xüsusi adlar və rəqəmlər şərti simvollarla əvəzlənməlidir (Məsələn:…",
+   "Şirkətin daxili büdcəsi, bank hesab nömrələri",
+   "FİN kod, şəxsiyyət vəsiqəsi nömrəsi, şəxsi telefonlar",
+   "Modelin təqdim etdiyi mətnlərdə ayrı-seçkilik elementlərini müəyyən etmək."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"NVIDIA / AMD Driver\"",
+  "options": [
+   "Diaqnostika Utiliti",
+   "Qrafik Drayveri",
+   "İnzibatçı Hüququ ilə Başlatma",
+   "Metod 2"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Endirmənin Bloklanması (Block Download)\" nədir?",
+  "options": [
+   "İstifadəçiyə sənədi yalnız brauzerdə oxumaq icazəsi verilir, onun yerli kompüterə köçürülməsi qadağan olunur.",
+   "Keçid yalnız qeyd olunan korporativ e-poçt ünvanı üçün aktivləşir; başqalarına yönləndirildikdə açılmır.",
+   "Bulud panelində «Yeni» (New) → «Qovluq» (Folder) əmri ilə struktur formalaşdırılır.",
+   "Virtual server, şəbəkə və fiziki disk həcminin icarəsi."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təhlükəsiz internetdən istifadə qaydaları, zərərli proqramlar və antivirus mühafizəsi\" mövzusuna aiddir?",
+  "options": [
+   "Ehtiyat Nüsxələmə (Backup)",
+   "Standard / Typical",
+   "EFS (Encrypting File System)",
+   "Mətn Daxil Edilməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Naqillər tələb olunan rəng ardıcıllığı ilə (məsələn, T568B) soldan sağa yan-yana sıx düzülür.\"",
+  "options": [
+   "Cütlük 3",
+   "Konnektora Daxil Edilmə",
+   "Standarta Uyğun Düzülüş",
+   "Stripper"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya təhlükəsizliyi anlayışı, təhlükəsiz parollar və istifadəçi hesablarının tənzimlənməsi\" mövzusuna aiddir?",
+  "options": [
+   "Səs yoxdur və kulerlər fırlanmır",
+   "Xüsusi Yapışdırma (Paste Special)",
+   "Qonaq Hesablarının Deaktiv Edilməsi",
+   "Yalnız Baxış (Viewer)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Radiator qabırğalarının keçəl təbəqə ilə örtülməsi\"",
+  "options": [
+   "Nəmlik və Qısaqapanma",
+   "Termoizolyasiya Qatı",
+   "İzopropil Spirti",
+   "Mərhələ 2"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Drayver Məlumatları\" nədir?",
+  "options": [
+   "USB Type-B kabelini qoşmaq",
+   "2.4 GHz / 5 GHz Simsiz radio dalğaları",
+   "Kartricin fotonağarası (Drum) cızılıb və ya tullantı qabı dolub",
+   "Səhifənin yuxarısında drayverin adı, port nömrəsi (USB001 və ya IP) və mühit parametrləri çap olunur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Slaydlararası keçid effektləri və zamanlama\" mövzusuna aiddir?",
+  "options": [
+   "Write",
+   "Qarışıq Təqdimat",
+   "Köçürmə (Copy — Ctrl + C)",
+   "Tətbiqi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Collate\" nədir?",
+  "options": [
+   "References → Table of Contents",
+   "Collated (1,2,3)",
+   "1-ci dərəcəli əsas bölmə",
+   "1-Sided / 2-Sided"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sıxılma aparmır, yalnız çoxlu faylı vahid qovluq kimi birləşdirir (ən sürətlisidir).\"",
+  "options": [
+   "Extract Here",
+   "Extract to \"Qovluq_adı/\"",
+   "Store (Yadda saxlamaq)",
+   ".7z (7-Zip)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Metod 3\" nədir?",
+  "options": [
+   "Qıfıllı SATA 3.0 kabeli",
+   "SATA şleyflərindəki zəif kontakt informasiya paketlərinin itməsinə və diskin fasiləsiz təkrar sorğular göndərərək sistemi dondurmasına yol açır.",
+   "İncə iynə / Xüsusi pin ekstraktoru",
+   "Multimetr İlə Fiziki Ölçmə:."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Struktur və Məntiqi Bütövlüyün Təminatı:.\"",
+  "options": [
+   "Mərhələ 3",
+   "Mərhələ 1",
+   "Qərəzsizlik (Obyektivlik)",
+   "Dil və Üslub"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya daşıyıcıları, yaddaş qurğuları və məlumatların köçürülməsi qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Sintaksis",
+   "NTFS (New Technology File System)",
+   "List (Siyahı)",
+   "Əlçatanlıq (Availability)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"PaaS (Platform as a Service)\" nədir?",
+  "options": [
+   "Tətbiqlərin yaradılması və idarə edilməsi üçün mühit.",
+   "İstifadəçiyə sənədi yalnız brauzerdə oxumaq icazəsi verilir, onun yerli kompüterə köçürülməsi qadağan olunur.",
+   "2026_Vergi_Beyannameleri",
+   "Linkə daxil olarkən əlavə təhlükəsizlik parolu tələb edilir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəkil mətnin üzərində sərbəst üzür və altındakı yazını örtür.\"",
+  "options": [
+   "Behind Text (Mətnin arxasında)",
+   "Tight (Sıx)",
+   "In Front of Text (Mətnin önündə)",
+   "Crop (Kəsmə)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Qeydlər Bölməsi (Notes Pane)\" nədir?",
+  "options": [
+   "Əsas slaydın altında",
+   "Başlıq şrifti (məs: Trebuchet MS) və əsas mətn şriftinin (məs: Calibri) harmonik vəhdəti.",
+   "Açıq rənglər (90-100% parlaqlıq)",
+   "Design → Slide Size"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bir cihazda (məsələn, ofis kompüterində) edilən dəyişiklik dərhal digər qoşulmuş cihazlarda (noutbuk, planşet) yenilənir.\"",
+  "options": [
+   "Yalnız Baxış (Viewer / Read-only)",
+   "Redaktor (Editor / Full Control)",
+   "Endirmənin Bloklanması (Block Download)",
+   "Avtomatik Sinxronizasiya"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətn axtarışı (Ctrl + F)\"",
+  "options": [
+   "Pages",
+   "Results",
+   "Header",
+   "Headings (Başlıqlar Naviqasiyası)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Multimedia, interaktivlik və nümayiş rejimləri\" mövzusuna aiddir?",
+  "options": [
+   "İnterfeys Dəstəyi",
+   "Play in Full Screen",
+   "Switch Row/Column",
+   "All Borders (Bütün Sərhədlər)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"ATX 24-Pin Qida Kabeli\" nədir?",
+  "options": [
+   "Korpusun daxilində kabelin gərilməsi",
+   "Qıfıllı SATA 3.0 kabeli",
+   "Multimetr İlə Fiziki Ölçmə:.",
+   "Qida blokundan çıxan +12V xətti ana plataya və ya videokarta çatana qədər +11.2V və ya daha aşağı səviyyəyə enir ki, bu da komponentlərin qəfil…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Bulud yaddaşında məlumatların saxlanılması, fayl mübadiləsi və onlayn əməkdaşlıq prinsipləri\" mövzusuna aiddir?",
+  "options": [
+   "Switch → Switch",
+   "Lazer Printerlər",
+   "Konseptual sual",
+   "Wi-Fi 5 (802.11ac)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Print All Pages\" nədir?",
+  "options": [
+   "Collated (1,2,3)",
+   "1-ci dərəcəli əsas bölmə",
+   "Bütün sənədi çap edir.",
+   "1, 2, 4, 6 Pages per sheet"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Saxlanc Daşıyıcılarının (SSD/HDD) Sökülməsi:.\"",
+  "options": [
+   "Mərhələ 5",
+   "Əməliyyat Sisteminin Açılışı",
+   "Elektrostatik Boşalmadan (ESD) Mühafizə",
+   "Mərhələ 6"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"USB Flash / SD Kart\" nədir?",
+  "options": [
+   "Böyük həcmlərdə (4–16 TB) daha ucuz",
+   "Xarici / Portativ",
+   "HDD daxilində dəqiqədə 5400 və ya 7200 dövr edən maqnit disklər və onların üzərində hərəkət edən oxuma-yazma iynələri yerləşir. SSD-də isə heç bir…",
+   "Aşağı / Orta (~150 MB/s)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətni bucaq altında (45∘) və ya şaquli (90∘) yazır.\"",
+  "options": [
+   "Thick Outside",
+   "Middle Align + Center",
+   "Şaquli Düzləndirmə (Vertical Alignment)",
+   "Orientation (Mətn Səmti)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Slaydın Gizlədilməsi (Hide Slide)\" nədir?",
+  "options": [
+   "Shift + F5",
+   "«Insert → Shapes» menyusunun ən altında yerləşən xüsusi hazır naviqasiya ikonlarıdır (Ev işarəsi, İrəli, Geri, Məlumat). Bu düymələr slayda…",
+   "Mahnı və ya səs yazısı bitdikdə onu yenidən başa qaytarır.",
+   "Müəyyən slaydları silmədən ümumi nümayiş siyahısından çıxarır; bu slaydlar yalnız ehtiyac olduqda hiperkeçid vasitəsilə açıla bilər."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ənənəvi monitorlar parlaqlığı azaltmaq üçün işıqdiodları saniyədə yüzlərlə dəfə yandırıb-söndürür (ŞİM — Pulse Width Modulation). İnsan gözü bu titrəməni birbaşa görməsə də, beyin…\"",
+  "options": [
+   "Ekran Ölçüsü (Diaqonal)",
+   "TN (+Film)",
+   "Flicker-Free Texnologiyası",
+   "Mat (Anti-Glare) Örtük"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"İnformasiya və Periferiya Kabelləri\" nədir?",
+  "options": [
+   "Ən geniş yayılmış rəqəmsal standartdır. Tək bir kabel daxilində həm yüksək keyfiyyətli təsviri (Full HD, 4K, 8K), həm də çoxkanallı səs siqnalını…",
+   "Bükülmüş cütlük (UTP / STP Cat 5e / Cat 6)",
+   "USB 2.0 / 3.0 Type-A/B",
+   "USB Type-A/B, USB Type-C, Thunderbolt"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Picture Format → Crop\"",
+  "options": [
+   "Fiqur daxilinə yazı",
+   "Ölçüləndirmə və Kəsmə (Crop)",
+   "Crop (Kəsmə)",
+   "This Device (Bu cihazdan)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"8 Ədəd Pin\" nədir?",
+  "options": [
+   "Maksimum 3 sm",
+   "UTP kabelinin xarici PVC qatını daxildəki 8 naqilin nazik izolyasiyasını zədələmədən dairəvi kəsən alət.",
+   "Qızıl örtüklü bürünc kontaktlar",
+   "Naqillərin uclarını düz bucaq altında (90∘) kəsmək"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Layout → Delete Rows / Columns\"",
+  "options": [
+   "Cədvəl Çək (Draw Table)",
+   "Sətir / Sütun Silmək",
+   "Sütun Əlavə Etmək",
+   "Cədvəl Əlavə Et (Insert Table)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"VGA\" nədir?",
+  "options": [
+   "Standart 220V IEC C13 kabeli, Noutbuk adapter kabelləri",
+   "Peşəkar qrafik işləri və yüksək kadr yenilənmə tezliyi (144 Hz və daha yuxarı) tələb edən monitorlar üçün əsas standartdır. Konnektorunda xüsusi…",
+   "1920×1080 (Analogiya)",
+   "Bükülmüş cütlük (UTP / STP Cat 5e / Cat 6)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Məlumat toplanan və ya form doldurulan saytlarda ünvan sətrində HTTPS protokolunun və qıfıl nişanının olmasına diqqət yetirilməlidir.\"",
+  "options": [
+   "Rəsmi Dövlət və Normativ Portalları (.gov, .gov.az)",
+   "Təhlükəsiz Bağlantıların Yoxlanılması",
+   "Qeyri-kommersiya",
+   "Açıq İcma və Bloq Resursları (Forumlar, Sosial Şəbəkələr)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nəticənin hansı vizual və ya struktur formada təqdim olunacağını göstərir.\"",
+  "options": [
+   "Mətnin Xülasəsi (Summary)",
+   "Rəsmi Məktub Tərtibi",
+   "Məhdudiyyətlər (Constraints)",
+   "Çıxış Formatı (Output Format)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Yalnız Baxış (Viewer / Read-only)\" nədir?",
+  "options": [
+   "2026_Vergi_Beyannameleri",
+   "Qarşı tərəf faylı oxuya bilər, lakin mətndə heç bir dəyişiklik edə və ya silə bilməz.",
+   "Bulud panelində «Yeni» (New) → «Qovluq» (Folder) əmri ilə struktur formalaşdırılır.",
+   "Əsas mətni pozmadan sənədin kənarlarına rəy və düzəliş təklifləri yaza bilər."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Baza statistik və riyazi funksiyalar kompleksi\" mövzusuna aiddir?",
+  "options": [
+   "Kontrast Nisbəti",
+   "Kompüter adı ilə giriş",
+   "PRODUCT (HASİL)",
+   "Apply to All"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Aşağı (Riskli)\"",
+  "options": [
+   "Linkə Sahib Olan Hər Kəs",
+   "Şərhçi (Commenter)",
+   "Yalnız Baxış (Viewer / Read-only)",
+   "Veb İnterfeys və Tətbiq Üzərindən Qovluq Açılması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"40–60 dəqiqə\"",
+  "options": [
+   "Çoxfaktorlu Autentifikasiyanın (2FA) Aktivləşdirilməsi",
+   "Formatlaşdırma və Üslub Tənzimləməsi",
+   "Elektron Cədvəllərlə İş və Formulların Qurulması",
+   "Xarici dildə sənədin ilkin tərcüməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən kiçik ədəddən ən böyüyə doğru artma sırası ilə.\"",
+  "options": [
+   "Sort Oldest to Newest",
+   "Sort Newest to Oldest",
+   "Sort Smallest to Largest",
+   "Sort Largest to Smallest"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   "Çap Sürəti",
+   "Prosessor və Termopasta Tətbiqi",
+   "AutoFit to Window",
+   "Parlaqlıq Göstəricisi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Video Format & Playback\" nədir?",
+  "options": [
+   "Video seçildikdə açılan «Playback» menyusundan videonun başlanğıc və son nöqtəsini kəsmək («Trim Video»), videonun avtomatik («Automatically») və ya…",
+   "Müəyyən slaydları silmədən ümumi nümayiş siyahısından çıxarır; bu slaydlar yalnız ehtiyac olduqda hiperkeçid vasitəsilə açıla bilər.",
+   "Bütün slayd keçidlərini, animasiyaları, fon musiqisini və qeydə alınmış səs izahatlarını birləşdirərək tam avtomatik.",
+   "Ctrl + K → Sənəd içi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Brauzerdə çoxlu sayda ağır tablar və ya yaddaş sızması\"",
+  "options": [
+   "RAM 95% -dən yuxarıdır",
+   "Processes (Proseslər)",
+   "Startup Apps Meneceri",
+   "Storage Sense (Yaddaş Hissi)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"T568A və T568B naqillənmə standartları\" mövzusuna aiddir?",
+  "options": [
+   "Collate",
+   "Gözlə, Qulaq As və Toxun (Duyğu Analizi)",
+   "Pin 3",
+   "Full Control (Tam Nəzarət)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çox çətin (Bütün xətt yoxlanmalıdır)\"",
+  "options": [
+   "Qəzanın Tapılması",
+   "Kolliziya (Toqquşma) Riski",
+   "Fiziki Rabitə Xətlərinin Çəkilməsi",
+   "Müasir Tətbiq Statusu"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Şrift Rəngi (Font Color)\" nədir?",
+  "options": [
+   "Əsas mətn üçün avtomatik qara, tünd fonlu başlıqlar üçün ağ rəng təyin edilir.",
+   "Home → Format → Column Width",
+   "Hündür sətirlərdə yazının xananın yuxarısında («Top Align»), tən ortasında («Middle Align») və ya aşağısında («Bottom Align») durmasını təyin edir.…",
+   "Seçilmiş xanaları birləşdirir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Word mühiti, interfeys elementləri və Ribbon lenti\" mövzusuna aiddir?",
+  "options": [
+   "M.2 Slotu (Key-M)",
+   "Riyazi Bonus",
+   "Debug LED Kodları",
+   "Bir sözün seçilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Animation Painter\" nədir?",
+  "options": [
+   "Diaqrama giriş animasiyası verildikdə, «Effect Options →.",
+   "Animations → Animation Painter",
+   "Əvvəlki animasiya bitən kimi heç bir klik tələb etmədən avtomatik işə düşür (avtomatik zəncir effekti).",
+   "Animations → Add Animation"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nasaz komponentin birbaşa adı (DRAM/VGA)\"",
+  "options": [
+   "Mərhələ 5",
+   "Q-LED İşıqları",
+   "Təkrarlanan uzun siqnallar",
+   "Daxili Dinamik (Buzzer)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Main\" nədir?",
+  "options": [
+   "Sistem informasiyası",
+   "Daimi yaddaş daşıyıcılarının iş rejimi; müasir SSD-lərin tam sürətlə işləməsi üçün rejim mütləq.",
+   "MBR (Master Boot Record) formatı; maksimal disk həcmi 2.2 TB, maksimum 4 əsas bölmə.",
+   "Aparat texnologiyaları"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"PC → Router\" nədir?",
+  "options": [
+   "Eynitipli qurğular",
+   "Eynitipli məntiqi səviyyə",
+   "Qoşulmuş kabelin düz və ya çarpaz olmasından asılı olmayaraq, cihazın portu daxildəki ötürücü və qəbuledici kontaktların yerini mikroprosessor…",
+   "Pin 2 (Narıncı)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Formatı Köçürmək\" nədir?",
+  "options": [
+   "İş sahəsinin yuxarı və solunda",
+   "Abzas daxilində üç dəfə ardıcıl kliklənir (Triple Click).",
+   "Ctrl + Shift + C / Ctrl + Shift + V",
+   "Sənədə cədvəllər, təsvirlər, fiqurlar, nömrələnmə, yuxarı/aşağı kolontitullar (Header & Footer) və riyazi düsturlar daxil edir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ayrı-ayrı, bir-birindən təcrid olunmuş xanaları və ya arqumentləri ayırır. Məsələn, A1; A5; C10 — yalnız bu 3 xananı hesaba qatır.\"",
+  "options": [
+   "COUNTA",
+   "COUNTBLANK (BOŞ XANA SAYI)",
+   "Nöqtəli vergül (;)",
+   "PRODUCT (HASİL)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"5 GHz Tezliyi\" nədir?",
+  "options": [
+   "TKIP (Temporal Key Integrity)",
+   "SSID seçimi + PSK Parol",
+   "Hər bir işçi mərkəzi RADIUS autentifikasiya serveri vasitəsilə öz fərdi istifadəçi adı və şifrəsi ilə şəbəkəyə daxil olur (iri korporasiyalar və…",
+   "Yüksək sürətli, qısa məsafəli zolaq"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Switch → Switch\" nədir?",
+  "options": [
+   "Pin 1 (Ağ-Narıncı)",
+   "1-ci pin 3-cü pinlə, 2-ci pin isə 6-cı pinlə çarpazlaşır (1↔3, 2↔6).",
+   "Eynitipli qurğular",
+   "Müxtəlif funksiyalı (."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Köhnə analoq video standartıdır. Səs daşımır, kənar elektromaqnit sahələrindən təsirlənir və Full HD-dən yuxarı icazələrdə keyfiyyət itkisi yaradır.\"",
+  "options": [
+   "Xarici SSD / Sürətli Fleşkart",
+   "Klaviatura / Siçan",
+   "VGA (D-Sub 15-pin)",
+   "Qida (Elektrik) Kabelləri"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsas Terminlərin Təyini:.\"",
+  "options": [
+   "Addım 1",
+   "Format Göstəricisi",
+   "Spesifik İndekslər",
+   "Addım 2"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"250 – 350 Nit (cd/m2)\"",
+  "options": [
+   "3D Printerlər",
+   "Parlaqlıq Göstəricisi",
+   "Təkrarlama (Duplicate)",
+   "Plotter (Qrafikçəkən)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Multimedia, interaktivlik və nümayiş rejimləri\" mövzusuna aiddir?",
+  "options": [
+   "Şırnaqlı (Inkjet) Printerlər",
+   "Quick Scan",
+   "Hide During Show",
+   "Mənbənin Nüfuzu (Müəlliflik)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Forget Network\" nədir?",
+  "options": [
+   "Ruterin simsiz modulunun fiziki MAC ünvanı",
+   "Wi-Fi → Manage known networks → Forget",
+   "Noutbukun daxilində və ya fərdi kompüterə USB vasitəsilə qoşulmuş daxili/xarici qəbuledici moduldur.",
+   "Simsiz şəbəkənin adı"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Göstərilən açar sözlərdən ən azı birinin nəticədə olmasını tələb edir.\"",
+  "options": [
+   "OR",
+   "Xəta Kodlarının Daxil Edilməsi",
+   "Addım 1",
+   "Format Göstəricisi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya anlayışı, informasiya növləri və ölçü vahidlərinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Private (Ev / Ofis)",
+   "Kabel Soyucu (Stripper)",
+   "WLAN / Wi-Fi",
+   "Rəqəmsal (Ədədi) informasiya"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fiksasiya + Sıxılmış hava\"",
+  "options": [
+   "CPU / GPU Kulerləri",
+   "Termoizolyasiya Qatı",
+   "Pərlərin Ağırlaşması",
+   "Mərhələ 2"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"WLAN\" nədir?",
+  "options": [
+   "Wireless Local Area Network (Simsiz Lokal Şəbəkə)",
+   "Çox aşağı (Qısa məsafə və qorunan kabellər).",
+   "Yalnız 5 GHz",
+   "Dalğa uzunluğu böyükdür, divarları yaxşı keçir, lakin maksimal sürət aşağıdır və tez-tez digər cihazlarla (Bluetooth, mikrodalğalı sobalar) kəsişir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Printerin kompüterə qoşulması və test çapının həyata keçirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Fayl və Arxivlərin Şifrələnməsi",
+   "Tam Silmə (Permanent Delete)",
+   "Troyanlar (Trojan Horses)",
+   "Mərhələ 4"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Çoxsəviyyəli Siyahılar (Multilevel Lists)\" nədir?",
+  "options": [
+   "Insert → Page Number",
+   "Sağ klik → Restart at 1",
+   "Shift + Tab",
+   "Əsas maddələrin daxilində alt bəndlər pilləli şəkildə sıralanır (1., 1.1., 1.1.1.)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Uydurma maddə nömrəsi və ya köhnə tarix\"",
+  "options": [
+   "Şəbəkə Rekvizitləri",
+   "Dezinformasiyadan İmtina",
+   "Faktiki Məlumat",
+   "Kommersiya və Xidməti Sirlərin Qorunması"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Brauzer Təhlükəsizliyi\" nədir?",
+  "options": [
+   "Şifrə + Mobil Təsdiq Kodu",
+   "Brauzerin daxili keş və kukiləri (Cookies) mütəmadi təmizlənməli, şübhəli brauzer uzantıları (Extensions) quraşdırılmamalıdır.",
+   "Mobil SMS mesajları",
+   "Şifrələri şifrələnmiş bazada saxlamaq"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sadə və mürəkkəb şərtli hesablamalar\" mövzusuna aiddir?",
+  "options": [
+   "İşçi Stansiya",
+   "In Front of Text (Mətnin önündə)",
+   "IF + AND",
+   "Matrix / Pyramid"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sənədin bütün vərəqlərini kiçik eskizlər (thumbnails) şəklində göstərir.\"",
+  "options": [
+   "Page Number",
+   "Pages (Səhifələr Üzrə Baxış)",
+   "Header",
+   "Çoxsəviyyəli Siyahılar (Multilevel Lists)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Format Painter\" nədir?",
+  "options": [
+   "Xüsusi rekvizitləri və imza yerlərini göstərmək üçün seçilir.",
+   "Mətnin hündürlüyü xüsusi tipoqrafik nöqtələrlə (Point — pt) ölçülür (1 pt≈0.352 mm). Rəsmi kargüzarlıqda əsas mətn üçün.",
+   "Ctrl + Shift + C / V",
+   "Justify (Hər iki tərəfə)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Word mühiti, interfeys elementləri və Ribbon lenti\" mövzusuna aiddir?",
+  "options": [
+   "Miqyas İdarəedicisi (Zoom Slider)",
+   "Alətin Qəlib Quruluşu",
+   "PC → PC",
+   "Bərpa qeydi (WinRAR)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Addım 4\" nədir?",
+  "options": [
+   "kargüzarlıq təlimatı 2026 pdf",
+   "əmək məcəlləsi maddə 70",
+   "Açar sözün məhz səhifənin rəsmi başlığında (Title) yer almasını təmin edir.",
+   "Mənbənin Dəqiqləşdirilməsi:."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   "Çap olunmayan Gizli Simvolların Yoxlanması (Ctrl + Shift + 8 və ya ¶)",
+   "Şəbəkə Hissəsi (Network ID)",
+   "Users (İstifadəçilər)",
+   "Kulerlərin fırlanması"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS PowerPoint mühiti, slayd strukturu və interfeysi\" mövzusuna aiddir?",
+  "options": [
+   "Mərhələ 3",
+   "Themes (Temalar)",
+   "Wrap Text",
+   "Mərhələ 1"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əməliyyat sisteminin imkanlarını genişləndirən, disklərin təmizlənməsi, temperatur monitorinqi, məlumatların ehtiyat nüsxələnməsi (backup) və arxivləşdirilməsi kimi xüsusi texniki…\"",
+  "options": [
+   "Utilitlər (Utilities)",
+   "Arxitektura Uyğunluğu",
+   "Metod 2",
+   "Windows Settings"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Ana platanın xarici və daxili interfeysləri, portların müəyyən edilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Page Break (Ctrl + Enter)",
+   "Generativ Süni İntellekt (GenAI)",
+   "Hide During Show (Nümayiş zamanı gizlət)",
+   "DIMM Yuvaları"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Home (Əsas)\" nədir?",
+  "options": [
+   "Ctrl + C / Ctrl + V",
+   "Info, Save As, Print, Export",
+   "Gündəlik ən çox istifadə olunan redaktə alətlərini toplayır: Mübadilə buferi (Clipboard), Şrift (Font), Abzas (Paragraph), Stillər (Styles) və…",
+   "Proofing, Language, Comments"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Miniatür vərəqlər\"",
+  "options": [
+   "Results (Axtarış Nəticələri)",
+   "Pages (Səhifələr Üzrə Baxış)",
+   "Pages",
+   "Nömrələnmiş Siyahılar (Numbering Lists)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təkrarlanan adlar\"",
+  "options": [
+   "Top 10%",
+   "Chart Title (Diaqramın Başlığı)",
+   "Stil və Rəng Seçimi (Chart Styles)",
+   "Duplicate Values"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Klaviaturada basılan hər bir düyməni, kredit kartı rekvizitlərini və parolları gizli qeydə alaraq kənara göndərir.\"",
+  "options": [
+   "Fidyə Proqramları (Ransomware / Qəsbkarlar)",
+   "Real-Time Protection",
+   "Casus Proqramlar (Spyware / Keylogger)",
+   "Disk Cleanup"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter kabellərinin növləri, təyinatı və qurğuların portlara düzgün qoşulması qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Sənədi Saxlamaq",
+   "On Click",
+   "DisplayPort 1.4 / 2.0",
+   "NTFS (New Tech FS)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Axtarış sistemləri ilə axtarış\" nədir?",
+  "options": [
+   "Məlumat toplanan və ya form doldurulan saytlarda ünvan sətrində HTTPS protokolunun və qıfıl nişanının olmasına diqqət yetirilməlidir.",
+   "Qanunvericilik aktları, dövlət qərarları, sərəncamlar və rəsmi statistik hesabatlar üçün ən yüksək hüquqi qüvvəyə malik ilkin mənbələrdir. Məlumatlar…",
+   "Şirkətlərin məhsul və xidmətləri, texniki təlimatları və avadanlıq bələdçiləri üçün istifadə olunur. Məlumatlarda marketinq və reklam yönümlülüyü…",
+   "Açar sözlər və məntiqi ifadələr axtarış mühərriklərinə (Google, Bing və s.) daxil edilərək nəticələr süzgəcdən keçirilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Excel mühiti, iş kitabı, iş vərəqi və xana ünvanlaması\" mövzusuna aiddir?",
+  "options": [
+   "Düstur Sətri (Formula Bar)",
+   "Wi-Fi 6 (802.11ax)",
+   "Ölçüləndirmə və Kəsmə (Crop)",
+   "Strukturlaşdırılmış kataloqlar üzrə axtarış"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Settings → Notifications\"",
+  "options": [
+   "Ekran İcazəsi (Display Resolution)",
+   "Klaviatura Dillərinin Əlavə Edilməsi",
+   "Dəqiq Vaxt Sinxronizasiyası",
+   "Bildirişlər"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"UTP kabelinin quruluşu və RJ-45 konnektoru\" mövzusuna aiddir?",
+  "options": [
+   "Kontrast Qaydası",
+   "Deny Tətbiqi",
+   "Custom Print",
+   "Cütlüklərin Açılması və Düzləndirilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərti formatlaşdırma və diaqramlar\" mövzusuna aiddir?",
+  "options": [
+   "Switch Row/Column",
+   "Bərpa qeydi (WinRAR)",
+   "3D Printerlər",
+   "Konseptual sual"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ənənəvi ofis işində bir sənədin müxtəlif insanlar tərəfindən ardıcıl olaraq e-poçtla göndərilməsi hansı məlumat ziddiyyətlərinə yol açırdı və bulud sistemindəki «Vahid Həqiqət…\"",
+  "options": [
+   "Konseptual sual",
+   "Redaktor (Editor)",
+   "Faylın yenilənməsi",
+   "Şərhçi (Commenter)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Quraşdırma faylları (.exe, .msi) yalnız istehsalçının rəsmi saytından və ya rəsmi mağazadan (Microsoft Store) endirilməlidir.\"",
+  "options": [
+   "Mənbəyin Təhlükəsizliyi",
+   "İnzibatçı Hüququ ilə Başlatma",
+   "Səhv Yanaşma",
+   "Metod 2"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkə kabellərinin növləri: Bükülmüş cütlük (UTP/STP), Koaksial və Fiber-optik naqillər\" mövzusuna aiddir?",
+  "options": [
+   "Çox-modlu (Multi-Mode Fiber — MMF)",
+   "Ölçüləndirmə və Kəsmə (Crop)",
+   "Cycle (Dövr)",
+   "IP Address"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vizual (Ekran)\"",
+  "options": [
+   "Çoxmonitorlu İş Rejimləri (Multi-Display)",
+   "Lazer Printerlər",
+   "Printer (Çap qurğusu)",
+   "Monitor (Displey)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Üst qabına qoyulan onlarla səhifəlik sənəd paketini avtomatik dartaraq saniyələr içində ikitərəfli skan edir (arxiv işləri üçün ən məhsuldar qurğudur).\"",
+  "options": [
+   "Vərəq Ötürücülü Skanerlər (Sheetfed / ADF)",
+   "Optik Simvol Tanıma (OCR — Optical Character Recognition)",
+   "Klaviatura (Keyboard)",
+   "Optik Skaner (Scanner)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şrift və abzas formatlaşdırılması standartları\" mövzusuna aiddir?",
+  "options": [
+   "Vahid Mənbə Prinsipi (Single Source of Truth)",
+   "Dəqiq Vaxt Sinxronizasiyası",
+   "ROUNDUP (YUXARI YUVARLAQLAŞDIRMA)",
+   "Clear All Formatting (Bütün Formatlaşdırmanı Təmizlə — Ctrl + Space)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Simsiz (Wi-Fi)\" nədir?",
+  "options": [
+   "HDMI, DisplayPort, DVI, VGA",
+   "WLAN 802.11 b/g/n/ac",
+   "1920×1080 (Analogiya)",
+   "4K/8K 144-240 Hz"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnternetdə məlumat axtarışı üsulları və internet mənbələrinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Şübhəli Yükləmələrdən İmtina",
+   "Metod 2",
+   "Drive (Disk hərfi)",
+   "LAN Port (Link/Act)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Baza statistik və riyazi funksiyalar kompleksi\" mövzusuna aiddir?",
+  "options": [
+   ".rar (WinRAR)",
+   "Security",
+   "Daxili Keçid Mexanizmi",
+   "COUNTA (DOLU XANA SAYI)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Wrap Text\" nədir?",
+  "options": [
+   "Cədvəlin əsas məlumatları üçün.",
+   "Mətni bucaq altında (45∘) və ya şaquli (90∘) yazır.",
+   "Mətni sətirlərə bölərək xananın hündürlüyünü avtomatik artırır.",
+   "Mətni sola («Align Left»), mərkəzə («Center») və ya sağa («Align Right») yerləşdirir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkənin aktiv avadanlıqları — Ruter, Switch, Access Point\" mövzusuna aiddir?",
+  "options": [
+   "Uplink / SFP Portları (Switch-lərdə)",
+   "No Border",
+   "Sinxronluq Yoxlanışı",
+   "Çoxmonitorlu İş Rejimləri (Multi-Display)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"UTP kabelinin quruluşu və RJ-45 konnektoru\" mövzusuna aiddir?",
+  "options": [
+   "Linux",
+   "Qovşaq/Kompüter Hissəsi (Host ID)",
+   "TRUNC (KƏSİB ATMA)",
+   "Kilid Dili (Latch)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Birbaşa ana plataya yatıq şəkildə bərkidilmiş kiçik fleş modul\"",
+  "options": [
+   "M.2 NVMe SSD",
+   "Daxili Speaker səsi",
+   "Tək qısa siqnal (1 Beep)",
+   "Sərt Disk / SSD (2.5\")"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Düz və çarpaz naqillənmənin tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "Alt Qovluq (2-ci səviyyə)",
+   "PC → Switch",
+   ".pdf",
+   "MIN"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Gecə İşığı Rejimi (Night Light)\" nədir?",
+  "options": [
+   "Göz yorğunluğunu azaltmaq üçün monitorun mavi spektr şüalanmasını azaldaraq ekrana isti rəng tonları verir.",
+   "Win + I qısayolu və ya «Start → Settings»",
+   "Simsiz siçan, klaviatura, qulaqlıqlar və xarici daşıyıcılar bu bölmədən əlaqələndirilir («Add device»), batareya faizləri izlənilir.",
+   "Extend these displays (Genişləndir)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Excel mühiti, iş kitabı, iş vərəqi və xana ünvanlaması\" mövzusuna aiddir?",
+  "options": [
+   "Elektrik Şəbəkəsindən Tam Ayırma",
+   "Action Button (Geri/İrəli)",
+   "Users (İstifadəçilər)",
+   "Yeni Vərəqin Əlavəsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Slaydlararası keçid effektləri və zamanlama\" mövzusuna aiddir?",
+  "options": [
+   "Data Bars",
+   "3. Cədvəlləşdirmə",
+   "Effect Options",
+   "Avtomatik Doldurma və Parollar"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Çıxış qurğularının növləri və istifadə xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Fərdi Slayda Tema Tətbiqi",
+   "Trim Video",
+   "=A2 / B2 (B2 boşdur → #DIV/0!)",
+   "3D Printerlər"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Antistatik qaydalar\" nədir?",
+  "options": [
+   "Üst qapağın qabarması (şişmə), pasvari axıntı",
+   "Kondensatorları tamamilə boşaldır",
+   "Güc kabeli çıxarıldıqdan sonra ön paneldəki yandırma («Power») düyməsi 5-10 saniyə sıxılı saxlanılaraq ana platanın kondensatorlarındakı qalıq…",
+   "Bədəndəki minlərlə voltluq yükü neytrallaşdırır"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya daşıyıcıları, yaddaş qurğuları və məlumatların köçürülməsi qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Two Content (İki Məzmun Bloku)",
+   "«Copy / Paste» Əməliyyatına Üstünlük Verilməsi",
+   "DisplayPort 1.4 / 2.0",
+   "Qara Ekran / Ağ Ekran"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fayl sistemi anlayışı, fayl və qovluq strukturu\" mövzusuna aiddir?",
+  "options": [
+   "Karantin Mexanizmi",
+   "Settings (Parametrlər)",
+   "Rəqəmsal (Ədədi) informasiya",
+   "Tam Silmə (Permanent Delete)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellekt texnologiyaları, onların tətbiq sahələri və platformalarda istifadəçi hesabının yaradılması\" mövzusuna aiddir?",
+  "options": [
+   ".docx",
+   "Çoxfaktorlu Autentifikasiyanın (2FA) Aktivləşdirilməsi",
+   "Sort Largest to Smallest",
+   "Security"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiyanın qiymətləndirilməsi, saxlanılması və sənədləşdirmədə tətbiqi qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Avtomatlaşdırılmış Stend",
+   "İş Yerindən Ayrılarkən Ekranın Kilidlənməsi",
+   "Normal",
+   "Mənbə İstinadlarının Düzgün Göstərilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkə resursları — qovluq, printer və s. və onların paylaşdırılması prinsipləri\" mövzusuna aiddir?",
+  "options": [
+   "Ölçüləndirmə və Kəsmə (Crop)",
+   "Drayver Məlumatları",
+   "Şəbəkə Printeri (Shared Printer)",
+   "TTL (Time to Live)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Ölçüləndirmə və Kəsmə (Crop)\" nədir?",
+  "options": [
+   "Sənədin çap keyfiyyətinə uyğun olaraq parlaqlıq (Brightness), kontrast (Contrast) və rəng tonları (Color Saturation) sazlanır.",
+   "Təsvirin kənarlarındakı lazımsız hissələri aradan qaldırmaq üçün «Crop» aləti seçilir və qara künc bucaqları daxilə çəkilir. Şəkli dəqiq dairə və ya…",
+   "Təkrarlanan, fasiləsiz prosesləri (məsələn: sənədin dövriyyə mərhələlərini) əks etdirir.",
+   "Şəkil mətnin üzərində sərbəst üzür və altındakı yazını örtür."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xətti / Nöqtəli\"",
+  "options": [
+   "Diaqram Sütunlarının Ardıcıl Yüksəlməsi",
+   "Delay (Gecikmə)",
+   "Mətn Qutusu (Text)",
+   "Motion Paths (Hərəkət Yolları)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Mətn Süzgəcləri (Text Filters)\" nədir?",
+  "options": [
+   "Newest to Oldest",
+   "Əlifba üzrə artan sıra ilə (A-dan Z-yə / A-dan Ş-yə).",
+   "Ən böyük ədəddən ən kiçiyə doğru azalma sırası ilə (məsələn: ən yüksək satışları və ya borcları yuxarı çıxarmaq üçün).",
+   "Equals (Bərabərdir), Contains (Tərkibində var), Begins With (İlə başlayır)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qovluqda yeni fayl yaratmaq və ya sənədin üzərinə yazmaq.\"",
+  "options": [
+   "Read (Oxuma)",
+   "İstifadəçi Əlavəsi",
+   "Read",
+   "Write"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya anlayışı, informasiya növləri və ölçü vahidlərinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Control Panel (İdarəetmə Paneli)",
+   "Vishing (Səsli Fişinq)",
+   "Qrafik (Vizual) informasiya",
+   "Xətaların Ehtimalı"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Mexaniki Klaviaturalar\" nədir?",
+  "options": [
+   "Üst qabına qoyulan onlarla səhifəlik sənəd paketini avtomatik dartaraq saniyələr içində ikitərəfli skan edir (arxiv işləri üçün ən məhsuldar…",
+   "Akustik səs dalğaları",
+   "Mətn, ədədi və idarəetmə kodları",
+   "Hər bir düymənin altında ayrıca müstəqil fiziki keçirici (Switch — Blue, Red, Brown) və yay mexanizmi olur. Düyməni sona qədər basmadan (yarı yolda)…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Standart istifadəçi üçün\" nədir?",
+  "options": [
+   "Həm proqramlar dəyişiklik etdikdə, həm istifadəçi sazlamaları dəyişdikdə.",
+   "Sənədi yalnız açmaq və oxumaq, proqramı işə salmaq (redaktə və silmə qadağandır).",
+   "Faylın məzmununu redaktə etmək və silmək, lakin icazə strukturlarını dəyişdirə bilməmək.",
+   "Administrator şifrəsinin daxil edilməsi tələb olunur."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   ".JPG / .JPEG",
+   "BIOS Diaqnostikası",
+   "RIGHT (SAĞDAN)",
+   "İkiqat Kliklə Ani Doldurma (Double Click AutoFill)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Axtarış sistemləri və açar sözlər\" mövzusuna aiddir?",
+  "options": [
+   "SUM (CƏM)",
+   "Fayl Uzantılarının Görünməsi",
+   "Yalnız Baxış (Viewer / Read-only)",
+   "\" \" (Dırnaq işarəsi)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İstifadəçi hesabları və təhlükəsizlik anlayışı\" mövzusuna aiddir?",
+  "options": [
+   "Insert",
+   "Update entire table",
+   "Ehtiyat Nüsxələmənin «3-2-1» Qaydası",
+   "UAC"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Ana platanın xarici və daxili interfeysləri, portların müəyyən edilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Mərkəzi Qovşaq",
+   "Canlı Kursorlar",
+   "SATA III Portları",
+   "Orientation (Səmt)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Xüsusi Yapışdırma (Paste Special)\" nədir?",
+  "options": [
+   "Ən yuxarı mərkəz",
+   "Yaddaşdakı mətni kursorun durduğu yerə daxil edir.",
+   "Ctrl + A qısayolu sıxılır.",
+   "İnternetdən və ya başqa sənəddən köçürülən mətni öz yad formatı ilə deyil, «Yalnız mətni saxla» (Keep Text Only) rejimi ilə təmiz şəkildə daxil edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tələb Olunan Məlumat\" nədir?",
+  "options": [
+   "E-poçta əlavə edilmiş arxiv faylları (.zip, .rar), icra olunan fayllar (.exe, .scr, .bat) və ya daxilində zərərli makroslar olan .docm, .xlsm…",
+   "Məktubun görünən başlığında «Azərbaycan Beynəlxalq Bankı» yazılsa da, göndərən ünvanının domen hissəsində kənar və ya oxşar hərflərlə dəyişdirilmiş…",
+   "Rəsmi qurumlar heç vaxt e-poçtla şifrə və CVV istəmir",
+   "Şəbəkə trafikini tam şifrələyən virtual tunel"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"References → Table of Contents\"",
+  "options": [
+   "Print Current Page",
+   "Avtomatik Mündəricatın Əsası",
+   "Show/Hide (¶)",
+   "Daxil etmə"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"64-bit (x64)\" nədir?",
+  "options": [
+   "Eyni vaxtda yalnız tək bir proqram icra edir.",
+   "Eyni anda yalnız bir nəfərin işləməsinə icazə verir (məsələn: köhnə MS-DOS).",
+   "Biristifadəçili / Çoxistifadəçili",
+   "16 EB (16×109 GB) nəzəri RAM həcmini dəstəkləyir, müasir sənəd və verilənlər bazası proqramları üçün standartdır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Qara Ekran / Ağ Ekran\" nədir?",
+  "options": [
+   "Ctrl + K → Web Page",
+   "Hər hansı mətnə, şəklə və ya fiqura xarici/daxili keçid ünvanı bağlayır (.",
+   "Bütün slayd keçidlərini, animasiyaları, fon musiqisini və qeydə alınmış səs izahatlarını birləşdirərək tam avtomatik.",
+   "Nümayişdə B / W düyməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Açıq Mənbə (Tam Pulsuz — Open Source)\"",
+  "options": [
+   "Lempel-Ziv (LZ77 / LZMA)",
+   "Normal (Standart)",
+   "Həcmlərə Bölmə (Split)",
+   ".7z (7-Zip)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellekt texnologiyaları, onların tətbiq sahələri və platformalarda istifadəçi hesabının yaradılması\" mövzusuna aiddir?",
+  "options": [
+   "Sənəd Layihələrinin Hazırlanması",
+   "Flicker-Free Texnologiyası",
+   ".XLSX (Microsoft Excel Spreadsheet)",
+   "İzopropil Spirti"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"BIOS/UEFI interfeysi, menyuları və operator üçün lazımi tənzimləmələr\" mövzusuna aiddir?",
+  "options": [
+   "Diaqramın Daşınması (Move Chart)",
+   "Linkə Sahib Olan Hər Kəs",
+   "SATA Configuration (AHCI / RAID)",
+   "Ölçüləndirmə və Kəsmə (Crop)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"5–10 dəqiqə hərəkətsizlikdən sonra\"",
+  "options": [
+   "Müvəqqəti Hesabların İdarəsi",
+   "Ekranın avtomatik kilidlənməsi",
+   "Məxfilik (Confidentiality)",
+   "Ən Az Səlahiyyət Prinsipi (Principle of Least Privilege)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnternetdə məlumat axtarışı üsulları və internet mənbələrinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Go To Special",
+   "Plotter (Qrafikçəkən)",
+   "Birbaşa (Ünvanlı) axtarış",
+   "Sinxronizasiya Müştərisi (Sync Client)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Sort Z to A\" nədir?",
+  "options": [
+   "Əlifba üzrə azalan sıra ilə (Z-dən A-ya).",
+   "Today (Bu gün), This Month (Bu ay), Last Year (Keçən il).",
+   "Ctrl + Shift + L",
+   "Süzgəc tətbiq etmədən köhnəlmiş və ya səhv yazılmış məlumatları kütləvi şəkildə düzəldir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Göndərilən 4 paketdən neçəsinin geri qayıtmadığını göstərir (0% loss ideal nəticədir).\"",
+  "options": [
+   "Paket İtkisi (Packet Loss)",
+   "Bayt sayı",
+   "ping 192.168.1.1 -t",
+   "Uğurlu Cavab"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"IF + AND\" nədir?",
+  "options": [
+   "=OR(Şərt1; Şərt2; ...).",
+   "=IF(OR(D2=\"Bakı\"; D2=\"Sumqayıt\"); 0; 15)",
+   "Daxilindəki şərtlərdən.",
+   "=IF(AND(B2>=50; C2>=80); \"Təqaüd Alır\"; \"Almır\")"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"DisplayPort 1.4 / 2.0\" nədir?",
+  "options": [
+   "Videokartın HDMI və ya DP portu",
+   "4K/8K 144-240 Hz",
+   "USB Type-A/B, USB Type-C, Thunderbolt",
+   "Ən geniş yayılmış rəqəmsal standartdır. Tək bir kabel daxilində həm yüksək keyfiyyətli təsviri (Full HD, 4K, 8K), həm də çoxkanallı səs siqnalını…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS PowerPoint mühiti, slayd strukturu və interfeysi\" mövzusuna aiddir?",
+  "options": [
+   "Change",
+   "ATX 24-Pin Qida Kabeli",
+   "Görünüş Rejimləri (View Modes)",
+   "Çevik Həcm Artımı"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Cədvəllərin qurulması və matris strukturları\" mövzusuna aiddir?",
+  "options": [
+   "RAM Modullarının Quraşdırılması",
+   "Xanaların Birləşdirilməsi (Merge Cells)",
+   "İlkin Baxış (Print Preview)",
+   "Mənbə İstinadlarının Düzgün Göstərilməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Əməliyyat sistemləri haqqında ümumi anlayış və təsnifatı\" mövzusuna aiddir?",
+  "options": [
+   "Casus Proqramlar (Spyware / Keylogger)",
+   "32-bit (x86)",
+   "Avtomatlaşdırılmış Stend",
+   "Chart Title"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Print Sides\" nədir?",
+  "options": [
+   "1-Sided / 2-Sided",
+   "Collated (1,2,3)",
+   "Stil üzərində sağ klikləyib «Modify» seçildikdə şrift və ya rəng dəyişdirilərsə, sənəddəki yüzlərlə eynisəviyyəli başlıq anında yeni dizayna…",
+   "Kağıza qənaət etmək üçün «Print on Both Sides» rejimi seçilir (vərəqin hər iki üzünə çap)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin resursları və Tapşırıq menecerinin (Task Manager) təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "Network (Şəbəkə)",
+   "İterativ Dəqiqləşdirmə (Prompt Refinement)",
+   ".XLSX (Microsoft Excel Spreadsheet)",
+   "Korpus Toz Filtrləri"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Arxivləşdirmə proqramlarının iş prinsipləri və sıxışdırma alqoritmləri\" mövzusuna aiddir?",
+  "options": [
+   "Axtarış qutusu ilə seçim",
+   "Nəmlik və Qısaqapanma",
+   "Extract to \"Qovluq_adı/\"",
+   "This Device"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Oxuma/Yazma Sürəti\" nədir?",
+  "options": [
+   "HDD mexaniki zərbələrə, silkələnməyə və yıxılmaya qarşı çox həssasdır — zərbə anında maqnit təbəqəsi cızılaraq «Bad Sector» (zədəli sektor) yaradır…",
+   "Təşkilatın mühüm sənədlərinin qorunması üçün: 3 nüsxə çıxarılmalı, bunlar 2 fərqli fiziki daşıyıcı növündə (məsələn, daxili SSD və xarici HDD)…",
+   "Flash daşıyıcılar üçün hazırlanmış müasir standartdır. 4 GB limitini aradan qaldırır və həm Windows, həm də macOS sistemlərində əlavə proqram olmadan…",
+   "Aşağı / Orta (~150 MB/s)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkə kabellərinin yoxlanılması üsulları\" mövzusuna aiddir?",
+  "options": [
+   "Yaddaşın genişlənməsi",
+   "Slaydın Gizlədilməsi (Hide Slide)",
+   "Exit",
+   "Qaranlıq İndikator"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Minimum parol uzunluğu\" nədir?",
+  "options": [
+   "Hesaba daxil olarkən parolla yanaşı ikinci təsdiq amili (mobil telefona gələn birdəfəlik SMS kodu, autentifikator proqramı və ya biometrik barmaq…",
+   "Ən azı 12 simvol",
+   "Gündəlik iş prosesində kompüter operatoru üçün standart istifadəçi («Standard User») hesabı açılmalıdır. Administrator («Administrator») hüququ…",
+   "Müəssisəyə təcrübə və ya ezamiyyətə gələn şəxslər üçün açılan hesabların son etibarlılıq tarixi (Expiration Date) əvvəlcədən təyin edilməlidir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Köçürmə (Copy — Ctrl + C)\" nədir?",
+  "options": [
+   "Ctrl + N qısayolu vasitəsilə sıfırdan boş sənəd («Blank document») açılır və ya hazır rəsmi şablonlar («Templates») seçilir.",
+   "Ctrl + S / F12",
+   "Ctrl + Shift + C / Ctrl + Shift + V",
+   "Mətni yaddaşa alır, əsli yerində qalır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Sadə Status\" nədir?",
+  "options": [
+   "=IF(B2 >= 51; \"Keçdi\"; \"Kəsildi\")",
+   "=IF(AND(B2>=50; C2>=80); \"Təqaüd Alır\"; \"Almır\")",
+   "Oxunması və yazılışı sadədir, mötərizə qarışıqlığı olmur.",
+   "=OR(Şərt1; Şərt2; ...)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   "Paket İtkisi (Packet Loss)",
+   "Troyan",
+   "Mərhələ 4",
+   "Place in This Document"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Pie Chart (Sektor)\" nədir?",
+  "options": [
+   "Parametrlərin mətn və rəqəm müqayisəsi",
+   "Faiz bölgüsü və bazar payı (100%)",
+   "İllik/aylıq gəlir və satış müqayisəsi",
+   "Qapalı dairəvi oxlar"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Smart Fan Control\" nədir?",
+  "options": [
+   "Köhnə «IDE» rejimi SSD daşıyıcılarının sürətini 2 dəfədən çox azaldır və TRIM funksiyasını sıradan çıxarır. Rejimin «AHCI» olması mütləq…",
+   "Kompüter hər dəfə yandırılarkən əməliyyat sisteminin açılması üçün şifrə tələb edir.",
+   "Sazlamaların təsdiqi",
+   "Kulerlərin fırlanma sürətinin temperatura uyğun olaraq avtomatik tənzimlənməsi (Səssiz / Standart / Performans profilləri)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"NTFS Permissions\" nədir?",
+  "options": [
+   "Yeni sənəd əlavə etmək, lakin mövcud sənədləri oxuya və ya silə bilməmək.",
+   "Faylı oxumaq, dəyişmək, silmək və digər istifadəçilərə icazə vermək hüququ.",
+   "Qovluğun xüsusiyyətlərindən istifadəçi üzrə icazə təyini.",
+   "Məhdud / Fərdi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya təhlükəsizliyi anlayışı, təhlükəsiz parollar və istifadəçi hesablarının tənzimlənməsi\" mövzusuna aiddir?",
+  "options": [
+   "Çoxfaktorlu Autentifikasiya (MFA / 2FA)",
+   "Üfüqi Düzləndirmə (Horizontal Alignment)",
+   "Xana daxili alt sətir",
+   "COUNTIFS (Çoxşərtli Sayma)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Update entire table\" nədir?",
+  "options": [
+   "F9 və ya Update Table düyməsi",
+   "Kompüterə qoşulmuş fiziki çap qurğusu və ya rəqəmsal konvertor («Microsoft Print to PDF») seçilir.",
+   "Həm dəyişdirilmiş və ya yeni əlavə olunmuş başlıq mətnlərini, həm də nömrələri tam yenidən qurur.",
+   "1-Sided / 2-Sided"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Cədvəl Çək (Draw Table)\" nədir?",
+  "options": [
+   "Cari xananın soluna və ya sağına yeni sütun daxil edir.",
+   "Kursoru 10×8-lik kvadratlar üzərində sürüşdürərək ölçü təyin olunur.",
+   "Xana daxilindəki mətn həm üfüqi (sol, mərkəz, sağ), həm də şaquli (yuxarı, orta, aşağı) olmaqla 9 fərqli mövqedə düzləndirilir.",
+   "Qələm aləti vasitəsilə mürəkkəb formalı xanalar sərbəst əllə çəkilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"BIOS/UEFI interfeysi, menyuları və operator üçün lazımi tənzimləmələr\" mövzusuna aiddir?",
+  "options": [
+   "Disk Həcmi və Bölmə Formatı",
+   "Insert Left / Right",
+   "Sərt Disk / SSD (2.5\")",
+   "Şərhçi (Commenter)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin arxitekturası, fərdi kompüterlərin təsnifatı və sistem blokunun daxili elementləri\" mövzusuna aiddir?",
+  "options": [
+   "Quick Layout",
+   "Mərhələ 2",
+   "Məlumatların Avtomatik Təmizlənməsi",
+   "Monoblok (All-in-One PC)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərtli cəmləmə, sayma və xətaların idarəsi\" mövzusuna aiddir?",
+  "options": [
+   "Sətir / Sütun Silmək",
+   "Heç vaxt Bildirmə (Never Notify)",
+   "#N/A",
+   "WPA (Wi-Fi Protected Access)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Mərhələ 1\" nədir?",
+  "options": [
+   "Hüquqi əsaslandırma və məqsəd mətni",
+   "Qısa ilkin göstərişlər əsasında tam rəsmi sənəd mətni formalaşdırır.",
+   "Mövzu üzrə baza tərif və struktur tələbinin göndərilməsi",
+   "Struktur Planının (Outline) Qurulması:."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Təhlükəsizlik Səviyyəsi\" nədir?",
+  "options": [
+   "Wide Area Network (Qlobal Şəbəkə)",
+   "Çox yüksək məlumat ötürmə sürəti təmin edir, kənar maneələrə qarşı dayanıqlıdır, lakin divar və maneələrdən keçmə məsafəsi daha qısadır.",
+   "Tək bir müəssisəyə və ya şəxsə məxsusdur.",
+   "Yüksək (Kənar mühitdən təcrid olunmuş daxili şəbəkə)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Word mühiti, interfeys elementləri və Ribbon lenti\" mövzusuna aiddir?",
+  "options": [
+   "Bütöv cümlənin seçilməsi",
+   "Fidyə Proqramları (Ransomware)",
+   "Existing File or Web Page",
+   "Mərhələ 4"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"One (Standart)\" nədir?",
+  "options": [
+   "1.0 sm (və ya 1.5 sm).",
+   "Bütöv enli mətn",
+   "1.0 – 1.5 sm",
+   "Səhifələri avtomatik sayır"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Cədvəli səhifənin sol və sağ kənar boşluqları boyu bərabər yayır.\"",
+  "options": [
+   "Delete Rows",
+   "AutoFit to Window",
+   "AutoFit to Contents",
+   "Xanaların Bölünməsi (Split Cells)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"MAN\" nədir?",
+  "options": [
+   "Switch (Kommutator)",
+   "Tək bir güclü printer, skaner və ya yaddaş massivinin bütün ofis işçiləri tərəfindən istifadəsi.",
+   "Metropolitan Area Network (Şəhər Şəbəkəsi)",
+   "Simsiz şəbəkələr radio dalğalarla yayıldığı üçün kənar müdaxilələrdən qorunmaq məqsədilə güclü."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"IP ünvanlaşma (IPv4) və alt şəbəkə maskası haqqında anlayış\" mövzusuna aiddir?",
+  "options": [
+   "Bayt (B — Byte)",
+   "Access is Denied",
+   "Default Gateway",
+   "Metod 2"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəxsi giriş loqin və parolları yapışqanlı kağızlarda monitora yapışdırılmamalı və kənar şəxslərə verilməməlidir.\"",
+  "options": [
+   "Dəyişdirmə (Modify)",
+   "Həmişə Bildir (Always Notify)",
+   "Fərdi Hesab Məsuliyyəti",
+   "Administrator üçün"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Axtarış sistemləri və açar sözlər\" mövzusuna aiddir?",
+  "options": [
+   "None (Ləğv et)",
+   "Delete Columns",
+   "site:",
+   "Defolt (Tövsiyə olunan)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Düz və çarpaz naqillənmənin tətbiq sahələri\" mövzusuna aiddir?",
+  "options": [
+   "İş Prinsipi",
+   "Çəhrayı",
+   "Fiziki Rabitə Xətlərinin Çəkilməsi",
+   "Riyazi Bonus"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Zərərli proqram tipləri və lokal antivirus sistemləri\" mövzusuna aiddir?",
+  "options": [
+   "Details / Services",
+   "Tarix Süzgəcləri (Date Filters)",
+   "Tam Skan (Full Scan)",
+   "Sort Z to A"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Tables, Illustrations, Header & Footer\"",
+  "options": [
+   "Save (Yadda saxla — Ctrl + S)",
+   "Bütöv abzasın seçilməsi",
+   "Sənədi Saxlamaq",
+   "Insert"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kompüterin digər şəbəkə cihazlarını görməsini və digərləri tərəfindən görünməsini təmin edir.\"",
+  "options": [
+   "Advanced Sharing",
+   "Turn on network discovery",
+   "Fayl Qovluğu (Shared Folder)",
+   "Şəbəkə Printeri (Shared Printer)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Standard / Typical\" nədir?",
+  "options": [
+   "C:\\Program Files təyini",
+   "7-Zip / WinRAR",
+   "Sistemə texniki qulluq göstərən, kod tərtib edən və diaqnostika aparan köməkçi proqramlar.",
+   "Ən çox istifadə olunan standart modulları yazır (operatorlar üçün tövsiyə olunur)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hesabatlar, reyestrlər, şablonlar\"",
+  "options": [
+   "Turn on network discovery",
+   "Fayl Qovluğu (Shared Folder)",
+   "Şəbəkə Printeri (Shared Printer)",
+   "Turn on file and printer sharing"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün qurğular yuvalarına tam oturdulduqdan sonra mütləq korpus vintləri ilə fiksasiya olunmalıdır (sallanma və kontaktın kəsilməsi yolverilməzdir).\"",
+  "options": [
+   "Fasiləsiz və ya uzun siqnallar",
+   "Videokart və Disklərin Bərkidilməsi",
+   "Düzgün Alət Seçimi",
+   "RAM Modullarının Quraşdırılması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Mənbə Əsaslılığı\" nədir?",
+  "options": [
+   "Mürəkkəb Riyazi və Məntiqi Hesablamalar:.",
+   "Model mətn daxilində kitab, məqalə və ya internet ünvanı göstəribsə, həmin URL və ya məqalə adı axtarış sistemlərində yoxlanılmalıdır. Əgər belə bir…",
+   "Real elmi və ya rəsmi sənədə istinad",
+   "Bir tarixi şəxsiyyətin bioqrafiyasını digərinin nailiyyətləri ilə birləşdirir"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şəbəkədən girən istifadəçi yalnız.\"",
+  "options": [
+   "Read (Oxuma)",
+   "Faktiki Nəticə",
+   "Read",
+   "Full Control (Tam Nəzarət)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Division by Zero (Sıfıra bölmə)\"",
+  "options": [
+   "İş Mexanizmi",
+   "=B2 * C2 (C2 mətndir → #VALUE!)",
+   "#N/A",
+   "#DIV/0!"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təhlükəsiz internetdən istifadə qaydaları, zərərli proqramlar və antivirus mühafizəsi\" mövzusuna aiddir?",
+  "options": [
+   "Axtarış qutusu ilə seçim",
+   "Custom Scan",
+   "HDMI 2.0 / 2.1",
+   "Bölünmüş Cütlük (Split Pair)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Dəyişdirmə (Modify)\" nədir?",
+  "options": [
+   "Faylı oxumaq, dəyişmək, silmək və digər istifadəçilərə icazə vermək hüququ.",
+   "Faylın məzmununu redaktə etmək və silmək, lakin icazə strukturlarını dəyişdirə bilməmək.",
+   "Qovluğun xüsusiyyətlərindən istifadəçi üzrə icazə təyini.",
+   "Bütün bildirişlər söndürülür (təhlükəlidir, viruslar sərbəst quraşdırıla bilər)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən azı 12 simvol\"",
+  "options": [
+   "Parolun dəyişmə müddəti",
+   "Minimum parol uzunluğu",
+   "Masaüstünün Təmizliyi və Kilidlənməsi",
+   "Çoxfaktorlu Autentifikasiya (MFA / 2FA)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Mətni SmartArt-a Çevirmək (Convert to SmartArt)\" nədir?",
+  "options": [
+   "Parametrlərin mətn və rəqəm müqayisəsi",
+   "Təkrarlanan idarəetmə və ya istehsal prosesləri.",
+   "Qapalı dairəvi oxlar",
+   "Adi maddəli siyahı yazıldıqdan sonra mətn seçilir → «Home → Convert to SmartArt» əmri verilir; siyahı anında rəngli qrafik bloklara çevrilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Heç vaxt Bildirmə (Never Notify)\" nədir?",
+  "options": [
+   "Əməliyyatın şüurlu icra edildiyini təsdiqləyən «Bəli / Xeyr» pəncərəsi çıxır.",
+   "Faylı oxumaq, dəyişmək, silmək və digər istifadəçilərə icazə vermək hüququ.",
+   "Parol ən azı 8-12 simvoldan ibarət olmalı, böyük-kiçik hərflər (A-z), rəqəmlər (0-9) və xüsusi simvollar (!@#$%^&*) ehtiva etməlidir. Doğum tarixləri…",
+   "Bütün bildirişlər söndürülür (təhlükəlidir, viruslar sərbəst quraşdırıla bilər)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Növbənin Təmizlənməsi\" nədir?",
+  "options": [
+   "Kartricin qoruyucu lenti çıxarılmayıb və ya toner tam bitib",
+   "Əgər sənədlər çapa getmirsə, Windows xidmətlərində «Print Spooler» (Çap Dispetçeri) xidməti tapılmalı və yenidən başladılmalıdır («Restart»).",
+   "Kartricin fotonağarası (Drum) cızılıb və ya tullantı qabı dolub",
+   "Əməliyyat sisteminin bildiriş panelindəki printer ikonuna iki dəfə kliklənərək ilişib qalmış çap tapşırıqları ləğv edilir («Cancel All Documents»)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Səs (Audio) informasiyası\" nədir?",
+  "options": [
+   "Analoq səs dalğalarının rəqəmsal siqnallara çevrilmiş diskret formasıdır.",
+   "Eyni anda çoxlu tətbiqin və brauzer pəncərəsinin açılması RAM-ın tam dolmasına səbəb olur. Task Manager (Tapşırıq Meneceri) vasitəsilə ən çox yaddaş…",
+   "Standart olaraq 8 bitdən ibarət olan tam blokdur (1 Bayt=8 bit). Kompüter yaddaşında klaviaturanın bir standart simvolunu (məsələn: bir hərfi,…",
+   "Hərflər, rəqəmlər, durğu işarələri və xüsusi simvolların kodlaşdırılmış ardıcıllığıdır. Ən az yaddaş tutan informasiya növüdür."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter elementlərinin tozlanmasının səbəbləri və profilaktik təmizləmə üsulları\" mövzusuna aiddir?",
+  "options": [
+   "Results",
+   "Təhlükəsizlik",
+   "CPU / GPU Kulerləri",
+   "Title Slide (Titul / Başlıq Slaydı)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Keçid animasiyasının icra olunma vaxtıdır (saniyə ilə ölçülür).\"",
+  "options": [
+   "Effect Options",
+   "Apply to All",
+   "Müddət (Duration)",
+   "Morph Keçidi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"SSID (Service Set Identifier)\" nədir?",
+  "options": [
+   "AES-CCMP (128-bit)",
+   "RC4 (64/128-bit)",
+   "Simsiz şəbəkənin rəsmi adıdır. Cihazlar ətrafdakı Wi-Fi şəbəkələrini məhz bu ad vasitəsilə aşkar edir. Şəbəkənin təhlükəsizliyini artırmaq üçün ruter…",
+   "Əgər SSID gizlədilibsə, siyahının ən altındakı «Hidden Network» seçilir → Şəbəkənin adı (SSID) əllə daxil edilir → Şifrələmə növü (WPA2-Personal)…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Resolution (İcazə)\" nədir?",
+  "options": [
+   "100% (24\" üçün) / 125-150% (Noutbuklar üçün)",
+   "1920×1080 (və ya displeyin yerli icazəsi)",
+   "Monitorun fiziki matrisasına uyğun olan «Tövsiyə olunan / Recommended» icazə (məsələn: 1920×1080 Full HD) seçilməlidir. Yanlış icazə şriftlərin…",
+   "Yüksək icazəli (2K/4K) kiçik diaqonallı ekranlarda mətnlərin və nişanların oxunmasını asanlaşdırmaq üçün miqyas 100%-dən 125% və ya 150%-ə qaldırılır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Fiber-Optik Kabel (Optical Fiber)\" nədir?",
+  "options": [
+   "İşıq şüasını daxili əks olunma ilə ötürən ultra-nazik şüşə və ya plastik liflər.",
+   "Lifin nüvəsi daha qalındır (50-62.5 mikron). İşıq impulsları daxili divarlardan əks olunaraq yayılır. 500 metr - 2 km məsafələr üçün, bina daxili…",
+   "250 MHz tezlikdə işləyir; 100 m-də 1 Gbit/s, qısa məsafələrdə (55 metrə qədər) isə 10 Gbit/s sürət ötürür.",
+   "50/62.5 µm"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Baza statistik və riyazi funksiyalar kompleksi\" mövzusuna aiddir?",
+  "options": [
+   "Power (PWR)",
+   "COUNT",
+   "Legend",
+   "Nömrələnmiş Siyahılar (Numbering Lists)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Video / Qrafik Kabellər\" nədir?",
+  "options": [
+   "4K 60-120 Hz/8K",
+   "HDMI, DisplayPort, DVI, VGA",
+   "UTP Cat 5e / Cat 6 (RJ-45)",
+   "WLAN 802.11 b/g/n/ac"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətni xananın həm şaquli, həm üfüqi tam mərkəzinə qoyur.\"",
+  "options": [
+   "Şrift Qarnituru və Ölçüsü",
+   "Middle Align + Center",
+   "Xana Doldurma Rəngi (Fill Color)",
+   "Şaquli Düzləndirmə (Vertical Alignment)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çox aşağı (Qısa məsafə və qorunan kabellər).\"",
+  "options": [
+   "Wi-Fi 6 (802.11ax)",
+   "Xətaların Ehtimalı",
+   "Wi-Fi 5 (802.11ac)",
+   "2.4 GHz Tezliyi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin arxitekturası, fərdi kompüterlərin təsnifatı və sistem blokunun daxili elementləri\" mövzusuna aiddir?",
+  "options": [
+   "Process",
+   "CPU 4/8-Pin Enerji Xətti",
+   "Cat 6",
+   "Mərkəzi Prosessor (CPU — Central Processing Unit)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkənin aktiv avadanlıqları — Ruter, Switch, Access Point\" mövzusuna aiddir?",
+  "options": [
+   "Kontakt Spreyi (Contact Cleaner — Yağsız)",
+   "Ruter Paneli",
+   "Apply to All",
+   "Parlaqlıq Göstəricisi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Avtomatlaşdırma alətləri, üslublar və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Bir Vərəqdə Çoxsaylı Səhifə (Pages per Sheet)",
+   "SATA Məlumat Kabeli",
+   "Müvəqqəti Hesabların İdarəsi",
+   "List (Siyahı)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"UTP kabelinin quruluşu və RJ-45 konnektoru\" mövzusuna aiddir?",
+  "options": [
+   "Kəsim Uzunluğu",
+   "$A1",
+   "TRUNC (KƏSİB ATMA)",
+   "Merge & Center"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Apply to All\" nədir?",
+  "options": [
+   "Həm «Click», həm «After»",
+   "Transitions → None",
+   "Aktivləşdirilir",
+   "0.75 saniye"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ağ-Qəhvəyi / Qəhvəyi\"",
+  "options": [
+   "8 Ədəd Pin",
+   "Cütlük 3",
+   "Cütlük 4",
+   "Soyulma Uzunluğu"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Cütlüklərin Açılması və Düzləndirilməsi\" nədir?",
+  "options": [
+   "Stripper aləti kabelin ucundan təxminən 2.5-3 sm məsafədə yerləşdirilir, bir dövrə fırladılaraq xarici qabıq çıxarılır. Daxili naqillərin…",
+   "4 cütlük bir-birindən ayrılır, bükümlər tamamilə açılır və naqillər barmaqlar arasında sıxılaraq tam düz hala gətirilir.",
+   "Ağ-Göy / Göy",
+   "Həm kabel kəsici bıçağa, həm xarici qat soyucuya, həm də RJ-45 ucluqlarını presləyən formalı qəlibə malik universal alət."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Daxili Çat / Qeydlər\" nədir?",
+  "options": [
+   "Sənəd daxilində real vaxt rejimində yazışma təmin edir.",
+   "Hər bir iştirakçının etdiyi dəyişiklik, sildiyi və ya əlavə etdiyi söz fərdi rənglə və adla qeyd olunur.",
+   "Sənədin Bulud Mühitində Yaradılması:.",
+   "Səlahiyyət Matrisinin Tətbiqi:."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Sürətli Diaqram\" nədir?",
+  "options": [
+   "Göstərilən aralıqda olan və ya dəqiq bir qiymətə bərabər olan xanaları işarələyir.",
+   "Diapazonu seçib Alt + F1 basmaq",
+   "Chart Design → Quick Layout",
+   "Təkrarlanan adlar"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter şəbəkələrinin təsnifatı: Lokal (LAN) və Qlobal (WAN) şəbəkələr\" mövzusuna aiddir?",
+  "options": [
+   "Secure Boot",
+   "Lempel-Ziv (LZ77 / LZMA)",
+   "Xanalarda «###» Xətası",
+   "Wi-Fi 5 (802.11ac)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter qurğularında nasazlıqların aşkarlanması və aradan qaldırılması prinsipləri\" mövzusuna aiddir?",
+  "options": [
+   "Kağız Ölçüsü (Paper Size)",
+   "1-ci Səviyyə (Alt qovluq)",
+   "Operativ Yaddaş (RAM — Random Access Memory)",
+   "Sadədən Mürəkkəbə Doğru Prinsipi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Arxivlənəcək fayl və ya qovluq seçilir, sağ klik edilir → «Add to \"Fayl_adı.zip\"» (və ya «Add to archive...»).\"",
+  "options": [
+   "Fayl adlarının gizlənməsi",
+   "Extract to \"Qovluq_adı/\"",
+   "Sürətli Arxivləşdirmə",
+   "Həcmlərə Bölmə (Split)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"8P Qəlibi\" nədir?",
+  "options": [
+   "Ağ-Narıncı",
+   "Kəlbətinin tutacaqları son həddə qədər bərk sıxılır və buraxılır.",
+   "Konnektor şəffaf üzü yuxarı tutulur, naqillər daxili kanallara daxil edilir və tam dirənənə qədər irəli itələnir. Konnektorun ön ucundan baxılaraq…",
+   "Konnektoru hərəkətsiz fiksasiya edir"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter şəbəkələrinin təsnifatı: Lokal (LAN) və Qlobal (WAN) şəbəkələr\" mövzusuna aiddir?",
+  "options": [
+   "Süzgəci açmaq / bağlamaq",
+   "Videokart və Disklərin Bərkidilməsi",
+   "RAM Kontaktının Oksidləşməsi",
+   "İnfrastruktur Mülkiyyəti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Ana platanın xarici və daxili interfeysləri, portların müəyyən edilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Videokart (GPU — Graphics Processing Unit)",
+   "Şəbəkə İnterfeysi (RJ-45 Ethernet)",
+   "Mənbə Əsaslılığı",
+   "Hiperkeçidlər (Link — Ctrl + K)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız təsdiqli proqramlara icazə\"",
+  "options": [
+   "Kamera və Mikrofon İcazələri",
+   "Fayl və Arxivlərin Şifrələnməsi",
+   "Məlumatların Avtomatik Təmizlənməsi",
+   "Şəbəkə Paylaşımlarında Giriş İcazələri (NTFS Permissions)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"IP ünvanları, sistem şifrələri, server loqları\"",
+  "options": [
+   "Hüquqi Məsuliyyət",
+   "Həcm və Struktur",
+   "Qərəzsizlik (Obyektivlik)",
+   "Şəbəkə Rekvizitləri"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Genişləndirmə (Extend)\" nədir?",
+  "options": [
+   "İki monitor vahid böyük iş masasına çevrilir; bir ekranda cədvəl, digərində isə mətn sənədi eyni anda açıq saxlanılır.",
+   "1080p (Full HD) / 1440p (2K)",
+   "Müasir vizual çıxış qurğuları.",
+   "HDMI, DisplayPort, Type-C"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"BIOS/UEFI interfeysi, menyuları və operator üçün lazımi tənzimləmələr\" mövzusuna aiddir?",
+  "options": [
+   "Advanced",
+   "İzopropil Spirti",
+   "Ölçüləndirmə və Kəsmə (Crop)",
+   "AVERAGE"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkənin aktiv avadanlıqları — Ruter, Switch, Access Point\" mövzusuna aiddir?",
+  "options": [
+   "Qida (Elektrik) Kabelləri",
+   "Tarix və Vaxt (Date/Time)",
+   "LAN 1–4",
+   "Vizual Nəzarət"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Parol ən azı 8-12 simvoldan ibarət olmalı, böyük-kiçik hərflər (A-z), rəqəmlər (0-9) və xüsusi simvollar (!@#$%^&*) ehtiva etməlidir. Doğum tarixləri və ardıcıl rəqəmlər (123456)…\"",
+  "options": [
+   "Administrator (İnzibatçı)",
+   "Mürəkkəb Parol Standartı",
+   "Fərdi Hesab Məsuliyyəti",
+   "Oxuma və İcra (Read & Execute)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Storage Sense (Yaddaş Hissi)\" nədir?",
+  "options": [
+   "Dərin sistem prosesləri (PID kodları) və fonda işləyən Windows xidmətləri.",
+   "Yerli şəbəkə və ya internet üzərindən ötürülən məlumat axını.",
+   "Brauzerdə çoxlu sayda ağır tablar və ya yaddaş sızması",
+   "Settings → System → Storage"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kompüter işlədiyi müddətdə aktiv proqramların və əməliyyat sisteminin icra kodlarını özündə saxlayan müvəqqəti və yüksək sürətli elektron yaddaşdır. Enerjidən asılıdır; kompüter…\"",
+  "options": [
+   "Daimi Yaddaş Daşıyıcıları (HDD / SSD)",
+   "İş Stansiyası (Workstation)",
+   "Noutbuk (Laptop)",
+   "Operativ Yaddaş (RAM — Random Access Memory)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şrift və abzas formatlaşdırılması standartları\" mövzusuna aiddir?",
+  "options": [
+   "Adlandırma (Rename)",
+   "Masaüstünün Təmizliyi və Kilidlənməsi",
+   "Hierarchy (İyerarxiya / Təşkilati Struktur)",
+   "Underline (Altıxətli — Ctrl + U)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Mənbəyin Təhlükəsizliyi\" nədir?",
+  "options": [
+   "Win + I → Apps → Installed apps",
+   "Əməliyyat sisteminin bit dərəcəsinə uyğun olan versiya (64-bit / x64) seçilməlidir (32-bit proqramlar işləsə də, RAM resursundan tam istifadə edə…",
+   "Əməliyyat sistemi ilə fiziki aparat qurğusu (videokart, printer, səs kartı, şəbəkə adapteri) arasında tərcüməçi rolunu oynayan xüsusi sistem…",
+   "Quraşdırma faylları (.exe, .msi) yalnız istehsalçının rəsmi saytından və ya rəsmi mağazadan (Microsoft Store) endirilməlidir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   "Açıq İcma və Bloq Resursları (Forumlar, Sosial Şəbəkələr)",
+   "Vərəq Ötürücülü Skanerlər (Sheetfed / ADF)",
+   "$A1",
+   "POST (Power-On Self-Test) Mərhələsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Addım 2\" nədir?",
+  "options": [
+   "Mətnə toxunmadan kənardan rəy, qeyd və düzəliş təklifləri yazmaq.",
+   "Standart Şablon və Strukturun Təyini:.",
+   "Eyni anda işləyən digər istifadəçilərin hansı xanada olduğunu göstərir.",
+   "Sənəd daxilində real vaxt rejimində yazışma təmin edir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"A$1\" nədir?",
+  "options": [
+   "Ctrl + C → Ctrl + V",
+   "Qarışıq (Sütun sabit)",
+   "=B2 / E1 (aşağı çəkildikdə növbəti xana =B3 / E2 olacaq və E2 boş olduğundan sistem #DIV/0! xətası verəcək).",
+   "Sətir (1) sabitdir, sütun hərfi (A,B,C...) sərbəst dəyişir (üfüqi başlıqlar üçün istifadə olunur)."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Radiatora yaxınlıqdan qaynaqlanan termik genişlənmə\"",
+  "options": [
+   "Metod 1",
+   "3. Şleyfin dəyişimi",
+   "SATA Məlumat Kabeli",
+   "CPU 4/8-Pin Enerji Xətti"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"File Explorer → Network\"",
+  "options": [
+   "Folder (Qovluq)",
+   "Şəbəkə qonşuluğu",
+   "Test Çapı",
+   "Kompüter adı ilə giriş"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Prosessor, videokart və qida blokunun ayrılan istiliyini kənarlaşdıran radiator və ventilyatorlar (kulerlər) toplusudur.\"",
+  "options": [
+   "Monoblok (All-in-One PC)",
+   "Daimi Yaddaş Daşıyıcıları (HDD / SSD)",
+   "Soyutma Sistemi (Cooling System)",
+   "İş Stansiyası (Workstation)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS PowerPoint mühiti, slayd strukturu və interfeysi\" mövzusuna aiddir?",
+  "options": [
+   "Delete Columns",
+   "Mərkəzi Prosessor (CPU — Central Processing Unit)",
+   "Quick Scan",
+   "Apply to All"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Mündəricatın Yenilənməsi («Update Table»)\" nədir?",
+  "options": [
+   "Baza mətn stili",
+   "1, 2, 4, 6 Pages per sheet",
+   "Sənədə yeni mətnlər əlavə olunduqda və ya başlıqların adı dəyişdikdə mündəricatın üzərində sağ klik → «Update Field» (və ya F9) sıxılır:.",
+   "Səhifələrin printerdən necə çıxacağını ekranda tam miqyasda göstərir. Kənar boşluqların düzgünlüyü və cədvəllərin vərəqə tam oturması burada…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fayl sistemi anlayışı, fayl və qovluq strukturu\" mövzusuna aiddir?",
+  "options": [
+   "Slaydda Mətn Standartı (6x6 Qaydası)",
+   "Klasterləşdirmə və Sektor İdarəetməsi",
+   "4. Sensor və Log Təhlili",
+   "WPA2/WPA3-Enterprise"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Maddi (Kağız daşıyıcı)\"",
+  "options": [
+   "Printer (Çap qurğusu)",
+   "Proyektorlarda İşıq Gücü (Lümen)",
+   "Çap Sürəti",
+   "İnterfeys Dəstəyi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərti formatlaşdırma və diaqramlar\" mövzusuna aiddir?",
+  "options": [
+   "Horizontal / Vertical Axis (Üfüqi və Şaquli Oxlar — X/Y)",
+   "Rəng Sxemi",
+   "Bərpaedici / Təmir Xidməti (Corrective Maintenance)",
+   "Parolun dəyişmə müddəti"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Delete Table\" nədir?",
+  "options": [
+   "Sütunların enini daxildəki ən uzun sözün ölçüsünə uyğunlaşdırır.",
+   "Bütün cədvəli sənəddən tamamilə təmizləyir.",
+   "Bütün seçilmiş sütunu tam ləğv edir.",
+   "Cədvəli vərəq eninə yayır"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Monitorların növləri və əsas texniki xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Standard / Typical",
+   "Antistatik Təbii Fırçalar (ESD Brushes)",
+   "Flicker-Free Texnologiyası",
+   "INT (TAM HİSSƏ)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Standart İstifadəçi (Standard User)\" nədir?",
+  "options": [
+   "Qovluğun xüsusiyyətlərindən istifadəçi üzrə icazə təyini.",
+   "Bütün bildirişlər söndürülür (təhlükəlidir, viruslar sərbəst quraşdırıla bilər).",
+   "əməliyyat sisteminin icazəsiz sistem dəyişikliklərinin qarşısını alan daxili qoruma mexanizmidir. Hər hansı bir proqram sistem fayllarına, reyestrə…",
+   "Məhdud / Fərdi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Əsas Hissə (Bəndlər)\" nədir?",
+  "options": [
+   "Nömrələnmiş tələblər və qaydalar siyahısı",
+   "Qərarın qüvvəyə minməsi və nəzarət mexanizmi",
+   "Daxili Məntiq və İxtisar Yoxlaması:.",
+   "Standart Sənəd Redaktoruna İnteqrasiya:."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"31.08.2026, 14:30\"",
+  "options": [
+   "İş Vərəqi (Worksheet)",
+   "Tarix və Vaxt (Date/Time)",
+   "Tamamilə Üzərinə Yazmaq",
+   "Valyuta Tipli (Currency)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Lokal USB\" nədir?",
+  "options": [
+   "WLAN 802.11 b/g/n/ac",
+   "USB 2.0 / 3.0 Type-A/B",
+   "Videokartın HDMI və ya DP portu",
+   "Bükülmüş cütlük (UTP / STP Cat 5e / Cat 6)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Proqram təminatı, drayverlər və utilitlərin təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "Drayverlər (Device Drivers)",
+   "2. Profil Qeydiyyatı",
+   "Advanced",
+   "Delay (Gecikmə)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Transitions → None\"",
+  "options": [
+   "Sound",
+   "None (Ləğv et)",
+   "Qarışıq Təqdimat",
+   "Səs Effektləri (Sound)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sadə və mürəkkəb şərtli hesablamalar\" mövzusuna aiddir?",
+  "options": [
+   "Sintaksis",
+   "Süzgəci təmizləmək",
+   "Xətkeş (Ruler - Şaquli/Üfüqi)",
+   "Sound"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Fiksatorsuz ucuz kabelin vibrasiyadan laxlaması\"",
+  "options": [
+   "SATA Məlumat Kabeli",
+   "Metod 1",
+   "CPU 4/8-Pin Enerji Xətti",
+   "2. Naqillərin bağlanması"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Crop (Kəsmə)\" nədir?",
+  "options": [
+   "Mətn şəklin fiziki kənar konturlarına maksimum yaxınlaşaraq onu bürüyür.",
+   "Picture Format → Crop",
+   "Picture Format → Compress",
+   "Addım-addım icra olunan ardıcıl mərhələləri (istiqamət oxları ilə) göstərir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Çevik Həcm Artımı\" nədir?",
+  "options": [
+   "Proqram təminatının quraşdırılmadan brauzer üzərindən istifadəsi.",
+   "Əsas mətni pozmadan sənədin kənarlarına rəy və düzəliş təklifləri yaza bilər.",
+   "Yaddaş sahəsi dolduqda yeni fiziki disk almadan xidmət planı vasitəsilə tutum genişləndirilə bilər.",
+   "İstifadəçiyə sənədi yalnız brauzerdə oxumaq icazəsi verilir, onun yerli kompüterə köçürülməsi qadağan olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Monitor, sistem bloku, klaviatura və siçanın ayrıca korpuslarda yerləşdiyi ənənəvi stasionar modeldir.\"",
+  "options": [
+   "Masaüstü Kompüter (Desktop PC / Sistem Bloku)",
+   "Qida Bloku (PSU — Power Supply Unit)",
+   "Daimi Yaddaş Daşıyıcıları (HDD / SSD)",
+   "SSD (Solid State Drive)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Səs yoxdur və kulerlər fırlanmır\" nədir?",
+  "options": [
+   "Qida blokunun gərginlik problemi və ya Ana lövhə",
+   "Lövhə üzərində 4 ədəd kiçik işıq diodu yerləşir: CPU, DRAM, VGA, BOOT. Sistem işə düşərkən bu işıqlar növbə ilə yanır və sönür. Əgər yoxlama hansısa…",
+   "Elektrik cərəyanı daxil olmur və ya CPU yanmışdır",
+   "İdarəetmənin Əməliyyat Sisteminə Ötürülməsi:."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Elektrik cərəyanı daxil olmur və ya CPU yanmışdır\"",
+  "options": [
+   "Səs yoxdur və kulerlər fırlanmır",
+   "Fasiləsiz / Təkrarlanan qısa siqnallar",
+   "3. Yaddaş testi",
+   "4. Qrafik testi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəxsi məlumatların qorunması, məxfilik parametrləri və təhlükəsiz saxlama\" mövzusuna aiddir?",
+  "options": [
+   "Kukilər (Cookies) və İzləmə",
+   "Heç vaxt Bildirmə (Never Notify)",
+   "Bütöv abzasın seçilməsi",
+   "#REF!"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ctrl + Siçanla sürükləmə\"",
+  "options": [
+   "Kopyalama",
+   "Gizlətmə (Hide)",
+   "Daxiletməni təsdiqləmək",
+   "Valyuta Tipli (Currency)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kompüterə qoşulmuş yeni USB flash kartların, xarici disklərin və ya internetdən yüklənmiş xüsusi qovluqların ayrıca yoxlanılmasıdır.\"",
+  "options": [
+   "Casus Proqram (Spyware)",
+   "Casus Proqramlar (Spyware) və Keylogger-lər",
+   "Tam Skan (Full Scan)",
+   "Seçmə / Fərdiləşdirilmiş Skan (Custom Scan)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter qurğularında nasazlıqların aşkarlanması və aradan qaldırılması prinsipləri\" mövzusuna aiddir?",
+  "options": [
+   "Page Number",
+   "Göy Ekran (BSOD) xətası çıxır.",
+   "Kopyalama",
+   "Sort Oldest to Newest"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"RIGHT\" nədir?",
+  "options": [
+   "Hesabat_2026.xlsx",
+   "Standart riyazi qayda ilə işləyir (5-dən kiçikdirsə aşağı, 5 və yuxarıdırsa yuxarı yuvarlaqlayır):.",
+   "=UPPER(mətn)",
+   "=CONCAT(mətn1; mətn2; ...)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"4K 60-120 Hz/8K\"",
+  "options": [
+   "HDMI 2.0 / 2.1",
+   "VGA",
+   "Əsas Monitor",
+   "Video / Qrafik Kabellər"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Operativ Yaddaş (RAM) İzlənməsi\" nədir?",
+  "options": [
+   "İnformasiyanın ən kiçik və bölünməz ölçü vahididir. Yalnız iki qiymətdən birini ala bilər: 0 və ya 1.",
+   "Eyni anda çoxlu tətbiqin və brauzer pəncərəsinin açılması RAM-ın tam dolmasına səbəb olur. Task Manager (Tapşırıq Meneceri) vasitəsilə ən çox yaddaş…",
+   "Piksellər toplusundan (rastr) və ya riyazi formullarla qurulan xətlərdən (vektor) ibarət təsvirlərdir.",
+   "Hərflər, rəqəmlər, durğu işarələri və xüsusi simvolların kodlaşdırılmış ardıcıllığıdır. Ən az yaddaş tutan informasiya növüdür."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Multimedia, interaktivlik və nümayiş rejimləri\" mövzusuna aiddir?",
+  "options": [
+   "Xüsusi / Xarici Daşıyıcı Skanı (Custom / Removable Drive Scan)",
+   "Növbənin Təmizlənməsi",
+   "Huffman Kodlaşdırması",
+   "Video Çarx Formatında Çıxarış («Create a Video»)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Addım-addım icra olunan ardıcıl mərhələləri (istiqamət oxları ilə) göstərir.\"",
+  "options": [
+   "Behind Text (Mətnin arxasında)",
+   "Corrections",
+   "Process (Proses)",
+   "Şəkil Korreksiyası (Corrections & Color)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"SATA şleyflərindəki zəif kontakt informasiya paketlərinin itməsinə və diskin fasiləsiz təkrar sorğular göndərərək sistemi dondurmasına yol açır.\"",
+  "options": [
+   "2. Naqillərin bağlanması",
+   "Siqnal Təhrifləri (CRC Xətaları)",
+   "3. Şleyfin dəyişimi",
+   "Metod 1"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Word mühiti, interfeys elementləri və Ribbon lenti\" mövzusuna aiddir?",
+  "options": [
+   "Sürətli Çıxış Paneli (Quick Access Toolbar)",
+   "ipconfig /release",
+   "Cycle",
+   "File System Shield"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Review (Nəzərdən keçir)\" nədir?",
+  "options": [
+   "Orfoqrafik yoxlama (Spelling & Grammar), lüğət tərcüməsi və redaktor qeydlərinin (Comments / Track Changes) aparılması üçün istifadə olunur.",
+   "Ctrl + A qısayolu sıxılır.",
+   "Mətni yaddaşa alır, əsli yerində qalır.",
+   "Ctrl + Shift + C / Ctrl + Shift + V"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya anlayışı, informasiya növləri və ölçü vahidlərinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Qızıl Suyuna Çəkilmiş Bıçaq-Kontaktlar (Gold-plated Pins)",
+   "Mətn informasiyası",
+   "Struktur Kabel",
+   "1 Uzun, 2 və ya 3 Qısa siqnal"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Wi-Fi şəbəkələrinin iş prinsipi və təhlükəsizlik şifrələri\" mövzusuna aiddir?",
+  "options": [
+   "Forget Network",
+   "8 Ədəd Pin",
+   "Məlumat Zolaqları (Data Bars)",
+   "Şərhçi (Commenter)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Cədvəlin ən son sağ-aşağı xanasında duraraq klaviaturadan Tab düyməsini basdıqda dərhal yeni sətir açılır.\"",
+  "options": [
+   "Cədvəlin Sonuna Tez Sətir Əlavəsi",
+   "Sərhədlər və Doldurma (Borders & Shading)",
+   "Cədvəl Əlavə Et (Insert Table)",
+   "Vizual Şəbəkə Seçimi (Grid)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"2.4 GHz / 5 GHz Simsiz radio dalğaları\"",
+  "options": [
+   "Rəng Qradiyenti",
+   "Vərəqin ilişməsi (Paper Jam)",
+   "Simli Şəbəkə Qoşulması (Ethernet LAN)",
+   "Simsiz Şəbəkə Qoşulması (Wi-Fi / Wi-Fi Direct)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"daimi yaddaş daşıyıcısında saxlanılan, müəyyən ad və genişlənməyə malik olan, vahid tamlıq təşkil edən baytlar ardıcıllığıdır. Faylın adı iki hissədən ibarətdir:…\"",
+  "options": [
+   "FAT32",
+   "Klasterləşdirmə və Sektor İdarəetməsi",
+   ".docx",
+   "Fayl"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsas maddələrin daxilində alt bəndlər pilləli şəkildə sıralanır (1., 1.1., 1.1.1.).\"",
+  "options": [
+   "Çoxsəviyyəli Siyahılar (Multilevel Lists)",
+   "Headings (Başlıqlar Naviqasiyası)",
+   "Yuxarı Sərlövhə (Header)",
+   "Header"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Task Manager → Startup\"",
+  "options": [
+   "Storage Sense (Yaddaş Hissi)",
+   "Task Manager",
+   "Details / Services",
+   "Startup Apps Meneceri"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Printerin kompüterə qoşulması və test çapının həyata keçirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Variants (Variantlar)",
+   "Bold (Qalın — Ctrl + B)",
+   "Vərəq Təmizliyi",
+   "HDD (Sərt Disk)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"filetype:\" nədir?",
+  "options": [
+   "Göstərilən açar sözlərdən ən azı birinin nəticədə olmasını tələb edir.",
+   "Axtarışı yalnız göstərilən domen və ya veb-sayt daxilində aparır.",
+   "Göstərilən sözü və ya mənbəni axtarış nəticələrindən tamamilə çıxarır.",
+   "Yalnız müəyyən fayl formatlarını (.pdf, .docx, .xlsx, .pptx) axtarır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter elementlərinin tozlanmasının səbəbləri və profilaktik təmizləmə üsulları\" mövzusuna aiddir?",
+  "options": [
+   "Xüsusi / Xarici Daşıyıcı Skanı (Custom / Removable Drive Scan)",
+   "Zərbəyə Davamlılıq",
+   "Mərhələ 4",
+   "Qərəzsizlik (Obyektivlik)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Siyahılar, kolontitullar və naviqasiya\" mövzusuna aiddir?",
+  "options": [
+   "Double Bottom",
+   "Mərhələ 3",
+   "Qiymət / Tutum Nisbəti",
+   "Different First Page"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Multimedia, interaktivlik və nümayiş rejimləri\" mövzusuna aiddir?",
+  "options": [
+   "Kompüter açılarkən «No Bootable Device Found» yazılır.",
+   "Generativ Süni İntellekt (GenAI)",
+   "ipconfig /renew",
+   "Video Format & Playback"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Printerin kompüterə qoşulması və test çapının həyata keçirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Maşın Görməsi (Computer Vision / OCR)",
+   "Bildirişlər və Fokus Köməkçisi («Focus Assist / Do Not Disturb»)",
+   "Rəng Qradiyenti",
+   "Rəsmi, təsdiqlənmiş və göndəriləcək sənədlər"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kafe, otel və hava limanlarının açıq Wi-Fi şəbəkələrində bank əməliyyatları aparmaq və ya korporativ daxili sistemlərə daxil olmaq qadağandır (zərurət olduqda yalnız etibarlı.\"",
+  "options": [
+   "Təxirəsalınmazlıq və Qorxu Hissi Yaratmaq",
+   "İctimai Wi-Fi Şəbəkələrində Ehtiyat",
+   "E-mail Phishing",
+   "Smishing (SMS Fişinq)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Obyekt animasiyaları və dinamik effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Sistem Proqram Təminatı",
+   "Mətn Siyahılarının Bənd-Bənd Gəlməsi",
+   "Kağız Ölçüsü (Paper Size)",
+   "Matrix / Pyramid"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Fasiləsiz və ya uzun siqnallar\" nədir?",
+  "options": [
+   "RAM-ın yuvaya tam oturmaması və ya videokartın aşkar edilməməsi xətasıdır.",
+   "Prosessor və korpus ventilyatorları",
+   "RAM-ın altındakı kəsik (notch) yuvanın çıxıntısı ilə uyğunlaşdırılır və hər iki kənarından bərabər güclə basılır (xarakterik «klik» səsi…",
+   "Korpus daxilindəki naqillər xüsusi bağlayıcılarla (zip-tie) səliqəyə salınmalıdır ki, ventilyatorların pərlərinə ilişməsin və hava axınına mane…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Fişinq hücumları və təhlükəsiz internetdən istifadə qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Məktəbli Pozanı (Silgi — Qələm pozanı)",
+   "Təxirəsalınmazlıq və Qorxu Hissi Yaratmaq",
+   "Kəsmə (Cut — Ctrl + X)",
+   "Align Center (Orta-Mərkəz)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"3D Printerlər\" nədir?",
+  "options": [
+   "Maddi (Kağız daşıyıcı)",
+   "Həcmli Fiziki Obyekt",
+   "İclas otağında işıqlar söndürülmədən sənədlərin və cədvəllərin aydın oxunması üçün proyektorun parlaqlığı ən azı 3000–4000 ANSI Lümen olmalıdır.",
+   "Nəmə və işığa tam dözümlü"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Antistatik Fırça\" nədir?",
+  "options": [
+   "Ana plata səthi, RAM və PCIe yuvaları",
+   "Ventilyator oxuna və qanadlarına toz yapışması",
+   "Xüsusi maye-kristal təmizləyici sprey mikrofitr əskiyə püskürdülərək (birbaşa ekrana yox) dairesel hərəkətlərlə silinir.",
+   "Qısa hava zərbələri"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Effect Options\" nədir?",
+  "options": [
+   "Transitions → Effect Options",
+   "Yalnız «After: 00:08.00»",
+   "[No Sound]",
+   "Keçid animasiyasının icra olunma vaxtıdır (saniyə ilə ölçülür)."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mərhələ 4\" nədir?",
+  "options": [
+   "Qısa ilkin göstərişlər əsasında tam rəsmi sənəd mətni formalaşdırır.",
+   "Nömrələnmiş tələblər və qaydalar siyahısı",
+   "Struktur Planının (Outline) Qurulması:.",
+   "Daxili Məntiq və İxtisar Yoxlaması:."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"TKIP (Temporal Key Integrity)\"",
+  "options": [
+   "SSID (Service Set Identifier)",
+   "WPA2/WPA3-Enterprise",
+   "WPA (Wi-Fi Protected Access)",
+   "2.4 GHz Tezliyi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya daşıyıcıları, yaddaş qurğuları və məlumatların köçürülməsi qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Wi-Fi 6 (802.11ax)",
+   "Fiber-Optik Kabel (Optical Fiber)",
+   "USB 3.2 Gen 2 (Qırmızı və ya Yaşıl rəngli)",
+   "Mexaniki Quruluş"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"HWiNFO / AIDA64\" nədir?",
+  "options": [
+   "Qıfıllı SATA 3.0 kabeli",
+   "Qida blokundan çıxan +12V xətti ana plataya və ya videokarta çatana qədər +11.2V və ya daha aşağı səviyyəyə enir ki, bu da komponentlərin qəfil…",
+   "Proqram vasitəsilə +12V, +5V, +3.3V xətlərinin dəyəri izlənilir. Norma daxilində sapma ±5%-dən çox olmamalıdır (+12V xətti üçün 11.40V-12.60V).",
+   "SATA şleyflərindəki zəif kontakt informasiya paketlərinin itməsinə və diskin fasiləsiz təkrar sorğular göndərərək sistemi dondurmasına yol açır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin POST ilkin test mərhələsi və funksiyası\" mövzusuna aiddir?",
+  "options": [
+   "Fayl və Arxivlərin Şifrələnməsi",
+   "Siyahıdan çıxış",
+   "Insert Above / Below",
+   "Təkrarlanan uzun siqnallar"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Çıxış qurğularının növləri və istifadə xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "İnterfeys Dəstəyi",
+   "Column Chart",
+   "Add Animation Düyməsi",
+   "Wi-Fi 5 (802.11ac)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Vaxt (Time)\" nədir?",
+  "options": [
+   "DHCP serverə sorğu göndərərək kompüterə tam yeni IP ünvanı və konfiqurasiya dəstini tələb edir.",
+   "Reply from 192.168.1.1: bytes=32 time=1ms TTL=64",
+   "Əməliyyat sisteminin yaddaşında toplanmış köhnəlmiş DNS keş məlumatlarını tamamilə təmizləyir.",
+   "Siqnalın gedib-qayıtma müddətidir (milisaniyə — ms). Lokal şəbəkədə time<1 ms, internetdə isə 10-50 ms normal sayılır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəxsi məlumatların qorunması, məxfilik parametrləri və təhlükəsiz saxlama\" mövzusuna aiddir?",
+  "options": [
+   "Switch → Router",
+   "ipconfig",
+   "Şəbəkə Paylaşımlarında Giriş İcazələri (NTFS Permissions)",
+   "ROUNDUP (YUXARI YUVARLAQLAŞDIRMA)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin arxitekturası, fərdi kompüterlərin təsnifatı və sistem blokunun daxili elementləri\" mövzusuna aiddir?",
+  "options": [
+   "Ana Plata (Motherboard)",
+   "Kommersiya və Xidməti Sirlərin Qorunması",
+   "Çox-modlu (Multi-Mode Fiber — MMF)",
+   "Optik Simvol Tanıma (OCR — Optical Character Recognition)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İşçi noutbuklar, qonaq Wi-Fi\"",
+  "options": [
+   "İstifadə Sahəsi",
+   "Qovşaq/Kompüter Hissəsi (Host ID)",
+   "Aktiv şəbəkə adapteri (məsələn",
+   "Statik IP (Manual)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkə resursları — qovluq, printer və s. və onların paylaşdırılması prinsipləri\" mövzusuna aiddir?",
+  "options": [
+   "2-ci Səviyyə (Sənəd)",
+   "Public (İctimai / Kafe)",
+   "Yaşıl",
+   "Miqyas İdarəedicisi (Zoom Slider)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Portativ noutbukların və ya xarici sərt disklərin oğurlanması/itirilməsi riskinə qarşı Windows-un daxili.\"",
+  "options": [
+   "Bütöv Diskin Şifrələnməsi (BitLocker)",
+   "Brauzerdə Parol Yaddaşı",
+   "Məlumatların Avtomatik Təmizlənməsi",
+   "Ümumi Şəxsi Məlumatlar"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter elementlərinin tozlanmasının səbəbləri və profilaktik təmizləmə üsulları\" mövzusuna aiddir?",
+  "options": [
+   "Addım 2",
+   "Xarici Portlar (USB/HDMI)",
+   "Insert Left / Right",
+   "Maliyyə Məlumatları"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"İş Stansiyası (Workstation)\" nədir?",
+  "options": [
+   "220V dəyişən cərəyanı (AC) sistem blokunun komponentlərinin tələb etdiyi sabit alçaq gərginliklərə (+12V, +5V, +3.3V DC) çevirən və onları elektrik…",
+   "Kompüterin əsas «beyni» hesab olunur. Bütün məntiqi, arifmetik əməliyyatları icra edir və digər qurğuların işini idarə edir. Prosessorun performansı…",
+   "NAND Flash mikrosxemləri üzərində qurulmuş bərkcisimli daşıyıcıdır; HDD-dən 5–30 dəfə daha sürətlidir və zərbələrə qarşı davamlıdır.",
+   "Yüksək hesablama gücünə, çoxnüvəli prosessorlara və böyük RAM həcminə malik peşəkar kompüterlərdir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"PDF Formatında Çıxarış («Create PDF/XPS Document»)\" nədir?",
+  "options": [
+   "Playback → Hide During Show",
+   "Shapes → Action Buttons",
+   "Təqdimatın şriftlərini, şəkillərini və formatını dondurur. Sənəd digər kompüterlərdə və ya mobil telefonlarda açıldıqda heç bir şrift itkisi və…",
+   "Playback → Play Full Screen"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sətir (1) sabitdir, sütun hərfi (A,B,C...) sərbəst dəyişir (üfüqi başlıqlar üçün istifadə olunur).\"",
+  "options": [
+   "A$1",
+   "AutoFill Double-Click",
+   "Səhv düstur",
+   "AutoFill Drag"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Konnektor plastikinin temperaturu\"",
+  "options": [
+   "Plastik Konnektorların Əriməsi",
+   "Metod 3",
+   "CrystalDiskInfo",
+   "Termal Kamera / Toxunuş"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"List Folder Contents\" nədir?",
+  "options": [
+   "Operatorlar) axtarılıb seçilir.",
+   "Security → Edit → Add",
+   "Sənədləri açmaq, mətni oxumaq, kopyalamaq və proqramları icra etmək.",
+   "Qovluğun daxilindəki fayl və alt qovluqların siyahısını görmək."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Proqram təminatının quraşdırılmadan brauzer üzərindən istifadəsi.\"",
+  "options": [
+   "SaaS (Software as a Service)",
+   "PaaS (Platform as a Service)",
+   "Yalnız Baxış (Viewer / Read-only)",
+   "Redaktor (Editor / Full Control)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Axtarışı yalnız göstərilən domen və ya veb-sayt daxilində aparır.\"",
+  "options": [
+   "site:",
+   "Format Göstəricisi",
+   "\" \" (Dırnaq işarəsi)",
+   "Addım 3"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bərkcisimli SSD disklərdə fiziki hərəkət edən mexanizm olmadığı üçün onlara defraqmentasiya etmək qəti qadağandır (bu, SSD-nin xanalarını yeyir və ömrünü azaldır). SSD-lər üçün…\"",
+  "options": [
+   "Fidyə Proqramları (Ransomware / Qəsbkarlar)",
+   "TRIM Optimallaşdırılması (SSD üçün)",
+   "Defraqmentasiya (HDD üçün)",
+   "Evristik Təhlil və Davranış Nəzarəti (Heuristic & Behavioral Analysis)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkə resursları — qovluq, printer və s. və onların paylaşdırılması prinsipləri\" mövzusuna aiddir?",
+  "options": [
+   "Mürəkkəb Parol Standartı",
+   "Security",
+   "Klaviatura",
+   "UNC (Universal Naming Convention) Ünvan Formatı"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Wi-Fi şəbəkələrinin iş prinsipi və təhlükəsizlik şifrələri\" mövzusuna aiddir?",
+  "options": [
+   "Mətn Dəqiqliyi",
+   "Paylaşım olan kompüterin IP ünvanı və ya şəbəkə adı daxil edilir",
+   "NTFS (New Technology File System)",
+   "Açıq Şəbəkə (Open)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Heç bir yer tutucusu olmayan tam təmiz ağ vərəqdir; sərbəst qrafik kollajlar və böyük təsvirlər üçün seçilir.\"",
+  "options": [
+   "Themes (Temalar)",
+   "Comparison (Müqayisə)",
+   "Nümayişi cari slayddan başlatmaq",
+   "Blank (Boş Slayd)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün aparat komponentlərini (CPU, RAM, disklər, videokart) fiziki və elektrik baxımından bir-birinə bağlayan, onların arasında məlumat şinlərini (Bus) təmin edən ən böyük…\"",
+  "options": [
+   "HDD (Hard Disk Drive)",
+   "Ana Plata (Motherboard)",
+   "Noutbuk (Laptop)",
+   "Soyutma Sistemi (Cooling System)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əvvəlki siyahının nömrə ardıcıllığını davam etdirir.\"",
+  "options": [
+   "Continue Numbering",
+   "Restart at 1",
+   "Siyahıdan çıxış",
+   "Pages"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Virtual maşınların (VirtualBox, VMware) işləməsi üçün aparat dəstəyinin aktivləşdirilməsi.\"",
+  "options": [
+   "SATA Nəzarətçisinin AHCI Rejiminə Qoyulması",
+   "Zavod Parametrlərinin Bərpası (Load Optimized Defaults)",
+   "Virtualization Technology (Intel VT-x / AMD-V)",
+   "Təhlükəsizlik Mexanizmi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter şəbəkələrinin təsnifatı: Lokal (LAN) və Qlobal (WAN) şəbəkələr\" mövzusuna aiddir?",
+  "options": [
+   "Hidden (Gizli)",
+   "Prosessor (CPU)",
+   "Sıxılmış Arxivlər",
+   "Operativ Kommunikasiya"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Proqram təminatı, drayverlər və utilitlərin təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "Diaqramın Daşınması (Move Chart)",
+   "Ransomware (Fidyəçi)",
+   "Utilitlər (Utilities)",
+   "Fişinq (Phishing) Məktublarının Tanınması"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Şəbəkə Qurdları (Worms)\" nədir?",
+  "options": [
+   "İstifadəçinin müdaxiləsi olmadan yerli şəbəkə (LAN) və internet portları vasitəsilə kompüterdən-kompüterə yayılır.",
+   "Ənənəvi maqnit disklərdə (HDD) fayllar silinib yenidən yazıldıqca, tək bir sənədin hissələri diskin müxtəlif yerlərinə səpələnir (fraqmentasiyaya…",
+   "Klaviaturada basılan hər bir düyməni, kredit kartı rekvizitlərini və parolları gizli qeydə alaraq kənara göndərir.",
+   "Dağınıq fayl bloklarını nizamlayaraq yanaşı sektorlara yığır. Nəticədə diskin oxuma sürəti bərpa olunur."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Altındakı optik sensor yuvası pambıqlı çubuqla tozdan təmizlənir, sürüşdürücü ayaqcıqların (teflon qatların) kənarındakı kirlər silinir.\"",
+  "options": [
+   "Ana Lövhə Səthi",
+   "Mərhələ 3",
+   "Mərhələ 1",
+   "Optik Siçan"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Tikilmə sahəsi (Gutter)\" nədir?",
+  "options": [
+   "Mətni dərhal növbəti səhifəyə keçirir. Enter düyməsini ard-arda basmaqla növbəti səhifəyə keçmək qəti qadağandır (əvvəlki səhifəyə mətn əlavə…",
+   "Cildlənəcək kitablarda və böyük arxivlərdə sol tərəfə əlavə olunan xüsusi ehtiyat boşluqdur (0.5-1.0 sm).",
+   "1.0 sm (və ya 1.5 sm).",
+   "Vərəqin kənarları ilə mətn bloku arasındakı məsafədir. Dövlət kargüzarlıq təlimatına uyğun standart rəsmi ölçülər:."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"1920×1080 (Analogiya)\"",
+  "options": [
+   "Qida (Elektrik) Kabelləri",
+   "Xarici SSD / Sürətli Fleşkart",
+   "HDMI (High-Definition Multimedia Interface)",
+   "VGA"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"LOWER (KİÇİK)\" nədir?",
+  "options": [
+   "=LOWER(mətn)",
+   "=TRIM(mətn)",
+   "Standart riyazi qayda ilə işləyir (5-dən kiçikdirsə aşağı, 5 və yuxarıdırsa yuxarı yuvarlaqlayır):.",
+   "=UPPER(mətn)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellekt alətlərinin imkanları, məlumatların əldə edilməsi və mətn layihələrinin hazırlanması\" mövzusuna aiddir?",
+  "options": [
+   "Startup apps (Avtoyükləmə)",
+   "Müddət (Duration)",
+   "Əsas Hissə (Bəndlər)",
+   "Kulerlərin fırlanması"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Məktəbli Pozanı (Silgi — Qələm pozanı)\" nədir?",
+  "options": [
+   "Qızma nəticəsində plastikdə saralma",
+   "Təhlükəsiz Sökülmə:.",
+   "99.9% IPA ilə yağsızlaşdırma",
+   "RAM və ya videokartın çıxarıla bilən lövhələrindəki qızılı kontakt zolaqlarını təmizləmək üçün ən effektiv mexaniki vasitədir. Kontaktları cızmadan…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərti formatlaşdırma və diaqramlar\" mövzusuna aiddir?",
+  "options": [
+   "Full Control",
+   "ping 192.168.1.1 -t",
+   "Chart Title",
+   "Crimper-ə Yerləşdirmə"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əsas mətni pozmadan sənədin kənarlarına rəy və düzəliş təklifləri yaza bilər.\"",
+  "options": [
+   "Baş Qovluq (1-ci səviyyə)",
+   "Alt Qovluq (2-ci səviyyə)",
+   "Ünvana Görə Paylaşım (Specific People)",
+   "Şərhçi (Commenter)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Noutbuk (Laptop)\" nədir?",
+  "options": [
+   "Bütün aparat komponentlərini (CPU, RAM, disklər, videokart) fiziki və elektrik baxımından bir-birinə bağlayan, onların arasında məlumat şinlərini…",
+   "Ekran, klaviatura, batareya və sistem blokunun tək qatlanan korpusda birləşdiyi portativ cihazdır.",
+   "Prosessor, videokart və qida blokunun ayrılan istiliyini kənarlaşdıran radiator və ventilyatorlar (kulerlər) toplusudur.",
+   "Əməliyyat sisteminin, sənədlərin, verilənlər bazalarının uzunmüddətli saxlanması üçün nəzərdə tutulmuş enerjidən asılı olmayan qurğulardır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Təkrarlanan, fasiləsiz prosesləri (məsələn: sənədin dövriyyə mərhələlərini) əks etdirir.\"",
+  "options": [
+   "Ölçüləndirmə və Kəsmə (Crop)",
+   "Cycle (Dövr)",
+   "Fiqur daxilinə yazı",
+   "Mətn Daxil Edilməsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yoluxmuş USB daşıyıcılar, şəbəkə\"",
+  "options": [
+   "Ransomware (Fidyəçi)",
+   "Virus / Qurd",
+   "Ehtiyat Nüsxələmə (Backup)",
+   "Custom Scan"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Məntiqi Şərt (Logical Test)\" nədir?",
+  "options": [
+   "=IF(B2 >= 51; \"Keçdi\"; \"Kəsildi\")",
+   "=IF(D2 = 0; \"Ödənilib\"; \"Borclu\")",
+   "Yoxlanılan müqayisə ifadəsidir (>, <, >=, <=, =, <>).",
+   "Köhnə və yeni bütün Excel versiyalarında işləyir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Collated (Dəstələnmiş — 1,2,3 - 1,2,3)\" nədir?",
+  "options": [
+   "Çoxsəhifəli sənədin nüsxələrini hazır komplekt şəklində ardıcıl çıxarır (operator üçün vaxta qənaətdir).",
+   "Proqram hansı mətnlərin mündəricata düşəcəyini məhz bu Heading teqləri vasitəsilə təyin edir.",
+   "Ctrl + Shift + 8",
+   "Stil üzərində sağ klikləyib «Modify» seçildikdə şrift və ya rəng dəyişdirilərsə, sənəddəki yüzlərlə eynisəviyyəli başlıq anında yeni dizayna…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"BitLocker Drive Encryption\" nədir?",
+  "options": [
+   "Yalnız proqramlar kompüterdə dəyişiklik etməyə çalışdıqda xəbərdarlıq edir.",
+   "Bütün diski (C: / D:) aparat səviyyəsində (TPM çipi ilə) şifrələyir.",
+   "Tam / Mütləq Nəzarət",
+   "Əməliyyatın şüurlu icra edildiyini təsdiqləyən «Bəli / Xeyr» pəncərəsi çıxır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkənin aktiv avadanlıqları — Ruter, Switch, Access Point\" mövzusuna aiddir?",
+  "options": [
+   "Elmi və Təhsil Müəssisələrinin Resursları (.edu, .edu.az)",
+   "Connect using different credentials",
+   "SATA Nəzarətçisinin AHCI Rejiminə Qoyulması",
+   "Switch (Kommutator)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Vizual kadrların və audio cığırların vahid axında birləşməsidir.\"",
+  "options": [
+   ".PDF (Portable Document Format)",
+   "Fayl Uzantılarının Görünməsi",
+   ".MP3",
+   "Video"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Xanaların formatlaşdırılması və ölçülərin idarəsi\" mövzusuna aiddir?",
+  "options": [
+   "Şin (Bus Topologiyası)",
+   "Stil Dəyişikliyinin Bir Mərkəzdən İdarəsi",
+   "Axtar və Əvəzlə (Replace — Ctrl + H)",
+   "Şrift Qarnituru və Ölçüsü"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"IP ünvanlaşma (IPv4) və alt şəbəkə maskası haqqında anlayış\" mövzusuna aiddir?",
+  "options": [
+   "Konfiqurasiya",
+   "Proqram və Verilənlərin Paylaşılması",
+   "AutoFit to Window",
+   "İnformasiya və Periferiya Kabelləri"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Siqnatura Analizi (Signature-based Detection)\" nədir?",
+  "options": [
+   "Cari açılan və yüklənən bütün fayllar",
+   "Bərkcisimli SSD disklərdə fiziki hərəkət edən mexanizm olmadığı üçün onlara defraqmentasiya etmək qəti qadağandır (bu, SSD-nin xanalarını yeyir və…",
+   "Faylın tərkibini bazada olan məlum virus kodlarının rəqəmsal imzaları (siqnaturaları) ilə müqayisə edir.",
+   "Bütün daxili bərkcisimli və sərt diskləri, arxiv fayllarını bayt-bayt yoxlayır (daha çox vaxt tələb edir)."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Avtomatlaşdırma alətləri, üslublar və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Stil Dəyişikliyinin Bir Mərkəzdən İdarəsi",
+   "Fayl və Arxivlərin Şifrələnməsi",
+   "Sütun Eninin Əllə Dəyişdirilməsi",
+   "SUM (CƏM)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin resursları və Tapşırıq menecerinin (Task Manager) təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "Wi-Fi 4 (802.11n)",
+   "site:",
+   "Processes (Proseslər)",
+   "Mərhələ 2"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Pin 3 (Ağ-Yaşıl)\"",
+  "options": [
+   "Switch → Router",
+   "Daxili Keçid Mexanizmi",
+   "Pin 1 (Ağ-Yaşıl)",
+   "Router → Router"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Dəyər >5000\"",
+  "options": [
+   "Duplicate Values",
+   "Greater Than",
+   "Legend (Şərti İşarələr / Leqenda)",
+   "Text that Contains"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"4 cütlük bir-birindən ayrılır, bükümlər tamamilə açılır və naqillər barmaqlar arasında sıxılaraq tam düz hala gətirilir.\"",
+  "options": [
+   "Standarta Uyğun Düzülüş",
+   "Cütlük 2",
+   "Kabel Kəsici",
+   "Cütlüklərin Açılması və Düzləndirilməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Təhlükəsiz internetdən istifadə qaydaları, zərərli proqramlar və antivirus mühafizəsi\" mövzusuna aiddir?",
+  "options": [
+   "Mənbə İstinadlarının Düzgün Göstərilməsi",
+   "Mətn Daxil Edilməsi",
+   "Böyük Dil Modelləri (LLM)",
+   "Quick Scan"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Naqillər sırası pozulmadan RJ-45 konnektorunun daxilinə tam dirənənə qədər itələnir. Konnektorun ön şəffaf divarından baxdıqda hər 8 mis naqilin öz kanalının ən son nöqtəsinə…\"",
+  "options": [
+   "8 Ədəd Pin",
+   "Qəhvəyi cütlük",
+   "Konnektora Daxil Edilmə",
+   "Kəsim Uzunluğu"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Məktubun görünən başlığında «Azərbaycan Beynəlxalq Bankı» yazılsa da, göndərən ünvanının domen hissəsində kənar və ya oxşar hərflərlə dəyişdirilmiş saxta ünvanlar olur (məsələn:…\"",
+  "options": [
+   "Göndərənin E-poçt Ünvanının Təhrifi",
+   "Şifrə Menecerləri",
+   "Müraciət Forması",
+   "Brauzer Təhlükəsizliyi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Cədvəllərin qurulması və matris strukturları\" mövzusuna aiddir?",
+  "options": [
+   "COUNT",
+   "Sərhədlər və Doldurma (Borders & Shading)",
+   "Request timed out",
+   "Nəmlik və Qısaqapanma"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"UPPER (BÖYÜK)\" nədir?",
+  "options": [
+   "=PROPER(mətn)",
+   "=TRIM(mətn)",
+   "=UPPER(mətn)",
+   "Mətnin ən solundan başlayaraq tələb olunan sayda simvolu kəsib götürür:."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Test Çapı\" nədir?",
+  "options": [
+   "Printer Properties → Print Test Page",
+   "Siyahıdan boş olan hər hansı hərf (məsələn: Z:) seçilir.",
+   "Kompüter sönülüdür, IP səhvdir və ya Firewall bloklayır",
+   "Şəbəkə qovluğunun tam yolu yazılır (məsələn: \\\\192.168.1.10\\Muhasibat) və ya «Browse» düyməsi ilə seçilir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"4. İkiqat Giriş (2FA)\" nədir?",
+  "options": [
+   "Giriş zamanı birdəfəlik kod tələbinin qurulması",
+   "Ərizə, protokol, arayış və təhvil-təslim aktlarının ilkin strukturunun və mətninin saniyələr ərzində formalaşdırılması.",
+   "Veb-brauzerdə yalnız platformanın rəsmi domen ünvanına (məsələn: chatgpt.com, gemini.google.com, claude.ai) daxil olunmalıdır.",
+   "Qrafik təsvirlərdəki obyektləri və skan edilmiş sənədlərdəki çap/əl yazılarını tanıyan texnologiyadır."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Siyahıdan çıxış\" nədir?",
+  "options": [
+   "Enter düyməsini iki dəfə basmaq",
+   "Insert → Header",
+   "Hər bir bəndin qarşısına nöqtə, kvadrat, ox və ya xüsusi qrafik marker qoyulur.",
+   "Mətndəki başlıqlara «Heading 1», «Heading 2», «Heading 3» stilləri verildikdə, Naviqasiya panelində interaktiv ağacvari struktur yaranır. Başlığın…"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"«Cavabı verməzdən əvvəl məntiqi ardıcıllığı addım-addım təhlil et.».\"",
+  "options": [
+   "Təlim Bazası Məhdudiyyətləri (Cutoff Date)",
+   "Saxta İstinad Uydurma",
+   "Addım-Addım İzah İstəyin (Chain-of-Thought)",
+   "İstinadların (Linklərin) Real Olub-Olmamasının Təyini"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter şəbəkələrinin təsnifatı: Lokal (LAN) və Qlobal (WAN) şəbəkələr\" mövzusuna aiddir?",
+  "options": [
+   "AutoFit Row Height",
+   "Təhlükəsizlik Səviyyəsi",
+   "References (İstinadlar)",
+   "Mərhələ 3"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İşıq diodlu şəbəkə yuvası\"",
+  "options": [
+   "USB 3.2 Gen 2 (Qırmızı və ya Yaşıl rəngli)",
+   "İnteqrasiya Olunmuş və Diskret Qrafika Fərqi",
+   "DVI / VGA (Köhnə modellərdə)",
+   "RJ-45 (LAN)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"All Borders (Bütün Sərhədlər)\" nədir?",
+  "options": [
+   "Əgər ədədi və ya tarix tipli xana sütun enindən böyük olarsa, xanada ##### simvolları görünür. Bu nasazlıq proqram səhvi deyil; sütun xəttinə iki…",
+   "Hündür sətirlərdə yazının xananın yuxarısında («Top Align»), tən ortasında («Middle Align») və ya aşağısında («Bottom Align») durmasını təyin edir.…",
+   "Bütün daxili və xarici xana xətlərini nazik xətlə çəkir (baza cədvəl şəbəkəsi).",
+   "Seçilmiş xanaları birləşdirir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Yeni vərəq\" nədir?",
+  "options": [
+   "Shift + F11 və ya «+»",
+   "Xana seçilir və yeni mətn yazılır (köhnə yazı tam silinir).",
+   "İkiqat klik / Rename",
+   "Düstur sətrinin solunda"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"8 simvol, hərf və rəqəm qarışığı (Baki2026)\"",
+  "options": [
+   "Çoxfaktorlu Autentifikasiya (MFA / 2FA)",
+   "Zəif Parollar",
+   "Orta Parollar",
+   "Məxfilik (Confidentiality)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Dil və Üslub\" nədir?",
+  "options": [
+   "Şirkətin daxili büdcəsi, bank hesab nömrələri",
+   "Uydurma maddə nömrəsi və ya köhnə tarix",
+   "Tərcümə qüsurlu, mürəkkəb cümlələr",
+   "FİN kod, şəxsiyyət vəsiqəsi nömrəsi, şəxsi telefonlar"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Düzləndirmə\" nədir?",
+  "options": [
+   "Qızıl örtüklü bürünc kontaktlar",
+   "Çevik plastik",
+   "Konnektoru şəbəkə kartının və ya Switch-in yuvasına bərkidir və kabelin öz-özünə çıxmasının qarşısını alır.",
+   "Tam paralel vəziyyət"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkənin aktiv avadanlıqları — Ruter, Switch, Access Point\" mövzusuna aiddir?",
+  "options": [
+   "Antistatik Təbii Fırçalar (ESD Brushes)",
+   "Albom (Landscape / Üfüqi)",
+   "With Previous",
+   "Console / Aux"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"MBR (Master Boot Record) formatı; maksimal disk həcmi 2.2 TB, maksimum 4 əsas bölmə.\"",
+  "options": [
+   "Secure Boot",
+   "İnterfeys və İdarəetmə",
+   "Disk Həcmi və Bölmə Formatı",
+   "Main"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin arxitekturası, fərdi kompüterlərin təsnifatı və sistem blokunun daxili elementləri\" mövzusuna aiddir?",
+  "options": [
+   "Operativ Yaddaş (RAM — Random Access Memory)",
+   "Main",
+   "Process (Mərhələli Proses)",
+   "Bit Dərəcəsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Eyni anda 2 və ya daha çox müxtəlif şərtin hamısını ödəyən sətirləri sayır:.\"",
+  "options": [
+   "COUNTIFS (Çoxşərtli Sayma)",
+   "#N/A",
+   "=B2 * C2 (C2 mətndir → #VALUE!)",
+   "SUMIFS"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Açıq şəbəkələrdə məlumat sızması\"",
+  "options": [
+   "Casus Proqramlar (Spyware) və Keylogger-lər",
+   "Quick Scan",
+   "Karantin Mexanizmi",
+   "İctimai Wi-Fi Şəbəkələrindən Qorunma"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Yeni Vərəqin Əlavəsi\" nədir?",
+  "options": [
+   "Xana seçilir və yeni mətn yazılır (köhnə yazı tam silinir).",
+   "Vərəqin etiketi üzərində iki dəfə klikləyərək və ya sağ klik → «Rename» seçərək məzmununa uyğun ad verilir (məs: «Yanvar_2026»).",
+   "Sağ klik → Hide",
+   "Vərəq panellərinin yanındakı «+» işarəsinə klikləməklə və ya Shift + F11 qısayolu ilə yeni səhifə açılır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Vahid Mənbə Prinsipi (Single Source of Truth)\" nədir?",
+  "options": [
+   "Eyni anda işləyən digər istifadəçilərin hansı xanada olduğunu göstərir.",
+   "Sənəd yalnız bulud serverində tək nüsxə olaraq saxlanılır; bütün istifadəçilər birbaşa həmin mərkəzi fayla bağlanır.",
+   "Hər bir iştirakçının etdiyi dəyişiklik, sildiyi və ya əlavə etdiyi söz fərdi rənglə və adla qeyd olunur.",
+   "Hər simvol daxil edildikdə dəyişikliklər saniyələr içində bulud bazasına yazılır."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çox yüksək\"",
+  "options": [
+   "Mərkəzi Nəzarət",
+   "Ulduz (Star Topologiyası)",
+   "Kolliziya (Toqquşma) Riski",
+   "İşçi Stansiya"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əlifba üzrə azalan sıra ilə (Z-dən A-ya).\"",
+  "options": [
+   "Ədəd Süzgəcləri (Number Filters)",
+   "Süzgəci təmizləmək",
+   "Sort Z to A",
+   "Axtar və Əvəzlə (Replace — Ctrl + H)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şübhəli fakt fərqli formada, tamamilə neytral tonda yenidən soruşulmalı və ya modeldən «Təqdim etdiyin rəqəmləri addım-addım əsaslandır və mənbəyini göstər» tələb edilməlidir.\"",
+  "options": [
+   "«Zero-Shot» və Təkrar Sorğulama Sınağı",
+   "İnsan Nəzarəti (Human-in-the-Loop)",
+   "Məhdudiyyət Qoyun",
+   "Faktiki Dəqiqlik"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin POST ilkin test mərhələsi və funksiyası\" mövzusuna aiddir?",
+  "options": [
+   "Mənbə İstinadlarının Düzgün Göstərilməsi",
+   "Mərhələ 2",
+   "Konnektora İtələmə",
+   "Spooler Xidmətinin Yoxlanılması"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Müddət (Duration)\" nədir?",
+  "options": [
+   "3D fırlanmalar, sındırmalar və parlaq vizual dəyişikliklər.",
+   "Aktivləşdirilir",
+   "Keçid animasiyasının icra olunma vaxtıdır (saniyə ilə ölçülür).",
+   "Yalnız «After: 00:08.00»"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Displeylərin yaydığı qısa dalğalı mavi spektr gözün torlu qişasına mənfi təsir edir və melatonin ifrazını zəiflədir. Mavi rəng filtri təsviri daha isti tonlara keçirərək göz…\"",
+  "options": [
+   "TN (+Film)",
+   "Göy İşıq Filtri (Low Blue Light / Night Light)",
+   "Mat (Anti-Glare) Örtük",
+   "Kontrast Nisbəti"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəbəkə kabellərinin yoxlanılması üsulları\" mövzusuna aiddir?",
+  "options": [
+   ".DOCX (Microsoft Word Document)",
+   "Mərhələ 4",
+   "Məsafəvi Blok (Remote Receiver)",
+   "Sadədən Mürəkkəbə Doğru Prinsipi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"BIOS/UEFI interfeysi, menyuları və operator üçün lazımi tənzimləmələr\" mövzusuna aiddir?",
+  "options": [
+   "Endirmənin Bloklanması (Block Download)",
+   "Top and Double Bottom Border (Üst Tək, Alt İkiqat Sərhəd)",
+   "İşə Düşmə Sürəti",
+   "Bildirişlər"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xarici / Portativ\"",
+  "options": [
+   "«Copy / Paste» Əməliyyatına Üstünlük Verilməsi",
+   "USB Flash / SD Kart",
+   "Dözümlülük və Təhlükəsizlik",
+   "Sürət və Səs"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin resursları və Tapşırıq menecerinin (Task Manager) təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "Formatlaşdırma və Üslub Tənzimləməsi",
+   "1. İlkin Tədqiqat",
+   "1-ci Addım",
+   "Rol (Persona / Context)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Mətn və Rəsmi Sənədlər\" nədir?",
+  "options": [
+   ".docx (MS Word), .pdf (Rəsmi oxu/çap sənədləri), .txt (Sadə mətn), .rtf (Zəngin mətn).",
+   "daimi yaddaş daşıyıcısında saxlanılan, müəyyən ad və genişlənməyə malik olan, vahid tamlıq təşkil edən baytlar ardıcıllığıdır. Faylın adı iki…",
+   "Muqavileler",
+   "Hər bir faylın ölçüsü, yaradılma və dəyişdirilmə tarixi, müəllifi və giriş icazələri haqqında məlumatları (metadata) idarə edir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İdarəetmə panelinin (Control Panel / Settings) imkanları və funksiyaları\" mövzusuna aiddir?",
+  "options": [
+   "Cədvəlin Bölünməsi (Split Table — Ctrl + Shift + Enter)",
+   "Gecə İşığı Rejimi (Night Light)",
+   "WPA (Wi-Fi Protected Access)",
+   "Genişləndirmə (Extend)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"UTP kabelinin quruluşu və RJ-45 konnektoru\" mövzusuna aiddir?",
+  "options": [
+   "Əl Skaneri / Mobil",
+   "Qızıl Suyuna Çəkilmiş Bıçaq-Kontaktlar (Gold-plated Pins)",
+   "Qida Bloku (PSU — Power Supply Unit)",
+   "Faktiki Nəticə"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Switch → Router\" nədir?",
+  "options": [
+   "Qoşulmuş kabelin düz və ya çarpaz olmasından asılı olmayaraq, cihazın portu daxildəki ötürücü və qəbuledici kontaktların yerini mikroprosessor…",
+   "Müxtəlif funksiyalı (.",
+   "Pin 1 (Ağ-Narıncı)",
+   "Fərqli qurğular"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Siqnal Təhrifləri (CRC Xətaları)\" nədir?",
+  "options": [
+   "Radiatora yaxınlıqdan qaynaqlanan termik genişlənmə",
+   "İynə kontaktların (Front Panel) boşalması",
+   "SATA şleyflərindəki zəif kontakt informasiya paketlərinin itməsinə və diskin fasiləsiz təkrar sorğular göndərərək sistemi dondurmasına yol açır.",
+   "Mexaniki Vibrasiya və Tərpətmə Testi (Stress/Wiggle Test):."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bu iki blok bir-birindən ayrılaraq müxtəlif otaqlarda və ya fərqli mərtəbələrdə yerləşən rozetka ilə kommutator arasındakı uzun xətləri məsafədən rahat test etməyə imkan verir.\"",
+  "options": [
+   "Sökülə bilən dizayn",
+   "ON (Normal)",
+   "Bölünmüş Cütlük (Split Pair)",
+   "S (Slow)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Printerin kompüterə qoşulması və test çapının həyata keçirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "Greater Than",
+   "Parolun dəyişmə müddəti",
+   "APFS (Apple FS)",
+   "Simsiz Şəbəkə Qoşulması (Wi-Fi / Wi-Fi Direct)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Insert Above / Below\" nədir?",
+  "options": [
+   "Cari xananın yuxarısına və ya aşağısına yeni sətir artırır.",
+   "Başlıq sətrini vizual vurğulayır",
+   "Seçilmiş bir neçə qonşu xananı vahid geniş xanaya çevirir (məsələn, bir neçə alt sütunun üzərində tək ümumi başlıq yaratmaq üçün).",
+   "Qələm aləti vasitəsilə mürəkkəb formalı xanalar sərbəst əllə çəkilir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sənədin yaradıldığı proqramdan, əməliyyat sistemindən və ya istifadə olunan cihazdan asılı olmayaraq dizaynı, şriftləri və strukturunu sabit saxlayan formatdır. Redaktə olunması…\"",
+  "options": [
+   "Səs (Audio)",
+   "Video",
+   ".DOCX (Microsoft Word Document)",
+   ".PDF (Portable Document Format)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəxsi məlumatların qorunması, məxfilik parametrləri və təhlükəsiz saxlama\" mövzusuna aiddir?",
+  "options": [
+   "Ümumi Şəxsi Məlumatlar",
+   "CPU Soketi (Socket)",
+   "Formatlaşdırma və Üslub Tənzimləməsi",
+   "Kompüter Virusu (Virus)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün sənədi çap edir.\"",
+  "options": [
+   "Print All Pages",
+   "Collate",
+   "Update page numbers only",
+   "Uncollated (Dəstələnməmiş — 1,1,1 - 2,2,2)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İstifadəçinin NTFS və ya Share hüququ yoxdur\"",
+  "options": [
+   "«Reconnect at sign-in» (Sistemə daxil olduqda yenidən qoş)",
+   "Access is Denied",
+   "Reconnect at sign-in",
+   "Credentials Required"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Slaydlararası keçid effektləri və zamanlama\" mövzusuna aiddir?",
+  "options": [
+   "Ana Plata (Motherboard)",
+   "Tövsiyə olunan standart",
+   "UNC (Universal Naming Convention) Ünvan Formatı",
+   "Text that Contains"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"CONCAT / CONCATENATE\" nədir?",
+  "options": [
+   "Mətnin ən sonundan (sağından) başlayaraq simvolları götürür:.",
+   "Mətnin ən solundan başlayaraq tələb olunan sayda simvolu kəsib götürür:.",
+   "=CONCAT(mətn1; mətn2; ...)",
+   "AZ9941234567"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   "Əməliyyat Sisteminin Açılışı",
+   ".SVG",
+   "Məlumatların Təsnifatı və Sintezi",
+   "Yalnız Baxış (Viewer / Read-only)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Xarici SSD / Sürətli Fleşkart\" nədir?",
+  "options": [
+   "USB Type-A/B, USB Type-C, Thunderbolt",
+   "Standart 220V IEC C13 kabeli, Noutbuk adapter kabelləri",
+   "USB 3.2 (Göy / Qırmızı / Type-C)",
+   "4K 60-120 Hz/8K"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Böyük həcmlərdə (4–16 TB) daha ucuz\"",
+  "options": [
+   "Qiymət / Tutum Nisbəti",
+   "Zərbəyə Davamlılıq",
+   "exFAT (Extended FAT)",
+   "HDD (Sərt Disk)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Avtomatlaşdırma alətləri, üslublar və çapa hazırlıq\" mövzusuna aiddir?",
+  "options": [
+   "Vərəq Təmizliyi",
+   "Square (Kvadrat)",
+   "Heading 1 (Başlıq 1)",
+   "Switch Paneli"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"İş Mexanizmi\" nədir?",
+  "options": [
+   "Reference Error (Ünvan itkisi)",
+   "C100; \"Bakı\") → Şəhəri «Bakı» olan qeydlərin sayını tapır.",
+   "Value Error (Dəyər xətası)",
+   "Əgər daxildəki əsas düstur normal hesablanırsa, onun faktiki nəticəsi çıxır; əgər hər hansı səbəbdən sistem xətası yaranarsa, xəta kodu əvəzinə…"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiyanın təqdimetmə formaları və fayl formatlarının müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   ".JPG / .JPEG",
+   "Video Çarx Formatında Çıxarış («Create a Video»)",
+   "AutoFit to Window",
+   "Akademik / Təhsil"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Koaksial Kabel (Coaxial Cable)\" nədir?",
+  "options": [
+   "Sənaye müəssisələri, server otaqları və bina xarici xətlər (torpaqlama tələb edir).",
+   "Yüksək gərginlikli elektrik xətlərinin, transformatorların və mühərriklərin yaratdığı güclü elektromaqnit maneələrdən siqnalı tam qoruyur.",
+   "Mərkəzi tək qalın mis damar, dielektrik qat, xarici metal hörük (ekran) və xarici qoruyucu qat.",
+   "İşıq şüasını daxili əks olunma ilə ötürən ultra-nazik şüşə və ya plastik liflər."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərtli cəmləmə, sayma və xətaların idarəsi\" mövzusuna aiddir?",
+  "options": [
+   "Mərhələ 3",
+   "Process",
+   "COUNTIFS",
+   "Konnektora İtələmə"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Top 10%\" nədir?",
+  "options": [
+   "Sütunun ümumi ədədi ortasından yuxarı və ya aşağı olan xanaları vizuallaşdırır.",
+   "Təqdim olunan qrafikin məzmununu bildirir.",
+   "Diaqramı cari vərəqin daxilində saxlamaq və ya ayrıca müstəqil böyük vərəqə («New sheet») çıxarmaq üçün istifadə olunur.",
+   "Ən yüksək 10%"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xana daxilində yazarkən adi Enter basıldıqda kursor aşağı xanaya düşür. Tək bir xananın daxilində mətni alt sətrə keçirmək üçün.\"",
+  "options": [
+   "Tamamilə Üzərinə Yazmaq",
+   "Etiket Rənginin Dəyişdirilməsi (Tab Color)",
+   "Xana daxili alt sətir",
+   "Tək Xana Daxilində Yeni Sətirə Keçid (Mətn Daşıma — Alt + Enter)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Seçilmiş bir neçə qonşu xananı vahid geniş xanaya çevirir (məsələn, bir neçə alt sütunun üzərində tək ümumi başlıq yaratmaq üçün).\"",
+  "options": [
+   "Sətir / Sütun Silmək",
+   "Sətir Əlavə Etmək",
+   "Xana Daxili Düzləndirmə (Alignment)",
+   "Xanaların Birləşdirilməsi (Merge Cells)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şrift və abzas formatlaşdırılması standartları\" mövzusuna aiddir?",
+  "options": [
+   "Font Color",
+   "List (Siyahı)",
+   "Sort Z to A",
+   "Termal Kamera / Toxunuş"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Siyahılar, kolontitullar və naviqasiya\" mövzusuna aiddir?",
+  "options": [
+   "Yuxarı Sərlövhə (Header)",
+   "Açıq Ensiklopediyalar",
+   "Mövzu Temasının Tərkibi",
+   "Preferred Languages"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Mat (Anti-Glare) Örtük\" nədir?",
+  "options": [
+   "Twisted Nematic (Kristallar spiralvari burulur).",
+   "In-Plane Switching (Kristallar ekrana paralel müstəvidə fırlanır).",
+   "Organic Light Emitting Diode (Hər bir piksel fərdi şəkildə işıqlanır).",
+   "Parlaq (Glossy) ekranlardan fərqli olaraq otaq lampalarının və günəş şüalarının ekranda güzgü kimi əks olunmasının qarşısını alır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Sürətli Skan (Quick Scan)\" nədir?",
+  "options": [
+   "Proqramların quraşdırılması və ya sənədlərin redaktəsi zamanı C:\\Users\\AppData\\Local\\Temp qovluğunda qalan zibil qalıqlardır.",
+   "Win + R → %temp%",
+   "Əməliyyat sisteminin ən həssas zonalarını — RAM yaddaşı, avtoyükləmə sektorlarını və Windows sistem qovluqlarını bir neçə dəqiqəyə yoxlayır.",
+   "Brauzerdə fasiləsiz reklam pəncərələri açır, standart axtarış sistemini icazəsiz dəyişir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Prosessorun həddindən artıq qızması (Overheating / Termo-mühafizə rejiminin işə düşməsi).\"",
+  "options": [
+   "Kompüter açılarkən «No Bootable Device Found» yazılır.",
+   "Gözlə, Qulaq As və Toxun (Duyğu Analizi)",
+   "Sistem bir neçə dəqiqə işlədikdən sonra qəfil sönür.",
+   "Aparat Nasazlıqları (Hardware Faults)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"2 tonlu yumşaq keçid\"",
+  "options": [
+   "Slide Size (Slayd Ölçüsü)",
+   "Themes (Temalar)",
+   "Slayd Miniatürləri Paneli (Slide Thumbnails Pane)",
+   "Gradient Fill"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Proqram Nasazlıqları (Software Faults)\" nədir?",
+  "options": [
+   "Əməliyyat sistemi açılmır, tətbiqlər donur, göy ekran (BSOD) xətaları çıxır.",
+   "Diaqnostika həmişə ən sadə və xarici elementlərdən (220V güc kabeli, uzadıcının açarı, monitorun kabeli, USB portlar) başlayır. Yalnız xarici amillər…",
+   "Sistem işə düşmür, POST səs siqnalları verir, qəfil sönür, yanıq qoxusu gəlir.",
+   "Şəbəkə kabellərini, rozetkanı və açarları yoxlamaq"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bütün faylları cari qovluğun daxilinə çıxarır.\"",
+  "options": [
+   "Extract Here",
+   ".zip (Universal / WinZip)",
+   "Çoxcildli Arxivlərin Yaradılması (Split to volumes)",
+   ".rar (WinRAR)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Bəndlər ərəb rəqəmləri (1,2,3), rum rəqəmləri (I,II,III) və ya hərflərlə (a,b,c) sıralanır.\"",
+  "options": [
+   "Çoxsəviyyəli Siyahılar (Multilevel Lists)",
+   "Pages (Səhifələr Üzrə Baxış)",
+   "Nömrələnmiş Siyahılar (Numbering Lists)",
+   "Aşağı Sərlövhə (Footer)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Baza statistik və riyazi funksiyalar kompleksi\" mövzusuna aiddir?",
+  "options": [
+   "Videokart (GPU — Graphics Processing Unit)",
+   "Qrammatika",
+   "Yazma (Write)",
+   "11"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"İqtisadi cəhətdən ən ucuz\"",
+  "options": [
+   "Qiymət Göstəricisi",
+   "Cat 5e (Category 5 Enhanced)",
+   "Çox-modlu (Multi-Mode Fiber — MMF)",
+   "Multi-Mode (MMF)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Obyekt animasiyaları və dinamik effektlər\" mövzusuna aiddir?",
+  "options": [
+   "Kompüter Virusu (Virus)",
+   "İtkisiz Sıxılma (Lossless Compression)",
+   "SmartArt Sxemi",
+   "Əsas Monitor"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənədlərdə qrafik obyektlər və vizual elementlər\" mövzusuna aiddir?",
+  "options": [
+   "Mərhələ 2",
+   "Hierarchy",
+   "IF + OR",
+   "Addım 1"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Shift + F5\"",
+  "options": [
+   "Title and Content (Başlıq və Məzmun)",
+   "Kontrast Qaydası",
+   "Gradient Fill (Qradiyent Doldurma)",
+   "Nümayişi cari slayddan başlatmaq"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellekt alətlərinin imkanları, məlumatların əldə edilməsi və mətn layihələrinin hazırlanması\" mövzusuna aiddir?",
+  "options": [
+   "Mərhələ 5",
+   "Yekun və İcra Nəzarəti",
+   "Mətni Sarıtmaq (Wrap Text)",
+   ".AVI və .MKV"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Prosessorun İdarə Edilməsi (CPU Scheduling)\" nədir?",
+  "options": [
+   "Açıq Mənbə (GPL - Əksəriyyəti Pulsuz)",
+   "Müxtəlif proqramların prosessor vaxtını (zaman kvantlarını) növbəliliklə bölüşdürür.",
+   "Eyni anda yalnız bir nəfərin işləməsinə icazə verir (məsələn: köhnə MS-DOS).",
+   "Biristifadəçili / Çoxistifadəçili"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İdarəetmə panelinin (Control Panel / Settings) imkanları və funksiyaları\" mövzusuna aiddir?",
+  "options": [
+   "Mərhələ 2",
+   "Section Break (Next Page)",
+   "Preferred Languages",
+   "Rəqəmsal Multimetr"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Multi-Mode (MMF)\" nədir?",
+  "options": [
+   "50/62.5 µm",
+   "Ən populyar baza standartıdır; 100 MHz tezlikdə 100 metr məsafədə 1 Gbit/s.",
+   "İşıq şüasını daxili əks olunma ilə ötürən ultra-nazik şüşə və ya plastik liflər.",
+   "500-600 MHz tezlikdə tam 100 metr məsafədə 10 Gbit/s sabit sürət verir; güclü ekranlama qatına malikdir."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellekt nəticələrinin etibarlılığı\" mövzusuna aiddir?",
+  "options": [
+   "M.2 NVMe SSD",
+   "Struktur Kabel",
+   "«Zero-Shot» və Təkrar Sorğulama Sınağı",
+   "Axtar və Əvəz Et (Find & Replace — Ctrl + H)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Page Break (Ctrl + Enter)\" nədir?",
+  "options": [
+   "Asimmetrik (biri dar, digəri enli)",
+   "1.0 – 1.5 sm",
+   "Mətni yeni səhifənin əvvəlinə atır",
+   "Mətni növbəti qəzet sütununa keçirir"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Çox yüksək məlumat ötürmə sürəti təmin edir, kənar maneələrə qarşı dayanıqlıdır, lakin divar və maneələrdən keçmə məsafəsi daha qısadır.\"",
+  "options": [
+   "5 GHz Tezliyi",
+   "Proqram və Verilənlərin Paylaşılması",
+   "MAN",
+   "Təhlükəsizlik"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Nömrələnməni yenidən 1-dən başladır.\"",
+  "options": [
+   "Header",
+   "Yuxarı səviyyəyə qayıdış",
+   "Restart at 1",
+   "Pages"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Aşağı / Orta (~150 MB/s)\"",
+  "options": [
+   "Oxuma/Yazma Sürəti",
+   "USB Flash / SD Kart",
+   "«Copy / Paste» Əməliyyatına Üstünlük Verilməsi",
+   "Qiymət / Tutum Nisbəti"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şəxsi məlumatların qorunması, məxfilik parametrləri və təhlükəsiz saxlama\" mövzusuna aiddir?",
+  "options": [
+   "Kəsim Uzunluğu",
+   "İctimai Kompüterlərdə «İncognito / InPrivate» Rejimi",
+   "Sadədən Mürəkkəbə Doğru Prinsipi",
+   "5. Daşıyıcı testi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sistem blokunun sökülməsi, daxili qurğuların tanınması, yenidən yığılması və iş qabiliyyətinin yoxlanılması\" mövzusuna aiddir?",
+  "options": [
+   "Network (Şəbəkə)",
+   "Endirmənin Bloklanması (Block Download)",
+   "Operativ Yaddaş (RAM)",
+   "Mərhələ 3"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Siyahılar, kolontitullar və naviqasiya\" mövzusuna aiddir?",
+  "options": [
+   "Nömrələnmiş Siyahılar (Numbering Lists)",
+   "Underline (Altıxətli — Ctrl + U)",
+   "PROPER (BAŞ HƏRF BÖYÜK)",
+   "Dinamik IP (DHCP — Dynamic Host Configuration Protocol)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Cədvəl məlumatlarının nizamlanması və süzgəclənməsi\" mövzusuna aiddir?",
+  "options": [
+   "Metod 2",
+   "Print All Pages",
+   "Solid Fill",
+   "Go To Special"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətndəki artıq boşluqları (·), yersiz Enter basılmalarını (¶) və lazımsız tabulyasiya addımlarını aşkarlamaq üçün istifadə olunur.\"",
+  "options": [
+   "Daxil etmə",
+   "Heading 1 (Başlıq 1)",
+   "Çap olunmayan Gizli Simvolların Yoxlanması (Ctrl + Shift + 8 və ya ¶)",
+   "Pages per Sheet"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüterin resursları və Tapşırıq menecerinin (Task Manager) təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "References (İstinadlar)",
+   "Alt Qovluqlar (Subdirectories)",
+   "App history (Tətbiq tarixçəsi)",
+   "Təbii Dil Emalı (NLP)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Ekran İcazəsi (Display Resolution)\" nədir?",
+  "options": [
+   "«Date & Time» menyusunda «Set time automatically» aktivləşdirilir və «Sync now» düyməsi sıxılaraq vaxt internet vaxt serveri (time.windows.com) ilə…",
+   "Win + R → control əmri",
+   "Monitorun fiziki matrisasına uyğun olan «Tövsiyə olunan / Recommended» icazə (məsələn: 1920×1080 Full HD) seçilməlidir. Yanlış icazə şriftlərin…",
+   "Yüksək icazəli (2K/4K) kiçik diaqonallı ekranlarda mətnlərin və nişanların oxunmasını asanlaşdırmaq üçün miqyas 100%-dən 125% və ya 150%-ə qaldırılır."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Mərhələ 1\" nədir?",
+  "options": [
+   "Fiziki Quraşdırma və İlkin Hazırlıq:.",
+   "Əgər sənədlər çapa getmirsə, Windows xidmətlərində «Print Spooler» (Çap Dispetçeri) xidməti tapılmalı və yenidən başladılmalıdır («Restart»).",
+   "Kağızın arxasında və ya kənarlarında toner ləkələri, qara zolaqlar və ya mexaniki qırışlar müşahidə edilməməlidir.",
+   "Kartricin qoruyucu lenti çıxarılmayıb və ya toner tam bitib"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xarici / Daşıyıcı\"",
+  "options": [
+   "NTFS (New Technology File System)",
+   "SATA SSD",
+   "Mexaniki Quruluş",
+   "NVMe M.2 SSD"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Yaddaşın genişlənməsi\" nədir?",
+  "options": [
+   "Cihaz itərsə və ya yanarsa, məlumat həmişəlik məhv olur.",
+   "Sənədi aça və oxuya bilər. Heç bir hərfi dəyişə və ya silə bilməz. (İstəyə bağlı endirmə də bloklanır).",
+   "Əsas mətnə toxuna bilməz, lakin cümlələri işarələyərək kənarda rəy və düzəliş təklifləri (Suggestion) yaza bilər.",
+   "Yeni fiziki sərt disk (HDD/SSD) alınmalı və quraşdırılmalıdır."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Çıxış qurğularının növləri və istifadə xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Göndərən Ünvanı",
+   "Printer (Çap qurğusu)",
+   "Parol İfadəsi (Passphrase)",
+   "Praktiki Nəticəsi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sadə və mürəkkəb şərtli hesablamalar\" mövzusuna aiddir?",
+  "options": [
+   "Custom (Xüsusi)",
+   "Xüsusi Kateqoriyalı (Həssas) Məlumatlar",
+   "Underline (Altıxətli — Ctrl + U)",
+   "Dəyər Əgər Doğrudursa (Value if True)"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ad, soyad, ata adı, doğum tarixi, iş yeri və xidməti vəzifəsi.\"",
+  "options": [
+   "Maliyyə və Hesablaşma Məlumatları",
+   "Ümumi Şəxsi Məlumatlar",
+   "Kukilər (Cookies) və İzləmə",
+   "İctimai Kompüterlərdə «İncognito / InPrivate» Rejimi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Hər bir bəndin qarşısına nöqtə, kvadrat, ox və ya xüsusi qrafik marker qoyulur.\"",
+  "options": [
+   "Results",
+   "Çoxsəviyyəli Siyahılar (Multilevel Lists)",
+   "Maddəli Siyahılar (Bulleted Lists)",
+   "Results (Axtarış Nəticələri)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yalnız rəqəmsal imzalı əməliyyat sistemi yükləyicilərinin işə düşməsinə icazə verir.\"",
+  "options": [
+   "Virtualization Technology (Intel VT-x / AMD-V)",
+   "Zavod Parametrlərinin Bərpası (Load Optimized Defaults)",
+   "Secure Boot",
+   "Main"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Xarici Kabellərin Ayrılması və Yan Qapağın Açılması:.\"",
+  "options": [
+   "Kulerlərin fırlanması",
+   "Fasiləsiz və ya uzun siqnallar",
+   "Daxili Speaker səsi",
+   "Mərhələ 1"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"SSD, HDD, NVMe disklər\"",
+  "options": [
+   "5. Daşıyıcı testi",
+   "Debug LED Kodları",
+   "Mərhələ 4",
+   "Mərhələ 2"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Pin 6 (Yaşıl)\"",
+  "options": [
+   "Pin 6 (Narıncı)",
+   "Router → Router",
+   "Pin 2 (Yaşıl)",
+   "Daxili Keçid Mexanizmi"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Konnektora Oturtma\" nədir?",
+  "options": [
+   "Kəlbətinin tutacaqları son həddə qədər bərk sıxılır və buraxılır.",
+   "8 bıçağı naqil damarlarına batırır",
+   "Konnektor şəffaf üzü yuxarı tutulur, naqillər daxili kanallara daxil edilir və tam dirənənə qədər irəli itələnir. Konnektorun ön ucundan baxılaraq…",
+   "Kəlbətin sıxıldıqda alətin metal dişləri konnektorun 8 qızıl kontakt bıçağını aşağı itələyir; bıçaqlar naqillərin izolyasiyasını yararaq mis…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Multimedia, interaktivlik və nümayiş rejimləri\" mövzusuna aiddir?",
+  "options": [
+   "Web Link",
+   "MID (ORTADAN)",
+   "Mavi",
+   "Mürəkkəb Parol Standartı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Üfüqi Düzləndirmə (Horizontal Alignment)\" nədir?",
+  "options": [
+   "Əgər ədədi və ya tarix tipli xana sütun enindən böyük olarsa, xanada ##### simvolları görünür. Bu nasazlıq proqram səhvi deyil; sütun xəttinə iki…",
+   "Mətni sola («Align Left»), mərkəzə («Center») və ya sağa («Align Right») yerləşdirir.",
+   "Mətni xananın həm şaquli, həm üfüqi tam mərkəzinə qoyur.",
+   "Borders → Bottom Double"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Şəbəkə Rekvizitləri\" nədir?",
+  "options": [
+   "IP ünvanları, sistem şifrələri, server loqları",
+   "Vətəndaşların və ya işçilərin şəxsiyyət vəsiqəsi seriya və FİN kodları, yaşayış ünvanları, tibbi arayışları və bank kartı rekvizitləri süni intellekt…",
+   "Üslub və Dil Normalarının Uyğunlaşdırılması:.",
+   "AI tərəfindən yazılmış sənədin son məsuliyyətinin insana aid olduğunu bilmək."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Processes (Proseslər)\" nədir?",
+  "options": [
+   "Hesablama əməliyyatlarını icra edən mərkəzi nüvələr.",
+   "«Processes» bölməsində statusu «Not Responding» olan və ya CPU/RAM göstəricisi həddindən artıq yüksək olan tətbiq seçilir.",
+   "Aktiv tətbiqlərin və arxa fon xidmətlərinin siyahısını və onların CPU, RAM, Disk sərfiyyatını göstərir.",
+   "Sistemə daxil olmuş hər bir istifadəçi hesabının ayrıca resurs sərfiyyatını əks etdirir."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kompüterin yaddaşındakı lokal təsvir fayllarını (.png, .jpg, .jpeg, .svg) əlavə edir.\"",
+  "options": [
+   "Behind Text (Mətnin arxasında)",
+   "Mətn Daxil Edilməsi",
+   "This Device (Bu cihazdan)",
+   "Picture Styles"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Column Chart\" nədir?",
+  "options": [
+   "İllik/aylıq gəlir və satış müqayisəsi",
+   "Picture Format → Remove Background",
+   "Budaqlanan ağac sxemi",
+   "4 kvadranlı bazar analizi və ya iyerarxik prioritetlər pilləsi."
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Kompüterin əsas «beyni» hesab olunur. Bütün məntiqi, arifmetik əməliyyatları icra edir və digər qurğuların işini idarə edir. Prosessorun performansı onun takt tezliyi (GHz),…\"",
+  "options": [
+   "Mərkəzi Prosessor (CPU — Central Processing Unit)",
+   "Videokart (GPU — Graphics Processing Unit)",
+   "Noutbuk (Laptop)",
+   "Ana Plata (Motherboard)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərtli cəmləmə, sayma və xətaların idarəsi\" mövzusuna aiddir?",
+  "options": [
+   "HDMI (High-Definition Multimedia Interface)",
+   "Strukturlaşdırma",
+   "=A2 / B2 (B2 boşdur → #DIV/0!)",
+   "Users (İstifadəçilər)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Giriş qurğularının növləri və təyinatı\" mövzusuna aiddir?",
+  "options": [
+   "Tam Sıxılma",
+   "Qrafik Planşet (Digitizer)",
+   "Şəbəkə Kartlı (LAN) Printer",
+   "Birtapşırıqlı (Single-tasking)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Birbaşa (Ünvanlı) axtarış\" nədir?",
+  "options": [
+   ".edu, .edu.az, .academy",
+   "Açar sözlər və məntiqi ifadələr axtarış mühərriklərinə (Google, Bing və s.) daxil edilərək nəticələr süzgəcdən keçirilir.",
+   "Sənəd axtarışı zamanı .docx və ya .pdf adı altında təqdim olunan, lakin uzantısı .exe, .scr, .bat və ya .vbs olan icra faylları qətiyyən…",
+   "Mənbənin dəqiq URL ünvanı (məsələn: e-qanun.az) birbaşa brauzerin ünvan sətrinə daxil edilir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İstifadəçi hesabları və təhlükəsizlik anlayışı\" mövzusuna aiddir?",
+  "options": [
+   "Optik Skaner (Scanner)",
+   "DisplayPort (DP)",
+   "Mürəkkəb Parol Standartı",
+   "Sürətli Çıxış Paneli (Quick Access Toolbar)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS PowerPoint mühiti, slayd strukturu və interfeysi\" mövzusuna aiddir?",
+  "options": [
+   "Title Slide (Titul / Başlıq Slaydı)",
+   "Different First Page",
+   "Metod 2",
+   "Fayl Assosiasiyalarının Sazlanması (Default Apps)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Artıq düzgün formatlanmış bir abzasın şriftini, rəngini və intervalını seçib fırça aləti ilə başqa mətnlərə eynilə tətbiq edir.\"",
+  "options": [
+   "Format Painter (Formatı Köçür — Ctrl + Shift + C / Ctrl + Shift + V)",
+   "Şriftin Ölçüsü (Font Size — pt)",
+   "Bold (Qalın — Ctrl + B)",
+   "X2 / X2 (Subscript / Superscript)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Headings\" nədir?",
+  "options": [
+   "Insert → Header",
+   "Başlıqlar iyerarxiyası",
+   "Bəndlər ərəb rəqəmləri (1,2,3), rum rəqəmləri (I,II,III) və ya hərflərlə (a,b,c) sıralanır.",
+   "Sənədin bütün vərəqlərini kiçik eskizlər (thumbnails) şəklində göstərir."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən aşağı panel\"",
+  "options": [
+   "Vəziyyət Sətri (Status Bar)",
+   "Xana daxili alt sətir",
+   "Yeni Vərəqin Əlavəsi",
+   "İş Vərəqi (Worksheet)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"«Date & Time» menyusunda «Set time automatically» aktivləşdirilir və «Sync now» düyməsi sıxılaraq vaxt internet vaxt serveri (time.windows.com) ilə sinxronlaşdırılır.\"",
+  "options": [
+   "Regional Format (Regional Format)",
+   "Dəqiq Vaxt Sinxronizasiyası",
+   "Lokal Printerlər",
+   "Orientation (Səmt)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Eynitipli qurğular\"",
+  "options": [
+   "Router → Router",
+   "PC → Switch",
+   "İş Prinsipi",
+   "Daxili Keçid Mexanizmi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Serif (Köbəli/Ayaqlı şriftlər)\" nədir?",
+  "options": [
+   "Çıxıntısız, müasir şriftlərdir (məsələn:.",
+   "Ctrl + Shift + F",
+   "Hərflərin kənarlarında çıxıntılar olur (məsələn:.",
+   "Başlıqları və mühüm terminləri vurğulamaq üçün istifadə olunur."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Pin 2 (Yaşıl)\" nədir?",
+  "options": [
+   "Eynitipli qurğular",
+   "Pin 6 (Yaşıl)",
+   "Fərqli qurğular",
+   "Qoşulmuş kabelin düz və ya çarpaz olmasından asılı olmayaraq, cihazın portu daxildəki ötürücü və qəbuledici kontaktların yerini mikroprosessor…"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Diskin fiziki sektorlarını məntiqi məlumat bloklarına (.\"",
+  "options": [
+   "1-ci Səviyyə (Alt qovluq)",
+   "Qrafik və Vizual Formatlar",
+   "Hidden (Gizli)",
+   "Klasterləşdirmə və Sektor İdarəetməsi"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS Word mühiti, interfeys elementləri və Ribbon lenti\" mövzusuna aiddir?",
+  "options": [
+   "Köçürmə (Copy — Ctrl + C)",
+   "Güclü Parollar",
+   "Xüsusi / Xarici Daşıyıcı Skanı (Custom / Removable Drive Scan)",
+   "Standart Menyu Seçimi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Arxivləşdirmə proqramlarının iş prinsipləri və sıxışdırma alqoritmləri\" mövzusuna aiddir?",
+  "options": [
+   "Review (Nəzərdən keçir)",
+   "İtkisiz Sıxılma (Lossless Compression)",
+   "HWiNFO64",
+   "Startup apps (Avtoyükləmə)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Gizli Paylaşım (Hidden Share)\" nədir?",
+  "options": [
+   "Əsas kompüter həmişə açıq olmalıdır",
+   "Şəbəkə adının sonuna «$» qoymaq (məs: Arxiv$)",
+   "\\\\SERVER\\OrtaqFayllar) formalaşır.",
+   "Söndürülür (Turn OFF)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Şirkət kompüterlərində parolsuz «Guest» (Qonaq) hesabları tamamilə söndürülməlidir.\"",
+  "options": [
+   "Ekranın avtomatik kilidlənməsi",
+   "Ən Az Səlahiyyət Prinsipi (Principle of Least Privilege)",
+   "Qonaq Hesablarının Deaktiv Edilməsi",
+   "Parolun dəyişmə müddəti"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Kompüter kabellərinin növləri, təyinatı və qurğuların portlara düzgün qoşulması qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Konfiqurasiya və sistem loqları",
+   "1-ci Addım",
+   "Əsas Monitor",
+   "Full Control"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Vərəq Vərəqələri (Sheet Tabs)\" nədir?",
+  "options": [
+   "Düstur sətrinin solunda",
+   "İş sahəsinin sol aşağısında",
+   "Delete düyməsi xananın daxilindəki yazını silir, lakin xananın formatını (rəngini, çərçivəsini) saxlayır. Hər şeyi tam silmək üçün «Home → Clear →…",
+   "250.00 ₼, $1,500.00"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"In Line with Text (Mətnlə bir sətirdə)\" nədir?",
+  "options": [
+   "Kənar xətlərin rəngi, qalınlığı (Weight) və tire stili (Dashes).",
+   "Bir neçə müstəqil fiquru vahid tam obyektə çevirir. Bunun üçün Shift və ya Ctrl düyməsi ilə bütün fiqurlar seçilir → sağ klik → «Group». Bu əməliyyat…",
+   "Fiqurun daxili rəngi və ya daxilini tam şəffaf etmək («No Fill»).",
+   "Şəkil adi böyük hərf kimi davranır; mətn sətirləri onun yuxarısından və aşağısından keçir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Əməliyyatın şüurlu icra edildiyini təsdiqləyən «Bəli / Xeyr» pəncərəsi çıxır.\"",
+  "options": [
+   "Həmişə Bildir (Always Notify)",
+   "İş Yerindən Ayrılarkən Ekranın Kilidlənməsi",
+   "Administrator üçün",
+   "Standart İstifadəçi (Standard User)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Tək-modlu (Single-Mode Fiber — SMF)\" nədir?",
+  "options": [
+   "Standart ofis və mənzil daxili LAN xətləri.",
+   "Bir-birinə spiral şəklində bükülmüş 4 cüt (8 ədəd) izolyasiyalı mis naqillər.",
+   "Lifin nüvəsi çox nazikdir (9 mikron). Lazer şüası birbaşa tək trayektoriya ilə yayılır. Onlarla kilometr məsafəyə magistral ötürmə üçün istifadə…",
+   "İşıq şüasını daxili əks olunma ilə ötürən ultra-nazik şüşə və ya plastik liflər."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Slaydlarda mətn və vizual obyekt tərtibatı\" mövzusuna aiddir?",
+  "options": [
+   "AutoFit Column Width",
+   "Process",
+   "Avtomatik Sinxronizasiya",
+   "32-bit (x86)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"250 MHz tezlikdə işləyir; 100 m-də 1 Gbit/s, qısa məsafələrdə (55 metrə qədər) isə 10 Gbit/s sürət ötürür.\"",
+  "options": [
+   "Üstünlükləri",
+   "Cat 6",
+   "Bükülmüş Cütlük (Twisted Pair — UTP/STP)",
+   "Tətbiqi"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Qapalı dairəvi oxlar\"",
+  "options": [
+   "Matrix / Pyramid",
+   "Remove Background",
+   "Cycle",
+   "Group (Ctrl + G)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Monitor (Displey)\" nədir?",
+  "options": [
+   "Müasir vizual çıxış qurğuları.",
+   "Vizual (Ekran)",
+   "1080p (Full HD) / 1440p (2K)",
+   "Audio (Səs dalğası)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Align / Distribute\" nədir?",
+  "options": [
+   "Sağ klik → Group",
+   "4 kvadranlı bazar analizi və ya iyerarxik prioritetlər pilləsi.",
+   "İllik/aylıq gəlir və satış müqayisəsi",
+   "Shape Format → Align"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Monitorların növləri və əsas texniki xüsusiyyətləri\" mövzusuna aiddir?",
+  "options": [
+   "Təhlükəsizlik Mexanizmi",
+   "LEN (UZUNLUQ)",
+   "On Click (Kliklə)",
+   "Mat (Anti-Glare) Örtük"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Sənədlərdə qrafik obyektlər və vizual elementlər\" mövzusuna aiddir?",
+  "options": [
+   "Administrator (İnzibatçı)",
+   "Mətnin Xülasəsi (Summary)",
+   "Crop (Kəsmə)",
+   "Şrift Rəngi (Font Color)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Process (Proses)\" nədir?",
+  "options": [
+   "Təsvir mətnin fonuna keçir (su nişanı effekti yaradır).",
+   "Addım-addım icra olunan ardıcıl mərhələləri (istiqamət oxları ilə) göstərir.",
+   "Kənar xətlərin rəngi, qalınlığı (Weight) və tire stili (Dashes).",
+   "Dairəvi oxlarla bağlı dairələr"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "\"Kommersiya və Xidməti Sirlərin Qorunması\" nədir?",
+  "options": [
+   "IP ünvanları, sistem şifrələri, server loqları",
+   "Tərcümə qüsurlu, mürəkkəb cümlələr",
+   "Şirkətin maliyyə balansları, bağlanmamış müqavilə şərtləri və ya server giriş parolları heç vaxt AI söhbət pəncərəsinə yazılmamalıdır.",
+   "Modelin təqdim etdiyi mətnlərdə ayrı-seçkilik elementlərini müəyyən etmək."
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Əlçatanlıq (Availability)\" nədir?",
+  "options": [
+   "8 simvol, hərf və rəqəm qarışığı (Baki2026)",
+   "Hər 60–90 gündən bir",
+   "3–5 səhv cəhddən sonra",
+   "Səlahiyyətli istifadəçilərin ehtiyac duyduqları anda sistemə maneəsiz girişini təmin edir."
+  ],
+  "correct": 3
+ },
+ {
+  "question": "\"Faktiki Dəqiqlik\" nədir?",
+  "options": [
+   "Sİ yekun qərar qəbul edici deyil; son redaktə, faktiki məsuliyyət və təsdiq həmişə operatorun və sahə mütəxəssisinin üzərində qalmalıdır.",
+   "Qeyri-müəyyən və Yönləndirici Sorğu (Biased Prompting):.",
+   "Rəqəm, tarix və adların 100% düzgünlüyü",
+   "Model mətn daxilində kitab, məqalə və ya internet ünvanı göstəribsə, həmin URL və ya məqalə adı axtarış sistemlərində yoxlanılmalıdır. Əgər belə bir…"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"MS PowerPoint mühiti, slayd strukturu və interfeysi\" mövzusuna aiddir?",
+  "options": [
+   "Slide Size (Slayd Ölçüsü)",
+   "Delete Table",
+   "ipconfig /release",
+   "Bir sözün seçilməsi"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Sistem blokunun 220V güc kabeli rozetkadan çıxarılmalı və qida blokunun arxasındakı düymə (0) vəziyyətinə gətirilməlidir.\"",
+  "options": [
+   "Termopasta Qatı",
+   "Kuler Ventilyatorları",
+   "Planlı Profilaktik Baxış (Preventive Maintenance)",
+   "Elektrik Şəbəkəsindən Tam Ayırma"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Naqillər konnektorda standart rəng sırası ilə düzülməyib.\"",
+  "options": [
+   "Bölünmüş Cütlük (Split Pair)",
+   "Səhv Naqillənmə (Miswire / Çarpazlaşma)",
+   "Əsas Blok (Master Transmitter)",
+   "OFF"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Süni intellektdən təhlükəsiz və etik istifadə, məzmunun redaktə edilməsi qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Təkrarlama (Duplicate)",
+   "Şriftin Ölçüsü (Font Size — pt)",
+   "SATA Məlumat Kabeli Boşluğu",
+   "Müəlliflik və Şəffaflıq"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiya anlayışı, informasiya növləri və ölçü vahidlərinin müqayisəsi\" mövzusuna aiddir?",
+  "options": [
+   "Pages (Səhifələr Üzrə Baxış)",
+   "Addım 1",
+   "E-poçt Üzərindən Fayl Ötürmə Limitləri",
+   "Siqnal Təhrifləri (CRC Xətaları)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mətn sənədi\"",
+  "options": [
+   ".docx",
+   "Fayl",
+   "Hidden (Gizli)",
+   "Səhvlərin Bərpası və Jurnallaşdırma (Journaling)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "\"Ehtiyat Nüsxələmənin «3-2-1» Qaydası\" nədir?",
+  "options": [
+   "Təşkilatın mühüm sənədlərinin qorunması üçün: 3 nüsxə çıxarılmalı, bunlar 2 fərqli fiziki daşıyıcı növündə (məsələn, daxili SSD və xarici HDD)…",
+   "Müasir Windows sistemlərinin əsas formatıdır. 4 GB həcm məhdudiyyəti yoxdur, faylların sıxılması, şifrələnməsi və giriş hüquqlarının (təhlükəsizlik…",
+   "Xarici / Portativ",
+   "Xarici / Daşıyıcı"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Proofing, Language, Comments\"",
+  "options": [
+   "Insert (Əlavə et)",
+   "Yeni Sənədin Açılması",
+   "Köçürmə (Copy — Ctrl + C)",
+   "Review"
+  ],
+  "correct": 3
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Windows-da əsas cihaz seçmək\"",
+  "options": [
+   "1. Kartric quraşdırılması",
+   "4. Standart təyinat",
+   "Növbənin Təmizlənməsi",
+   "Mərhələ 4"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Şərti formatlaşdırma və diaqramlar\" mövzusuna aiddir?",
+  "options": [
+   "Cycle (Dövrü Sxem)",
+   "Text that Contains",
+   "Kəsimin Dəqiqliyi",
+   "Default Printer Təyini"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Printerin kompüterə qoşulması və test çapının həyata keçirilməsi\" mövzusuna aiddir?",
+  "options": [
+   "IaaS (Infrastructure as a Service)",
+   "1. Kartric quraşdırılması",
+   "Tarix",
+   "Antistatik Təbii Fırçalar (ESD Brushes)"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Mənbənin dəqiq URL ünvanı (məsələn: e-qanun.az) birbaşa brauzerin ünvan sətrinə daxil edilir.\"",
+  "options": [
+   "Axtarış sistemləri ilə axtarış",
+   "Birbaşa (Ünvanlı) axtarış",
+   "Akademik / Təhsil",
+   "Şübhəli Yükləmələrdən İmtina"
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"İnformasiyanın qiymətləndirilməsi, saxlanılması və sənədləşdirmədə tətbiqi qaydaları\" mövzusuna aiddir?",
+  "options": [
+   "Sxemlər, akt fotoşəkilləri və skan edilmiş nüsxələr",
+   "Kəsim Uzunluğu",
+   "Sökülə bilən dizayn",
+   "Operativ Yaddaş (RAM — Random Access Memory)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Yüksək icazəli (2K/4K) kiçik diaqonallı ekranlarda mətnlərin və nişanların oxunmasını asanlaşdırmaq üçün miqyas 100%-dən 125% və ya 150%-ə qaldırılır.\"",
+  "options": [
+   "Miqyaslama və Düzülüş (Scale and Layout)",
+   "Scale (Miqyas)",
+   "Settings (Parametrlər)",
+   "Bildirişlər və Fokus Köməkçisi («Focus Assist / Do Not Disturb»)"
+  ],
+  "correct": 0
+ },
+ {
+  "question": "Aşağıdakılardan hansı \"Cədvəllərin qurulması və matris strukturları\" mövzusuna aiddir?",
+  "options": [
+   "Göy Ekran (BSOD) xətası çıxır.",
+   "Maliyyə və Hesablaşma Məlumatları",
+   "Insert Above / Below",
+   "Casus Proqramlar (Spyware / Keylogger)"
+  ],
+  "correct": 2
+ },
+ {
+  "question": "\"Read-only (Yalnız Oxunmaq Üçün)\" nədir?",
+  "options": [
+   ".jpg / .jpeg (Sıxılmış şəkil), .png (Şəffaf fonlu qrafika), .tif / .tiff (Yüksək keyfiyyətli skan sənədləri).",
+   "Faylın təsadüfən dəyişdirilməsini və ya üzərinə yazılmasını bloklayır.",
+   "Microsoft (Windows)",
+   ".exe (Tətbiqi icra faylı), .msi (Quraşdırma paketi), .bat / .ps1 (Sistem skriptləri)."
+  ],
+  "correct": 1
+ },
+ {
+  "question": "Aşağıdakı izah hansı termə aiddir? — \"Ən populyar baza standartıdır; 100 MHz tezlikdə 100 metr məsafədə 1 Gbit/s.\"",
+  "options": [
+   "Multi-Mode (MMF)",
+   "Maneələrə Davamlılıq",
+   "Cat 5e (Category 5 Enhanced)",
+   "Koaksial Kabel (Coaxial Cable)"
+  ],
+  "correct": 2
+ }
 ]
