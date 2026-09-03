@@ -21,6 +21,21 @@ body {
     background-color: var(--bg-color);
     color: var(--text-dark);
     line-height: 1.6;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+/* Sahələrdə mətn yazmaq (seçmək) hələ də mümkün olmalıdır */
+input, textarea {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    user-select: text;
+}
+
+img {
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
 }
 
 .container {
@@ -216,6 +231,17 @@ body {
     font-size: 18px;
     line-height: 1.8;
     margin-bottom: 15px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+/* Кейс: не все таблицы в старом контенте обёрнуты в скролл-контейнер —
+   подстраховываемся на уровне самой таблицы, чтобы телефон не уезжал вбок */
+.content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
 }
 
 kbd {
