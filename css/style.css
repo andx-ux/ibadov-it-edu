@@ -62,14 +62,31 @@ img {
     font-weight: bold;
     color: var(--primary);
 }
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
 .nav-links a {
     text-decoration: none;
     color: var(--text-dark);
-    margin-left: 20px;
     font-weight: 500;
+    padding: 9px 16px;
+    border-radius: 8px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    white-space: nowrap;
 }
 .nav-links a:hover {
+    background-color: #EEF2FF;
     color: var(--primary);
+}
+.nav-links a.active {
+    background-color: var(--primary);
+    color: var(--white);
+}
+.nav-links a.active:hover {
+    background-color: var(--primary-hover);
+    color: var(--white);
 }
 
 .mobile-menu-btn {
@@ -292,9 +309,36 @@ kbd {
     padding: 40px;
 }
 
-.quiz-container .header { 
-    text-align: center; 
-    margin-bottom: 30px; 
+.quiz-container .header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.quiz-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    text-align: left;
+}
+.quiz-header-row h1 {
+    font-size: 26px;
+}
+.btn-finish {
+    flex-shrink: 0;
+    background: none;
+    border: 1px solid #E5E7EB;
+    color: var(--text-light);
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+    white-space: nowrap;
+}
+.btn-finish:hover {
+    background-color: #FEE2E2;
+    border-color: #EF4444;
+    color: #991B1B;
 }
 .progress-bar {
     width: 100%;
@@ -339,7 +383,30 @@ kbd {
 .option.correct { border-color: #10B981; background-color: #D1FAE5; color: #065F46; }
 .option.wrong { border-color: #EF4444; background-color: #FEE2E2; color: #991B1B; }
 
-.result-screen { 
+.quiz-actions {
+    display: flex;
+    gap: 12px;
+}
+.quiz-actions .btn {
+    flex: 1;
+}
+.btn-outline-skip {
+    flex: 1;
+    background: none;
+    border: 2px solid #E5E7EB;
+    color: var(--text-light);
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.btn-outline-skip:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.result-screen {
     text-align: center; 
     display: none; 
 }
@@ -357,11 +424,40 @@ kbd {
     margin: 0 auto 20px auto;
     border: 4px solid var(--primary);
 }
-.feedback { 
-    font-size: 18px; 
-    margin-bottom: 25px; 
-    color: var(--text-light); 
+.feedback {
+    font-size: 18px;
+    margin-bottom: 25px;
+    color: var(--text-light);
 }
+
+.result-stats {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+.stat-item {
+    flex: 1;
+    padding: 14px 8px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+.stat-num {
+    font-size: 24px;
+    font-weight: bold;
+}
+.stat-label {
+    font-size: 12px;
+    color: var(--text-light);
+}
+.stat-correct { background-color: #D1FAE5; }
+.stat-correct .stat-num { color: #065F46; }
+.stat-wrong { background-color: #FEE2E2; }
+.stat-wrong .stat-num { color: #991B1B; }
+.stat-skipped { background-color: #F3F4F6; }
+.stat-skipped .stat-num { color: var(--text-dark); }
 /* =========================================
    4. БЛОК СБОРА КОНТАКТОВ (LEAD GEN)
    ========================================= */
@@ -522,6 +618,7 @@ kbd {
         padding: 14px 25px;
         width: 100%;
         border-bottom: 1px solid #F3F4F6;
+        border-radius: 0;
     }
 
     .hero h1 {
