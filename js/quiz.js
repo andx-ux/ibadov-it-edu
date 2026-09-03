@@ -1,4 +1,4 @@
-const QUESTIONS_PER_QUIZ = 10; // Покажем 10 случайных вопросов из базы
+const QUESTIONS_PER_QUIZ = 50; // Покажем 50 случайных вопросов из базы
 
 // Курс определяется параметром ?course= в ссылке (по умолчанию — Kompüter operatoru)
 const COURSE_TESTS = {
